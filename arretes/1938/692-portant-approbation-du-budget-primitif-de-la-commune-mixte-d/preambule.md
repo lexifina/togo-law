@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 692 portant approbation du budget primitif de la commune mixte de Lomé — Exercice 1939.
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉOND D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 6 novembre 1929 portant institution des communes mixtes au Togo; Vu l'arrêté n° 577 du 20 novembre 1932 déterminant le mode de constitution de fonctionnement, le régime administratif et financier des communes mixtes du Togo, ensemble tous textes le modifiant ou le complétant; Vu l'arrêté n° 578 du 20 novembre 1932 créant la commune mixte de Lomé, ensemble tous textes le modifiant ou le complétant; Vu le procès-verbal des délibérations de la commission municipale de Lomé en date du 17 novembre 1938; Le conseil d'administration entendu dans sa séance du 15 décembre 1938;
+ARRETE :
