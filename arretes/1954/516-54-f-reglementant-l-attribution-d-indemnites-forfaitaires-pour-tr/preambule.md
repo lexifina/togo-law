@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 516-54/F. du 9 juin 1954 réglementant l'attribution d'indemnités forfaitaires pour travaux supplémentaires.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER; OFFICIER DE LA LEGION D'HORSEUR; COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 30 décembre 1912 sur le régime financier des Territoires d'Outre-mer, ensemble les actes modificatifs subséquents; Vu le décret du 2 mars 1910 portant règlement sur la solde et allocations accessoires et les actes modificatifs subséquents; Vu l'arrêté n° 100-51/F. du 3 février 1951 réglementant l'attribution d'indemnités pour heures supplémentaires; Vu la dépêche n° 12.302/Pel-BE. du 22 mars 1954 du Ministre de la France d'Outre-mer; Le conseil privé entendu; Vu l'approbation ministérielle en date du 21 juillet 1954;
+ARRETE :
