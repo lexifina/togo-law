@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 989/MTFP du 23-11-88 — Les agents ci-après désignés, du cadre des fonctionnaires des postes et télécommunications, placés sur leur demande dans la position de disponibilité sans traitement pour études suivant arrêté n° 0008/MTFP du 7 janvier 1988, sont rappelés à l'activité à compter du 1er août 1988 et remis à la disposition du ministre de l'équipement et des postes et télécommunications à compter de la même date :
+- Arouna Amidou, n° mle 019906-L, agent d'expl. des PTT de 1re classe 1er échelon - Pimakime Abalo, n° mle 020291-V, agent d'expl. des PTT de 1re classe, 1er échelon - Samtou Agbessi, n° mle 019925-X, agent d'expl. des PTT de 1re classe, 1er échelon - Zoumavor Kodjo, n° mle 019948-N, agent d'expl. des PTT de 1re classe, 1er échelon.
