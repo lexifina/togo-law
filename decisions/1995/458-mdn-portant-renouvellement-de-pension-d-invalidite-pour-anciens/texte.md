@@ -1,0 +1,3 @@
+# Texte
+Décision n° 458/MDN du 13/11/95. - La pension d'invalidité précédemment attribuée aux ex-militaires des Forces Armées Togolaises ci-après désignés, est renouvelée dans les conditions suivantes, conformément aux dispositions émises par la commission de reforme Pension du Centre de lomé en sa séance du 22 septembre 1995.
+| N° | Nom et Prénoms | Grade | Position | Taux | Pension Accordée | Pension de validité du | au | | --- | --- | --- | --- | --- | --- | --- | --- | | 01 | LAMA Madeba | SGT. | R. D. | 100% | Pen. Déf. | 22.09.95 | | | 02 | NABINE Djoré | 2eCl. | R. D. | 60% | Pen. Déf. | 22.09.95 | | | 02 | ASSILAMENOU Dovi | 1re Cl. | R. D. | 35% | Pen. Déf. | 22.09.95 | |
