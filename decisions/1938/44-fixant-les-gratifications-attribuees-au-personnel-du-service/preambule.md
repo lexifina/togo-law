@@ -1,0 +1,5 @@
+# Préambule
+DECISION No 44 fixant les gratifications attribuées au personnel du service du chemin de fer, afférentes à l'année 1937.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté du 18 mai 1929 rendant applicable au Territoire notamment l'arrêté du Gouverneur Général de l'A. O. F. du 30 décembre 1924 et l'arrêté du 17 janvier 1927 le modifiant, relatifs à l'attribution de gratifications au personnel du cadre commun des chemins de fer de la Fédération; Vu les arrêtés du 4 mars 1930 et du 23 février 1934 complétant l'arrêté du 18 mai 1929 ci-dessus; Vu l'arrêté n° 368 du 10 juillet 1937 modifiant la réglementation des gratifications du personnel en service au chemin de fer; Vu le procès-verbal de la commission prescrite par l'arrêté n° 368 du 10 juillet 1937 ainsi que l'état des gratifications proposées par la dite commission pour l'année 1937;
+DECIDE :
