@@ -1,0 +1,2 @@
+# Texte
+Décision N° 332/MDN du 29/7/96. Conformément aux propositions émises par la Commission de reforme pension du Centre de Lomé en sa séance du 05 juillet 1996, le Médecin-Lieutenant LENGUEMA Wounchida du Régiment de Soutien et d'Appui, stagiaire en France, est reformé sanitaire définitif sans droit à pension d'invalidité. Il est rayé des contrôles des Forces Armées Togolaises pour compter du 05 juillet 1996.
