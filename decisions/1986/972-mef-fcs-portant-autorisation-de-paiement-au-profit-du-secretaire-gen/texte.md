@@ -1,0 +1,4 @@
+# Texte
+Décision n° 972-MEF-FCS du 20-10-86 — Est autorisé le paiement de la somme de six cent cinquante mille (650.000) francs CFA, représentant le crédit m's à la disposition du secrétaire général du comité national de la campagne mondiale de lutte pour l'alimentation en vue de l'organisation de la journée mondiale de l'alimentation le 16 octobre 1986.
+Cette somme sera mandatée et payée exceptionnellement par bon de caisse au nom de M. Poukona Biyenawe, billeteur au secrétariat général du comité national de la campagne mondiale de lutte pour l'alimentation qui est tenu de fournir dans un délai réglementaire de trente (30) jours à l'ordonnateur-délégué du budget général, les pièces justificatives afférentes au paiement de ces dépenses.
+La dépense est imputable sur le budget général, gestion 1986, section 21, chapitre 92, article 00-00, paragraphe 65 et fera l'objet de procédure simplifiée au niveau de l'engagement.
