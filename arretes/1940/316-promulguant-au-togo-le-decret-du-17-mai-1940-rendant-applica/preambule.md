@@ -1,0 +1,5 @@
+# Préambule
+ARRÊTÉ N° 316 promulguant au Togo le décret du 17 mai 1940 rendant applicables dans les territoires relevant du ministère des colonies les dispositions du décret-loi du 9 mars 1940 modifiant l'article 250 du code de justice militaire pour l'armée de terre et l'article 263 du code de justice militaire pour l'armée de mer.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo et au Cameroun; Vu le décret du 17 mai 1940 rendant applicables dans les territoires relevant du ministère des colonies les dispositions du décret-loi du 9 mars 1940 modifiant l'article 250 du code de justice militaire pour l'armée de terre et l'article 263 du code de justice militaire pour l'armée de mer;
+ARRÊTE :
