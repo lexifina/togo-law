@@ -1,0 +1,5 @@
+# Texte
+Arrêté n° 175-INT-SG-DSTCL du 28-11-74 — Sont approuvées les annulations de crédits aux chapitres et articles ci-après du budget primitif de la circonscription de Lama-Kara, exercice 1974 :
+- Chapitre III — Service d'administration régionale (matériel) — - Article 9 — Frais d'élection — 75.000 - Article 10 — Etablissements pénitentiaires — 200.000 - Chapitre V — Dépenses ordinaires de matériel et travaux d'entretien — - Article 6 — Alimentation en électricité — 175.000 - Chapitre VIII — Services sociaux (matériel) — - Article 3 — Dispensaires — 50.000 - Total — 500.000
+Sont approuvées les ouvertures de crédits aux chapitres et articles ci-après du budget primitif de la circonscription de Lama-Kara, exercice 1974 :
+- Chapitre III — Service d'administration régionale (matériel) - Article 2 — Frais de bureau — 125.000 - Article 4 — Moyens de transport — 129.000 - Chapitre IV — Service des travaux régionaux (personnel) — - Article 2 — Traitement du personnel non titulaire — 125.000 - Chapitre V — Dépenses ordinaires de matériel et travaux d'entretien — - Article 1 — Entretien des routes et ponts, etc. — 121.000 - Total — 500.000
