@@ -1,0 +1,6 @@
+# Préambule
+ARRÊTÉ N° 861-55/AP. du 24 octobre 1955 portant délimitation des ressorts de la Justice de Paix à Compétence Etendue d'Atakpamé et du Tribunal de 1er Instance de Lomé.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER CHIVALIER DE LA LÉGION D'IONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 22 juillet 1939 (article 13) réorganisant la Justice Française dans le ressort de la Cour d'Appel de l'A.O.F. et les textes qui l'ont modifié; Vu le décret du 30 avril 1946 portant suppression de la Justice Indigène en matière pénale dans les Territoires relevant du Ministère de la France d'outre-mer; Vu le décret 51-549 du 10 mai 1951 portant création de juridictions de droit français au Togo; Vu l'arrêté n° 887-53/AP. du 17 décembre 1953 portant délimitation du ressort du Tribunal de 1er Instance de Lomé; Vu les nécessités du service:
+Sur la proposition du Procureur Général, Chef du Service Judiciaire de l'A.O.F. et du Togo et après délibération de la Cour d'Appel d'Abidjan en date du 25 juin 1955;
+ARRÊTE:
