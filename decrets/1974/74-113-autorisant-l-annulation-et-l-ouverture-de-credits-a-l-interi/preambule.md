@@ -1,0 +1,5 @@
+# Préambule
+DECRET N° 74-113 du 25 juin 1974 autorisant l'annulation et l'ouverture de crédits à l'intérieur du budget autonome du centre hospitalier universitaire de Lomé exercice 1973.
+LE PRESIDENT DE LA REPUBLIQUE.
+Sur proposition du ministre de la santé publique et des affaires sociales: Vu l'ordonnance n° 1 du 14 janvier 1967; Vu la loi n° 60-25 du 2 août 1960 portant organisation des établissements hospitaliers de la République togolaise; Vu le décret n° 61-14 du 11 février 1961 portant règlement intérieur du centre national hospitalier de Lomé, et principalement en son article 102; Vu le décret 73-191 du 11 mai 1973 portant approbation du budget primitif du centre hospitalier universitaire de Lomé, exercice 1973; Vu le décret n° 71-184 du 12 octobre 1971 portant transformation du centre national hospitalier de Tokoin en centre hospitalier universitaire: Vu la délibération n° 2-74 du 5 mars 1974 de la délégation spéciale du centre hospitalier universitaire de Lomé: Le conseil des ministres entendu,
+DECRETE:
