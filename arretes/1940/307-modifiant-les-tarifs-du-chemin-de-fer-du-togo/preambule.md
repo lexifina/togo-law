@@ -1,0 +1,6 @@
+# Préambule
+ARRETE N° 307 modifiant les tarifs du chemin de fer du Togo.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté n° 69 du 28 janvier 1929, approuvant l'ensemble des tarifs du chemin de fer et tous actes modificatifs à ces textes; Vu la lettre ministérielle n° 3537 du 26 septembre 1938 homologuant l'ensemble des tarifs du chemin de fer du Togo modifiés au 1er janvier 1938; Vu l'arrêté n° 318 du 15 juin 1939 promulguant au Togo le décret du 19 mai 1939, portant réorganisation des chemins de fer coloniaux; Vu l'arrêté n° 7 S. T. du 3 octobre 1939, du Haut-Commissaire de la République fixant la procédure d'homologation des tarifs du chemin de fer et du wharf du Togo; Sur la proposition de M. l'ingénieur, directeur du réseau du chemin de fer du Togo; Le conseil d'administration entendu dans sa séance du 8 juin 1940;
+JOURNAL OFFICIEL DU TERRITOIRE DU TOGO PLACÉ SOUS LE MANDAT DE LA FRANCE
+ARRETE :
