@@ -1,0 +1,5 @@
+# Texte
+Décision n° 41/CRT/DP du 27/1/94. Une pension militaire d'ancienneté (indice 575, pourcentage 65 %) au montant annuel de Trois Cent Onze Mille Vingt Huit (311.028) Francs est attribuée sur les fonds de la Caisse de Retraites du Togo à M. TAHADE Koundounwaré, Caporal-Chef 5è échelon n°mle 1679 du corps du personnel des Forces Armées Togolaises, admis à la retraite.
+La date de l'entrée en jouissance de cette pension est fixée au 1er Juillet 1991.
+M. TAHADE Koundounwaré pourra prétendre pour compter du 1er Juillet 1991 sur justification de ses droits au bénéfice des allocations familiales au titre de ses enfants du (1er au 10è rang) ci-après désignés :
+| Sekérossé, | né | le 20 Janvier | 1977 | | --- | --- | --- | --- | | Adji-Kalo, | né | le 15 Mai | 1977 | | Siamté, | née | le 05 Février | 1978 | | Adim Affi, | née | le 09 Février | 1979 | | Agnanté Akouavi, | née | le 20 Février | 1980 | | Touré Raguimsse, | né | le 25 Septembre | 1985 | | Tchama Yelo W., | né | le 17 Décembre | 1986 | | Yamaténa, | née | le 14 Février | 1989 | | Mèssa Ferkpawa, | née | le 13 Juillet | 1990 | | Atassime Komlan, | né | le 03 Juin | 1991. |
