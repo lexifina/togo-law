@@ -1,0 +1,4 @@
+# Texte
+Décision n° 520-MEF-DCO du 20-6-91 — Il est mis à la disposition du ministre de l'environnement et du tourisme un crédit de un million six cent soixante huit mille deux cent cinquante (1.668.250) francs CFA pour la participation du Togo au 16e congrès annuel de Africa Travel Association (ATA) qui se tiendra du 5 au 10 mai 1991 à Lusaka (Zambie).
+Cette somme sera mandatée et payée exceptionnellement par bon de caisse au nom de M. Viglo Soménou, régisseur de l'office national du tourisme togolais, qui est tenu de fournir dans le délai réglementaire de 30 jours, les pièces justificatives afférentes aux dépenses, à l'ordonnateur-délégué du budget général du Togo.
+La dépense est imputable sur le budget général, gestion 1991, section 39, chapitre 92, article 00-00, paragraphe 65 et fera l'objet de procédure simplifiée au niveau de l'engagement.
