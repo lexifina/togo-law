@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 1049/MTFP du 9/7/85 — M. Ayémé Kossi n° mle 015024-A, instituteur-adjoint de 2e classe, 2e échelon, (catégorie C-indice 800) du cadre des fonctionnaires de l'enseignement, admis au certificat d'aptitude pédagogique (CAP) série concours session des 19 et 20 octobre 1983, est intégré dans la catégorie hiérarchique supérieure en qualité d'instituteur de 2e classe, 2e échelon, (catégorie B-indice 850 à compter du 1er janvier 1984 et conserve son affectation actuelle (section 27, chapitre 20 du budget général).
