@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 59-INT-SG-DSTCL du 24/3/76 — Sont accordées des autorisations spéciales de dépenses sur les budgets des circonscriptions de Lomé, Aného, Vogan, Tabligbo, Tsévié, Klouto, Notsé, Atakpamé, Amlamé, Badou, Tchaoudjo, Tchamba, Sotouboua, Bassari, Bafilo, Lama-Kara, Niamtougou, Pagouda Kandé, Mango et Dapango, exercice 1976 représentant le douzième des budgets de l'exercice 1975 pour faire face aux dépenses du mois de mars 1976.
