@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 623 promulguant au Togo le décret du 9 août 1937 relatif à l'indication d'origine de certains produits étrangers (pièces en porcelaine ou toute autre matière céramique pour l'électricité).
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉDION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1934 fixant le mode de promulgation et de publication des textes réglementaires au Togo et au Cameroun; Vu la loi du 20 avril 1932 rendant obligatoire l'indication d'origine de certains produits étrangers, promulguée au Togo par arrêté du 20 septembre 1932; Vu le décret du 9 août 1937 relatif à l'indication d'origine de certains produits étrangers (pièces en porcelaine ou toute autre matière céramique pour l'électricité); Vu la dépêche ministérielle (colonies) n° 2022 en date du 27 août 1937;
+ARRETE:
