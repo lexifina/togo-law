@@ -1,0 +1,4 @@
+# Texte
+Décision n° 274/MDN du 16/11/93 — Est autorisé le paiement direct à la société EURADIASS BP 20 649 Lomé (Togo) de la somme de : VINGT NEUF MILLIONS SEPT CENT VINGT QUATRE MILLE CINQUANTE (29 724 050) F CFA pour l'achat des instruments médicaux dont la liste est jointe en annexe, pour le compte des Forces Armées Togolaises.
+- La dépense sera imputée au budget de fonctionnement 1993 chapitre 11.20 article 50. - Le règlement s'effectuera dans les conditions suivantes : 50 % à la commande sur présentation d'une facture d'acompte. Le solde à la livraison des matériels commandés. - Par dérogation aux dispositions du décret n° 90-175 du 31 octobre 1990 cette réalisation est dispensée de la passation d'un marché. - Par dérogation aux dispositions du décret n° 73-13 du 19 janvier 1973 le matériel objet de la présente décision sera admis en franchise douanière.
+416 JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE 1er Décembre 1993
