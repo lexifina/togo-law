@@ -1,0 +1,14 @@
+# Loi autorisant la ratification de la convention portant création du Conseil Régional de l'Epargne Publique et des Marchés Financiers
+
+JOURNAL OFFICIEL 42E ANNEE N° 19 SPECIAL du 1997-07-09, page 2.
+
+Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-portant-creation-du-conseil-regional-de-lepargne-publique-et-des-marches-financiers
+
+En vigueur / in force: 1997-05-28 (promulgation (default: laws take effect on promulgation)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
+| [signatures](signatures.md) | Signatures |
