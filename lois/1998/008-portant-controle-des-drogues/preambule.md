@@ -1,0 +1,7 @@
+# Préambule
+LOI n° 98-008 du 18 mars 1998 portant contrôle des drogues.
+L'Assemblée nationale a délibéré et adopté :
+Le Président de la République promulgue la loi dont la teneur suit :
+PREMIÈRE PARTIE — DEFINITION, CLASSIFICATION DES DROGUES ET RÉGLEMENTATION DE LEUR CULTURE, DE LEUR PRODUCTION, DE LEUR FABRICATION ET DE LEUR COMMERCE LICITES.
+TITRE I — DEFINITIONS ET CLASSIFICATION DES DROGUES
+CHAPITRE I — DEFINITIONS DES DROGUES
