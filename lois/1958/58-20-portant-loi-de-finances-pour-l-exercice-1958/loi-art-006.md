@@ -1,4 +1,4 @@
-# Article 6
+# Loi, Article 6
 — La perception des impôts directs et indirects et des produits et revenus publics au profit du Budget général et du Budget annexe du Chemin de Fer et du Wharf, continuera à être opérée, pour l'année 1958, conformément aux lois, décrets et arrêtés en vigueur, sous réserve des modifications suivantes du régime fiscal, qui font l'objet de lois particulières :
 1° Application du nouveau taux des droits d'entrée et de la taxe forfaitaire représentative de la taxe sur les transactions sur les marchandises importées ;
 2° Aménagement de la taxe unique sur les véhicules.

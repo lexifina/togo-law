@@ -1,2 +1,3 @@
-# Article 4
+# Loi, Article 4
 — Les effectifs numériques maximaux des cadres (fonctionnaires) et par catégories (agents contractuels et journaliers permanents), sont fixés conformément à l'état C., annexé à la présente loi.
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE AUTONOME DU TOGO

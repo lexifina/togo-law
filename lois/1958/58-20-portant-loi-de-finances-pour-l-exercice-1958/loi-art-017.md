@@ -1,3 +1,3 @@
-# Article 17
+# Loi, Article 17
 — La présente Loi de Finances annule et remplace les dispositions de la loi ouvrant des crédits provisoires au titre de l'exercice 1958.
 La présente loi sera exécutée comme loi de la République Autonome du Togo.

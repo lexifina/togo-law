@@ -1,2 +1,2 @@
-# Article 2
+# Loi, Article 2
 — Le montant maximum des crédits ouverts au titre des dépenses de fonctionnement du Budget général est fixé globalement à 2.773.444.000 francs C. F. A. La répartition de ces crédits par titres, sections, chapitres et articles est conforme à l'état A., annexé à la présente loi.
