@@ -1,0 +1,6 @@
+# Préambule
+ARRÊTÉ N° 367 MFE/DA du 25 octobre 1976 approuvant le transfert du portefeuille de contrats d'une société d'Assurances.
+LE MINISTRE DES FINANCES ET DE L'ÉCONOMIE,
+Vu l'ordonnance n° 16 du 14 avril 1976 ; Vu l'ordonnance n° 36 du 12 août 1968 portant réglementation des organismes d'assurances de toute nature et des opérations d'assurances ; Vu le décret n° 69-119 du 2 juin 1969 portant application de l'ordonnance n°36 précitée ; Vu le décret n° 70-102 du 9 avril 1970 accordant l'agrément aux organismes d'assurances pour pratiquer des opérations d'assurances et de réassurances sur le territoire de la République togolaise ; Vu l'arrêté n° 23-MFE-DA du 11 février 1974 portant agrément de la société « Groupement Togolais d'Assurances » (G.T.A.) ; Vu avec les pièces à l'appui, la convention de transfert de portefeuille passée entre :
+— D'une part la « COMPAGNIE GÉNÉRALE D'ASSURANCES », 23, rue Drouot à Paris (France) suivant autorisation de son président-directeur général en date du 25 mars 1976 ; — D'autre part, la « GROUPEMENT TOGOLAIS D'ASSURANCES » 3, rue Brazza à Lomé en application d'une décision de son conseil d'administration en date du 22 mars 1976 ; Sur proposition du directeur des assurances,
+ARRÊTÉ :
