@@ -1,0 +1,5 @@
+# Texte
+Arrêté n° 807/MTFP du 8-5-85 — Est et demeure rapporté en ce qui concerne M. Karimu Abou Bakaré, l'arrêté n° 01248/MTFP du 29 octobre 1984, portant promotion dans le cadre des fonctionnaires de l'enseignement.
+M. Karimu Abou Bakaré, n° mle 011906-U, professeur de 2e classe 3e échelon (catégorie A1 — indice 2200) du cadre des fonctionnaires de l'enseignement, admis au certificat d'aptitude à l'inspection de l'éducation nationale (CAIEN) session de 1983, est rayé de son corps d'origine et intégré dans celui des inspecteurs de l'enseignement du troisième degré en qualité d'inspecteur de 2e classe 3e échelon (catégorie A1 — indice 2200) à compter du 1er mai 1983 et conserve son affectation actuelle (section 27, chapitre 28 du budget général).
+L'ancienneté dans le nouveau corps est acquise à compter du 17 janvier 1982, date du dernier avancement automatique de l'intéressé dans son ancien corps.
+M. Karimu Abou Bakaré est promu au grade d'inspecteur de 1re classe 1er échelon (indice 2350) à compter du 17 janvier 1984.
