@@ -1,0 +1,6 @@
+# Texte
+Arrêté n° 381-MFE-CR du 28-9-73 — La pension proportionnelle concédée sur les fonds de la caisse de retraites du Togo à M. Konlani Lamboni, gardien de la paix 6° échelon du corps du personnel de la police du Togo admis à la retraite, est revisée et fixée au taux de 54 % des émoluments de base correspondant à l'indice 550 pour compter du 1er janvier 1970.
+Le montant annuel de la nouvelle pension est fixé à cent vingt et un mille deux cent quatre vingt seize (121.296) francs pour compter du 1er janvier 1970 et à cent trente trois mille quatre cent vingt quatre (133.424) francs pour compter du 1er janvier 1971.
+M. Konlani Lamboni pourra prétendre, pour compter du 1er janvier 1970 sur justification de ses droits, au bénéfice des allocations familiales au titre de ses enfants (du 2° au 10° rang) ci-après désignés :
+- Kouami, né le 17 octobre 1953 - Jules, né le 12 avril 1958 - Tibagnébé, né le 6 décembre 1960 - Lydia, née le 17 décembre 1962 - Francis, né le 3 avril 1964 - Marie-Claire, née le 16 juillet 1965 - Yves, né le 25 avril 1966 - Berth, née le 26 mai 1968 - Prosper, né le 13 octobre 1968.
+Les sommes déjà perçues par l'intéressé en application de l'arrêté n° 38-MFE-CR du 25 janvier 1973, seront déduites des arrérages de la nouvelle pension fixée par le présent arrêté.
