@@ -1,0 +1,5 @@
+# Préambule
+ARRÊTÉ N° 89 confiant au chef du service des travaux publics et des transports l'examen des questions intéressant l'aéronautique civile.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté du 13 avril 1939 portant réglementation générale de la police et de l'utilisation des aérodromes publics au Togo; Vu l'arrêté du 13 mai 1939 fixant les attributions du service des travaux publics et des transports concernant l'aéronautique civile au Togo; Vu l'arrêté du 27 août 1939 confiant au capitaine d'infanterie coloniale, chef du bureau militaire, l'examen de toutes les questions relatives à l'aéronautique; Sur la proposition de l'ingénieur principal des travaux publics, chef du service des travaux publics et des transports du Togo;
+ARRÊTE :
