@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 511 portant ouverture d’un crédit supplémentaire au budget additionnel de la chambre de commerce du territoire du Togo, exercée 1939.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D’HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 30 décembre 1912 sur le régime financier des colonies; Vu l’arrêté du 1er juin 1938 portant réorganisation de la chambre de commerce du territoire du Togo placé sous le mandat de la France; Vu l’arrêté n° 401 du 27 juillet 1939 portant approbation du compte définitif 1938 et du budget additionnel, exercée 1939, de la chambre de commerce du Togo; Vu le rapport du vice-président de la chambre de commerce du Togo; Le conseil d’administration entendu dans sa séance du 28 septembre 1939;
+ARRETE :
