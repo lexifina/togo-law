@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 912/MTFP du 28-5-85 — M. Aglaemy Kouassi Klouvi, n° mle 008984-S, professeur des CEG de 3e classe, 1er échelon stagiaire (indice 1100) du cadre des fonctionnaires de l'enseignement titulaire de la licence ès lettres, option : anglais de l'école des lettres de l'Université du Bénin, session d'octobre 1984, est intégré dans la catégorie hiérarchique supérieure en qualité de professeur de 3e classe, 1er échelon stagiaire (catégorie A1 — indice 1300) à compter du 1er novembre 1984 et conserve son affectation actuelle (section 27, chapitre 21 du budget général).
