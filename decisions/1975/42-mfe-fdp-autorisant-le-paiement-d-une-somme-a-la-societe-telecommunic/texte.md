@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 42-MFP du 28-1-75 — M. Tommy Amegan (Blaise), titulaire du brevet d'études du premier cycle du second degré (BEPC), du certificat d'aptitude professionnelle (CAP) et du brevet d'études professionnelles (BEP) est, en attendant la parution du statut particulier du personnel de secrétariat, admis dans le corps des fonctionnaires de l'administration générale en qualité d'adjoint administratif de 2e classe 2e échelon stagiaire (catégorie C — indice 600) et mis à la disposition de la Présidence de la République togolaise (chapitre 6, article 6 du budget général).
+Le présent arrêté aura effet pour compter de la date de prise de service de l'intéressé.
