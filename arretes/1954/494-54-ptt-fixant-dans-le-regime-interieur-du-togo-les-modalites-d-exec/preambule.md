@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 494-54/PTT. du 1er juin 1954 fixant dans le régime intérieur du Togo les modalités d'exécution des dispositions de la loi n° 53-26 du 28 janvier 1953 portant organisation des Services Postaux des valeurs à recouvrer et des envois contre remboursement et du décret n° 54-340 du 19 mars 1954 fixant les conditions d'application de cette loi.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 30 décembre 1912 sur le régime financier des colonies et l'ensemble des textes qui l'ont modifié; Vu le décret n° 54-340 du 19 mars 1954 fixant les conditions d'application de la loi n° 53-26 du 28 janvier 1953 portant organisation des services postaux des valeurs à recouvrer et des envois contre remboursement, promulgué au Togo par arrêté n° 425-54/C du 6 mai 1954; Vu la dépêche ministérielle n° 2256 PT/3 en date du 10 mai 1954;
+ARRETE :
