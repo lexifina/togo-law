@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 462 promulguant au Togo la loi du 27 septembre 1940, qui permet au Secrétaire d'État aux colonies, pendant une période qui prendra fin le 31 janvier 1941, de relever de leurs fonctions les fonctionnaires et agents civils des territoires dépendant de son autorité, ceux des communes, établissements publics et services concédés, ainsi que les officiers publics et ministériels des mêmes territoires.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo; Vu la loi du 27 septembre 1940; Vu le bordereau d'envoi n° 1791 A. P./I et la lettre-avion n° 237 P/2 des 10 et 14 octobre 1940 du Gouverneur général, Haut-Commissaire de l'Afrique française;
+ARRETE :
