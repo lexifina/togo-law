@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 641/P. du 6 septembre 1947:
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, CROIX DE GUERRE — MÉDAILLE DE LA RÉSISTANCE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu l'arrêté n° 288/P. du 7 juin 1945 fixant le statut général des cadres locaux indigènes du Territoire; Vu l'arrêté n° 293/P. du 7 juin 1945 fixant le statut particulier du cadre local indigène des chemins de fer et du wharf; Vu l'arrêté n° 729 du 19 septembre 1945 fixant le traitement du personnel des cadres locaux indigènes du Togo; Sur la proposition de l'Ingénieur principal, Directeur du Réseau des chemins de fer et du wharf du Togo; Vu l'avis émis par l'Assemblée Représentative dans sa séance du 20 août 1947; Le Conseil privé entendu; Sous réserve d'approbation ministérielle;
+ARRETE:
