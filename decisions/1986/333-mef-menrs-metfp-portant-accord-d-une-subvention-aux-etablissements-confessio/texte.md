@@ -1,0 +1,3 @@
+# Texte
+Décision n° 333/MEF/DCO du 21-4-86 — Il est mis à la disposition du ministre de la Jeunesse, des Sports et de la culture un crédit d'un million quatre cent dix sept mille (1.417.000) francs CFA afin de permettre à l'Association Sportive de la Forêt Sacrée (ASFOSA) de préparer les 16e de finale aller-retour de la Coupe d'Afrique des Clubs Champions de Foot-ball prévu pour les 6 et 19 avril à Lomé.
+La dépense dont les pièces justificatives seront adressées au directeur des finances est imputable sur le budget général, gestion 1986, section 07, chapitre 62, article 07-00, paragraphe 99 (dépenses diverses imprévues) et fera l'objet de procédure simplifiée au niveau de l'engagement.
