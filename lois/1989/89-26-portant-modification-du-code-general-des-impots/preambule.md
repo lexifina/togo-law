@@ -1,0 +1,4 @@
+# Préambule
+LOI N° 89-26 du 7 novembre 1989 portant modification du code général des impôts
+L'ASSEMBLEE NATIONALE A DELIBERE ET ADOPTE ;
+LE PRESIDENT DE LA REPUBLIQUE PROMULGUE LA LOI DONT LA TENEUR SUIT :
