@@ -1,0 +1,5 @@
+# Préambule
+DECISION No 261 modifiant la décision no 821 du 4 décembre 1939 fixant la composition de la commission régionale de contrôle des affectés spéciaux.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGISIN D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 15 mai 1939, portant nouveau règlement d'administration publique pour l'application de la loi du 31 mars 1928 en ce qui concerne l'affectation spéciale; Vu l'arrêté no 440 du 26 août 1939, promulguant au Togo le décret du 15 mai 1939; Vu l'arrêté no 3523/D. N. du 27 novembre 1939 du Gouverneur général de l'A. O. F. rendant applicable au Togo l'arrêté général de l'A. O. F. no 3049/D. N. du 3 octobre 1939 relatif aux affectations spéciales; Vu la décision no 821 du 4 décembre 1939 fixant la composition de la commission régionale de contrôle des affectés spéciaux; Vu le départ du territoire du capitaine d'I. C. Borne et de l'administrateur Mouragues;
+DÉCIDE :
