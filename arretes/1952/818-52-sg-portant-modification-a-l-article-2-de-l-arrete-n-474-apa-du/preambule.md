@@ -1,0 +1,6 @@
+# Préambule
+ARRETE No 818-52/SG. du 12 novembre 1952.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 25 septembre 1941 qui modifie le décret du 6 novembre 1929 portant institution des Communes-Mixtes au Togo; Vu l'arrêté local n° 577 du 20 novembre 1932 déterminant le mode de constitution, de fonctionnement, le régime administratif et financier des Communes-Mixtes au Togo; Vu l'arrêté local n° 578 du 20 novembre 1932 créant la Commune-Mixte au Lomé; Vu l'arrêté local n° 114 du 12 février 1935 complétant l'article 37 de l'arrêté local n° 577 du 20 novembre 1932; Vu l'arrêté local n° 474/APA. du 1er septembre 1942, modifiant l'arrêté local n° 577 du 20 novembre 1932; Vu l'arrêté local n° 419/APA. du 19 juin 1947 modifiant l'arrêté local n° 474/APA. du 1er septembre 1942; Vu l'arrêté local n° 589/APA. du 22 juillet 1948 modifiant l'article 2 de l'arrêté n° 474/APA. du 1er septembre 1942;
+Le conseil privé entendu:
+ARRETE:
