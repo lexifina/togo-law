@@ -1,0 +1,15 @@
+# Arrêté général du Haut-Commissaire de l'Afrique française concernant l'admission des billets de la banque de France dans les caisses publiques en Afrique occidentale française
+
+JOURNAL OFFICIEL 22E ANNEE N° 426 du 1941-06-01, page 278.
+
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/arrete-general-du-haut-commissaire-de-lafrique-francaise-concernant-ladmission-des-billets-de-la-banque-de-france-dans-les-caisses-publiques-en-afrique-occidentale-francaise
+
+En vigueur / in force: 1941-06-01 (publication in the Journal officiel (default for regulatory acts)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
+| [art-003](art-003.md) | Article 3 |
+| [art-004](art-004.md) | Article 4 |
