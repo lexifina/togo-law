@@ -1,0 +1,7 @@
+# Préambule
+ARRETE n° 474 A. E. du 4 septembre 1943.
+L'ADMINISTRATEUR DE 1re CLASSE DES COLONIES, CHEVALIER DE LA LÉGRON D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du commissaire de la République au Togo; Vu le décret du 3 février 1938 fixant le régime forestier au Togo; Vu l'arrêté n° 483 du 23 novembre 1940 réglementant l'exploitation des forêts au Togo; Vu la décision 8 sr. du 30 octobre 1938 du haut-commissaire chargeant de mission permanente au Togo un inspecteur des eaux et forêts, conseiller technique; Vu la décision n° 5 sr. du 2 septembre 1940 du haut-commissaire de l'Afrique occidentale française portant détachement au territoire d'un contrôleur des eaux et forêts; Vu l'arrêté n° 132 du 13 mars 1941 créant un peloton des eaux et forêts; Vu l'arrêté n° 206 du 7 avril 1942 relatif aux primes perçues en matière du contentieux forestier; Vu le décret du 10 septembre 1942 portant réorganisation du service des eaux et forêts dans les territoires relevant du secrétariat d'État aux colonies; Vu l'ordonnance du 3 juin 1943 instituant le Comité français de la Libération nationale; Vu le décret du 7 juin 1943 créant notamment un commissariat aux colonies;
+Conformément à l'avis exprimé par lettre o. e. r. du 8 janvier 1941 par l'inspecteur des eaux et forêts, conseiller technique;
+Vu les nécessités du service;
+ARRETE:
