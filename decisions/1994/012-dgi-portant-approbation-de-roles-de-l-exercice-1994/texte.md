@@ -1,0 +1,4 @@
+# Texte
+Décision n° 012/DGI du 22/6/94. Sont approuvés et rendus exécutoires les rôles de l'exercice 1994 ci-après :
+| BUDGET GENERAL | | | | | | --- | --- | --- | --- | --- | | 23 | LOME | T.F. | 246.250 | | | 24 | " | " | 2.620.027 | 2.866.277 | | BUDGET COMMUNAL | | | | | | 23 | LOME | T.F. | 369.375 | | | | | TOM | 138.540 | | | 24 | | | | | | | LOME | T.F. | 3.930.041 | | | | | TOM | 628.802 | 5.066.758 | | DIRECTION GENERALE DES IMPOTS | | | | | | 23 | LOME | T.F. | | | | 24 | " | " | 123.125 | | | | | | 1.310.014 | 1.433.139 | | | | | | 9.366.174 |
+La date de mise en recouvrement des rôles ci-dessus s'élevant à la somme de NEUF MILLIONS TROIS CENT SOIXANTE SIX MILLE CENT SOIXANTE QUATORZE francs est fixée au 28 Mars 1994. La présente décision prend effet à compter de la date de sa signature.
