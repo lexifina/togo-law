@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 127 approuvant et rendant exécutoires les budgets pour 1939 des Sociétés Indigènes de Prévoyance de Lomé, Tsévié, Anécho, Klouto et Atakpamé,
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 3 novembre 1934 relatif aux sociétés indigènes de prévoyance du Togo, modifié par les décrets du 31 juillet 1937 et du 18 septembre 1938; Vu l'arrêté no 552 en date du 7 octobre 1937 relatif au fonctionnement des sociétés indigènes de prévoyance, de secours et de prêts mutuels au Togo, modifié par l'arrêté no 116 du 24 février 1938; Vu la délibération en date du 21 février 1939 de la commission centrale de surveillance des sociétés indigènes de prévoyance du Territoire;
+ARRETE:
