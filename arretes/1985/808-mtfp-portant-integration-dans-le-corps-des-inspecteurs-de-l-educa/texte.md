@@ -1,0 +1,5 @@
+# Texte
+Arrêté n° 808/MTFP du 8-5-85 — Est et demeure rapporté en ce qui concerne M. Biao-Kpekpasse Yorou, n° mle 005864-S, la décision n° 1886/MTFP du 21 décembre 1983 portant avancement automatique d'échelon.
+M. Biao-Kpekpasse Yorou, n° mle 005864-S, professeur de 3e classe 3e échelon (catégorie A1 — indice 1600) du cadre des fonctionnaires de l'enseignement, admis au certificat d'aptitude à l'inspection de l'éducation nationale (CAIEN), session de 1983, est rayé du corps des professeurs et intégré dans celui des inspecteurs de l'éducation nationale (enseignement du premier degré), en qualité d'inspecteur de 3e classe 3e échelon (catégorie A1 — indice 1600) à compter du 1er mai 1983 et conserve son affectation actuelle (section 27, chapitre 20 du budget général).
+L'ancienneté dans le nouveau corps est acquise à compter du 1er juillet 1981 date du dernier avancement automatique d'échelon dans le corps des professeurs.
+L'intéressé est élevé au 4e échelon de son grade (indice 1750) à compter du 1er juillet 1983.
