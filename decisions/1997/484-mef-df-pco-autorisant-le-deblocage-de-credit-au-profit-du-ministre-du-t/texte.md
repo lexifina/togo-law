@@ -1,0 +1,4 @@
+# Texte
+Décision n° 484/MEF/DFF/DCO du 21/5/97 — Il est mis à la disposition du ministre du Tourisme et des Loisirs, la somme de CINQUANTE QUATRE MILLIONS CENT SIX MILLE QUARANTE ET UN (54 106 041) Francs CFA, représentant la part de crédits octroyés par le Premier ministre aux divers départements ministériels dans le cadre des discussions du Programme d'Investissement Public (PIP) 1997-1999 relatives aux travaux d'aménagement des bâtiments abritant les services desdits départements.
+Cette somme sera répartie, mandatée et virée aux comptes respectifs des entreprises bénéficiaires, sur présentation des pièces justificatives de la dépense.
+La dépense est imputable sur le budget général, gestion 1997 section 830, chapitre 21, article 00, paragraphe 23, ligne 99, (autres dépenses d'entretien) et fera l'objet de procédure simplifiée au niveau de l'engagement.
