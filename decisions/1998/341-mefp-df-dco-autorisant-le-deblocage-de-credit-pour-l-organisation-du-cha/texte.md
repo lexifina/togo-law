@@ -1,0 +1,3 @@
+# Texte
+Décision n° 341/MEFP/DF/DCO du 4/5/98 – Il est mis à la disposition du ministre de la Jeunesse, des Sports et de la Culture au profit de la Direction des Sports Scolaires et Universitaires (D.I.S.S.U) la somme de DIX MILLIONS (10 000 000) de Francs CFA représentant les frais d’organisation du championnat scolaire de football cadet au titre de la gestion 1998.
+La dépense est imputable sur le budget général, gestion 1998, section 219 chapitre 22, article 00, paragraphe 44, ligne 05 (Organisation des championnats scolaires) et fera l’objet de procédure simplifiée au niveau de l’engagement.
