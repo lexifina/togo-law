@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 40-INT-STCS du 28-2-72 — Sont accordées des autorisations spéciales de dépenses sur les budgets des circonscriptions de Lomé, Anécho, Vogan, Tabligbo, Tsévié, Klouto, Nuatja, Atakpamé, Akposso, Sokodé, Sotouhora, Bassari, Bašlo, Lama-Kara, Niamtougou, Pagouda, Kandé, Mango et Dapango, exercice 1972, représentant le douzième des budgets de l'exercice 1971 pour faire face aux dépenses du mois de février 1972.
