@@ -1,0 +1,5 @@
+# Texte
+ORDONNANCE N° 28
+Nous, Kodjovi PEDANOU, Vice-Président de la Cour d'Appel de Lomé ; Vu notre Ordonnance N° 07 du Vingt Neuf Janvier Mil Neuf Cent Quatre Vingt Sept fixant au Lundi Quatre Mai Mil Neuf Cent Quatre Vingt Sept à Huit (8) Heures à Kara (Préfecture de la Kozah), la date d'ouverture de la Première Session de la Cour d'Assises de l'Année Mil Neuf Cent Quatre Vingt Sept (1987) ;
+Vu l'Arrêté N° 03-MJ-CT1 en date du 12 Février 1986 de Monsieur le Garde des Sceaux, Ministre de la Justice, portant désignation du collège des Jurés près la Cour d'Assises pour l'Année 1986 ; Vu l'article 216 du Code de Procédure Pénale ; Ensemble l'avis de Monsieur le Procureur Général près la Cour d'Appel de céans ; Fixons au Lundi Vingt Trois Mars Mil Neuf Cent Quatre Vingt Sept (23 Mars 1987) à Huit (8) Heures, la date d'audience pour l'Etablissement de la Liste Définitive des Jurés près la Cour d'Assises, Première Session de l'Année 1987 pour la Région de la Kara. Fait en Notre Cabinet au Palais de Justice à Lomé, le Onze Mars Mil Neuf Cent Quatre Vingt Sept.
+Signé : K. PEDANOU Vice-Président de la Cour d'Appel,
