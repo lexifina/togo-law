@@ -1,0 +1,5 @@
+# Texte
+Arrêté n° 05/METFP du 29/3/93 — M. AWESSO Takougnadi, n° mle 021046-Q, attaché d'administration de classe 3e échelon du cadre interministériel des fonctionnaires de l'administration générale, relevant du ministère du Développement Rural, placé sur sa demande dans la position de détachement pour servir auprès du Programme des Nations Unies pour le Développement (PNUD) suivant arrêté n° 1130/METFP du 4 septembre 1992 est maintenu dans cette même position pour une nouvelle période de huit (8) mois, valable du 1er avril au 30 novembre 1993 inclus.
+Durant le détachement, les émoluments de M. AWESSO seront à la charge du PNUD et la contribution complémentaire de 20 % à la Caisse de Retraites du Togo sera imputée sur le budget général du Togo, en application des dispositions de l'article 75, 1er alinéa de la loi n° 91-11 du 23 mai 1991.
+L'intéressé subira sur son traitement indiciaire de base la retenue pour pension de 7 %.
+MINISTÈRE DU BIEN-ÊTRE SOCIAL, DE LA SOLIDARITÉ NATIONALE ET DES DROITS DE L'HOMME
