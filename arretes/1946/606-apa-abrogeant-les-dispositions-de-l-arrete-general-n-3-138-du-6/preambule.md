@@ -1,0 +1,6 @@
+# Préambule
+ARRETE No 606 APA. du 8 août 1946.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, CROIX DE GUERRE — MÉDAILLE DE LA RÉSISTANCE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 12 janvier 1932 réglementant les conditions d'admission et de séjour des Français et des étrangers en Afrique Occidentale Française et ses modificatifs subséquents; Vu l'arrêté général No 3.000/DS. du 28 septembre 1939 réglementant en temps de guerre la circulation des étrangers en Afrique Occidentale Française; Vu l'arrêté général No 2.375/DS. du 30 octobre 1940 réglementant la circulation des Français sur le Territoire de l'Afrique Française; Vu l'arrêté général No 1.926/DS du 17 septembre 1940 relatif à la circulation aérienne en Afrique Française; Vu l'arrêté général No 3.138 du 6 septembre 1941 réglementant la circulation des Français et des étrangers à l'intérieur de l'Afrique Française;
+Vu l'arrêté général No 1.035/DS. du 18 mars 1946 abrogeant l'arrêté général No 3.138 du 6 septembre 1941 en ce qui concerne l'Afrique Occidentale Française;
+ARRETE :
