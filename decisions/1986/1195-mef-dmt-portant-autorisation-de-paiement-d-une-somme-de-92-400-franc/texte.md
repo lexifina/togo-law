@@ -1,0 +1,3 @@
+# Texte
+Décision n° 1195/DMT du 30-12-86 — Est autorisé le paiement de la somme de quatre vingt douze mille quatre cents (92.400) francs CFA au profit de M. Kifalang T. Balakinabawi, chef du personnel de la Brasserie de Kara pour la location de son immeuble sis à Kara pour servir de logement aux gendarmes subalternes en service à la Cavalerie de Kara pendant la période du 1-11-86 au 31-12-86 au taux de : 46.200 F par mois. La dépense est imputable au budget général, section 07, chapitre 61, article 07, sous article 22, paragraphe 62, gestion 1986 et fera l'objet d'une procédure simplifiée au niveau de l'engagement. Le montant est à virer au compte n° 04002001981 ouvert à la C.N.C.A. Kara au nom du bénéficiaire ci-dessus indiqué.
+Déblocage de crédit
