@@ -1,0 +1,4 @@
+# Texte
+Décision n° 928/MEF/FCS du 26/9/84 — Est autorisé le paiement au profit du budget de l'Union Interparlementaire (U.I.), de la somme de deux millions cent quatre vingt onze mille trois cent vingt cinq (2.191.325) francs CFA, soit l'équivalent de 11.845 francs suisses, représentant le montant de la contribution du Togo, et les frais de la tenue de la 72ᵉ conférence interparlementaire pour l'année 1984.
+Cette somme sera mandatée et virée au compte bancaire de l'U.I., n° 172 217 01-00 domicilié à la ljoyds Bank International limited 1, Place Bel-Air — 1211 Genève 11 (Suisse).
+La dépense est imputable au budget général, gestion 1984, section 07-83-00-00-99 (Ligne : Ecole Inter-États des Sciences et Médecine Vétérinaire) et fera l'objet d'une procédure simplifiée au niveau de l'engagement.
