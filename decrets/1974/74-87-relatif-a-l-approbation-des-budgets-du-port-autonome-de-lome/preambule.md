@@ -1,0 +1,9 @@
+# Préambule
+DECRET N° 74-87 du 30 avril 1974 relatif à l'approbation des budgets du port autonome de Lomé, de la cité du port et du bureau de la main d'œuvre du port (B.M.O.P.), exercice 1974.
+LE PRESIDENT DE LA REPUBLIQUE.
+Sur le rapport conjoint du ministre des travaux publics, mines, transports, des postes et télécommunications et du ministre des finances et de l'économie :
+Vu l'ordonnance n° 1 du 14 janvier 1967 :
+Vu l'ordonnance n° 15 du 14 avril 1967 :
+Vu l'ordonnance n° 12 du 7 avril 1967 relative à la création du port autonome de Lomé :
+Le conseil des ministres entendu.
+DECRETE :
