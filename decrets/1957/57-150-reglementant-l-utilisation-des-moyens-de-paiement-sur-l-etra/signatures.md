@@ -1,0 +1,4 @@
+# Signatures
+Fait à Lomé, le 27 décembre 1957.
+N. GRUNTZKY.
+JOURNAL OFFICIEL DE LA REPUBLIQUE AUTONOME DU TOGO
