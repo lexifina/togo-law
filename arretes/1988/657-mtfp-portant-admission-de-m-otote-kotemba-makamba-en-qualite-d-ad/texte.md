@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 657-MTFP du 31-8-88 — M. Otote Kotemba Makamba, n° mle 012200-S, laborantin routier permanent de 5e catégorie hors échelle, titulaire du diplôme d'agent technique (spécialité : génie civil) du centre régional de formation pour entretien routier (CERFER) à l'issue d'un stage de formation professionnelle d'une durée de vingt et un (21) mois, est nommé dans le cadre des fonctionnaires des travaux publics et des techniques industrielles en qualité d'adjoint technique 1er échelon stagiaire (catégorie B — indice 750) à compter du 1er juillet 1988 et reste mis à la disposition du ministre de l'équipement, des postes et télécommunications (section 41, chapitre 20 du budget général).
+Intégrations
