@@ -1,0 +1,5 @@
+# Préambule
+ORDONNANCE N° 15 du 13 avril 1976 portant approbation de nouveaux avenants à l'accord financier conclu entre le gouvernement de la République togolaise et Hill Samuel &amp; Co. Ltd., le 11 décembre 1973, au contrat conclu entre le gouvernement de la République togolaise et la société Humphreys &amp; Glasgow Ltd., le 20 juillet 1971, au contrat conclu entre ces dernières parties le 16 octobre 1973, les trois contrats relatifs à la construction d'une raffinerie de pétrole, d'un pipeline et des installations annexes, ayant été approuvés par l'ordonnance n° 41 du 19 décembre 1973, ainsi que de divers documents au troisième avenant à l'accord du 11 décembre 1973.
+LE PRÉSIDENT DE LA RÉPUBLIQUE.
+Sur le rapport du ministre des finances et de l'économie ;<br/>du ministre des travaux publics et des mines ;<br/>du ministre du commerce, de l'industrie, du plan et des transports ;<br/>Vu l'ordonnance n° 1 du 14 janvier 1967 ;<br/>Vu l'ordonnance n° 15 du 14 avril 1967 ;<br/>Le conseil des ministres entendu.
+ORDONNE:
