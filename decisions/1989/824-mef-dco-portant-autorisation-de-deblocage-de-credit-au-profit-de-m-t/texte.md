@@ -1,0 +1,4 @@
+# Texte
+Décision n° 824-MEF-DCO du 8-8-89 — Il est mis à la disposition du ministère de l'environnement et du tourisme, un crédit de deux millions cinq cent vingt mille (2.520.000) francs CFA en vue de faire face aux dépenses relatives à la participation du Togo à la foire touristique de Bordeaux qui s'était déroulée du 29 mai au 8 juin 1989.
+Cette somme sera mandatée et payée exceptionnellement par bon de caisse au nom de M. Tazzou Kokou, régisseur de l'office national togolais du tourisme qui est tenu de fournir à l'ordonnateur-délégué du budget général du Togo, dans le délai réglementaire de 30 jours, les pièces justificatives afférentes au paiement de ces dépenses.
+La dépense est imputable sur le budget général, gestion 1989, section 39, chapitre 92, article 00-00, paragraphe 65 (aides et subventions).
