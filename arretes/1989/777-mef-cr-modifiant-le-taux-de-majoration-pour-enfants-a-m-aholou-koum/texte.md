@@ -1,0 +1,4 @@
+# Texte
+Arrêté n° 777/MEF/CR du 27-11-89 — Par application des dispositions de l'article 15, paragraphe 4 de la loi n° 63-18 du 21 novembre 1963, le taux de la majoration pour enfants allouée à M. Abolou Kouami, caporal-chef 5e échelon n° mle 0556 du corps du personnel du régiment de soutien et d'appui, est porté de 10% à 20% de sa pension principale deux cent trente six mille neuf cent soixante douze (236 972) francs l'an pour compter du 1er septembre 1989 au titre de ses 4e et 5e enfants ci-après désignés :
+Adjoa, née le 6 novembre 1972 Akouavi, née le 29 août 1973. Le montant annuel de cette majoration est fixé à quarante sept mille trois cent quatre vingt quatorze (47 394) francs.
+Par application des dispositions de l'article 15, paragraphe 6 de la loi n° 63-18 du 21 novembre 1963, M. Abolou Kouami ne pourra plus bénéficier des allocations familiales au titre de ses enfants ci-dessus désignés pour compter du 1er septembre 1989.
