@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 434 relatif à l'encombrement du petit marché près de la gare de Lomé.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté n° 577 du 20 novembre 1932, déterminant le mode de constitution, de fonctionnement, le régime administratif et financier des communes mixtes du Togo, ensemble tous les textes le modifiant ou le complétant; Vu l'arrêté n° 578 du 20 novembre 1932, créant la commune mixte de Lomé, ensemble tous les textes le modifiant ou le complétant; Vu l'arrêté municipal n° 10 du 23 décembre 1934, relatif à l'encombrement de la voie publique; Vu le procès-verbal des délibérations de la commission municipale de Lomé en date du 11 mai 1938; Sur la proposition de l'administrateur-maire de la commune mixte de Lomé;
+ARRETE:
