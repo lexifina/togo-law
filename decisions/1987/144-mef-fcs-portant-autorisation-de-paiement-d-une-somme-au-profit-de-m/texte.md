@@ -1,0 +1,4 @@
+# Texte
+Décision n° 144/MEF/FCS du 17-3-87 — Est autorisé le paiement de la somme de six millions huit cent soixante mille (6.860.000) francs CFA, représentant le crédit mis à la disposition du haut commissariat au tourisme pour lui permettre de participer du 7 au 12 mars 1987, à la 21e Bourse Internationale du tourisme à Berlin (B.F.A.) et du 21 au 29 mars 1987 au 29e salon international des vacances du tourisme et des loisirs à Bruxelles (Belgique).
+Cette somme sera mandatée et payée exceptionnellement par bon de caisse au nom de M. Tazzou Kokou, régisseur de l'office national togolais du tourisme qui est tenu de fournir, dans le délai réglementaire de 30 jours, à l'ordonnateur-délégué du budget général du Togo, les pièces justificatives afférentes aux dépenses effectuées.
+La dépense est imputable sur le budget général, gestion 1987, section 43, chapitre 92, article 00-00, paragraphe 65 et fera l'objet de procédure simplifiée au niveau de l'engagement.
