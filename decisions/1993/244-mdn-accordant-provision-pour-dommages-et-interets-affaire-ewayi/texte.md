@@ -1,0 +1,3 @@
+# Texte
+Décision n° 244/MDN du 10/11/93 — Une somme de TROIS CENT MILLE (300.000) Francs représentant le montant de la provision demandée par M. Akakpo pour la victime, déductible des dommages et intérêts qui seront éventuellement infligés aux forces armées togolaises suivant la conclusion du tribunal, sera versée à la caisse de règlement pécuniaire des avocats à laquelle maître Charles Koffi M. Akakpo à Lomé est affilié compte CARPA-sous-compte n° 90305683201-72 ouvert à la B.T.C.I. de Lomé (Affaire EWAYI Essoniwa contre Kataka Sédémon).
+La dépense est imputable au budget général 1993 chapitre 11.20 article 48 paragraphe 10.
