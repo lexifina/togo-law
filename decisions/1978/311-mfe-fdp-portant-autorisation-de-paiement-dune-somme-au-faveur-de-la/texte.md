@@ -1,0 +1,5 @@
+# Texte
+Décision n° 311-MFE-FDP. du 14-3-78 — Est autorisé le paiement par virement en faveur de la société N. V. Baggermaatschappij Bos en Kalis à son compte tenu à la Rotterdamse Bank N. V. à Amster
+192 JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE 16 Avril 1978 dam (Pays-Bas), de la somme de un million trois cent quarante trois mille sept cent quatre vingt cinq Florins Hollandais soixante dix cents (FH. 1.343.785,70) au cours CFA 99,825 pour 1 FH, soit cent trente quatre millions cent quarante trois mille quatre cent huit (134.143.408) francs CFA au titre de la traite échue au 28 septembre 1976, selon marché du 4 juillet 1972 relatif aux travaux d'assainissement de la lagune de la ville de Lomé, tranche 2.
+Une somme totale de cent trente quatre millions cent quarante quatre mille sept cent soixante treize (134.144.773) francs CFA représentant le montant du principal et des frais de télex, sera mandatée au nom du trésorier-payeur du Togo en couverture du règlement effectué par la Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO) à Lomé.
+La dépense est imputable au budget général, gestion 1977, chapitre 39, article 19.
