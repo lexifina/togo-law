@@ -1,0 +1,9 @@
+# Texte
+Arrêté n° 14/MJ du 29-6-72 — Sont désignés pour former le collège des assesseurs près la cour d'assises du Togo pour l'année 1972 :
+Première liste — (24 assesseurs près)
+MM. Odou Pascal 44 ans, en service au matériel — Lomé Bodjoïé Emmanuel 42 ans, en service à la m-rbrerie — Lomé Ajavon Hubert 54 ans, CEET — Lomé Pilos Louis 42 ans, en service au bureau matériel et transit — Lomé Bika Michel 35 ans, en service au ministère du commerce — Lomé Bodohoun John 44 ans, photographe, Bd. circulaire — Lomé Birrégah Emmanuel 43 ans, service des finances — Lomé Bruce Cutheber 57 ans, commissaire de police en retraite — Lomé Agbey Jean 57 ans, 102, Bd. circulaire — Lomé Sinfeya Honoré 35 ans, CNSS — Lomé de Souza Koffi Lauren 56 ans, transporteur — avenue de la libération — Lomé Bandiera Simon 57 ans, infirmier ppa' en retraite — Lomé — Tokoin Hôpital Kpadénou Michel 53 ans, employé de commerce, 11, rue de Marseille — Lomé Ajavon Oscar 35 ans, ex-agent municipal retraité — Lomé Dadzie H. Joseph 50 ans, 27, rue de France — Lomé de Souza Ovidio 49 ans, secrétaire général de la UAC — Lomé
+Azanglo Gilbert 43 ans, en service à la mairie de Lomé Adotévi Jacob 49 ans, 8, rue du Dahomey — Lomé Homawoo Pierre 42 ans, imprimeur — rue Verdum — Lomé Koutame Jean 57 ans, rue de l'ôti — Nyékonakpoé — Lomé Mines. Amedome Juliana, pharmacienne 23, rue d'Amoutivé — Lomé Amegnizio Geneviève, commerçante — Lomé Ames Caroline 51 ans, commerçante Lomé d'Almeida Patience 43 ans, couturière 27, rue Jeanne d'Arc — Lomé
+Deuxième liste — (5 assesseurs)
+MM. Mamad Djobo 44 ans, préposé des Douanes à Noépé Konkadja Sambiani, commis d'administration — Domaine Moussa Darago, service des pêches Maman Azouna, infirmier d'État — service d'hygiène Mme Atayi Kokovi Rebecca 47 ans, institutrice 38, avenue de la libération.
+MINISTÈRE DES FINANCES ET DE L'ÉCONOMIE
+Concession de pensions de retraite, de veuve et d'orphelin
