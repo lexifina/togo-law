@@ -1,0 +1,3 @@
+# Annexe, Article 1
+Hôtel du Ministre . . . . . . . . . . . 120.000 - 2 — Cabinet . . . . . . . . . . . . . . . . . . . . . . 400.000 - 3 — Contrôle Financier . . . . . . . . . . . . . . 480.000 - 4 — Service du Matériel . . . . . . . . . . . . . 500.000 - 5 — Garage Central . . . . . . . . . . . . . . . . . . 1.000.000 - 6 — Service des Finances . . . . . . . . . . . . . 1.900.000 - 7 — Agences Spéciales . . . . . . . . . . . . . . . 1.400.000 - 8 — Service des Douanes . . . . . . . . . . . . . 4.200.000 - 9 — Service des Contributions Directes . . . . . . . . . 1.090.000
+NUMERO SPECIAL JOURNAL OFFICIEL DE LA REPUBLIQUE DU TOGO
