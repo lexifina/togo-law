@@ -1,0 +1,4 @@
+# Signatures
+Fait à Lomé, le 29 Novembre 1995
+GENERAL GNASSINGBE EYADEMA
+IMPRIMERIE EDITOGO — LOME
