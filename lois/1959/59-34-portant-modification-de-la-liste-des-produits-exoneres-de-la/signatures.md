@@ -1,0 +1,9 @@
+# Signatures
+Fait à Lomé, le 24 mars 1959
+S. E. OLYMPIO.
+Par le Premier Ministre :
+Le ministre des finances,
+S. E. OLYMPIO.
+JOURNAL OFFICIEL DE LA REPUBLIQUE DU TOGO
+DECRETS; ARRETES, DECISIONS ET CIRCULAIRES
+PRESIDENCE DU CONSEIL
