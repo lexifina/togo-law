@@ -1,0 +1,4 @@
+# Texte
+Décision n° 127/MEF/FCS du 28-2-85 — Est autorisé le paiement au profit de maître Kodjo Bruce, avocat à la cour à Lomé de la somme de cent trois mille six cents (103.600) francs CFA, représentant le montant des honoraires et frais dus dans une affaire d'un accident de circulation survenu le 30 janvier 1984 par le véhicule RTG — 5667 appartenant à l'État togolais et affecté au service des travaux publics à Lomé et conduit par le sieur Kessouagni Wodomé, prévenu contre le ministère public.
+Cette somme sera mandatée et virée au compte C/C n° 3100984138 ouvert auprès de l'union togolaise de banque (U.T.B.) à Lomé au nom de maître Bruce, avocat à la cour.
+La dépense est imputable au budget général, gestion 1985, section 07-62-07-99, et fera l'objet de procédure simplifiée au niveau de l'engagement.
