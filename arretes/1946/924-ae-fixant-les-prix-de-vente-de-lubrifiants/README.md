@@ -1,0 +1,12 @@
+# Arrêté fixant les prix de vente de lubrifiants
+
+JOURNAL OFFICIEL 27E ANNEE N° 568 du 1946-12-16, page 1125.
+
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/arrete-fixant-les-prix-de-vente-de-lubrifiants
+
+En vigueur / in force: 1946-12-16 (publication in the Journal officiel (default for regulatory acts)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
