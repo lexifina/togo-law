@@ -1,0 +1,3 @@
+# Texte
+Décision n° 796-MEF-DCO du 1-9-88 — Il est mis à la disposition du ministre de la santé publique, des affaires sociales et de la condition féminine, un crédit de sept cent cinquante deux mille huit cents (752.800) francs CFA pour le règlement des factures relatives au banquet offert à Mme Aissata Moumouni, secrétaire d'État nigérien au ministère de la santé publique et aux affaires sociales qui a séjourné dans notre pays du 5 au 12 mars 1988.
+La dépense est imputable sur le budget général, gestion 1988, section 07, chapitre 62, article 07-21, paragraphe 99 (dépenses diverses imprévues).
