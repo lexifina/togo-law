@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 45 portant modification au taux de la prime de voyage allouée aux agents du cadre indigène des canotiers et piroguiers en service au wharf de Lomé.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté n° 161 du 24 mars 1934 réglant à nouveau le statut du personnel civil des cadres locaux indigènes à l'exception du personnel des travaux publics et du chemin de fer; Vu l'arrêté n° 239 du 1er mai 1934 spécial à ce personnel notamment en son article 4; Vu la décision n° 230 du 23 avril 1926 instituant une prime de voyage pour les piroguiers du wharf de Lomé; Vu l'arrêté n° 76 du 31 janvier 1934 fixant le taux de la prime de voyage allouée aux agents du cadre indigène des canotiers et piroguiers en service au wharf de Lomé; Sur la proposition de l'ingénieur en chef, chef du service du chemin de fer et du wharf du Togo;
+ARRETE :
