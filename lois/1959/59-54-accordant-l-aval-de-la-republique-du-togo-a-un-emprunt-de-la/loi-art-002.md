@@ -1,0 +1,2 @@
+# Loi, Article 2
+— La présente loi sera exécutée comme loi de la République du Togo.
