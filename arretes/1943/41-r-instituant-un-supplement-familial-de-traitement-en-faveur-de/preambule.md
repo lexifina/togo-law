@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 41 s. s. du 15 janvier 1943.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGISIN D'HONNEUR, COMMISSAIRE DE FRANCE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du commissaire de la République au Togo; Vu le décret du 30 décembre 1912 sur le régime financier des colonies; Vu le décret du 2 mars 1910 réglementant la solde et les allocations accessoires du personnel des cadres coloniaux et les actes modificatifs subséquents; Vu l'arrêté du 2 octobre 1933 fixant les conditions générales de recrutement, stage, avancement, discipline du personnel des cadres locaux européens du Togo à l'exception de celui des services civils; Vu le décret n° 3126 du 5 novembre 1942 instituant un supplément familial de traitement en faveur des fonctionnaires des cadres coloniaux régis par décret; Vu l'ordonnance n° 35 en date du 6 décembre 1942 du haut-commissaire de l'Afrique française; Le conseil d'administration entendu; Sous réserve d'approbation du gouverneur général de l'A. O. F.;
+ARRETE:
