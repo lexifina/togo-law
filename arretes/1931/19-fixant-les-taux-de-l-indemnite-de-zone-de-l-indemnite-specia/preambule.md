@@ -1,0 +1,5 @@
+# Préambule
+ARRÊTE No 19 fixant pour l'année 1931 les taux de l'indemnité de zone, de l'indemnité spéciale du Togo et de l'indemnité de cherté de vie.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 2 mars 1910 sur la solde et les accessoires de solde du personnel colonial; ensemble tous les actes modificatifs subséquents, notamment les décrets des 12 juin 1911 et 11 septembre 1920; Vu l'arrêté du 11 décembre 1925 relatif à l'indemnité spéciale du Togo notamment dans ses articles 2 et 3; Vu les arrêtés du 28 janvier 1930 fixant pour l'année 1930 les taux de l'indemnité de zone, de cherté de vie et spéciale du Togo (indigène); Vu le procès-verbal de la séance tenue le 3 janvier 1931 établi par la commission chargée de donner son avis sur l'opportunité de maintenir ou de modifier en 1931 les indemnités de zone, de cherté de vie et l'indemnité spéciale du Togo allouées au personnel des cadres européens et indigènes du Territoire; Le conseil d'administration entendu,
+ARRÊTE :
