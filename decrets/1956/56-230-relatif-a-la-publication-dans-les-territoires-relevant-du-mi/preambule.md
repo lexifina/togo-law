@@ -1,0 +1,4 @@
+# Préambule
+DECRET N° 56-230 du 29 février 1956 relatif à la publication dans les territoires relevant du Ministère de la France d'Outre-Mer de la convention sur la circulation routière; du protocole relatif aux pays ou territoires présentement occupés et de l'acte final, signés à Genève le 19 septembre 1949.
+Par le président du conseil des ministres : Sur le rapport du Ministre de la France d'outre-mer, Vu l'article 47 de la Constitution; Vu le décret n° 50-1396 du 4 novembre 1950 portant publication de la convention sur la circulation routière, du protocole relatif aux pays ou territoires présentement occupés et de l'acte final, signés à Genève le 19 septembre 1949; Vu les notes diplomatiques échangées en vue d'étendre la convention et les textes précités aux territoires d'outre-mer et aux territoires sous tutelle.
+DECRETE :
