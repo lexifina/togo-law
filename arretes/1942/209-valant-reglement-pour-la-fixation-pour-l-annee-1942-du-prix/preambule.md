@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 209 valant règlement pour la fixation pour l'année 1942 du prix de cession de la chaux de Tokpli.
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE FRANCE AU TOGO P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'instruction générale sur la comptabilité des matières appartenant à l'État au compte du département des colonies du 16 janvier 1905; Vu le décret du 30 décembre 1912 sur le régime financier des colonies; Vu l'arrêté 114 du 23 février 1938 portant organisation du service des travaux publics; Vu l'instruction du 4 octobre 1938 sur la comptabilité administrative des travaux en régie; Sur la proposition du chef du service des travaux publics et des mines du Togo; Le conseil d'administration entendu dans sa séance du 7 avril 1942;
+ARRETE :
