@@ -1,0 +1,4 @@
+# Signatures
+Fait à Lomé, le 30 juillet 1958
+S. E. OLYMPIO.
+JOURNAL OFFICIEL DE LA REPUBLIQUE DU TOGO
