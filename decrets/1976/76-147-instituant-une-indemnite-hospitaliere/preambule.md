@@ -1,0 +1,5 @@
+# Préambule
+DECRET N° 76-147 du 3 septembre 1976 instituant une indemnité hospitalière.
+LE PRESIDENT DE LA REPUBLIQUE.
+Vu les ordonnances n° 1 et 2 du 14 janvier 1967 ; Vu l'ordonnance n° 16 du 14 avril 1967 ; Vu l'ordonnance n° 1 du 4 janvier 1968 portant statut général des fonctionnaires ; Vu le décret n° 69-115 du mai 1969 portant modalités communes d'application du statut des fonctionnaires ; Vu le décret 70-156 du 14 septembre 1970 portant création de l'université du Bénin ; Vu les décrets n° 70-157 du 14 septembre 1970 et n° 72-181 du 5 septembre 1972 portant création des écoles de l'université du Bénin ; Vu le décret n° 71-184 du 12 octobre 1971 portant transformation du centre national hospitalier de Tolstoï en centre hospitalier universitaire ; Vu le décret n° 71-206 du 18 novembre 1971 portant organisation du centre hospitalier universitaire ; Vu le décret n° 75-76 du 4 avril 1975 fixant le statut de l'université du Bénin ; Sur proposition du ministre de l'éducation nationale, du ministre de la santé publique et des affaires sociales et du ministre des finances et de l'économie.
+DECRETE :
