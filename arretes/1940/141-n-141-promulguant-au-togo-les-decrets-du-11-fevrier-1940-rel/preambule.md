@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 141 promulguant au Togo les décrets du 11 février 1940 relatifs 1° à l'application aux territoires relevant du ministère des colonies du décret du 10 décembre 1935 qui a promulgué dans la métropole la convention de Genève du 27 juillet 1929 pour l'amélioration du sort des blessés et des malades dans les armées en campagne; 2° au règlement sur l'emploi de l'emblème de la Croix-Rouge et des armoiries de la Confédération suisse dans les territoires relevant du ministère des colonies.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo et au Cameroun; Vu les décrets du 11 février 1940 susvisés; Vu la D. M. n° 337 du 16 février 1940;
+ARRETE:
