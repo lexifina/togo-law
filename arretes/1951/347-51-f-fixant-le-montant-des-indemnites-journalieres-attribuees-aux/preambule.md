@@ -1,0 +1,6 @@
+# Préambule
+ARRETE No 347-51/F. du 23 mai 1951.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO P. L.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du Territoire du Togo et création d'assemblées représentatives; Vu le décret n° 50.794 du 23 juin 1950, fixant le régime de rémunération applicable en position de mission aux personnels des cadres relevant du Ministère de la France d'outre-mer, se rendant en mission; Vu le décret n° 50.356 du 21 mars 1950, relatif aux déplacements à l'étranger des personnels des services civils relevant du Ministère de la France d'outre-mer; Vu l'arrêté n° 675-50/F. du 23 août 1950, fixant le régime de rémunération applicable en position de mission aux personnels des cadres locaux en service au Togo;
+Vu l'arrêté n° 304-51/F. du 3 mai 1951, fixant l'indemnite journalière accordée aux membres de l'Assemblée Représentative du Togo; Vu l'arrêté n° 970-50/F. du 5 décembre 1950, portant attribution d'une indemnité de déplacement au bénéfice des membres titulaires de la Commission Consultative Permanente Elargie; Vu la circulaire ministérielle n° 17.137/Pel/BE. du 7 décembre 1950; Le conseil privé entendu;
+ARRETE:
