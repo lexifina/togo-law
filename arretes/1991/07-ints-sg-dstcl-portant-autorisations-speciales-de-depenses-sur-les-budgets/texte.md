@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 07/INTS-SG-DSTCL du 5-2-91 — Sont accordées des autorisations spéciales de dépenses sur les budgets des préfectures du Golfe, des Lacs, de Vo, de Yoto, du Zio, de Haho, de l'Ogou, d'Amou, de Wawa, de Tchaoudjo, de Tchamba, de Sotouboua, de Bassar, de Kloto, d'Assoli, de la Kozah, de Doufelgou, de la Binah, de la Kéran, de l'Oti et de Töne, gestion 1991 représentant le douzième des budgets de la gestion 1990 pour faire face aux dépenses du 1er janvier 1991 jusqu'à l'approbation du budget primitif gestion 1991.
+Les membres du conseil d'administration chargé de la gestion des biens de l'institut des filles de Marie Auxiliatrice
