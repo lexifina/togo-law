@@ -1,0 +1,5 @@
+# Préambule
+ARRÊTÉ N° 618 complétant l'arrêté n° 443 du 4 août 1927 allouant une indemnité spéciale et les carburants et lubrifiants nécessaires aux fonctionnaires propriétaires d'une voiture automobile autorisés à en affecter l'usage au service de l'Administration.
+L'Administrateur en Chef des Colonies, Chevalier de la Légion d'Honneur, Commissaire de la République p. i.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 30 décembre 1912 sur le régime financier des Colonies : ensemble tous les textes subséquents de ce décret ; Vu l'arrêté n° 443 du 4 août 1927 allouant une indemnité spéciale et les carburants et lubrifiants nécessaires aux fonctionnaires propriétaires d'une voiture automobile autorisés à en affecter l'usage au service de l'Administration locale ; Vu l'arrêté du 20 octobre 1927 rendant applicable aux fonctionnaires propriétaires d'une motocyclette le bénéfice de l'arrêté du 4 août 1927 ; Le Conseil d'Administration entendu ;
+ARRÊTE:
