@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 1031/MTFP du 6-12-88 — Est et demeure rapporté en ce qui concerne M. Kwadzo Komla Atsu, n° mle 018692-W, inspecteur de 2e classe 3e échelon du point de vue exclusif de la période d'interruption pour études allant de 1961 à 1967 (6) ans, l'arrêté n° 888/MTFP du 24 mai 1985, rapportant l'arrêté n° 761/MTFP du 23 avril 1985 portant admission à la retraite.
+M. Kwadzo Komla Atsu, n° mle 018692-W, inspecteur de 2e classe 3e échelon du cadre des fonctionnaires de l'enseignement en service à la direction nationale de l'enseignement protestant, qui a accompli trente (30) ans de services effectifs, est admis à faire valoir ses droits à une pension de retraite pour compter du 1er janvier 1989.
