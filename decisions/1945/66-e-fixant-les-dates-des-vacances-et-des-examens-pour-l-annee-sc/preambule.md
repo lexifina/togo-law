@@ -1,0 +1,5 @@
+# Préambule
+DECISION N° 66 E. du 17 février 1945.
+LE GOUVERNEUR DES COLONIES, CROIX DE GUERRE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté du 18 janvier 1935 fixant l'organisation générale de l'enseignement officiel au Togo, ensemble les textes modificatifs subséquents; Vu l'arrêté du 30 novembre 1943 organisant l'enseignement privé au Togo; Vu l'arrêté du 30 juin 1942 portant organisation de l'école européenne de Lomé; Vu l'arrêté du 25 août 1941 portant organisation de l'école primaire supérieure de Lomé; Vu l'arrêté du 4 septembre 1941 portant organisation du cours complémentaire de l'école Notre-Dame des Apôtres de Lomé; Vu l'arrêté N° 83 du 5 février 1942 fixant les périodes de vacances dans les écoles du Territoire; Sur la proposition du chef du service de l'enseignement;
+DECIDE :
