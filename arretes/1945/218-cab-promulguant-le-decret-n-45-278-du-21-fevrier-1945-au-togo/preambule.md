@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 218 CAB. du 28 avril 1945.
+LE GOUVERNEUR DES COLONIES, CHOIX DE QUERRE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo; Vu le décret du 29 avril 1939 étendant aux territoires africains sous mandat français du Togo et du Cameroun, les dispositions du décret du 21 avril 1939 ayant pour objet de garantir aux hommes rappelés sous les drapeaux la reprise de leur contrat de travail, promulgué au Togo le 8 juin 1939; Vu l'acte dit « loi du 11 octobre 1940 » rendant applicable aux Territoires relevant du Secrétariat d'État aux Colonies, l'acte dit « loi du 13 septembre 1940 » relatif à l'obligation d'emploi des démobilisés, promulgué au Togo le 22 novembre 1940;
+ARRETE:
