@@ -1,0 +1,6 @@
+# Signatures
+Fait à Lomé, le 13 Avril 2000
+LE PRESIDENT DE LA REPUBLIQUE
+Gnassingbé EYADEMA
+LE PERMIER MINISTRE
+Eugène Koffi ADOBOLI
