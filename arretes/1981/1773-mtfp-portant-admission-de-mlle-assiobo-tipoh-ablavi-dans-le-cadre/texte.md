@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 1773/MTFP du 21/12/81 — Mlle Assiobo-Tipoh Ablavi, titulaire du diplôme de maîtrise en sciences économiques (option : gestion) de l'école supérieure des techniques économiques et de gestion (ESTEG) de l'Université du Bénin, est admise dans le cadre interministériel des fonctionnaires de l'administration générale en qualité d'attaché d'administration de 2e classe 1er échelon stagiaire (catégorie A2 — indice 1100) et mise à la disposition du ministre de l'industrie et des sociétés d'Etat (chapitre 42, article 2 du budget général) exercée 1981.
+Le présent arrêté prendra effet à compter de la date de prise de service de l'intéressée.
