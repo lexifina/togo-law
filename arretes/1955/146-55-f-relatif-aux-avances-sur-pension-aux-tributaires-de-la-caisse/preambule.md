@@ -1,0 +1,6 @@
+# Préambule
+ARRETE N° 146-55/F. du 29 janvier 1955 relatifs aux avances sur pension aux tributaires de la Caisse locale de Retraites du Togo.
+L'ADMINISTRATEUR EN CHEF DE LA FRANCE D'OUTRE-MER CHEVALIER DE LA LÉGION D'RONNEUR, COMMESSAIRE DE LA RÉPUBLIQUE P.I. AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu la loi du 20 septembre 1948 portant réforme du régime des pensions civiles et militaires; Vu le décret du 21 avril 1950 portant règlement d'administration publique relatif au régime des pensions de la Caisse de retraite de la France d'outre-mer; Vu le décret du 26 janvier 1948 portant organisation de la Caisse locale de retraites du personnel africain du territoire du Togo;
+Vu l'arrêté n° 712/F. du 7 septembre 1948 ayant institué un régime d'avance sur pension en faveur du personnel autochtone des cadres locaux et de leurs veuves et orphelins; Vu le décret du 29 mars 1954 réorganisant la Caisse locale de retraites du Togo; Vu l'arrêté n° 995-54/F. du 20 novembre 1954 abrogeant l'arrêté n° 712/F. du 7 septembre 1948; Sous réserve d'approbation ministérielle; Le conseil privé entendu;
+ARRETE :
