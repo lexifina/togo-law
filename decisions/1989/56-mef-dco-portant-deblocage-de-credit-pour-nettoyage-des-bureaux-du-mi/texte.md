@@ -1,0 +1,3 @@
+# Texte
+Décision n° 55-MEF-DCO du 18-1-89 — Il est mis à la disposition du trésorier-payeur, un crédit de un million trois cent soixante quatorze mille sept cent quatre vingt dix (1.374.790) francs CFA pour régulariser les frais d'hébergement, de transport, de communications et annexes de la délégation togolaise qui s'est rendue à Rio et à Brasilia (Brésil) dans le cadre du 6e Club de Paris.
+La dépense est imputable sur le budget général, gestion 1988, section 07, chapitre 83, article 0000, paragraphe 99 (conférences internationales) et fera l'objet de procédure simplifiée au niveau de l'engagement.
