@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 918-MJ-FP-T du 23-9-76 — Mme. Montant Amegnidé (Reine Pierrette) née Dogbe, titulaire du brevet d'études du premier cycle du second degré (B.E.P.C.) et qui a réuni cinq ans d'ancienneté dans l'administration est admise dans le cadre interministériel des fonctionnaires de l'administration générale en qualité d'adjoint administratif de 2e classe 1er échelon (catégorie C — indice 550) en application des dispositions de l'article 31-1°-C du décret n° 75-119 du 18 avril 1975 et conserve son affectation actuelle (chapitre 8, article 13 du budget général).
+Le présent arrêté a effet pour compter de la date de sa signature.
