@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 42 F. du 15 janvier 1943.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE FRANCE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du commissaire de la République au Togo; Vu l'arrêté du 31 juillet 1933 organisant l'état-civil des personnes régies par les coutumes locales; Vu l'arrêté du 30 novembre 1937 fixant les taux et réglementant à nouveau les indemnités de charges de famille du personnel indigène des cadres locaux du Togo et des cadres indigènes de l'A. O. F., en service au Togo; Vu le télégramme officiel n° 448 F./2 du 21 novembre 1942 du gouverneur général, haut-commissaire de l'Afrique française; Vu le décret du 25 juin 1940 créant le Haut-Commissariat de l'Afrique française; Vu l'ordonnance n° 35 en date du 6 décembre 1942 du haut-commissaire en Afrique française; Le conseil d'administration entendu; Sous réserve d'approbation du gouverneur général de l'Afrique occidentale française;
+ARRETE :
