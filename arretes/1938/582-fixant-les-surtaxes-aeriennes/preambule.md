@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 582 fixant les surtaxes aériennes.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté du 4 juin 1937, fixant les surtaxes aériennes; Vu l'arrêté du 10 novembre 1937, fixant les surtaxes à appliquer aux correspondances-avion à destination de l'Amérique du Sud et de l'Amérique Centrale; Vu le décret du 21 juillet 1938, fixant pour la métropole les surtaxes des correspondances à destination des pays de l'Amérique du Sud, de l'Amérique Centrale et des Antilles; Vu la lettre AVS 13/568/38 du 19 août 1938, de M. le ministre des P. T. T.; Vu l'arrêté du 17 septembre 1938 fixant les surtaxes des correspondances-avion à destination de la France et de la Corse; Vu la lettre 5236/C. F. du 28 septembre 1938, du directeur de la Régie Air Afrique informant du changement du coefficient du franc-or porté à 11,5;
+ARRETE :
