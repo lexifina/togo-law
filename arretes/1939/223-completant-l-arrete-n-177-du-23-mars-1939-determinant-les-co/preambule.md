@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 223 complétant l'arrêté n° 177 du 23 mars 1939 déterminant les conditions d'organisation et de fonctionnement du fonds commun des sociétés indigènes de prévoyance, de secours et de prêts mutuels agricoles.
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 30 décembre 1912 sur le régime financier des colonies, notamment en son article 393, modifié par le décret du 5 juillet 1927; Vu l'arrêté n° 177 du 23 mars 1939 déterminant les conditions d'organisation et de fonctionnement du fonds commun des sociétés indigènes de prévoyance, de secours et de prêts mutuels agricoles; Vu la dépêche ministérielle n° 1200 en date du 24 février 1939; Le conseil d'administration entendu dans sa séance du 25 avril 1939;
+ARRETE :
