@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 619 promulguant au Togo l'arrêté ministériel du 22 août 1941 portant prohibition de sortie.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE FRANCE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo; Vu le décret du 13 septembre 1940 relatif aux prohibitions de sortie de certaines marchandises, promulgué au Togo le 5 mars 1941, et les textes subséquents qui l'ont complété ou modifié; Vu le décret-loi du 28 août 1939 étendant aux colonies les prohibitions de sortie établies dans la métropole, promulgué au Togo le 5 octobre 1939; Vu l'arrêté ministériel du 22 août 1941; Vu les instructions en date du 17 octobre 1941 du Haut-Commissaire de l'Afrique française;
+ARRETE:
