@@ -1,0 +1,4 @@
+# Texte
+Décision n° 312-MFE-FDP du 14-3-78 — Est autorisé le paiement par virement en faveur de la Nederlandsche Bank à Amsterdam (Pays-Bas), de la somme de deux cent trente deux florins hollandais soixante dix cents (FH 232,70) au cours CFA 99,825 pour 1 FH, soit vingt trois mille deux cent vingt neuf (23.229) francs CFA, représentant le montant des taxes sur le transfert des devises étrangères effectué au profit de la société N.V. Baggermaatschappij Bos en Kalis à l'occasion du règlement des intérêts et amortissement dus à cet organisme prêteur à l'échéance du 1er septembre 1976.
+Cette somme sera mandatée au nom du trésorier-payeur du Togo en couverture du règlement effectué par la Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO) à Lomé.
+La dépense est imputable au budget général, gestion 1977, chapitre 39, article 19.
