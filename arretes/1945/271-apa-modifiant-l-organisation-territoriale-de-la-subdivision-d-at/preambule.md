@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 271 APA. du 29 mai 1945.
+LE GOUVERNEUR DES COLONIES, CROIX DE GUERRE — MÉDALLE DE LA RÉSISTANCE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté N° 255 du 2 juillet 1936 portant organisation territoriale du cercle du centre; Vu l'arrêté N° 723 du 28 décembre 1938 portant rétablissement du cercle de Klouto; Vu l'arrêté N° 464 du 4 septembre 1939 rétablissant la subdivision de Klouto et la rattachant au cercle du centre; Vu l'arrêté N° 135 du 9 mars 1937 prononçant le rattachement du canton du Litimé à la subdivision d'Atakpamé (cercle du centre); Vu l'arrêté N° 161 du 21 mai 1941 portant modification dans l'organisation des cantons du cercle du centre; Vu l'arrêté N° 113/APA. du 1er mars 1945 portant réorganisation du commandement indigène; Sur la proposition du commandant du cercle du centre;
+ARRETE :
