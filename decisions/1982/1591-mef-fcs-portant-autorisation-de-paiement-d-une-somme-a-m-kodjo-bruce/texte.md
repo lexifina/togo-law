@@ -1,0 +1,4 @@
+# Texte
+Arrêté n° 1591/MTFP du 3/11/82 — En attendant la parution du statut particulier des instructeurs de jeunesse et d'animation, les candidats ci-après désignés, titulaires du certificat d'aptitude aux fonctions d'instructeur de jeunesse et d'animation (CAIJA) de l'institut national de la jeunesse et des sports de Lomé, sont nommés dans la catégorie B en qualité d'instructeurs de jeunesse et d'animation de 2e classe 1er échelon stagiaires (indice 750) et mis à la disposition du ministre de la jeunesse, des sports et de la culture (chapitre 34, article 5 du budget général) :
+ABOU Aboulaye AGOUTEY Koku Agbotor ALOUMON Anani Bléwu ANYOH Edem Tettey Bibioh DAGOUDO Labinou Kouhouédo Dodji DEH Komi Dzigbodi EKLO Yao Dodzi Semewona GADZE Komlan Lologno KOUAMI Egah Yao KOUTEMA Danka Wenmigaba MISSIKOUA Komla MOSSI Dzakpassou Bumekpo NOUVLO Yawovi Agbessi.
+Le présent arrêté prendra effet à compter de la date de prise de service des intéressés.
