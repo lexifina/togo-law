@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 681 réorganisant le cadre des gardes frontières du Togo.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu l'arrêté du 25 août 1923 instituant un cadre des gardes frontières au Togo, ensemble les arrêtés des 21 mars 1924 et 19 août 1925 le modifiant ou le complétant; Vu l'arrêté du 23 juin 1928 réglant le statut et fixant les traitements du personnel civil des cadres locaux indigènes du Togo à l'exécution des agents des services des travaux publics et des chemins de fer; Vu l'arrêté du 3 juillet 1928 réorganisant le cadre des gardes frontières au Togo, ensemble l'errata du 27 juillet 1928, les arrêtés du 19 décembre 1928 et 10 juin 1930 le complétant ou le modifiant; Vu l'arrêté du 10 juillet 1931; Vu l'arrêté n° 365 du 8 juillet 1932, modifiant les arrêtés des 21 décembre 1925 et 28 janvier 1930 accordant des indemnités représentatives de logement aux agents indigènes des cadres locaux du Togo et aux agents indigènes détachés des cadres de l'A. O. P.;
+ARRETE :
