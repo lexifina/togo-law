@@ -1,0 +1,3 @@
+# Préambule
+ARRETE No 22-MFAE-MF-FO du 31 janvier 1962 portant prorogation des crédits, exercice 1961. Le Ministre des finances et des affaires économiques, Vu l'arrêté no 104/PM, du 28 mai 1958, définissant les compétences ministérielles en matière d'administration et de gestion des diverses catégories de personnel; Vu le décret du 30 décembre 1912 sur le régime financier des Territoires d'outre-mer, ensemble les actes modificatifs subséquents; Vu la loi no 60-39 (Loi des Finances pour l'exercice 1961) du 30 décembre 1960; Vu les demandes de M. le Ministre des Travaux, Mines, Transports, des Postes et Télécommunications; Sur la proposition du Chef du Service des Finances, Ordonnateur-Délégué;
+ARRETE :
