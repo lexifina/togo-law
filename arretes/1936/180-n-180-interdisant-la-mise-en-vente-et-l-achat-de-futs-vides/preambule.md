@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 180 interdisant la mise en vente et l'achat de fûts vides ayant contenu des combustibles liquides et non préalablement désodorisés pour le stockage de l'huile de palme.
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉGRON D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 13 juin 1929 réglementant les conditions de circulation, la mise en vente et l'exportation des produits naturels au Togo; Vu l'arrêté du 26 septembre 1934 portant codification de l'inspection des produits et tous textes subséquents le modifiant ou le complétant; Vu les articles 471 paragraphe 15 et 474 du code pénal; Vu le décret du 24 mars 1923 réglementant au Togo l'exercice des pouvoirs disciplinaires; Vu le décret du 21 avril 1933 réorganisant la justice indigène au Togo; Vu le rapport du mois de janvier 1936 du service de l'inspection des produits; Après avis de la chambre de commerce; Le conseil d'administration entendu;
+ARRETE:
