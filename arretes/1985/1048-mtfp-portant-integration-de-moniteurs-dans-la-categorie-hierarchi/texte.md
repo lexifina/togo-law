@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 1048/MTFP du 9/7/85 — Les moniteurs ci-après désignés (Cat. D) du cadre des fonctionnaires de l'enseignement, admis au certificat élémentaire d'aptitude pédagogique (CEAP) session des 19 et 20 octobre 1983, sont intégrés dans la catégorie hiérarchique supérieure en qualité d'instituteurs-adjoints de 3e classe, 1er échelon, (cat. C ind. 550) à compter du 1er janvier 1984 et conservent leur affectation actuelle (section 27, chapitre 20 du budget général).
+— Tchackey B. A. Hamidou, n° mle 003244-N, moniteur de 2e classe, 2e échelon, ind. 470 — Ouro-Aguia Alidarou, n° mle 022701-F, moniteur de 2e classe, 1er échelon, ind. 430 — Kpati Komlavi Mensah, n° mle 023929-K, moniteur de 3e classe, 1er échelon, indice 270.
