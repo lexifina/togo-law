@@ -1,0 +1,18 @@
+# Arrêté n° 27/MFAE/F/F du 19 février 1962 portant création de régie d'avance
+
+JOURNAL OFFICIEL 7E ANNEE N° 187 du 1962-03-16, page 240.
+
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/arrete-n-27mfaeff-du-19-fevrier-1962-portant-creation-de-regie-davance
+
+En vigueur / in force: 1962-03-16 (publication in the Journal officiel (default for regulatory acts)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
+| [art-003](art-003.md) | Article 3 |
+| [art-004](art-004.md) | Article 4 |
+| [art-005](art-005.md) | Article 5 |
+| [art-006](art-006.md) | Article 6 |
+| [art-007](art-007.md) | Article 7 |
