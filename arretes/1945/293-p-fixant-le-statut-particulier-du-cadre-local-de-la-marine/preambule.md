@@ -1,0 +1,8 @@
+# Préambule
+ARRETE N° 293/р. du 7 juin 1945.
+LE GOUVERNEUR DES COLONIES, CROIX DE GUERRE — MÉDAILLE DE LA RÉSISTANCE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté n° 288/р. du 7 juin 1945 fixant le statut général des cadres locaux indigènes du territoire du Togo;
+ARRETE:
+Dispositions générales
+ARTICLE PRÉMIER. — Les dispositions de l'arrêté n° 288/р. du 7 juin 1945 fixant le statut général des fonctionnaires des cadres locaux indigènes sont applicables au cadre local des Chemins de fer et du wharf à l'exception de celles qui seraient contraires aux prescriptions du présent arrêté.
+Constitution du cadre
