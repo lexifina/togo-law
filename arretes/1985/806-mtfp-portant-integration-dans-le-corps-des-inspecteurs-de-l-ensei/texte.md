@@ -1,0 +1,5 @@
+# Texte
+Arrêté n° 806/MTFP du 8-5-85 — Est et demeure rapporté en ce qui concerne M. Alfa Weidana Agnayou n° mle 011810-U, l'arrêté n° 00814/MTFP du 27 juin 1984 portant avancement automatique d'échelon dans le cadre des fonctionnaires de l'enseignement.
+M. Alfa Weidana Agnayou, n° mle 011810-U, professeur de 2e classe 2e échelon (catégorie A1 — indice 2050) du cadre des fonctionnaires de l'enseignement, admis au certificat d'aptitude à l'inspection de l'éducation nationale (CAIEN) session de 1983, est rayé de son corps d'origine et intégré dans celui des inspecteurs de l'enseignement du troisième degré en qualité d'inspecteur de 2e classe 2e échelon (catégorie A1 — indice 2050) à compter du 1er mai 1983 et conserve son affectation actuelle (section 27, chapitre 28 du budget général).
+L'ancienneté dans la nouvelle catégorie est acquise à compter du 12 novembre 1981 date du dernier avancement automatique d'échelon de l'intéressé dans son ancien corps.
+M. Alfa Weidana Agnayou, n° mle 011810-U, inspecteur de 2e classe 2e échelon est élevé au 3e échelon de son grade à compter du 12 novembre 1983.
