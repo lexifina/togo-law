@@ -1,0 +1,4 @@
+# Texte
+Décision n° 141/MEF/FCS du 13-3-87 — Est autorisé le paiement de la somme de un million cinq cent mille (1.500.000) francs CFA, représentant le crédit mis à la disposition du haut commissariat au tourisme pour permettre au Togo de participer au salon mondial du tourisme de Paris qui se déroulera du 6 au 12 février 1987.
+Cette somme sera mandatée et payée exceptionnellement par bon de caisse au nom de M. Tazzou Kokou, régisseur de l'office national togolais du tourisme qui est tenu de fournir, dans le délai réglementaire de 30 jours à l'ordonnateur-délégué du budget général du Togo, les pièces justificatives afférentes au paiement des dépenses.
+La dépense est imputable sur le budget général, gestion 1987, section 43, chapitre 92, article 00-00, paragraphe 65 et fera l'objet de procédure simplifiée au niveau de l'engagement.
