@@ -1,0 +1,4 @@
+# Texte
+Décision n° 845-MEF-MCT-CFT du 14-9-88 — Est autorisé le paiement à maître Kokou Koffigoh, avocat à la Cour — BP n° 2302 — compte n° 1467 BALTEX-Lomé-Togo la somme de deux millions trente cinq mille (2.035.000) francs CFA.
+Cette somme dont les bénéficiaires sont d'une part les ayants-droit des fous Sowou Dovi Yao, Tila Akara, Akakpo Ama, Adjili Koumondji et d'autre part les victimes blessées Mensah Kpessi Afiwa et Boevi Enyonam, représente le solde du montant de 6.535.000 francs CFA dû au titre de la condamnation des C.F.T. par le tribunal de première instance de Lomé (2e chambre correctionnelle) dans le jugement de l'affaire du sinistre ferroviaire du 17 mai 1980 (déraillement du train 350 de la ligne Blitta-Lomé) au PK. 42.
+La dépense est imputable au budget annexe des chemins de fer du Togo, chapitre 7, article 5 (gestion 1988).
