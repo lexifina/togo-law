@@ -1,0 +1,3 @@
+# Préambule
+ARRETE N° 147/MTP/TP. du 21 juin 1961 portant fermeture du pont du Sio. Le Ministre des travaux publics, des mines, des transports et des postes et télécommunications, Vu l'arrêté n° 104/PM. du 28 mai 1958, définissant les compétences ministérielles en matière d'administration et de gestion des diverses catégories de personnel; Vu l'arrêté n° 429 du 25 juillet 1938 fixant les modalités d'application du décret du 16 juin 1935 rendant applicable au territoire du Togo, le décret du 21 juin 1934 portant réglementation pour l'usage des voies ouvertes à la circulation publique dans l'Afrique occidentale française;
+ARRETE :
