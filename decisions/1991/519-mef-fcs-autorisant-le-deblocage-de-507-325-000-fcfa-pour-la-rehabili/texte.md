@@ -1,0 +1,4 @@
+# Texte
+Décision n° 519-MEF-FCS du 20-6-91 — Il est mis à la disposition du ministre de la santé publique, un crédit de cinq cent sept millions trois cent vingt cinq mille (507.325.000) francs CFA, pour la réalisation des travaux de réhabilitation des infrastructures des centres de soins de son département dans les conditions suivantes :
+| A/ENAM | = 30.000.000 | | --- | --- | | B/Hôpital de Tsévié | = 30.558.474 | | C/CHR Atakpamé | = 4.989.660 | | D/Centre de Santé de Kodjoviakopé | = 4.202.653 | | E/Hôpital psychiatrique d'Aného | = 16.203.397 | | F/CHR Sokodé | = 14.708.071 | | G/Hôpital Kpalimé | = 2.906.965 | | H/Ecoles des sages-femmes | = 45.900.347 | | I/CHR Dapaong | = 34.135.620 | | J/Hôpital Aného | = 31.239.848 | | K/Direction générale de la santé | = 203.000.000 | | L/Kinésithérapie | = 14.857.532 | | Réserve | = 74.622.433 |
+La dépense est imputable sur le budget général, gestion 1991, section 7, chapitre 62, article 7-21, paragraphe 99.
