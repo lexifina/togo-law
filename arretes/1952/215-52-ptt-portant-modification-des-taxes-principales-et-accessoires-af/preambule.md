@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 215-52/P.T.T. du 4 mars 1952.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO.
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 30 décembre 1912 sur le régime financier des Colonies, l'ensemble des actes qui l'ont modifié; Vu l'arrêté no 541-50/PTT. du 10 juillet 1950 rendant exécutoire la délibération no 9-50 du 15 avril 1950 de l'Assemblée Réprésentative Togolaise fixant la quote-part Territoriale revenant au Togo pour le service des Colis Postaux; Vu l'arrêté no 851-51/PTT. du 30 novembre 1951 portant modification des taxes principales et accessoires des colis postaux du régime de l'Union Française; Vu la lettre no VI A2/20/B 614 du 18 février 1952 du Ministre des Postes, Télégraphes et Téléphones;
+ARRETE :
