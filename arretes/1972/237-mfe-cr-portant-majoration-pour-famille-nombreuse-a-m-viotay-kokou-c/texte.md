@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 237/MFE-CR du 1-8-72 — Par application des dispositions de l'article 15, paragraphe IV de la loi n° 63-118 du 21 novembre 1963, le taux de la majoration pour famille nombreuse allouée à M. Viotay Kokou Charles, adjoint administratif principal de classe exceptionnelle en retraite, est porté de 20% à 25% de sa pension principale trois cent onze mille trois cent vingt quatre (311.324) francs pour compter du 1er juillet 1972 au titre de son enfant (6e rang) Charlotte, née le 9 juin 1956.
+Le montant annuel de cette majoration est fixé à soixante dix sept mille huit cent trente deux (77,832) francs pour compter du 1er juillet 1972.
