@@ -1,0 +1,12 @@
+# Préambule
+DECRET N° 54-372 du 29 mars 1954 portant règlement d'administration publique pour l'application des articles 30, 31 et 34 de la loi n° 51-598 du 24 mai 1951 relatifs au rachat des parts contributives.
+Le président du conseil des ministres,
+Sur le rapport du ministre des finances et des affaires économiques, du ministre de l'Intérieur, du ministre de la France d'outre-mer, du ministre du travail et de la sécurité sociale, du ministre de la santé publique et de la population, du secrétaire d'État à la présidence du conseil, chargé des relations avec les États associés, du secrétaire d'État à la présidence du conseil et du secrétaire d'État au budget.
+Vu le code des pensions civiles et militaires de retraites;
+Vu la loi n° 51-598 du 24 mai 1951 et notamment son article 34 d'après lequel des règlements d'administration publique détermineront les modalités d'application des articles 30, 31 et 34 de la loi ainsi que les organismes admis à leur bénéfice;
+Le conseil d'État entendu:
+DECRETE:
+ARTICLE PRENIER. — Les dispositions du présent décret s'appliquent aux agents en activité ou en retraite qui ont été ou seront successivement tributaires de deux ou de plusieurs des régimes ou organismes de retraites suivants:
+JOURNAL OFFICIEL DU TERRITOIRE DU TOGO
+1° Régime général de retraites des fonctionnaires de l'Etat; 2° Fonds spécial prévu par l'article 3 de la loi du 2 août 1949 portant réforme du régime des pensions des personnels de l'Etat tributaires de la loi du 21 mars 1928; 3° Régime de retraites prévu en faveur des personnels de l'imprimerie nationale par la loi du 29 juin 1927 modifiée par la loi du 17 août 1950; 4° Caisse nationale de retraites des agents des collectivités locales; 5° Caisse de retraites de la France d'outre-mer; 6° Caisses locales de retraites des différents territoires de la France d'outre-mer visées à l'article 3 (2° alinéa) de la loi n° 50-772 du 30 juin 1950; 7° Caisse générale de retraites de l'Algérie, régime de retraites prévu à l'article 1er du décret du 7 juin 1902 et régime de retraites prévu à l'article 115 du code des pensions civiles et militaires de retraite; 8° Caisse marocaine de retraites; 9° Société de prévoyance des fonctionnaires et employés tunisiens et régime de retraites prévu à l'article 116 du code des pensions civiles et militaires de retraite.
+L'application du présent décret aux organismes énumérés aux 7°, 8°, 9° est subordonnée à l'accord des autorités compétentes.
