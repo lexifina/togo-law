@@ -1,0 +1,8 @@
+# Préambule
+ARRETE No 871-49/F. du 27 octobre 1949.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMPAGNON DE LA LIBÉRATION, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du Territoire du Togo et création d'assemblées représentatives; Vu le décret du 6 novembre 1929 portant institution de Communes-Mixtes au Togo; Vu l'arrêté du 20 novembre 1932 déterminant le mode de constitution, de fonctionnement, le régime administratif et financier des Communes-Mixtes du Togo; Vu l'arrêté du 20 novembre 1932 créant la Commune-Mixte de Lomé, ensemble tous textes le modifiant ou le complétant; Vu l'arrêté du 16 janvier 1948 portant institution de régie municipale; Vu le procès-verbal de la délibération de la Commission municipale de Lomé en date du 19 juillet 1949; Vu le premier compte administratif de la régie municipale de Lomé (exercice 1948) approuvé en Conseil Privé le 26 Septembre 1949 dont le montant des recettes ordinaires dépasse un million de francs; Vu le décret du 30 décembre 1912 sur le régime financier des colonies, ensemble tous textes modificatifs ultérieurs et notamment le décret du 21 novembre 1946;
+Attendu que par arrêté en date du 11 août 1882, la Cour des Comptes a jugé que les Communes et organismes communaux de création récente appartiennent à la juridiction qui résulte du revenu ordinaire de leur premier compte;
+Le Conseil Privé entendu;
+JOURNAL OFFICIEL DU TERRITOIRE DU TOGO
+ARRETE:
