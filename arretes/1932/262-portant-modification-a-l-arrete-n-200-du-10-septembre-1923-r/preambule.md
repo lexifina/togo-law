@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 262 portant modification à l'arrêté N° 200 du 10 septembre 1923 réglementant le fonctionnement du fonds de roulement du service des voies de pénétration et du wharf du Togo.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉOND D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 30 décembre 1913 sur le régime financier des colonies et pris spécialement l'article 267 de ce décret; Vu l'arrêté interministériel du 21 juillet 1923 instituant un fonds de roulement et un fonds de réserve spécial du service des voies de pénétration et du wharf du Togo; Vu l'arrêté N° 200 du 10 septembre 1923 réglementant le fonctionnement du fonds de roulement du service des voies de pénétration et du wharf du Togo modifié par l'arrêté N° 229 du 29 avril 1931; Vu le rapport N° 111 du 26 avril 1932 du chef des services financiers; Sur la proposition du directeur du service des voies de pénétration et du wharf; Le conseil d'administration entendu;
+ARRETE :
