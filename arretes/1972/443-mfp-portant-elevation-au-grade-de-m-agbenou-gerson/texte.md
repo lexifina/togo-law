@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 443/MFP du 10/7/72 — M. Agbenou Gerson, agent technique de 1re classe 2e échelon du corps du personnel médical et technique de la santé publique qui a effectué un stage de perfectionnement professionnel à l'hôpital Le Dantec de Dakar (Sénégal) est élevé au 3e échelon de son grade pour compter du 1er janvier 1972 conformément aux dispositions de l'article 40 du décret n° 69-113 du 28 mai 1969.
