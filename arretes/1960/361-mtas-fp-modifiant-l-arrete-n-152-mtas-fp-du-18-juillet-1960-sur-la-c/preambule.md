@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 361-MTAS-FP modifiant l'arrêté no 152-MTAS-FP du 18 juillet 1960 sur la convention collective ferroviaire.
+LE MINISTRE DU TRAVAIL, DES AFFAIRES SOCIALES ET DE LA FONCTION PUBLIQUE
+Vu les ordonnances n° 1 et 2 du 14 janvier 1967 ; Vu le décret n° 67-22 du 20 janvier 1967 définissant les compétences ministérielles en matière de recrutement, d'administration et de gestion des diverses catégories de personnel et sa circulaire d'application n° 93-MFP du 20 février 1967 ; Vu l'arrêté n° 519-54-CFT du 9 juin 1954 portant organisation du service des chemins de fer et du wharf du Togo ; Vu l'arrêté n° 940-54/TTLS du 14 octobre 1954 fixant les conditions d'adaptation de la convention collective ferroviaire en vigueur à la régie des chemins de fer de l'A.O.F. aux agents non fonctionnaires des chemins de fer du Togo et les textes modificatifs subséquents ; Vu l'avis du directeur du réseau des chemins de fer et du wharf du Togo ; Sur proposition du ministre des travaux publics, mines, transports, des postes et télécommunications.
+ARRETE :
