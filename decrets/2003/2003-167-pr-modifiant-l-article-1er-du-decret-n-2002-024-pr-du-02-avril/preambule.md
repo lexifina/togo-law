@@ -1,0 +1,5 @@
+# Préambule
+DECRET N° 2003 - 167 / PR du 22 mai 2003 modifiant l'article 1er du décret n° 2002-024/PR du 02 avril 2002 relatif à l'achat et la vente des substances minérales précieuses et semi-précieuses au Togo
+LE PRESIDENT DE LA REPUBLIQUE
+- Sur le rapport conjoint du ministre de l'Equipement, des Mines, de l'Energie et des Postes et Télécommunications et du ministre de l'Economie, des Finances et des Privatisations ; - Vu la Constitution du 14 octobre 1992 ; - Vu la Loi n° 96-004/PR du 26 février 1996 portant code minier de la République togolaise ; - Vu le Décret n° 2001-011/PR du 21 février 2001 portant attributions et organisation du Ministère de l'Equipement, des Mines, de l'Energie et des Postes et Télécommunication ; - Vu le décret n° 86-109/PR du 05 juin 1986 portant attributions et organisation du ministère de l'Economie, des Finances et des Privatisations ; - Vu le décret n° 2002-0130/PR du 03 décembre 2002 portant composition du gouvernement ; - Le Conseil des ministres entendu ;
+DECRETE:
