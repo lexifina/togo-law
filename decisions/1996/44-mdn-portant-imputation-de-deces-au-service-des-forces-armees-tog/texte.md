@@ -1,0 +1,5 @@
+# Texte
+Décision n° 44/CRT - DP du 19/1/96 - Une pension civile proportionnelle (indice 2350, pourcentage 53,75 %) au montant annuel de UN MILLION CINQUANTE UN MILLE CENT CINQUANTE DEUX (1.051.152) Francs est attribuée sur les fonds de la caisse de Retraites du Togo à Mr. AKAKPO Kokou Alexandre, Administrateur Civil Principal en chef 1er échelon du corps du personnel de l'Administration générale, admis à la retraite.
+La date de l'entrée en jouissance de cette pension est fixée au 1er juillet 1995.
+Mr. AKAKPO Kokou Alexandre pourra prétendre, pour compter du 1er juillet 1995 sur justification de ses droits au bénéfice des allocations familiales au titre de ses enfants (du 5e au 7e rang) ci-après désignés :
+| Yawa Sika, | née | le | 17 | septembre | 1959 | | --- | --- | --- | --- | --- | --- | | Kwami Agbeko, | né | le | 21 | novembre | 1970 | | Afefa Afiwa, | née | le | 19 | mai | 1972 | | Kokouvi Enyo, | né | le | 18 | décembre | 1972 | | Ama Eli, | née | le | 22 | novembre | 1975 | | Afefa Essi, | née | le | 19 | octobre | 1980 | | Abla Dani, | née | le | 14 | février | 1982 |
