@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 172 DSP. du 6 mars 1946.
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉCION D'HONNEUR, CROIX DE GUERRE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'Assemblées Représentatives; Vu l'arrêté ministériel (colonies) du 7 janvier 1892, fixant la liste des maladies épidémiques dont la déclaration est obligatoire aux colonies et le mode de déclaration à employer; Vu l'arrêté du 11 août 1921, réglementant le fonctionnement des services médicaux du Togo; ensemble tous arrêtés le modifiant ou le complétant; Vu le décret du 11 novembre 1929, relatif à la protection de la santé publique au Togo; Vu le décret du 16 avril 1924 fixant le mode de promulgation des textes et la procédure d'application d'urgence; Vu le télégramme n° 61 en date du 1er mars 1946 du commandant du cercle de Mango; Sur la proposition du directeur local de la santé publique du Togo;
+ARRETE:
