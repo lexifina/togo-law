@@ -1,0 +1,6 @@
+# Préambule
+ARRETE No 1026-49/C.F.T. du 31 décembre 1949
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMPAGNON DE LA LIBÉRATION, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'Assemblées Représentatives; Vu le décret du 2 mars 1910 portant règlement sur la solde et les textes modificatifs; Vu le décret du 30 décembre 1912 sur le régime financier des colonies et les textes modificatifs;
+Vu l'arrêté n° 558/P. du 18 octobre 1943 réorganisant le cadre local Européen des chemins de fer et du Wharf du Togo; Vu les décrets n°s 528 et 529 du 15 avril 1949 fixant un nouveau régime de solde et d'indemnités pour les cadres régis par décret relevant du Ministère de la France d'outre-mer; Vu les arrêtés n°s 3282 et 3283 E.T. du 28 juin 1949 du Haut Commissaire de la République en A.O.F.; Vu l'arrêté n° 982-49 du 18 décembre 1942; Vu l'avis de l'Assemblée Représentative du Togo (Commission Permanente du 28 décembre 1949); Sous réserve de l'approbation ministérielle;
+ARRETE:
