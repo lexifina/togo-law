@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 3/INT-SG-DSTCL du 16/1/80 — Sont accordées des autorisations spéciales de dépenses sur les budgets des circonscriptions de Lomé, Aného, Vogan, Tabligbo, Tsévié, Kloto, Notsé, Atakpamé, Amlamé, Badou, Tchaoudjo, Tchamba, Sotouboua, Bassar, Bafilo, Lama-Kara, Niamtougou, Pagouda, Kantè, Mango et Dapaong, exercice 1980 représentant le douzième des budgets de l'exercice 1979 pour faire face aux dépenses du mois de janvier 1980.
