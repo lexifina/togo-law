@@ -1,0 +1,13 @@
+# Arrêté N° 186 accordant à l'administration une réquisition de tarif sur les transports de terre à destination de la ligne d'Anécho
+
+JOURNAL OFFICIEL 17E ANNEE N° 309 du 1936-09-01, page 433.
+
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/arrete-n-186-accordant-a-ladministration-une-requisition-de-tarif-sur-les-transports-de-terre-a-destination-de-la-ligne-danecho
+
+En vigueur / in force: 1936-09-01 (publication in the Journal officiel (default for regulatory acts)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
