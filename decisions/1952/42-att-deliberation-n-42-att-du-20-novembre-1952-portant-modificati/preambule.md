@@ -1,0 +1,4 @@
+# Préambule
+DELIBERATION N° 42/ATT. portant modifications aux tarifs du Wharf de Lomé.
+L'Assemblée Territoriale du Togo,
+Vu le décret du 3 janvier 1946 portant réorganisation administrative du Territoire du Togo; Vu le décret du 25 octobre 1946 portant création d'une assemblée représentative au Togo; Vu l'arrêté n° 792/CFT. du 9 octobre 1948 portant modification aux tarifs du Wharf de Lomé; Vu l'arrêté n° 879/TP. du 4 novembre 1950 modifiant les tarifs du Wharf de Lomé; Vu l'arrêté n° 886-51/CFT. du 12 décembre 1951 fixant les tarifs du Wharf de Lomé; Sur la proposition du Directeur des C.F.T. et du Wharf; Vu le rapport de présentation n° 79/AD/DT. du 20 octobre 1952 de M. le Commissaire de la République au Togo; A adopté dans sa séance du 20 novembre 1952, la délibération dont la teneur suit :
