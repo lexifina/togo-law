@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 24 complétant en ce qui concerne le maïs l'arrêté du 5 février 1925 fixant les conditions de circulation, de mise en vente et d'exportation des amandes et huiles de palme, du coton, du cacao et du coprah.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P. 1.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu l'arrêté du 5 février 1925 fixant les conditions de circulation, de mise en vente et d'exportation des amandes de palme, du coton, du cacao et du coprah; ensemble l'arrêté du 5 novembre 1932 le modifiant; Vu le décret du 13 juin 1929 réglementant les conditions de circulation, de mise en vente et d'exportation des produits naturels dans le territoire du Togo; Vu l'arrêté du 29 juillet 1929 portant réorganisation du service de l'inspection des produits du cru destinés à l'exportation; ensemble l'arrêté du 5 novembre 1932 le complétant; Vu l'avis de la chambre de commerce du Togo; Vu l'avis des conseils des notables des cercles de Lomé — Anécho — Atakpamé et Klouto;
+ARRETE:
