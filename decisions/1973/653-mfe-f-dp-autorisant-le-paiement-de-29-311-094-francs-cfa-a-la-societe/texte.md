@@ -1,0 +1,3 @@
+# Texte
+DECISION N° 653-MFE-F-DP du 17-7-73 — Est autorisé le paiement par virement en faveur de la société télécommunications radioélectriques et téléphoniques (T.R.T.), à son compte n° 04-08-79 R ouvert à la banque française du commerce extérieur, 21 boulevard Haussmann Paris 9e, de la somme de vingt-neuf millions trois cent onze mille quatre-vingt quatorze (29.311.094) francs cfa pour règlement de l'acompte de 40 % selon l'avenant n° 2 du 9 septembre 1971 au marché n° 1-MTP-PT-GT du 19 décembre 1969 relatif à la fourniture, l'installation et la mise en service des équipements de télécommunications modernes « Faisceaux Hertziens » sur le tronçon Lomé-Sokodé-Lama-Kara.
+La dépense est imputable au budget général, exercice 1972, chapitre 1, article 9.
