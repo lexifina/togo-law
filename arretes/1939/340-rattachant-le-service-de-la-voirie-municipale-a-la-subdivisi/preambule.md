@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 340 rattachant le service de la voirie municipale à la subdivision des travaux publics du sud.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté n° 577 du 20 novembre 1932 déterminant le mode de constitution, de fonctionnement, le régime administratif et financier des communes mixtes du Togo; Vu l'arrêté du 8 juin 1935 réglementant les permis de construction, l'hygiène, l'urbanisme, la voirie dans les centres urbains du Togo; Vu l'arrêté du 23 février 1938 portant organisation et fixant les attributions du service des travaux publics et des transports du territoire du Togo; Sur la proposition de l'administrateur-maire de Lomé et du chef du service des travaux publics et des transports;
+ARRETE :
