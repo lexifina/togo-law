@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 642 fixant l'époque et les parties du Territoire où il sera procédé à un classement partiel de vérification basé sur l'examen réel des véhicules recensés et classés et désignant les militaires des forces de police du Togo, chargés de ces opérations.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 5 décembre 1935, relatif au recensement, au classement et à la réquisition, dans les territoires dépendant du département des colonies, des véhicules automobiles nécessaires aux besoins de l'armée, promulgué au Togo par arrêté n° 265 du 26 mai 1937; Vu l'article 5 de l'arrêté n° 62 D. N. du 26 mai 1937 portant application au Togo des dispositions de l'article du décret du 5 décembre 1935 susvisé; Sur la proposition du capitaine, commandant les forces de police du Togo;
+ARRETE:
