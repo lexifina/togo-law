@@ -1,0 +1,6 @@
+# Texte
+Décision n° 1/ MPAT/DGPD/DFCEP du 14/1/94. Est autorisé le virement au profit de la Direction Générale des Travaux Publics, à son compte Hors - Budget n° 902-47 "Fonds Routiers" ouvert au Trésor Public à Lomé, de la somme de Cent Millions (100.000.000) de Francs CFA dans le cadre des travaux d'entretien du réseau routier national
+Toutes les opérations de retrait des sommes ainsi virées se feront sous la double signature du Directeur du Projet au Ministère de l'Equipement et des Mines et du Directeur du Financement et du contrôle de l'Exécution du plan, Ordonnateur Principal Délégué du Budget d'Investissement et d'Equipement du TOGO
+Un rapport d'exécution physique et financière du projet étayé des pièces justificatives sera soumis tous les trois (3) mois au Ministère du Plan et de l'Aménagement du Territoire.
+La dépense est imputable au Budget d'Investissement et d'Equipement (B.I.E.) Gestion 1993, Code Financement 11002, Code imputation 437001/4120, CF n° 145 du 07 Septembre 1993.
+Le Directeur du Financement et du contrôle de l'Exécution Plan le Directeur Général du Trésor et de la Comtabilité publique du Togo sont chargés chacun en ce qui le concerne de l'exécution de la présente décision.
