@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 235/MFE-CR du 1-8-72 — Par application des dispositions de l'article 15, paragraphe IV de la loi n° 63-18 du 21 novembre 1963, le taux de la majoration pour famille nombreuse allouée à M. Soulé Amadou, surveillant principal 3e échelon du corps du personnel des travaux publics du Togo en retraite est porté de 15% à 20% de sa pension principale trois cent vingt trois mille quatre cent cinquante deux (323,452) frcs l'an pour compter du 1er juillet 1972 au titre de son enfant 5e rang Rachid, né le 26 avril 1956.
+Le montant annuel de cette majoration est fixé à soixante quatre mille six cent quatre vingt douze (64,692) francs pour compter du 1er juillet 1972.
