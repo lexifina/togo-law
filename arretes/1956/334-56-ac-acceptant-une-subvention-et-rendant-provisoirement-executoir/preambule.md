@@ -1,0 +1,6 @@
+# Préambule
+ARRETE N° 334-56/AC, du 14 avril 1956 acceptant une subvention et rendant provisoirement exécutoire le Budget du Comité local des Anciens Combattants et Victimes de la Guerre du Togo.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, CHEVALIER DE LA LÉGION D'HONNEUR
+COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu la loi n° 55-426 du 16 avril 1955 relative aux institutions territoriales et régionales du Togo sous tutelle française; Vu le décret n° 55-809 du 18 juin 1955 portant règlement d'administration publique pour l'application de la loi n° 55-426 du 16 avril 1955 susvisée; Vu le décret n° 52-68 du 15 janvier 1952 instituant un Comité local des Anciens Combattants et Victimes de la Guerre, établissement public d'État, dans le territoire du Togo; Vu l'arrêté n° 122-53/AC du 27 février 1953 déterminant les formes du Budget et des Comptes du Comité local des Anciens Combattants et Victimes de la Guerre; Vu la décision n° 698/AC du 18 avril 1956 accordant une subvention de 100.000 francs au Comité local des Anciens Combattants et Victimes de la Guerre du Togo;
+ARRETE:
