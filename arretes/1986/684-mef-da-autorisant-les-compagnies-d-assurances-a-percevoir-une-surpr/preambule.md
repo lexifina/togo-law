@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 684/MEF/DA du 20 novembre 1986 autorisant les compagnies d'assurances à percevoir une surprime pour extension de garantie d'assurance de la Responsabilité Civile Automobile aux Pays Membres de la CEDEAO.
+LE MINISTRE DE L'ECONOMIE ET DES FINANCES :
+- Vu l'article 15 de la constitution ; - Vu l'ordonnance n° 36 du 12 août 1968 portant réglementation des organismes d'assurances de toute nature et des opérations d'assurances ; - Vu le décret n° 68-119 du 2 juin 1969 portant application de l'ordonnance n° 36 susvisé ; - Vu le protocole A/P1/5/82 du 29 mai 1982 portant création d'une Carte Brane CEDEAO relative à l'assurance de la responsabilité civile automobile ; - Vu le décret n° 85-13 du 14 février 1985 portant création du Bureau National chargé d'appliquer au Togo le Système «Carte Brane CEDEAO» relatif à l'assurance de la Responsabilité Civile Automobile ; - Vu l'arrêté n° 688/MEF/DA du 6 décembre 1984 fixant le tarif automobile applicable au Togo ; - Vu la demande formulée par le bureau national de la carte brane ; - Sur proposition du directeur des assurances.
+ARRETE:
