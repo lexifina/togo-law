@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 192 portant modifications aux articles 47, 48 et 57 de l'arrêté N° 520 du 26 septembre 1934 sur l'inspection des produits.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGEON D'HONNEUR, ADMINISTRATEUR SUPÉRIEUR DU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo; Vu le décret du 13 juin 1929 réglementant les conditions de circulation, de mise en vente et d'exportation des produits naturels dans le territoire du Togo; Vu l'arrêté n° 520 bis du 26 septembre 1934 portant codification de l'inspection des produits, ensemble tous textes le modifiant ou le complétant; Vu l'arrêté n° 46 du 23 novembre 1936 mettant en vigueur les dispositions des articles 47 et 50 de l'arrêté n° 520 bis du 26 septembre 1934; Vu la lettre n° 10 du 26 janvier 1937 du président de la chambre de commerce; Vu l'avis favorable émis par les sociétés indigènes de prévoyance du Territoire; Le conseil d'administration entendu;
+ARRETE:
