@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 15-PR-INT du 1-2-65 fixant le montant des indemnités de fonction allouées aux chefs supérieurs, chefs de canton, à certains chefs et à leurs secrétaires pour l'année 1965.
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution du 5 mai 1963 ; Vu l'arrêté n° 951-49/APA du 2 décembre 1949 portant réorganisation du commandement autochtone au Togo, modifié par décret n° 59-121 du 3 août 1959 ; Vu les arrêtés n°s 52 et 53/PR-INT des 4 et 7 mars 1964 fixant pour 1964 les indemnités allouées aux chefs et secrétaires de chefs ; Vu les arrêtés n°s 117, 123, 133 et 222/PR-INT des 17 juin, 24 juin, 11 juillet et 4 décembre 1964 portant reconnaissance de divers chefs de canton ; Vu les arrêtés n°s 23, 41, 42, 57, 59, 65, 68, 69, 70, 71, 72, 109, 119 et 124/INT des 9 mars, 18 avril, 8 juin, 22 juin, 23 juin, 2 novembre, 30 novembre et 14 décembre 1964 portant nomination de différents secrétaires de chefs ; Vu la loi de Finances n° 64-29 des 31-12-64 et 18-1-65 ; Sur proposition du ministre de l'Intérieur,
+ARRETE :
