@@ -1,0 +1,5 @@
+# Texte
+Arrêté n° 171/MAIS - GST du 31/12/93. Les gardiens de la sécurité du territoire dont les noms suivent, passent à l'échelon supérieur par ancienneté de service pour compter des dates ci-après :
+| N° D'OR | NOM & PRENOMS | GRADE | N° Min. | E C H E L O N | | | DATE DE MISE EN SERVICE | INDICE | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | ANCIEN | BOSVEAU | | | | | 001 | LARE Danahal | POUR COMTER DU 1er DECEMBRE 1992 | | | | | | 750 | | | | 1°CL. | 772 | 5 | 6 | 1/12/76 | | | | 002 | ADJOLLA T. Toyi | POUR COMTER DU 1er MARS 1993 | | | | | | 750 | | | | 1°CL. | 815 | 5 | 6 | 1/3/77 | | | | 003 | NADJOMBE S. Nadjembi | 1°CL. | 874 | 5 | 6 | 1/3/77 | | 750 | | 004 | DOOBEY Ganghloudjo | POUR COMTER DU 1er DECEMBRE 1993 | | | | | | 750 | | | | 1°CL. | 921 | 5 | 6 | 1/11/77 | | | | 005 | YANTSE Yanni Eby | 1°CL. | 923 | 5 | 6 | 1/11/77 | | 750 |
+Le traitement des intéressés reste imputable à la Section 15, chapitre 21, article 0000, paragraphe 10 du budget général, gestion 1993.
+MINISTERE DE L'ECONOMIE ET DES FINANCES
