@@ -1,0 +1,12 @@
+# Décret modifiant le décret du 26 mai 1937 portant réglementation du logement et de l'ameublement aux colonies
+
+JOURNAL OFFICIEL 27E ANNEE N° 546 du 1946-04-01, page 265.
+
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/decret-modifiant-le-decret-du-26-mai-1937-portant-reglementation-du-logement-et-de-lameublement-aux-colonies
+
+En vigueur / in force: 1946-04-01 (publication in the Journal officiel (default for regulatory acts)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
