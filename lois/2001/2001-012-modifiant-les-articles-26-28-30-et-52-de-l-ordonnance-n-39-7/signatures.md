@@ -1,0 +1,14 @@
+# Signatures
+Fait à Lomé, le 29 novembre 2001 le Président de la République Gnassingbé EYADEMA
+Le Premier Ministre Messan Agbéyomé KODJO
+PARTIE NON OFFICIELLE
+AVIS, COMMUNICATIONS ET ANNONCES
+Conservation de la propriété foncière
+Le service du journal officiel décline toute responsabilité quant à la teneur des actes publiés sous cette rubrique.
+Suivant réquisition n° 23693 déposée le 28-11-2002, MM. KOMAHE Togbui Kodjogan et KOMAHE Koami Sessi, profession de jardinier et commerçant, demeurant et domiciliés à Lomé, majeurs non interdits, jouissant de leurs droits civils, de nationalité togolaise, demandent l'immatriculation au Livre foncier de la République togolaise, d'un immeuble rural non bâti consistant en un terrain ayant la forme d'un polygone irrégulier, d'une contenance totale de 39 ha 25 a 34 ca situé à Lomé, connu sous le nom de Baguida Avepozo et borné au nord par les propriétés AMEGANDJIN André, KOUMAKO, AGBOGLA Gabara, au sud par les propriétés MESSEFATO, HOUSSOUKPOTA, AKAKPOSSA Kossigan, da SILVEIRA, à l'est par KAKPOSSA, DAGBOVI, SEMEKO Awayi, DAVON et à l'ouest par GANTO Akolatsé, AMORIN, SEWODO Houssoukpota.
+Ils déclarent que ledit immeuble appartient par voie d'héritage à la collectivité KOMAHE MENSAH et n'est, à leur connaissance, grevé d'aucuns droits ou charges réels, actuels ou éventuels.
+Suivant réquisition n° 23926 déposée le 15-04-2003, Mme DZIGBE Afiwa Louise, profession de secrétaire à Togo Electricité, demeurant et domiciliée à Lomé Bé Château, majeure non interdite, jouissant de ses droits civils, de nationalité togolaise, demande l'immatriculation au Livre foncier de la République togolaise, d'un immeuble urbain bâti consistant en un terrain ayant la forme d'un polygone irrégulier, d'une contenance totale de 03 a 88 ca situé à Lomé Aflao Avédji, préfecture du Golfe, connu sous le nom de Wataklassou-Kopé et borné au nord et à l'ouest par des rues non dénommées de 14 m et 16 m, au sud et à l'est par les lots n° 625 bis et 629 et 626.
+Elle déclare que ledit immeuble lui appartient par voie d'achat et n'est, à sa connaissance, grevé d'aucuns droits ou charges réels, actuels ou éventuels.
+Suivant réquisition n° 23940 déposée le 24-04-2003, M. DJREKE Kossi Dodji, profession d'agent commercial, demeurant et domicilié à Lomé, majeur non interdit, jouissant de ses droits civils, de nationalité togolaise, demande l'immatriculation au Livre foncier de la République togolaise, d'un immeuble urbain bâti consistant en un terrain ayant la forme d'un polygone irrégulier, d'une contenance totale de 07 a 99 ca situé à Lomé, connu sous le nom de Agoényivé et borné au nord par une rue de 20 m, au sud par le lot n° 312, à l'est par le lot n° 313 et à l'ouest par un passage de 6 m.
+Il déclare que ledit immeuble lui appartient par voie d'achat et n'est, à sa connaissance, grevé d'aucuns droits ou charges réels, actuels ou éventuels.
+P. le conservateur de la propriété foncière P.O. Dotsé Kodjo NYAKU.
