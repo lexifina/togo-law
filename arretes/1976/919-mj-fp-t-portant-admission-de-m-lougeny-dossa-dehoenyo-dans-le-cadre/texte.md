@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 919-MJ-FP-T du 23-9-76 — M. Lougeny Dossa Dehoenyo, titulaire du brevet d'études du premier cycle du second degré (BEPC) et du brevet d'études professionnelles (B.E.P.) spécialité comptable-mécanographe, est admis dans le cadre interministériel des fonctionnaires de l'administration générale, en qualité d'adjoint administratif de 2e classe 2e échelon stagiaire (catégorie C — indice 600) et mis à la disposition du ministre de l'éducation nationale (chapitre 24, article 4, paragraphe 1-a du budget général).
+Le présent arrêté aura effet pour compter de la date de prise de service de l'intéressé.
