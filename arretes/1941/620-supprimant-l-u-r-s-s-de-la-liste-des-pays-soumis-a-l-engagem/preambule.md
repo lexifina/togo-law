@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 620 promulguant au Togo l'arrêté interministériel du 23 août 1941 supprimant l'U.R.S.S. de la liste figurant à l'article 1er de l'arrêté interministériel du 12 décembre 1940, relatif aux exportations françaises (engagement de non-réexportation).
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE FRANCE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo; Vu le décret du 13 septembre 1940 relatif aux prohibitions de sortie de certaines marchandises, promulgué au Togo le 5 mars 1941; Vu l'arrêté interministériel du 12 décembre 1940 relatif aux exportations françaises (engagement de non-réexportation) promulgué au Togo le 5 mars 1941; Vu l'arrêté interministériel du 23 août 1941; Vu les instructions en date du 17 octobre 1941 du Haut-Commissaire de l'Afrique française;
+ARRETE:
