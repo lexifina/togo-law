@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 350/MEF/CF du 4 septembre 1981 fixant le taux de l'indemnité à accorder aux professeurs astreints à donner des cours en heures supplémentaires à l'institut national de la jeunesse et des sports
+LE MINISTRE DE L'ECONOMIE ET DES FINANCES
+Vu la constitution de la République Togolaise Vu le décret n° 07-22 du 26 janvier 1967 définissant la compétence ministérielle en matière de recrutement, d'administration et de gestion des diverses catégories de personnel; Vu le décret n° 09-113 du 28 mai 1969 portant modalité commune d'application du statut général des fonctionnaires et les textes modificatifs subséquents; Vu le décret n° 76-128 du 26 juillet 1976 relatif à la création et à l'organisation de l'institut national de la jeunesse et des sports; Vu l'arrêté n° 614-53-IT du 24 août 1953 réglementant les heures supplémentaires et les modalités de leur rémunération; Vu la lettre n° 523-MISC-INIS du 18 mai 1981 du ministre de la jeunesse, des sports et de la culture;
+ARRETE
