@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 501-56/AE/PLAN/1 du 2 juin 1956 portant fermeture des campagnes d'achat du karité et des arachides de la récolte 1955-1956.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, CREVALIER DE LA LÉGION D'HONNEUR COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu la loi n° 55-426 du 16 avril 1955 relative aux institutions territoriales et régionales du Togo sous tutelle française; Vu l'arrêté n° 686-55/AE/PLAN/1, du 5 août 1955 fixant la date d'ouverture de la campagne d'achat du karité de la récolte 1955-1956; Vu l'arrêté n° 1.068-55/AE/PLAN/1, du 31 décembre 1955 fixant la date d'ouverture de la campagne d'achat des arachides de la récolte 1955-1956; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo; La Chambre de Commerce consultée;
+ARRETE :
