@@ -1,0 +1,9 @@
+# Texte
+Arrêté n° 141-INT-DSN-DAPM du 15-10-74 — En application des dispositions prévues par les articles 48 et 51 de l'ordonnance n° 11 du 10 juin 1969, ainsi qu'à celles prévues par l'article 61 du décret n° 69-122 du 10 juin 1969, les élèves-gardiens de la paix ci-dessous désignés sont nommés gardiens de la paix stagiaire (indice 325) chapitre 14, article 7 du budget général à compter du 1er août 1974 :
+Agbemehin K. Luc Pitou M. Patrice Nagnimari Joseph Amegbonyui E. René Agbemadon K. Léon Temta W. Gérard Akoumany Martin Yérima Amidou Anekela Koffi
+Afaathao Joachim Yakanou Jean-Marie Agbeve E. Gustave Kawessina D. Martin Yaovi Bernard Adevoun Gilbert Agbago Abilé Joseph Salifou Kossi Paulin Idrissou Bouraïma
+Aziaka Koffi Tchakaou Séibou Agbovon Pierre Pilabina K. Emmanuel Dogbevi Téodore Gidigidi Samuel Oyenga T. François Djido Agboaté Seteme Marcel Tagnami Michel Awi Symphorien Gbedze Philippe Takougnadi K. Roger Apegnowou Messan Negio Yaovi Pierre Tokofai Komla Kpetse Siegfried Abou Aboulaye Omorou A. Balahame Sagoua A. Edmond Simlao T. Léonard Tchala Mayiwè Gnassingbe John Kossi Agoda Kpatcha Bedi Yaovi Pierre Boundjou G. Lambert Dogno Antoine Nolaki K. Pascal
+Kebe T. Raymond Hor Prosper Mensa Babake Félicien Lantam Tchapo Sotoglo Elias Koudaya Sédjro Zobinou Gaudéric N'Bouke Norbert Ali Saley Ligui Albert Djatoite D. Emmanuel Lamboni Laurent Matchambou Emile Amouzzou Simon Hengue K. Emmanuel Korem Pierre Kekessi Alphonse Badanarou Michel Agbozo Prosper Nayo Lucas Bitchidi André Kokloho Samuel Laré Lambini Tchikiri Antoine Lorempo Joseph Issifou Nouhou Baroubean Venance.
+Pendant toute la durée de leur situation de fonctionnaires stagiaires les intéressés :
+1°) ne seront pas assujettis à l'exercice de retenues prévues pour constitution de pension de retraite ; 2°) bénéficieront de l'indemnité de risques instituée par le décret n° 69-124 du 12 juin 1969 au taux de gardien de la paix.
+Admissions
