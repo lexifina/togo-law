@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 232/MFE-CR du 1-8-72 — Par application des dispositions de l'article 15, paragraphe IV de la loi n° 63-18 du 21 novembre 1963, le taux de la majoration pour famille nombreuse allouée à M. Kotin Dufontien Jean, sous-brigadier 7e échelon du corps du personnel de la police du Togo en retraite est porté de 20% à 25% de sa pension principale deux cent quatre mille quatre vingt douze (304.092) francs pour compter du 10 juillet 1972 au titre de son enfant Pierre, né le 29 juin 1956.
+Le montant annuel de cette majoration est fixé à cinquante et un mille vingt quatre (51,024) francs pour compter du 10 juillet 1972.
