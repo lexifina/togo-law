@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 169-53/SAC. du 13 mars 1953 portant ouverture à la Circulation Aérienne Publique des Aérodromes du Togo.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, OFFICIER DE LA LÉGISON D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu l'ordonnance n° 45-2401 du 18 octobre 1945 (Article 4) relative au fonctionnement de l'Aéronautique Civile dans les Territoires d'Outre-mer; Vu le décret n° 47-1069 du 12 juin 1947 relatif au fonctionnement des Services de l'Aéronautique Civile dans les Territoires dépendant du Ministère de la France d'Outre-mer; Vu la loi du 31 mai 1924 relative à la Navigation Aérienne; Vu l'arrêté du 6 février 1947 relatif à l'ouverture et l'agrément des aérodromes publics, modifié par l'arrêté du 28 février 1948; Sur proposition du Délégué de l'Aéronautique Civile en A.O.F. et au Togo;
+ARRETE:
