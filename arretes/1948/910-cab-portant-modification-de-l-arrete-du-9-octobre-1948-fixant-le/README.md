@@ -1,0 +1,14 @@
+# Arrêté ministériel portant modification de l'arrêté du 9 octobre 1948 fixant les modalités d'application du décret N° 48-1565 du 28 septembre 1948 ayant institué un tour de service outre-mer pour les fonctionnaires des cadres généraux relevant du ministère de la France d'outre-mer
+
+JOURNAL OFFICIEL 29E ANNEE N° 629 du 1948-12-01, page 1088.
+
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/arrete-ministeriel-portant-modification-de-larrete-du-9-octobre-1948-fixant-les-modalites-dapplication-du-decret-n-48-1565-du-28-septembre-1948-ayant-institue-un-tour-de-service-outre-mer-pour-les-fonctionnaires-des-cadres-generaux-relevant-du-ministere-de-la-france-doutre-mer
+
+En vigueur / in force: 1948-12-01 (publication in the Journal officiel (default for regulatory acts)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
+| [art-002-2](art-002-2.md) | Article 2 |
