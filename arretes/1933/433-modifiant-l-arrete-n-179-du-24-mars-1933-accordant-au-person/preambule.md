@@ -1,0 +1,6 @@
+# Préambule
+ARRETE N° 433 modifiant l'arrêté n° 179 du 24 mars 1933, accordant au personnel militaire en service au Territoire le bénéfice de l'indemnité de zone.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu l'arrêté n° 520 du 20 novembre 1932 fixant le taux des indemnités de zone, spéciale du Togo et de cherté de vie à partir du 1er janvier 1933; Vu le décret du 14 janvier 1933 abrogeant le décret du 12 mars 1928 rendant applicables au Togo les dispositions des décrets des 10 février et 22 septembre 1926 instituant une indemnité spéciale de l'Afrique occidentale et une indemnité provisoire de 12% sur cette dernière en faveur des officiers et sous-officiers à solde mensuelle; Vu l'arrêté n° 48 du 28 janvier 1930 instituant une indemnité dite de compensation pour le personnel militaire détaché hors cadres au Togo; Vu l'arrêté n° 157 du 1er avril 1932 modifiant les taux de l'indemnité de compensation allouée au personnel militaire hors cadres au Togo; Vu l'arrêté n° 179 du 24 mars 1933 accordant au personnel militaire en service au Territoire le bénéfice de l'indemnité de zone;
+Le conseil d'administration entendu;
+ARRETE:
