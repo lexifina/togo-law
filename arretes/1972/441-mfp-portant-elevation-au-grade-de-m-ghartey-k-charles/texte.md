@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 441/MFP du 10-7-72 — M. Ghartey K. Charles, chirurgien-dentiste inspecteur 1er échelon du corps du personnel médical et technique de la santé publique qui a effectué un stage de perfectionnement professionnel aux États-Unis d'Amérique est élevé au 2e échelon de son grade pour compter du 1er juillet 1972 conformément aux dispositions de l'article 40 du décret n° 69-113 du 28 mai 1969 — AC 1 an.
