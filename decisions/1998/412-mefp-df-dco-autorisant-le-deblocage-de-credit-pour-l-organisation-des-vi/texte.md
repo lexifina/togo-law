@@ -1,0 +1,3 @@
+# Texte
+Décision n° 412/MEFP/DF/DCO du 12/5/98 – Il est mis à la disposition du ministre de l’éducation nationale et de la Recherche au profit du directeur de la Recherche Scientifique, la somme de DIX MILLIONS (10 000 000) Francs CFA pour lui permettre de couvrir les frais d’organisation des VIIIe Journées scientifiques de l’Université du Bénin qui se dérouleront du 11 au 17 mai 1998.
+La dépense est imputable sur le budget général, gestion 1998, section 217, chapitre 22, article 00, paragraphe 91, ligne 01 (Dépenses imprévues) et fera l’objet de procédure simplifiée au niveau de l’engagement.
