@@ -1,0 +1,2 @@
+# Loi, Article 4
+— Les effectifs numériques maximaux et cadres (fonctionnaires) et par catégories (agents et tracteurs et journaliers permanents), sont fixés conformément à l'état E, annexé à la présente loi.

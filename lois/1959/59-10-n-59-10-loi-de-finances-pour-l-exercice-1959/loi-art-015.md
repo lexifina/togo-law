@@ -1,2 +1,2 @@
-# Article 15
+# Loi, Article 15
 — La liste non limitative des renseignements à fournir à la Chambre des Députés, par les différends Ministères ou services, est fixée conformément à l'état G., annexé à la présente loi.

@@ -1,0 +1,2 @@
+# Loi, Article 3
+— Le montant des crédits ouverts au titre des dépenses de fonctionnement du Budget Annexe du Chemin de fer et du Wharf est fixé globalement à 500.992.000 francs C.F.A. La répartition de ces crédits par titres, chapitres et articles, est conforme à l'état D, annexé à la présente loi.

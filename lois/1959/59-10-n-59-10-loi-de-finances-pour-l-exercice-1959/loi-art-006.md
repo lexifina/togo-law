@@ -1,4 +1,4 @@
-# Article 6
+# Loi, Article 6
 — La perception des impôts directs et indirects et des produits et revenus publics au public du Budget Général et du Budget annexe du Chemin de fer et du Wharf, continuera à être opérée, à l'année 1959 conformément aux lois, décrets et régimes, sous réserve des modifications de la présente loi, qui font l'objet de lois et décrets et régimes.
 NUMERO SPECIAL
 JOURNAL OFFICIEL DE LA REPUBLIQUE DU TOGO

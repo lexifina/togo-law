@@ -1,2 +1,2 @@
-# Article 10
+# Loi, Article 10
 — Les produits et revenus ordinaires et permanents applicables au Budget annexe du Chemin de fer et du Wharf, pour l'exercice 1959 sont évalués globalement à 450.992.000. de francs C.F.A. conformément à l'état de développement C, annexé à la présente loi.

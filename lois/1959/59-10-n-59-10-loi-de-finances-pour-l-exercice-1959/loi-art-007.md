@@ -1,3 +1,3 @@
-# Article 7
+# Loi, Article 7
 — La délibération n° 1 A.T.T du 13 avril 1956, de l'Assemblée Territoriale du Togo, fixant les modalités de la contribution du Budget général du Togo au fonctionnement de la Caisse de Compensation des Prestations Familiales, reste applicable.
 Les centimes additionnels à la taxe forfaitaire représentative de la taxe sur les transactions, seront ristournés dans les conditions fixées par la loi portant modification de cette taxe. Ils seront perçus exclusivement sur les marchandises assujetties à cette taxe.
