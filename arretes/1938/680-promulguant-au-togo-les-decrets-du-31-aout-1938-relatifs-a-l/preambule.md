@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 680 promulguant au Togo les décrets du 31 août 1938 relatifs à l'indication d'origine de certains produits étrangers (appareils électriques de chauffage domestique et fers à repasser électriques et indicateurs de direction et essuie-glaces automatiques pour véhicules automobiles).
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 fixant le mode de promulgation et de publication des textes réglementaires au Togo et au Cameroun; Vu les décrets du 31 août 1938 relatifs à l'indication d'origine de certains produits étrangers (appareils électriques de chauffage domestique et fers à repasser électriques et indicateurs de direction et essuie-glaces automatiques pour véhicules automobiles); Vu la D. M. n° 1683 en date du 9 septembre 1938;
+ARRETE:
