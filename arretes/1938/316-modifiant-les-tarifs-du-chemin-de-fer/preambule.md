@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 316 modifiant les tarifs du chemin de fer.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGISIN D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté no 69 du 28 janvier 1929 relatif à l'application des tarifs du chemin de fer et du wharf; Vu la décision ministérielle no 3514 du 28 octobre 1931 homologuant ces tarifs; Vu l'arrêté no 329 du 23 juillet 1935 approuvant un tarif pour le transport des colis à la vitesse des trains de voyageurs; Sur la proposition du chef du service des travaux publics et des transports du territoire du Togo; Vu le rapport en conseil consultatif du chemin de fer dans sa séance du 7 mai 1938; Le conseil d'administration entendu dans sa séance du 30 mai 1938;
+ARRETE :
