@@ -1,0 +1,3 @@
+# Préambule
+DECISION N° 601 A. P. A. du 28 septembre 1943. L'ADMINISTRATEUR DE 1re CLASSE DES COLONIES, CHEVALIER DE LA LÉGIÓN D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO P. I., Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du commissaire de la République au Togo; Vu le câblogramme n° 367 Cab. du 15 septembre 1943 de M. le haut-commissaire de la République au Togo; Vu la décision n° 583 A. P. A. du 20 septembre 1943 portant constitution d'un Comité chargé de l'organisation de la souscription nationale pour l'aide aux groupements de Résistance en France; Vu le procès-verbal de la réunion du 22 septembre 1943 du dit Comité;
+DECIDE:
