@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 1013 Cab. du 29 décembre 1946.
+LE GOUVERNEUR DES COLONNES, CHEVALIER DE LA LÉGION D'HONNEUR, CROIX DE GUERRE — MÉDAILLE DE LA RÉSISTANCE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo; Vu le décret n° 46-236 du 18 février 1946 déterminant les dispositions spéciales prises en faveur des fonctionnaires de différents cadres dépendant du ministère de la France d'Outre-Mer ayant dû quitter leur emploi par suite d'événements de guerre ainsi qu'en faveur des candidats à cesdits emplois ayant été empêchés d'y accéder, promulgué au Togo le 13 mars 1946; Vu le décret n° 46-637 du 6 avril 1946 réglant l'organisation générale et le statut du personnel de l'agriculture aux colonies promulgué au Togo le 30 avril 1946;
+ARRETE:
