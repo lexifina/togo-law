@@ -1,0 +1,3 @@
+# Texte
+Décision n° 1138/MEF/DCO du 8-12-86 — Il est mis à la disposition du ministre de la santé publique, des affaires sociales et de la condition féminine, un crédit de neuf cent mille (900.000) francs CFA pour couvrir les dépenses afférentes à la visite au Togo, du 20 au 25 octobre 1986, du délégué-régional du haut commissariat aux réfugiés pour l'Afrique de l'Ouest dans le cadre de la cérémonie de remise officielle de 15 forages de puits d'eau potable réalisés dans le canton de Fazzo.
+La dépense est imputable sur le budget général, gestion 1986, section 07, chapitre 63, article 00-00, paragraphe 99 (conférences internationales).
