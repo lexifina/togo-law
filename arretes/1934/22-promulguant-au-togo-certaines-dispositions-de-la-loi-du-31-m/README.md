@@ -1,0 +1,13 @@
+# Arrêté promulguant au Togo certaines dispositions de la loi du 31 mai 1933 portant fixation du budget général de l'exercice 1933 (articles 106 et 108)
+
+JOURNAL OFFICIEL 15E ANNEE N° 246 du 1934-02-01, page 110.
+
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/arrete-promulguant-au-togo-certaines-dispositions-de-la-loi-du-31-mai-1933-portant-fixation-du-budget-general-de-lexercice-1933-articles-106-et-108
+
+En vigueur / in force: 1934-02-01 (publication in the Journal officiel (default for regulatory acts)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
