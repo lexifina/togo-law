@@ -1,0 +1,5 @@
+# Signatures
+Fait à Lomé, le 10 mars 1961
+S. E. OLYMPIO.
+ORDONNANCES
+PRÉSIDENCE DU CONSEIL
