@@ -1,0 +1,6 @@
+# Texte
+Arrêté n° 89-INT-DSN-DAPM du 31/7/72 — Conformément aux dispositions prévues au chapitre premier du titre II de l'ordonnance n° 11 du 10 juin 1969, notamment en ses articles 44 et 45 ainsi qu'à celles prévues par l'article 60 deuxième alinéa du décret n° 69-122 du 10 juin 1969, M. Kanteen Milaka, est admis dans le corps des gradés et gardiens de la paix du cadre spécial de la sûreté nationale en qualité d'élève-gardien de la paix (chapitre 14 — article 7) du budget général, en remplacement numérique du gardien de la paix stagiaire Arreis Paul Boileau, démissionnaire.
+Pendant les six premiers mois de sa situation d'élève-fonctionnaire, M. Kanteen Milaka :
+1) percevra la rémunération fixée en tableau inscrit à l'article 2 du décret n° 71-220 du 20 décembre 1971 ; 2) ne sera pas assujetti, conformément aux dispositions prévues par l'article 61, premier alinéa de l'ordonnance n° 11 du 10 juin 1969, à l'exercice des retenues prévues pour constitution de pension de retraite ; 3) ne bénéficiera pas, en application des dispositions prévues par l'article 62 premier alinéa, de l'ordonnance n° 11 du 10 juin 1969 de l'indemnité de risques instituée par le décret n° 69-124 du 12 juin 1969, conformément aux dispositions prévues par l'article 2 dudit décret.
+Le présent arrêté prend effet à compter de la date de prise de service de l'intéressé.
+Retraite
