@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 24/MTPMERH/DGUH/DU du 22 décembre 1981 portant approbation de plans d'urbanisme de détail des villes de Tabligbo, Vogan, Notse, Sotouboua, Bassar, Tchamba, Mango, Pagouda, Kante et Amlame.
+LE MINISTRE DES TRAVAUX PUBLICS DES MINES DE L'ENERGIE ET DES RESSOURCES HYDRAULIQUES
+Vu la constitution dans ses articles 15, 21, 32 et 34; Vu le décret n° 77-194 définissant la mission de la direction générale de l'urbanisme et de l'habitat; Vu le décret n° 77-195 du 12 octobre 1977 autorisant et déclarant d'utilité publique l'aménagement du la ville de TABLIGBO; Vu les articles 2 et 3 du décret n° 80-154 du 20 mai 1980 autorisant et déclarant d'utilité publique l'aménagement des villes de MANGO, KANTE, NIAMTOUGOU PAGOUDA, BAPILO, BASSAR, TCHAMBA BA-DOU et AMLAME; Vu le chapitre V du décret 67-228 du 24 octobre 1967 relatif aux lotissements dans les périmètres urbains; Vu le décret n° 79-273 du 9 novembre 1979 définissant les périmètres urbains et réglementant l'urbanisme dans les chefs-lieux de circonscription; Vu l'ordonnance n° 10 du 5 mars 1976 relative à l'exercice et à l'organisation de la profession de géomètre.
+ARRETE:
