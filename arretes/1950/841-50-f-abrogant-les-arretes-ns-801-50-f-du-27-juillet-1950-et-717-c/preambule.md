@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 841-50/F. du 24 octobre 1950.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 30 décembre 1912 sur le régime financier des colonies; Vu le décret du 2 mars 1910 sur la solde; Vu le décret du 11 juillet 1945 relatif à la solde et accessoires, ensemble l'arrêté n° 724/F. du 18 décembre 1945 relatif à son application aux cadres locaux européens du Togo; Vu l'arrêté n° 601/F. du 27 juillet 1950 réglementant l'attribution d'indemnité pour heures supplémentaires; Vu l'arrêté n° 713/CFT. du 5 septembre 1950 modifiant l'arrêté précité en ce qui concerne les agents du Réseau et du Wharf; Vu la lettre n° 35002/Pel/B.E. du 19 septembre 1950 du ministre de la France d'outre-mer; Le conseil privé entendu;
+ARRETE:
