@@ -1,0 +1,3 @@
+# Signatures
+Fait à Lomé, le 27 février 1958. N. GRUNITZKY.
+IMPRIMERIE DE L'ÉCOLE PROFESSIONNELLE M. C. LOMÉ — TOGO
