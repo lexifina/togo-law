@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 48/MTFP du 15-1-90 — M. Agbognito Dowui Assion n° mle 007590-G, brigadier-chef 1er échelon indice 630 et Mozo Komlan n° mle 014561-T, gardien de la paix 6e échelon indice 470 (catégorie D), titulaires du diplôme d'Etat d'infirmier, admis au concours interne, session des 14 et 15 avril 1987, sont intégrés dans le cadre du personnel médical et technique de la santé publique en qualité d'infirmiers d'Etat de 2e classe 1er échelon stagiaires (catégorie B - indice 750) à compter du 28 septembre 1990 et conservent leur affectation actuelle (section 15, chapitre 22 du budget général).
+Pendant la durée de leur stage, les intéressés sont soumis aux dispositions de l'article 24 du décret n° 69-113 du 28 mai 1969.
