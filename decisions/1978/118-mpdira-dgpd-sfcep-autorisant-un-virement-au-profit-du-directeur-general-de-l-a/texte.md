@@ -1,0 +1,3 @@
+# Texte
+Décision n° 118-MPDIRA-DGPD-SFCEP du 24-8-78 — Est autorisé le virement au profit du directeur général de l'agence d'équipement des terrains urbains (AGETU) à Lomé, à son compte ouvert dans les écritures du trésorier-payeur du Togo sous le n° 031, de la somme de cinq cent soixante-quinze mille quatre cent quatre vingts (575.480) francs cfa représentant le versement du reliquat des crédits d'installation de l'agence d'équipement des terrains urbains.
+La dépense est imputable sur le budget d'investissement et d'équipement 1977, titre II, chapitre 8, article 2, paragraphe 1, rubrique b (cf n° 51/78 du 23 mai 78).
