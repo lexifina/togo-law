@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 538-56/AE/PLAN/1 du 11 juin 1956 fixant la date de fermeture de la Campagne d'achat du Coton de la récolte 1955-1956.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, CHAVALIER DE LA LÉGISIN D'HONNEUR COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu la loi du 16 avril 1955 relative aux institutions territoriales et régionales du Togo sous tutelle française; Vu la loi du 14 mars 1942 et les textes modificatifs subséquents; Vu le procès-verbal de la conférence tenue le 15 décembre 1955 à Lomé; Vu l'arrêté n° 40/AE/PLAN/1 du 11 janvier 1956 fixant les modalités d'achat et d'égrénage du coton dans les zones de multiplication des graines sélectionnées pendant la campagne 1955-1956; Vu l'arrêté n° 108/AE/PLAN/1 du 3 février 1956 fixant la date d'ouverture de la campagne d'achat du coton de la récolte 1955-1956; La Chambre de Commerce consultée;
+ARRETE :
