@@ -1,0 +1,5 @@
+# Texte
+Arrêté n° 9-MJ du 5-4-72 — La liste des assesseurs près la chambre d'annulation pour l'année 1972 est établie ainsi qu'il suit :
+1° — Ke'onou Moïse, directeur adjoint de l'hôtel le Bénin, coutume mina 2° — Wilson Théodore, notable demeurant à Anécho, coutume mina 3° — Ajavon Benjamin, employé de commerce rue Thiers à Lomé, coutume mina 4° — Abado Mathieu, maître d'hôtel au ministère des aff. étrangères, coutume cabraise 5° — Adakoum Jacob, en service à la librairie évangélique Lomé, coutume cabraise 6° — Issaka Zakari, en service à la direction de l'Agric. Lomé, coutume cotocoli 7° — Do Rego Boukari, fonctionnaire en service à l'ASECNA Lomé, coutume cotocoli 8° — Maboucou Potin, en service à la SOTEX3M à Lomé, coutume nago 9° — Kolagbe Jean, instituteur à l'école Sanoussi à Lomé, coutume éwé 10° — Mensah Emmanuel, bijoutier, 25 rue d'Anécho à Lomé, coutume éwé 11° — Ayassou Michel, planteur, chef du village de Kouvé, coutume ouatchi 12° — Aziabou Laurent, fonctionnaire, boulevard circulaire à Lomé, coutume ouatchi.
+MINISTERE DES FINANCES ET DE L'ECONOMIE
+Concession de pensions de retraite, de veuve et d'orphelin
