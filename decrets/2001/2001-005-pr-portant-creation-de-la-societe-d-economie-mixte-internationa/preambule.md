@@ -1,0 +1,7 @@
+# Préambule
+DECRET N° 2001-005 /PR DU 7 FEVRIER 2001
+Portant création de la Société d’Economie Mixte International Fertilizers Group-Togo
+LE PRESIDENT DE LA REPUBLIQUE
+Sur le rapport conjoint du ministre de l’Economie, des Finances et des Privatisations et du Ministre de l’Equipement, des Mines, de l’Energie et des Postes et Télécommunications ; Vu la Constitution du 14 octobre 1992 ; Vu la loi n° 90-26 du 4 décembre 1990 portant réforme du cadre institutionnel et juridique des Entreprises Publiques ;
+Vu l’ordonnance n° 94-002/PR du 10 juin 1994 portant désengagement de l’Etat et d’autres personnes morales de droit public des entreprises ; Vu les ordonnances n° 80-12 du 10 janvier 1980 et n° 80-17 du 4 février 1980 regroupant les activités de production, d’exploitation et de production dans une même structure, sous la dénomination Office Togolais des Phosphates (OTP) ; Vu le décret n° 91-197 du 16 août 1991 pris pour l’application de la loi n° 90-26 du 4 décembre 1990 susvisée ; Vu le décret n° 94-038/PR du 10 juin 1994 pris en application de l’ordonnance n° 94-002/PR du 10 juin 1994 susvisée Vu le décret n° 2000-079/PR du 8 octobre 2000 portant composition du Gouvernement ; Vu le décret n° 2001-001/PR du 17 janvier 2001 portant autorisation de signature du Protocole d’accord entre la République togolaise et le groupe Investisseur Stratégique MEDEX PETROLEUM ; Le Conseil des Ministres entendu ;
+DECRETE
