@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 1032 S. E. C./5 du 10 mars 1943.
+LE GOUVERNEUR GÉNÉRAL DE L'A. O. F., HAUT-COMMISSAIRE DE FRANCE AU TOGO, COMMANDEUR DE LA LÉGION D'HONNEUR,
+Vu le décret du 18 octobre 1904, réorganisant le Gouvernement général de l'A. O. F. et les textes modificatifs subséquents; Vu le décret du 25 juin 1940, créant le Haut-Commissariat de l'Afrique française; Vu le décret du 2 mai 1939, portant règlement d'administration publique pour l'application aux territoires d'outre-mer relevant du ministère des colonies de la loi du 11 juillet 1938 sur l'organisation de la nation en temps de guerre; Vu l'arrêté général n° 492 S. E. C. du 4 février 1942, instituant à Dakar et dans les chefs-lieux des colonies du groupe nommément désignés une caisse de péréquation et de compensation; Vu l'arrêté n° 630 S. E. C. du 16 février 1943, appliquant les opérations de péréquation à des tabacs d'importation; Vu l'arrêté n° 781 F. du 22 février 1943, relevant le droit fiscal d'entrée sur les tabacs; Vu l'article 3 de l'arrêté du 3 mars 1920, sur la mise en application par la procédure d'urgence des actes réglementaires;
+ARRETE :
