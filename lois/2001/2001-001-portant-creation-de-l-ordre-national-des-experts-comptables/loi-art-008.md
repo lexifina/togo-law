@@ -1,0 +1,3 @@
+# Loi, Article 8
+Est expert-comptable, au sens de la présente loi, celui qui, inscrit au Tableau, fait profession habituelle de réviser et d’apprécier les comptabilités des entreprises et organismes auxquels il n’est pas lié par un contrat de travail. Il est également habilité à attester la régularité et la sincérité des états financiers de synthèse requis des entreprises par les dispositions législatives et réglementaires en vigueur, à exercer le mandat de commissaire aux comptes et de commissaire aux apports.
+L’expert-comptable peut aussi tenir, organiser les comptabilités et analyser, par les procédés de la technique comptable la situation et le fonctionnement des entreprises sous leurs aspects économiques, informatiques, juridiques et financiers.

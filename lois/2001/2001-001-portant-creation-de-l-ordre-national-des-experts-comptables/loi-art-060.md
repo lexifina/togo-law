@@ -1,0 +1,4 @@
+# Loi, Article 60
+Les membres de l'Ordre suspendus ou radiés du tableau sont remplacés, le cas échéant, soit d'office par le Conseil de l'Ordre, soit à la requête de la partie la plus diligente dans les missions qui leur avaient été confiées par l'autorité de justice, ou par une administration publique.
+Les particuliers peuvent également, sans indemnité de part et d'autre, mais à charge pour les membres de l'Ordre de restituer tous les documents ainsi que les sommes déjà perçues qui ne correspondent pas au remboursement des frais effectivement exposés, retirer aux membres de l'Ordre suspendus ou radiés du tableau, les missions dont ils les avaient chargés.
+Le membre de l'Ordre suspendu ou radié du Tableau doit payer à ses employés quittant son service, les droits et indemnités prévus par le Code du Travail en matière de licenciement.

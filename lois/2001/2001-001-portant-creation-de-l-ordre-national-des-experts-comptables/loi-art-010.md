@@ -1,0 +1,3 @@
+# Loi, Article 10
+Pour être inscrit au tableau de l’ordre, en qualité d’expert-comptable, il faut remplir les conditions suivantes :
+1. Etre de nationalité togolaise ou ressortissant d’un Etat membre de l’UEMOA. 2. Jouir de ses droits civiques. 3. N’avoir subi aucune condamnation criminelle ou correctionnelle de nature à entacher son honorabilité notamment aucune condamnation comportant l’interdiction du droit de gérer et d’administrer les sociétés. 4. Etre titulaire d’un diplôme d’expertise comptable reconnu par le ministère chargé de l’enseignement supérieur. 5. Etre de bonne moralité. 6. Avoir un domicile fiscal au Togo.

@@ -1,0 +1,2 @@
+# Loi, Article 25
+Les membres de l’Ordre qui, étant associés ou actionnaires d’une société reconnue par lui, exercent leur activité dans cette société, ainsi que les membres de l’Ordre salariés d’un confrère ou d’une société inscrite au Tableau, peuvent exécuter en leur nom et pour leur propre compte les missions ou mandats qui leur sont directement confiés par des clients. Ils exercent ce droit dans les conditions prévues par les conventions qui les lient auxdites sociétés ou à leurs employeurs.

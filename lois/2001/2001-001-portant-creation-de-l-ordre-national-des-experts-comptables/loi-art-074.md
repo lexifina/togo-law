@@ -1,0 +1,2 @@
+# Loi, Article 74
+La présente loi sera exécutée comme loi de l'Etat.

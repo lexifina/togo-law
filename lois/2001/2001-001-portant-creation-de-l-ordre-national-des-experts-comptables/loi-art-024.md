@@ -1,0 +1,2 @@
+# Loi, Article 24
+Les experts-comptables et les comptables agréés assumant dans tous les cas, la responsabilité de leurs travaux et activités. La responsabilité propre des sociétés membres de l’Ordre laisse subsister la responsabilité personnelle de chaque expert-comptable ou chaque comptable agréé en raison des travaux qu’il exécute lui-même pour le compte de ses sociétés. Les travaux ou activités doivent être assortis de la signature personnelle de l’expert-comptable ou du comptable agréé ainsi que du visa et de la signature sociale.
