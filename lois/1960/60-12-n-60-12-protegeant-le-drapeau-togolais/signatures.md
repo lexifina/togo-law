@@ -1,0 +1,3 @@
+# Signatures
+Fait à Lomé, le 23 avril 1960 S. E. OLYMPI0.
+IMPRIMERIE DE L'ÉCOLE PROFESSIONNELLE M. C. LOMÉ — TOGO (DÉPÔT LÉGAL N° 121)
