@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 366 soumettant à la procédure d'urgence la publication de l'arrêté no 365 du 3 août 1940 promulguant au Togo le décret du 31 juillet 1940 relatif à la levée de plein droit des mesures de séquestre prises en application des décrets des 1er et 18 septembre 1939 sur la déclaration et la mise sous séquestre des biens ennemis.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGIÓN D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo; Vu l'arrêté no 365 du 3 août 1940 promulguant au Togo le décret du 31 juillet 1940 relatif à la levée de plein droit des mesures de séquestre prises en application des décrets du 1er et du 18 septembre 1939 sur la déclaration et la mise sous séquestre des biens ennemis;
+ARRETE :
