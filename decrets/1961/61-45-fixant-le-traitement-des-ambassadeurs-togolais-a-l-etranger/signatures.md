@@ -1,0 +1,4 @@
+# Signatures
+Fait à Lomé, le 24 avril 1961
+S. E. OLYMPIO.
+MINISTÈRE DES FINANCES ET DES AFFAIRES ÉCONOMIQUES
