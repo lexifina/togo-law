@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 595 modifiant l'article 6 de l'arrêté du 4 octobre 1933 réorganisant la contrainte par corps.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté du 4 octobre 1933 réorganisant la contrainte par corps, modifié par l'arrêté du 15 avril 1937; Vu le décret du 21 avril 1933 réorganisant la justice indigène au Togo, notamment en son article 92; Sur la proposition du chef du service judiciaire; Le conseil d'administration entendu dans sa séance du 27 octobre 1938;
+ARRETE :
