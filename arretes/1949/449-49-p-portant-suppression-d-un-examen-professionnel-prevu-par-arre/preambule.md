@@ -1,0 +1,5 @@
+# Préambule
+ARRETE n° 449-49/P du 11 juin 1949.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMPAGNON DE LA LIBÉRATION, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo; Vu le décret n° 46-2378 du 25 octobre 1946 portant création d'une assemblée représentative au Togo promulgué par arrêté n° 836/Cab. du 1er novembre 1946, notamment en son article 24; Vu l'arrêté local n° 288/P. du 7 juin 1945 réglant le statut général du personnel au Togo; Vu l'arrêté local n° 290/P. du 7 juin 1945 fixant le statut particulier du cadre des moniteurs de l'agriculture; Vu l'avis favorable de l'assemblée représentative du Togo; Le conseil privé entendu,
+ARRETE:
