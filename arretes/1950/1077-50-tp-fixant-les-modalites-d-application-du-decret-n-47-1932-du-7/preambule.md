@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 1077-50/TP. du 29 décembre 1950.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo; Vu le décret du 13 mars 1926 portant réorganisation du domaine et du régime des terres domaniales au Togo; Vu le décret du 21 juin 1934 réglementant l'usage des voies de communications au Togo et les actes modificatifs ou interprétatifs subséquents; Vu la Loi n° 50-530 du 12 mai 1950 étendant au Territoire du Togo le décret n° 47-1932 du 7 octobre 1947 réglementant les transports automobiles en A.O.F.; (Arrêté de promulgation n° 405-50/Cab. du 26 mai 1950); Sur la proposition de M. le Directeur des Travaux Publics et des Transports du Togo; L'Assemblée Réprésentative du Togo entendue; Le Conseil Privé entendu;
+ARRETE:
