@@ -1,0 +1,5 @@
+# Préambule
+DECRET n° 94-011/PR du 16 Mars 1994 portant création de la Société d'Administration des Zones Franches (SAZOF),
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution du 14 Octobre 1992, notamment en son article 152 ; Vu la Loi 89/14 du 18 Septembre 1989, portant statut de Zone Franche de Transformation pour l'Exportation, notamment en son article 7 ; Vu la Loi 90/26 du 4 Décembre 1990, portant réforme du cadre institutionnel et juridique des entreprises publiques ; Vu le Décret 90/40 du 4 Avril 1990, pris en application de la Loi 89/14 du 18 Septembre 1989, portant statut de Zone Franche de Transformation pour l'Exportation ; Vu le Décret 91/197 du 16 Août 1991, pris en application de la Loi 90/26 du 4 Décembre 1990, portant réforme du cadre institutionnel et juridique des entreprises publiques ; Vu le Décret 88/132/PR du 28 Juillet 1988, portant attributions et réorganisation du Ministère de l'Industrie et des Sociétés d'État ; Sur rapport du Ministre de l'Industrie et des Sociétés d'État ; Le Conseil des Ministres entendu ;
+DECRETE :
