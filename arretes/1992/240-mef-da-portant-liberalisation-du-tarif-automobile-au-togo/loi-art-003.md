@@ -1,0 +1,2 @@
+# Loi, Article 3
+Les surprimes obligatoires prévues à l'annexe visé à l'article précédent pour couvrir les dommages subis par les personnes transportées dans le véhicule assuré conformément aux dispositions de la loi n°87/06 du 3 juin 1987 instituant une obligation d'assurance en matière de circulation de Véhicules Terrestres à Moteur au Togo, constituent des montants fixes et ne sont susceptibles d'aucune modification par l'assureur.
