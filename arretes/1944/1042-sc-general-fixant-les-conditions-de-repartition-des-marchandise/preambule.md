@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 1042 SE. du 8 avril 1944.
+LE GOUVERNEUR GÉNÉRAL DE L'A. O. F., HAUT-COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO, CHEVALIER DE LA LÉGION D'HONNEUR,
+Vu le décret du 18 octobre 1904 réorganisant le Gouvernement général de l'Afrique Occidentale Française et les textes modificatifs; Vu le décret du 2 mai 1939 concernant l'application de la loi du 11 juillet 1938 sur l'organisation générale de la Nation pour le temps de guerre dans les territoires d'outre-mer dépendant de l'autorité du Département des Colonies; Vu le décret du 31 janvier 1944 portant institution et organisation d'un établissement public dénommé « Comité du Commerce Extérieur de l'A. O. F. et du Togo »; Vu l'arrêté n° 3804 bis sec/7 du 31 octobre 1943, fixant les conditions de répartition des marchandises d'importation soumises au contrôle du Comité du Commerce Extérieur et destinées à être commercialisées, arrêté complété par l'arrêté n° 653 sec/7 du 29 février 1944; Sous réserve d'approbation en Commission Permanente du Conseil de Gouvernement;
+ARRETE:
