@@ -1,0 +1,6 @@
+# Préambule
+ARRETE N° 275-54/ITLS. du 19 mars 1954 fixant les formes et modalités d'établissement du contrat de travail et de l'engagement à l'essai.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu la loi 52-1322 du 15 décembre 1952, instituant un code du travail dans les Territoires et Territoires associés relevant du ministère de la F.O.M., spécialement ses articles 29 à 34 inclusivement, promulguée par arrêté n° 947-52/Cab. en date du 24 décembre 1952; Vu l'arrêté n° 326-53/IT. du 16 mai 1953 instituant une Commission Consultative du Travail auprès de l'Inspecteur du Travail et des Lois Sociales du Togo; Vu l'avis émis par la Commission Consultative du Travail du Togo en sa séance du 24 juin 1953; Vu l'avis émis par l'Assemblée Territoriale du Togo en sa commission du 10 novembre 1953; Sur proposition de l'Inspecteur du Travail et des Lois Sociales;
+ARRETE :
+I — Formes et modalités du contrat de travail
