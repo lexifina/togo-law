@@ -1,0 +1,6 @@
+# Préambule
+ARRETE No 12 modifiant le taux de la taxe perçue au profit de la chambre de commerce du Togo en ce qui concerne les produits oléagineux.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, ADMINISTRATEUR SUPÉRIEUR DU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo; Vu le décret du 30 décembre 1912 sur le régime financier des colonies; Vu la loi du 13 avril 1928 sur le régime douanier colonial; Vu le décret du 2 juillet 1928 déterminant les conditions d'application de la loi du 13 avril 1928 sur le régime douanier colonial; Vu l'arrêté du 20 juin 1922 établissant une taxe au profit de la chambre de commerce du Togo sur le tonnage importé et exporté, approuvé par décret du 27 septembre, ensemble le décret du 20 octobre 1928 approuvant l'arrêté du 4 août 1928 modifiant le taux, de la dite taxe, et le décret du 17 mars 1934 approuvant l'arrêté no 6 du 2 janvier 1934; Sur la proposition de la chambre de commerce du Togo; Le conseil d'administration entendu; Sous réserve d'approbation ministérielle;
+JOURNAL OFFICIEL DU TERRITOIRE DU TOGO PLACÉ SOUS LE MANDAT DE LA FRANCE
+ARRETE :
