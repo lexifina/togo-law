@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 922-MJ-FP-T du 23-9-76 — M. Sand Yao Selom, aide-comptable permanent de 5e catégorie échelle A, titulaire du certificat d'aptitude professionnelle (CAP) aide-comptable et du brevet d'études professionnelles (BEP) spécialité comptable-mécanographe, est admis dans le cadre interministériel des fonctionnaires de l'administration générale en qualité d'adjoint administratif de 2e classe 2e échelon stagiaire (catégorie C-indice 600) et conserve son affectation actuelle (chapitre 12, article 2, paragraphe 2 du budget général).
+Le présent arrêté a effet pour compter de la date de sa signature.
