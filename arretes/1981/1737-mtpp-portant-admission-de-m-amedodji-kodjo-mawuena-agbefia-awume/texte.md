@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 1737-MTFP du 14-12-81 — M. Amedodji Kodjo Mawuena Agbefia Awumé, admis à l'examen probatoire de l'enseignement du second degré et titulaire du diplôme d'adjoint technique de la statistique de l'intitut statistique, de planification et d'économie appliquée (ISPEA) de Yaoundé (République Unie du Cameroun) est nommé dans le cadre des fonctionnaires de la statistique générale en qualité d'adjoint technique de la statistique de 2e classe 1er échelon stagiaire (catégorie B-indice 750) et mis à la disposition du ministre du plan et de la réforme administrative (chapitre 32, article 6, paragraphe 1 du budget général).
+Le présent arrêté prendra effet pour compter de la date de prise de service de l'intéressé.
