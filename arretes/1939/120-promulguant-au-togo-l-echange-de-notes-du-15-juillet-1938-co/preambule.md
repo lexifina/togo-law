@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 120 promulguant au Togo l'échange de notes du 15 juillet 1938 consacrant l'accord des gouvernements français et britannique en matière de simplification du régime des papiers d'identité du personnel des compagnies de navigation aérienne britanniques et françaises.
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 fixant le mode de promulgation et de publication des textes réglementaires au Togo et au Cameroun; Vu l'échange de notes du 15 juillet 1938 consacrant l'accord des gouvernements français et britannique en matière de simplification du régime des papiers d'identité du personnel des compagnies de navigation aérienne britanniques et françaises; Vu la dépêche ministérielle n° 6.044 en date du 15 janvier 1939;
+ARRETE :
