@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 239-54/TP. du 11 mars 1954 fixant les caractéristiques des réservoirs souterrains de liquides inflammables.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, Officier de la Légion d'honneur, Commissaire de la République au Togo
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 14 décembre 1927, portant réglementation des Etablissements dangereux, insolubres ou incommodes au Togo, promulgué par arrêté du 2 février 1928, ensemble les arrêtés d'application n° 346, 347, 348 du 23 juin 1928, 363 du 27 juin 1928, 477 du 22 août 1928 et les textes qui les ont modifiés ou complétés; Vu la nomenclature annexée à ces arrêtés; Vu l'arrêté ministériel du 28 octobre 1952, fixant les nouvelles conditions à remplir pour les réservoirs souterrains dans lesquels sont emmagasinés les liquides inflammables; Sur la proposition du Chef du Service des Travaux Publics du Togo; Le conseil privé entendu.
+ARRETE:
