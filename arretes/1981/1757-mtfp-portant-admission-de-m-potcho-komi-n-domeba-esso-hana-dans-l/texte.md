@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 1757/MTFP du 16/12/81 — M. Potcho Komi N'doméba Esso-Hana, titulaire du baccalauréat de l'enseignement du second degré et du diplôme du département génie hydraulique de l'Université de Tsinghua (spécialité structures et ouvrages hydrauliques) est admis dans le cadre des fonctionnaires de l'agriculture, de l'élevage, des eaux et forêts et du conditionnement des produits en qualité d'ingénieur d'agriculture de 2e classe 2e échelon stagiaire (catégorie A1 — indice 1450) et mis à la disposition du ministre de l'aménagement rural (chapitre 36, article 6 du budget général).
+Le présent arrêté prendra effet à compter de la date de prise de service de l'intéressé.
