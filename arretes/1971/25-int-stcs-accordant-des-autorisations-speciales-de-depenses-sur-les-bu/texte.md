@@ -1,0 +1,2 @@
+# Texte
+Arrêté no 25-INT-STCS du 18-2-71 — Sont accordées des autorisations spéciales de dépenses sur les budgets des circonscriptions de Lomé, Anécho, Vogan, Tabligbo, Tsévié, Klouto, Nuatja, Atakpamé, Akposso, Sokodé, Sotouboua, Bassari, Bafilo, Lama-Kara, Niamtougou, Pagouda, Kandé, Mango et Dapango, exercice 1971, représentant le douzième des budgets de l'exercice 1970 pour faire face aux dépenses du mois de février 1971.
