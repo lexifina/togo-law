@@ -1,0 +1,3 @@
+# Texte
+Décision n° 720/MEF/DCO du 20-6-90 — Il est mis à la disposition du ministre du travail et de la fonction publique, un crédit de neuf cent soixante dix mille (970.000) francs CFA pour servir de paiement d'indemnis aux encadreurs et sécrétaires dans le cadre du séminaire organisé du 1er au 9 mars à l'intention des nouveaux fonciers admis dans la fonction publique.
+La dépense dont les pièces justificatives seront produites dans le délai de 30 jours, à l'ordonnateur — délégué du budget général du Togo est imputable sur le budget général, gestion 1990, section 07, chapitre 62, article 07 — 21, paragraphe 99 (dépenses diverses imprévues) et fera l'objet de procédure simplifiée au niveau de l'engagement.
