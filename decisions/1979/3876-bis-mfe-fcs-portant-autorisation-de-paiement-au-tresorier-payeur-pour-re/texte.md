@@ -1,0 +1,3 @@
+# Texte
+Décision n° 3876 bis/MFE/FCS du 31/12/79 — Est autorisé le mandatement au nom du trésorier-payeur, de la somme de trente cinq millions cent vingt et un mille cinq cent vingt (35.121.520) francs CFA, destinée à régulariser les différentes dépenses relatives aux honoraires d'avocats et aux règlements de diverses interventions de la nigérian national petroleum corporation (NNPC), aux négociations du club de Paris et des accords bilatéraux de consolidation et aux indemnités d'heures supplémentaires accordées aux agents de la voirie lors de la tenue à Lomé de la réunion ACP-CEE.
+La dépense est imputable au budget général, gestion 1979, chapitre 48, article 14.
