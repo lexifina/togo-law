@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 522 F. du 28 juillet 1947.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, CBOIX DE GUERRE — MÉDALLE DE LA RÉSISTANCE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 2 mars 1910, portant règlement sur la solde et les accessoires de solde du personnel colonial notamment l'article 108, ensemble tous les autres qui l'ont modifié ou complété; et notamment les décrets du 27 septembre 1945 et du 11 juillet 1945; Vu le décret du 30 décembre 1912, sur le régime financier des Colonies et les actes subséquents qui l'ont modifié; Vu l'arrêté 572 du 31 octobre 1943 relatif aux indemnités de représentation pouvant être allouées au personnel européen en service au Togo; Vu la lettre no 26.325 A/PEL/RD du 8 juillet 1947 du Ministère de la France d'Outre-Mer prescrivant de prendre un arrêté portant relèvement des indemnités en cause; Sous réserve d'approbation ministérielle;
+ARRETE:
