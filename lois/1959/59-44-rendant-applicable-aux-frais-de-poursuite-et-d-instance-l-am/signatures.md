@@ -1,0 +1,9 @@
+# Signatures
+Fait à Lomé, le 28 mai 1959
+S. E. OLYMPIO.
+Par le Premier Ministre :
+Le Ministre de la Justice,
+H. Coco.
+JOURNAL OFFICIEL DE LA REPUBLIQUE DU TOGO
+DECRETS, ARRETES, DECISIONS ET CIRCULAIRES
+PRÉSIDENCE DU CONSEIL
