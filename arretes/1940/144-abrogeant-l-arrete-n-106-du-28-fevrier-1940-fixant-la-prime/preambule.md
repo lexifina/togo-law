@@ -1,0 +1,14 @@
+# Préambule
+ARRETE N° 144 abrogeant l'arrêté n° 106 du 28 février 1940 fixant la prime à payer aux cafés exportés du Territoire pendant le premier semestre 1940.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo;
+Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937;
+Vu la loi du 31 mars 1931 portant création de caisses de compensation en vue d'assurer la sauvegarde de la production du caoutchouc et établissant une taxe spéciale sur les produits coloniaux français et étrangers;
+Vu le décret du 31 mai 1931 modifié par le décret du 11 septembre 1937, réglant les conditions d'application de la loi du 31 mars 1931, assurant la sauvegarde de la production du caoutchouc et établissant une taxe spéciale sur certains produits coloniaux français et étrangers;
+Vu le décret du 28 septembre 1939 modifiant l'article 17 (alinés II) du décret du 31 mai 1931 relatif à l'octroi de primes à l'exportation des cafés coloniaux de qualité;
+Vu le décret du 10 janvier 1940 déterminant les conditions d'exportation des cafés en provenance des territoires relevant du ministère des colonies;
+Vu l'arrêté n° 68 fixant les modalités d'application du décret du 10 janvier 1940 déterminant les conditions d'exportation des cafés en provenance des territoires relevant du ministère des colonies;
+Vu la dépêche ministérielle n° 638 du 13 janvier 1940 fixant le taux des primes à appliquer à la qualité supérieure des différentes variétés de café;
+Vu l'arrêté n° 106 du 28 février 1940 fixant la prime à payer aux cafés exportés pendant le premier semestre 1940;
+Vu le décret du 20 février 1940 reportant la date d'application du décret du 10 janvier 1940 à un an à compter de sa publication au journal officiel;
+ARRETE :
