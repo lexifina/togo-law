@@ -1,0 +1,5 @@
+# Préambule
+DECRET N° 71-151 du 8/7/71 portant extension aux organismes, para-administratifs et aux collectivités locales de la réglementation relative aux marchés de l'Etat.
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu l'ordonnance n° 1 du 14 janvier 1967 ; Vu les ordonnances n°s 15 et 16 du 14 avril 1967 ; Vu l'arrêté n° 72-CAB du 24 janvier 1947 fixant les clauses et les conditions générales imposées aux entrepreneurs des travaux publics et ses modificatifs ; Vu l'arrêté n° 768.54-F du 31 juillet 1954 fixant les clauses et les conditions générales applicables aux marchés de fournitures et services et ses modificatifs ; Vu le décret n° 60-17 du 22 janvier 1960 fixant les conditions dans lesquelles peuvent être passés les marchés sur les budgets des circonscriptions et des communes ; Vu le décret n° 69.89 du 12 mai 1969 fixant la limite des travaux et fournitures dispensés de marchés écrits ; Vu le décret n° 71-142 du 24 1971 fixant la limite des travaux, fournitures, et services dispensés de la procédure d'appel à la concurrence ; Sur proposition du ministre des finances, de l'économie et du plan ; Le conseil des ministres entendu.
+DECRETE :
