@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 13/INT-SG-DSTCL du 30/1/85 — sont accordées des autorisations spéciales des dépenses sur les budgets des préfectures de : Golfe, Lacs, Vo, Yoto, Zio, Haho, Ogou, Amou, Wawa, Tchaoudjo, Tchamba, Sotouboua, Bassar, Kloto, Assoli, Kozah, Doufeigou, Binah, Kéran, Oti et Töne, exercice 1985 représentant le douzième des budgets de l'exercice 1984 pour faire face aux dépenses du 1er janvier 1985 jusqu'à l'approbation du budget primitif exercice 1985.
