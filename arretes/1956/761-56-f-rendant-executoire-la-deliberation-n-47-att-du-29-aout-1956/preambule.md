@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 761-56/F. du 30 août 1956 rendant exécutoire la délibération n° 47/ATT. de l'Assemblée territoriale en date du 29 août 1956 autorisant le Chef du territoire à procéder au groupement des emprunts 4% et 4,5% émis par le Togo en 1931 et 1932 dans les formes prévues par le décret du 20 mai 1955.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER, CHEVALIER DE LA LÉGION D'HONNEUR COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu la loi n° 55-426 du 16 avril 1955 relative aux institutions territoriales et régionales du Togo sous tutelle française; Vu le décret du 18 juin 1955 portant règlement d'administration publique pour l'application de la loi du 16 avril 1955 précitée; Vu la délibération n° 47 de l'Assemblée Territoriale en date du 29 août 1956; Le conseil de Gouvernement entendu;
+ARRETE :
