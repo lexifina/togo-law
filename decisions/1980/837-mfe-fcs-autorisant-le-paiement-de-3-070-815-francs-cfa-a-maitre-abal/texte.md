@@ -1,0 +1,4 @@
+# Texte
+Décision n° 837/MFE/FCS du 2-6-80 — Est autorisé le paiement au profit de maître Abalo Kwami, avocat-conseil à Lomé, de la somme de trois millions soixante dix mille huit cent quinze (3.070.815) francs CFA, représentant le montant des dommages-intérêts dus par l'État Togolais par suite d'un accident de circulation causé par le véhicule administratif RT 5653-B, conduit par Monsieur Assogba Dawola en service à la Subdivision des Travaux publics d'Atakpamé.
+Cette somme sera mandatée et virée au compte bancaire n° CH-27-078-95 ouvert auprès de l'Agence de Lomé banque Togolaise pour le commerce et l'industrie (B.T.C.I.) au nom de Maître Abalo Kwami, pour être ensuite reversée à Mme Kassegne Agbalé, née Satchi et M. Koffi Komlan, victimes d'un accident de circulation survenu à Amlamé - Atakpamé le 8 mai 1976.
+La dépense est imputable sur le chapitre 45, article 18 du budget général, gestion 1980 (dépenses imprévues).
