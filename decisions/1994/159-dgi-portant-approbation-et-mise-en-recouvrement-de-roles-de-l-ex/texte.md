@@ -1,0 +1,5 @@
+# Texte
+Décision n°159/DGI du 12/10/94 - Sont approuvés et rendus exécutoires les rôles de l'exercice 1994 ci-après:
+| N° de Rôles | Agences | Nature des Contributions BUDGET GENERAL | Montant | Total | | --- | --- | --- | --- | --- | | 26 | TSEVIE | IMF-IRPP | 173.900 | | | | | ISN | 79.511 | | | | | IRPP | 9.600 | | | | | TC-IRPP | 37.500 | | | | | FNI | 5.875 | | | 27 | TSEVIE | ISN | 21.000 | | | | | TP | 70.000 | | | 28 | TSEVIE | TP | 110.824 | | | | | TSFCB | 21.667 | 529.877 | | BUDGET COMMUNAL | | | | | | 26 | TSEVIE | TC-IRPP | 13.500 | | | 27 | TSEVIE | TC-IR | 21.000 | | | | | TP | 105.000 | | | 28 | | TP | 166.235 | | | | | TSFCB | 32.500 | 338.235 | | DIRECTION GENERALE DES IMPOTS | | | | | | 27 | TSEVIE | TP | 35.000 | | | 28 | TSEVIE | TSFCB | 10.833 | | | | | TP | 55.412 | 101.245 | | 969.357 | | | | |
+La date de mise en recouvrement des rôles ci-dessus s'élevant à la somme de NEUF CENT SOIXANTE NEUF MILLE TROIS CENT CINQUANTE SEPT Francs est fixée au 12 Septembre 1994.
+La présente décision prend effet à compter de la date de sa signature.
