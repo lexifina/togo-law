@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 457 portant annulation de l'arrêté n° 429 du 27 septembre 1940 et autorisant le surcharge de certains timbres postaux en vue d'un usage fiscal.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'excédent sur les besoins normaux de certaines figurines postales du Togo; Vu la pénurie de timbres fiscaux; Vu l'autorisation donnée par le Haut-Commissaire de l'Afrique française par radio n° 221 du 12 septembre 1940; Vu l'arrêté n° 429 du 27 septembre 1940 portant autorisation de surcharge de certains timbres postaux en vue d'un usage fiscal; Sur la proposition du chef du service des P. T. T. et la proposition nouvelle du chef du service de l'enregistrement, des domaines et du timbre;
+ARRETE :
