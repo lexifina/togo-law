@@ -1,0 +1,3 @@
+# Texte
+Décision n°41 / MDN du 1/2/9 - Les élèves dont les noms suivent, sont engagés dans l'Armée Nationale Togolaise pour compter du 1er Janvier 1996 comme Soldat de 2è classe PDL et reçoivent les affectations suivantes :
+-95-01-14-651-KOTA-MAMA Assianam Nisson (G.A.T.) -95-03-14-652-SIGNAN Komla (G.A.T) -95-01-14-653-ATAKPA Esso-Dina (R.S.A.) -95-01-14-654-NIMAN Kpatcha Wiyaou (R.S.A.) -95-01-14-655-PADARO Essohana (R.S.A.) -95-01-14-656-PIO Machihude (R.S.A.) -95-02-14-657-AGBEMADON Koffi Agbéti (R.S.A.) -95-02-14-658 AGBOBLI Yawo Apélété (R.S.A.) -95-02-14-659-AKATA Eyouvét (R.S.A.) -95-03-14-660-AGBANGBA Atsa Kakpè Kahbilou (R.S.A.) -95-03-14-661-ALASSANI Abdou Rassidou (R.S.A.) -95-03-14-662-ASSOGBA Komi (R.S.A.)
