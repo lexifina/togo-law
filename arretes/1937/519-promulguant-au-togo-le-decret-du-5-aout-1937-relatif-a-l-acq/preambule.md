@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 519 promulguant au Togo le décret du 5 août 1937 relatif à l'acquisition de la qualité de citoyen français par les sujets français non originaires de l'Algérie et les protégés français non originaires de la Tunisie et du Maroc, qui résident dans les territoires sous mandat du Togo et du Cameroun.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par le décret du 20 juillet 1937; Vu le décret du 16 avril 1924 fixant le mode de promulgation et de publication des textes réglementaires au Togo et au Cameroun; Vu le décret du 5 août 1937 relatif à l'acquisition de la qualité de citoyen français par les sujets français non originaires de l'Algérie et les protégés français non originaires de la Tunisie et du Maroc, qui résident dans les territoires sous mandat du Togo et du Cameroun;
+ARRETE:
