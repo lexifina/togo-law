@@ -1,0 +1,5 @@
+# Texte
+Décision n° 596/CRT/DP du 18-9-95. - Par application des dispositions de l'article 20 paragraphe IV de la loi n° 91-11 du 23 mai 1991 il est alloué à Mr. BOMBONA Pandame, Adjudant 3è échelon n° Mle 0288 du corps du personnel des Forces Armées Togolaises une majoration pour enfants au taux de 10 % de sa pension principale SIX CENT QUATRE VINGT DIX NEUF MILLE TRENTE SIX (699.036) francs l'an pour compter du 1er novembre 1993 au titre de ses enfants (du 1er au 3è rang) ci-après désignés :
+| Lampugn, | né | le | 07 | Juin | 1967 | | --- | --- | --- | --- | --- | --- | | Damboan, | né | le | 10 | Octobre | 1972 | | Yabé, | née | le | 29 | Octobre | 1977. |
+Le montant annuel de cette majoration est fixé à SOIXANTE NEUF MILLE NEUF CENT QUATRE (69.904) francs pour compter du 1er novembre 1993.
+Par application des dispositions de l'article 20 paragraphe VI de la loi n° 91-11 du 23 mai 1991, M. BOMBONA Pandame ne pourra plus bénéficier des allocations familiales au titre de son enfant Yabé née le 29 octobre 1977 pour compter du 1er novembre 1993.
