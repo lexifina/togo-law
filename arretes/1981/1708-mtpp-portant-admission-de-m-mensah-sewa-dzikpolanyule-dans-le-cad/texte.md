@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 1708-MTFP du 8-12-81 — M. Mensah Séwa Dzikpolanyule; titulaire du baccalauréat de l'enseignement du second degré et du diplôme d'ingénieur des télécommunications de l'institut électronique des télécommunications de l'ordre du drapeau rouge de travail de Moscou (U.R.S.S.) est admis dans le cadre des fonctionnaires des postes et télécommunications en qualité d'ingénieur 2e échelon stagiaire (catégorie A1 — indice 1450) et mis à la disposition du ministre délégué à la présidence de la République chargé de l'information, des postes et télécommunications, chapitre 6, article 9 du budget général).
+Le présent arrêté prendra effet à compter de la date de prise de service de l'intéressé.
