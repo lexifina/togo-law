@@ -1,0 +1,3 @@
+# Signatures
+Fait à Lomé, le 11 mars 1961 S. E. OLYMPIO
+IMPRIMERIE DE L'ECOLE PROFESSIONNELLE M. C. LOMÉ — TOGO
