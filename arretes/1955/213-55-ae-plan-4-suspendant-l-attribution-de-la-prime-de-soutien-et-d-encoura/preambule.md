@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 213-55/AE/PLAN/4 du 15 février 1955 suspendant l'attribution de la prime de soutien et d'encouragement pour les plantations de caféiers au Togo.
+L'ADMINISTRATEUR EN CHEF DE LA FRANCE D'OUTRE-MER, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO P.I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 Janvier 1946 portant réorganisation administrative du Territoire du Togo et création d'assemblées représentatives; Vu l'arrêté 883-49/AE. du 31 octobre 1949 portant création d'un compte de soutien et d'équipement de la production locale; Vu l'arrêté 738-51/AE. du 17 octobre 1951 créant des Comités de Gestion des différentes sections du Compte de Soutien et d'Équipement de la Production locale et en fixant la composition et les attributions; Vu l'arrêté 938-52/Agro. du 24 décembre 1952 portant attribution d'une prime de soutien et d'encouragement pour les plantations de caféiers au Togo; Vu l'avis du Comité de gestion de la section CAFE réuni le 19 janvier 1955.
+ARRETE:
