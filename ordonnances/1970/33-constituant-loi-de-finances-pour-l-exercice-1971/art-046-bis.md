@@ -1,0 +1,2 @@
+# Article 46 bis
+La constatation de la circulation d'un véhicule non muni de la vignette donne lieu : a) en dehors des villes à un procès-verbal dressé par les brigades de gendarmerie ou tous agents chargés de constater les infractions à la circulation. b) dans les villes à la saisie du véhicule en contravention. Le véhicule saisi sera placé en fourrière jusqu'au complet acquittement du montant de la taxe et d'une amende égale ou double des droits.
