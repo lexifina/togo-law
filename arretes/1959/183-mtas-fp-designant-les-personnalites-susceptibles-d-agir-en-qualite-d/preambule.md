@@ -1,0 +1,9 @@
+# Préambule
+ARRETE N° 183/MTAS-FF du 8 août 1959 désignant les personnalités susceptibles d'agir en qualité d'experts et d'assesseurs dans la procédure de règlement des conflits collectifs du travail.
+Le Ministre du travail, des affaires sociales et de la fonction publique,
+Vu l'ordonnance n° 58-1376 du 30 décembre 1958 portant statut de la République togolaise;
+Vu la loi togolaise n° 56-2 du 18 septembre 1956, modifiée par la loi n° 57-13 du 28 mars 1957, déterminant les pouvoirs du Gouvernement de la République du Togo et ceux réservés à la Chambre des Députés;
+Vu la loi n° 52-1322 du 15 décembre 1952, dite Code du Travail, spécialement en son article 211, modifié;
+La Commission Consultative du Travail entendue en sa séance du 6 août 1959;
+Sur la proposition de l'Inspecteur du Travail;
+ARRETE :
