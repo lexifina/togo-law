@@ -1,0 +1,5 @@
+# Texte
+Décision n° 462/MFP/SEFB/DF/DCO du 25/5/98 - Il est autorisé la répartition des crédits octroyés au règlement des frais de justice criminelle suivant le tableau ci-dessous indiqué :
+| Tribunaux | Crédit accordé | Observations | | --- | --- | --- | | LOME | 37 000 000 | | | ANEHO | 7 500 000 | | | VOGAN | 500 000 | | | TABLIGBO | PM | | | TSEVIE | 3 800 000 | | | KPALIME | 2 500 000 | | | AMLAME | 2 500 000 | | | BADOU | PM | | | NOTSE | 3 800 000 | | | ATAKPAME | 32 400 000 | | | SOTOUBOUA | 1 000 000 | | | SOKODE | 2 000 000 | | | BASSAR | 300 000 | | | KARA | 3 000 000 | | | PAGOUDA | 1 000 000 | | | NIAMTOUGOU | 1 200 000 | | | KANTE | PM | | | MANGO | 500 000 | | | DAPAONG | 1 000 000 | | | TOTAL | 100 000 000 | |
+La dépense est imputable sur le Budget général, Gestion 1998, Section 217 Chapitre 25 Article 00 Paragraphe 29 Ligne 03 (Frais de Justice) et fera l'objet de procédure simplifiée au niveau de l'engagement.
+254 JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE 1er Juin 1998
