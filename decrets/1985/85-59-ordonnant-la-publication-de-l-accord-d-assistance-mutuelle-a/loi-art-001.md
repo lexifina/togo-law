@@ -1,0 +1,2 @@
+# Loi, Article 1
+L'accord d'assistance mutuelle administrative en matière de douanes, commerce et immigration entre la République populaire du Bénin, la République du Ghana, la République fédérale du Nigéria et la République togolaise, signé à Lagos le 10 décembre 1984 et dont les instruments de ratification ont été déposés le 21 février 1985, sera publié au Journal officiel de la République togolaise.
