@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 519-56/AE/SD. du 7 juin 1956 interdisant provisoirement l'exportation du maïs et du mil et suspendant les droits d'entrée sur ces produits.
+LE GOUVERNEUR DE LA FRANCE D'OUTRE-MER CHEFALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu la loi du 14 mars 1942 réglementant en A.O.F. et au Togo, l'importation, l'exportation et la circulation des denrées nécessaires aux besoins des Territoires; Vu la délibération n° 39-48/D. du 11 septembre 1948 de l'Assemblée représentative du Togo fixant le régime des tolérances frontalières entre les territoires du Togo placés sous tutelle française et britannique; Vu la loi du 16 avril 1955 relative aux institutions territoriales et régionales du Togo sous tutelle française; Le conseil de Gouvernement entendu;
+ARRETE:
