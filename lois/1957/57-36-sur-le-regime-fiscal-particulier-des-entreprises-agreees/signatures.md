@@ -1,0 +1,14 @@
+# Signatures
+Fait à Lomé, le 11 septembre 1957.
+N. GRUNITZKY.
+Par le Premier Ministre :
+Le Ministre des Finances p.i.
+P. SCHNEIDER.
+Le Ministre des Mines; des Travaux Publics; des Transports, de l'Economie et du Plan;
+L. CHRISTOPHE TCHAKALOFF.
+Le Ministre du Commerce et de l'Industrie;
+P. SCHNEIDER.
+NUMERO SPECIAL 11 septembre 1957 JOURNAL OFFICIEL DE LA REPUBLIQUE AUTONOME DU TOGO 5
+LISTE ANNEXE des fournitures et matériels visés à l'article 13 de la présente loi n° 57-36 (ne figurant pas sur les listes annexées aux Délibérations n° 32 et 33/ATT. du 22 mai 1956 et n° 51 ATT. du 29 août 1956).
+| N° DU TARIF ACTUEL DU TOGO | NOMENCLATURE INTERNATIONALE DE BRUXELLES | DÉSIGNATION DES MATÉRIELS ET FOURNITURES | | --- | --- | --- | | 03-35 | 15-10 A | Acides gras industriels | | 05-19 E | 25-08 | Craie | | | 25-15 | | | 05-22 | 25-16 | Pierre de taille ou de construction | | | 68-02 A | | | 05-29 | 25-21 | Pierre à chaux | | 05-41 a | 27-01 | Houilles et anthracites | | 05-41 b | 27-04 A | | | 05-44 b | 27-04 C | Cokes et semi-cokes de houilles, de lignite et autres | | 05-64 b,c | Ex 27-10 B | Fuels-oils légers et lourds (à l'exclusion du fuel-oil domestique) | | 05-68 | 27-14 | Bitumes de pétrole, cokes de pétrole et autres | | 06-13 b | 28-17 A | Soude caustique | | 06-13 | Ex 28-42 A | Carbonate de sodium | | 06-33 | 28-45 A | Silicates de sodium ou de potassium | | | 29-22 | | | 06-33 | 29-23 | Amines | | | 29-35 | | | 07-61 | 34-01 D | Autres savons : talloil saponifié | | 07-61 | 38-05 | Talloil | | 07-97 | 38-19 I | Echangeurs d'ions | | 07-97 | 38-19 N | Ciments réfractaires | | 12-99 | 59-17 | Toiles à filtres | | 17-37 | 73-18 | Tubes et tuyaux en fer en acier | | | 73-35 | | | | 74-16 | | | 18-16 | 75-06 B | Lames | | | 76-16 G | | | 18-35 | Ex 76-02 | Barres, clinquants et profilés aluminium de sections pleine utilisés pour conduire le courant et jouant le rôle de conducteur dans l'électrométallurgie. | | 19-11 | 84-01 | Générateurs et chaudières à vapeur d'eau ou d'autres vapeurs. | | 19-26 | Ex 84-17 | Appareils et dispositifs même chauffés électriquement pour le traitement de matières, etc... | | 19-32 | Ex 84-23 | Arroseuse | | Ex 18-11 | Ex 84-61 A, B | Vannes de fer, fonte ou acier d'un diamètre intérieur égal ou supérieur à 70 mm., automatiques ou non. | | 19-83 | Ex 84-59 D | Machines, appareils et engins pour les travaux publics, le bâtiment; etc... | | | 84-61 A, B | | | 20-13 | Ex 85-19 | Appareils de coupure et de sectionnement de courant automatiques ou non et leurs pièces détachées. | | 20-18 | 85-23 | Fils, tresses, câbles, même isolés pour l'électricité | | 21-29 A à Z | Ex-87-14 B | Pièces détachées pour remorques | | 21-41 | 88-02 | Avions, hélicoptères | | 21-42 | | Pièces détachées pour avions et hélicoptères. |
+IMPRIMERIE DE L'ÉCOLE PROFESSIONNELLE M. C. LOMÉ — TOGO
