@@ -1,0 +1,6 @@
+# Loi, Article 1
+— Sont pour l'exercice 1961, réglées conformément aux dispositions de la présente loi de finances, les opérations en recettes et en dépenses du budget général et du budget annexe des chemins de fer et du wharf du Togo, ainsi que celles afférentes aux comptes spéciaux du Trésor créés antérieurement à la loi organique n° 60-29 du 5 août 1960 relative aux lois de finances, et dont l'ouverture pour 1961 est, en application de l'article 24 de cette loi, ici prononcée :
+a) Comptes d'affectation spéciale - Caisse de réserve en numéraire - Amendes et condamnations pécuniaires à répartir - Frais de poursuites - Soutien d'équipement de la production locale - Fonds d'amélioration de la production du café - Produits divers provenant de redevances - Fonds de soutien de la caisse de compensation des prestations familiales - Fonds routier - Services techniques (Fonds de renouvellement)
+b) Comptes de commerce - Fonds d'approvisionnement des magasins - Services techniques (Exploitation) - Fonds de roulement pour approvisionnements généraux,
+TITRE II
+Dispositions relatives aux ressources

@@ -1,0 +1,3 @@
+# Loi, Article 7
+— Le taux des centimes additionnels à la taxe sur les transactions et à la taxe forfaitaire représentative de la taxe sur les transactions à l'importation, institués par délibération n° 1 de l'Assemblée territoriale du Togo en date du 13 avril 1956 au profit de la caisse de compensation des prestations familiales, est porté de 7 à 10% (dix pour cent) à compter du 1er janvier 1961.
+Le produit de ces centimes additionnels sera réparti par décret en conseil des ministres, conformément aux dispositions de la loi n° 60-20 du 20 juin 1960 ayant modifié le régime d'établissement du budget de cet organisme.

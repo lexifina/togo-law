@@ -1,0 +1,2 @@
+# Loi, Article 31
+— La liste non limitative des renseignements à fournir à la Chambre des députés par les différents ministères et services est fixée conformément à l'État I annexé à la présente loi.

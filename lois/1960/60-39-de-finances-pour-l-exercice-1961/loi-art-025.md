@@ -1,0 +1,4 @@
+# Loi, Article 25
+— Les charges nettes résultant de l'ensemble des opérations prévues aux articles 21 et 22 précédents, soit un montant évalué à 290.067.000 francs, seront couvertes par des ressources de trésorerie ou d'emprunts auxquelles le gouvernement est autorisé à faire appel en 1961, en particulier par des émissions ou par des conventions à passer avec la banque d'émission, dans des conditions à fixer par décret pris en conseil des ministres.
+DEUXIEME PARTIE MOYENS DES SERVICES ET DISPOSITIONS SPÉCIALES
+TITRE Ier Budget général

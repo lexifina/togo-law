@@ -1,0 +1,4 @@
+# Loi, Article 20
+— Il est interdit aux autorités administratives régulièrement habilitées à engager les dépenses publiques, de prendre des mesures nouvelles entraînant des augmentations de dépenses imputables sur les crédits ouverts par les articles précédents qui ne résulteraient pas de l'application des lois existantes ou des dispositions de la présente loi.
+Le Ministre des finances, ordonnateur unique et contrôleur financier du budget général, est responsable des décisions prises à l'encontre de la disposition ci-dessus.
+TITRE IV Dispositions relatives à l'équilibre des ressources et des charges

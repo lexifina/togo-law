@@ -1,0 +1,2 @@
+# Loi, Article 24
+— Les charges nettes résultant de l'ensemble des opérations prévues aux articles 19 et 23 précédents, soit un montant de 141.333.429 francs, seront couvertes par des ressources de trésorerie.

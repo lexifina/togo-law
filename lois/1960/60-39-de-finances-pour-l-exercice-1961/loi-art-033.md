@@ -1,0 +1,2 @@
+# Loi, Article 33
+— La présente loi sera exécutée comme loi de la République togolaise.

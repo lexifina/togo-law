@@ -1,0 +1,2 @@
+# Loi, Article 4
+— Le taux de 25% fixé par la délibération n° 53 du 12 novembre 1954 pour l'impôt sur les bénéfices industriels ou commerciaux dû par les personnes morales, les sociétés par actions, les sociétés à responsabilité limitée, ainsi que pour la part du bénéfice net correspondant soit aux droits des commanditaires dans les sociétés en commandite simple, soit à ceux des associés dont les noms et adresses n'ont pas été indiqués à l'administration dans les associations en participation, est porté à 30% à compter du 1er janvier 1961.

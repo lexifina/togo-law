@@ -1,0 +1,2 @@
+# Loi, Article 3
+— Sont passibles des peines prévues à l'égard des concussionnaires tous détenteurs de l'autorité publique qui, sous une forme quelconque et pour quelque motif que ce soit, auront, sans autorisation de la loi, accordé des exonérations ou franchises de droits, impôts ou taxes publiques, ou auront effectué gratuitement la délivrance de produits détenus par des services ou établissements relevant de l'État ou des collectivités locales.

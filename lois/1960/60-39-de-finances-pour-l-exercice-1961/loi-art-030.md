@@ -1,0 +1,3 @@
+# Loi, Article 30
+— Il est ouvert aux ministres en 1961, pour les dépenses en capital des services civils et au titre des autorisations du programme du Fonds d'investissement et de développement économique et social (FIDES) 1953-57 prorogé : - des autorisations d'engagement, pour un plafond total de 47.234.078 francs - des crédits de paiement, pour un plafond total de 70.421.468 francs conformément à la répartition par chapitre fixée par l'État H annexé à la présente loi.
+TITRE V Dispositions diverses
