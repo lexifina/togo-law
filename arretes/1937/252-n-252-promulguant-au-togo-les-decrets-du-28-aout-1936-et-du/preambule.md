@@ -1,0 +1,5 @@
+# Préambule
+ARRÊTÉ N° 252 promulguant au Togo les décrets du 28 août 1936 et du 26 mars 1937 relatifs à l'indication d'origine de certains produits étrangers (tissus, et toiles métalliques).
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGRON D'HONNEUR, ADMINISTRATEUR SUPÉRIEUR DU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo; Vu le décret du 16 avril 1924 fixant le mode de promulgation et de publication des textes réglementaires au Togo et au Cameroun; Vu le décret du 28 août 1936 relatif à l'indication d'origine de certains produits étrangers (tissus et toiles métalliques); Vu le décret du 26 mars 1937 rejetant une délibération du conseil d'administration du territoire du Togo relative à l'indication d'origine des toiles métalliques; Vu la circulaire ministérielle n° 1.467 du 8 septembre 1936; Vu le radiotélégramme n° 36 du 8 avril 1937 du département;
+ARRÊTE :
