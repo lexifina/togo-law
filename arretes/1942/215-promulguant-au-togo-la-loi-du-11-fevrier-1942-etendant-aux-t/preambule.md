@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 215 promulguant au Togo la loi du 11 février 1942 étendant aux territoires relevant du secrétariat d'État aux colonies les dispositions de la loi du 31 décembre 1941 modifiant l'article 3 du décret-loi du 26 septembre 1939 sur la dissolution des organisations communistes.
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉGION D'UNNNEUR, COMMISSAIRE DE FRANCE AU TOGO P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 16 avril 1924 sur le mode de promulgation et de publication des textes réglementaires au Togo Vu le décret du 26 septembre 1939 portant dissolution des organisations communistes, promulgué au Togo le 29 septembre 1939; Vu la loi du 11 février 1942; Vu le bordereau n° 93 A. P./I en date du 13 mars 1942 du Haut-Commissaire de l'Afrique française;
+ARRETE :
