@@ -1,0 +1,5 @@
+# Préambule
+DECRET N° 72-234 du 17/11/72 portant nomination d'un professeur titulaire à titre personnel à l'école de médecine de l'université du Bénin.
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu les ordonnances n° 1 et 2 du 14 janvier 1967 ; Vu l'ordonnance n° 16 du 14 avril 1967 ; Vu le décret n° 70-156 du 14 septembre 1970 portant création de l'université du Bénin ; Vu les décrets n° 70-157 et 72-181 respectivement du 14 septembre 1970 et 8 septembre 1973 portant création des instituts et écoles de l'université du Bénin ; Vu l'accord de protocole additionnel franco-togolaise du 28 juin 1967 relatif à l'organisation de l'enseignement supérieur au Togo ; Vu l'accord-cadre du 9 juillet 1970 en matière d'enseignement supérieur entre la République togolaise et la République française ; Vu le procès-verbal de la réunion du groupe des sections médicales du comité consultatif des universités (Séance du 19 novembre 1971) à PARIS ; Vu l'avis du recteur de l'université du Bénin ; Sur proposition du ministre de l'éducation nationale.
+DECRETE :
