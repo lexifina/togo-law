@@ -1,0 +1,19 @@
+# Décret portant approbation du schéma d'aménagement urbain, autorisant et déclarant d'utilité publique l'aménagement de la ville de Lama-Kara
+
+JOURNAL OFFICIEL 26E ANNEE N° 18 (bis) du 1981-07-16, page 420.
+
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/decret-portant-approbation-du-schema-damenagement-urbain-autorisant-et-declarant-dutilite-publique-lamenagement-de-la-ville-de-lama-kara
+
+En vigueur / in force: 1981-07-16 (publication in the Journal officiel (default for regulatory acts)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
+| [art-004](art-004.md) | Article 4 |
+| [art-005](art-005.md) | Article 5 |
+| [art-006](art-006.md) | Article 6 |
+| [art-007](art-007.md) | Article 7 |
+| [art-008](art-008.md) | Article 8 |
+| [art-009](art-009.md) | Article 9 |
