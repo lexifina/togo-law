@@ -1,0 +1,2 @@
+# Texte
+Arrêté n°861/METPAS du 2/8/94 - M. DOGBE Kpoti Agbékogni Seem, n°mle 004694-Y, administrateur principal 3è échelon du cadre interministériel des fonctionnaires de l'administration générale, en service au Cabinet du Ministre de l'Emploi du Travail, de la Fonction Publique et des Affaires Sociales est admis sur sa demande à faire valoir ses droits à une pension de retraite pour compter du 1er août 1994 en application des dispositions de l'article 8, 1er alinéa de la loi n°91-11 du 23 mai 1991.
