@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 150/INT/SG/DSTCL du 11-12-78 — Sont accordées des autorisations spéciales de dépenses sur les budgets des circonscriptions de Lomé, Aného, Vogan, Tabligbo, Tsévié, Kloto, Notsé, Atakpamé, Amlamé, Badou, Tchaoudjo, Tchamba, Sotouboua, Bassar, Bafilo, Lama-Kara, Niamtougou, Pagouda, Kantè, Mango et Dapaon, exercice 1978, représentant le douzième des budgets de l'exercice 1977 pour faire face aux dépenses des mois de novembre et décembre 1978.
