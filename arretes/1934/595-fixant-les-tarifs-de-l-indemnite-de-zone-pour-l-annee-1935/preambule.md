@@ -1,0 +1,6 @@
+# Préambule
+ARRETE N° 595 fixant les tarifs de l'indemnité de zone pour l'année 1935.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 2 mars 1910 sur la solde et les accessoires de solde du personnel colonial, ensemble tous les actes modificatifs subséquents, notamment les décrets des 12 juin 1911 et 11 septembre 1920;
+Vu le décret du 30 décembre 1912 sur le régime financier des colonies; Vu le décret du 19 juillet 1934 portant réglementation de l'attribution de l'indemnité de zone; Vu la circulaire ministérielle n° 24 du 19 juillet 1934 relative aux conditions d'attribution de l'indemnité de zone; Vu l'arrêté local du 30 octobre 1934 réglementant le mode et les conditions de concession de l'indemnité de zone; Vu le procès-verbal de la commission chargée d'émettre un avis sur la fixation des tarifs de l'indemnité de zone; Vu le rapport du chef du service de santé sur les risques climatériques spéciaux à chacun des postes du Territoire; Le conseil d'administration entendu; Sous réserve d'approbation ministérielle;
+ARRETE :
