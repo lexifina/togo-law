@@ -1,0 +1,4 @@
+# Texte
+Décision n° 452/MEF/FCS du 23-5-85 — Est autorisé le paiement de la somme de six cent trente et un mille six cents (631.600) francs CFA, représentant le crédit mis à la disposition de la chambre du commerce d'agriculture et d'industrie et le haut commissariat au Tourisme afin de leur permettre de participer à la foire internationale de NOVI SAD en Yougoslavie du 10 au 19 mai 1985.
+Cette somme sera mandatée et payée exceptionnellement par bon de caisse au nom de M. Tazzou Kokou régisseur-comptable de l'office national togolais du tourisme qui est tenu de fournir dans le délai réglementaire de 30 jours à l'ordonnateur-délégué du budget général du Togo, les pièces justificatives afférentes au paiement des dépenses.
+La dépense est imputable au budget général, gestion 1985, section 05-92-00-00-65 et fera l'objet de procédure simplifiée au niveau de l'engagement.
