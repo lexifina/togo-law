@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 310 F. du 7 juin 1945.
+LE GOUVERNEUR DES COLONIES, CROIX DE GUERRE — MÉDARLE DE LA RÉSISTANCE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 30 décembre 1912 sur le régime financier des colonies; Vu le décret du 6 novembre 1929, portant institution des communes-mixtes au Togo, promulgué par arrêté du 9 décembre 1929; Vu l'arrêté No 577 du 20 novembre 1932, déterminant le mode de constitution, de fonctionnement, le régime administratif et financier des communes-mixtes au Togo, ensemble, tous textes le modifiant ou le complétant; Vu l'arrêté No 578 du 20 novembre 1932, créant la commune-mixte de Lomé, ensemble tous textes le modifiant ou le complétant; Vu le procès-verbal des délibérations de la délégation spéciale de la commune-mixte de Lomé en date du 12 mai 1945; Le conseil d'administration entendu;
+ARRETE :
