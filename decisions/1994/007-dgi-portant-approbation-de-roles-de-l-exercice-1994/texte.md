@@ -1,0 +1,5 @@
+# Texte
+Décision n° 007/DGI du 22/6/94. Sont approuvés et renous exécutoires les rôles de l'exercice 1994 ci-dessous :
+| BUDGET GENERAL | | | | | | --- | --- | --- | --- | --- | | 10 | LOME | IMF - IRPP | 1.391.540 | | | | | FIN | 367.035 | | | | | IRPP | 432.780 | | | | | ISN | 231.246 | | | | | TC - IR | 116.975 | | | 11 | LOME | FNI | 24.720 | | | | | IRPP | 80.080 | | | | | ISN | 80.670 | | | BUDGET COMMUNAL | | | | | | 12 | LOME | TC - IR | 22.520 | | | | | IMFIS | 38.475 | | | | | FIN | 12.825 | 2.798.866 | | COMPTE HORS BUDGET 410-100 | | | | | | 10 | LOME | TC-IR | 10.500 | | | 11 | " | TC - IR | 6.000 | 16.500 | | 12 | LOME | PÉNALITÉS | 12.825 | 12.825 | | | | | | 2.828.191 |
+La date de mise en recouvrement des rôles ci-dessus s'élevant à la somme de DEUX MILLIONS HUIT CENT VINGT HUIT MILLE CENT QUATRE VINGT ONZE francs est fixée au 21 Mars 1994. La présente décision prend effet à compter de la date de sa signature.
+314 JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE 1er Juillet 1994
