@@ -1,0 +1,6 @@
+# Texte
+Décision n° 700/MEF/DCO du 12/8/85 — Est autorisé le paiement de la somme de dix neuf millions quatre cent soixante sept mille quatre cent cinquante cinq (19.467.455) francs CFA représentant le montant des frais occasionnés par les manifestations populaires qui ont lieu à Kara et à Pya du 6 au 16 avril 1985.
+Cette somme sera mandatée au nom des fournisseurs dont liste ci-jointe, et fera l'objet de procédure simplifiée au niveau de l'engagement.
+La dépense est imputable sur le budget général, gestion 1985, section 07, chapitre 62, article 07-00, paragraphe 99 (dépenses exceptionnelle).
+LISTE DES DIFFERENTS FOURNISSEURS
+S.G.G.G.-Lomé compte n° 10216 — BIAO — Lomé Fiogbo Logossou marchand de bois B.P. 13442 — Lomé Ets. REGAL compte n° 36 018 008-K BIAO — Lomé Enseignes AUJOBER compte n° 2409-C CNCA — Lomé Ets Feu Vert compte n° 36 012 248-A BIAO — Lomé L'AEM — Crédit Lyonnais Agence ZB 4562, Place Félix Eboué 75012 Paris compte n° 061653-R Lawson-Hellu-Aho-Sivo-E B.P. n° 4039 — Lomé De Souza A. Sitou compte n° 3100121202 — UTB Agence Centrale — Lomé Fiawoo (Ets Hôteliers — Fiawoo B.P. 2851 — Lomé) Mme Agbeko Yoko S.T.A. Service de Louage de chaises 16, Rue Brazza — Lomé Bandeira C. Tchikou B.P. 1563 — Lomé Sanvee-Edoh Nokpleni 6, Avenue de la Libération — Lomé.
