@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 24-INT-STCS du 25-2-74 — Sont accordées des autorisations spéciales de dépenses sur les budgets des circonscriptions de Lomé, Anécho, Vogan, Tabligbo, Tsévié, Klouto, Nuatja, Atakpamé, Akposso, Sokodé, Sotouboua, Bassari, Bafilo, Lama-Kara, Niamtougou, Pagouda, Kandé, Mango et Dapango, exercice 1974 représentant le douzième des budgets de l'exercice 1973 pour faire face aux dépenses du mois de février 1974.
