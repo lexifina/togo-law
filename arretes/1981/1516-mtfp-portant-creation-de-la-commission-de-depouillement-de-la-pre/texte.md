@@ -1,0 +1,4 @@
+# Texte
+Arrêté n° 1516/MTFP du 29-10-81 — Est rapporté en ce qui concerne M. Assinguime Kodjo, l'arrêté n° 1675/MTFP du 4 novembre 1980 accordant bonification d'échelon et portant régularisation de situation administrative.
+M. Assinguime Kodjo n° mle 016254-G, commissaire de police 2e échelon (catégorie A2-indice 1200) du cadre des fonctionnaires de la police, titulaire de la maîtrise en droit et qui a suivi avec succès le stage de formation à l'école nationale supérieure de police de SAINT-CIR-AU-MONT-D'OR est, en attendant le nouveau statut particulier de la police, intégré dans la catégorie hiérarchique supérieure en qualité de commissaire de police 1er échelon (catégorie A1-indice 1300) à compter du 9 juillet 1979 et reste mis à la disposition du ministre de l'intérieur (chapitre 14, article 7 du budget général).
+M. Assinguime Kodjo est élevé au 2e échelon de son grade à compter du 9 juillet 1981.
