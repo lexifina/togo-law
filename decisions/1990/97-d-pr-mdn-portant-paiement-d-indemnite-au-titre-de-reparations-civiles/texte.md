@@ -1,0 +1,3 @@
+# Texte
+Décision n° 685/MEF/DCO du 18-6-90 — Il est mis à la disposition du ministre du plan et des mines un crédit de neuf millions neuf cent quarante quatre mille trois cent quarante cinq (9 944 345) francs CFA pour le paiement à l'entreprise togolaise d'entretien et de nettoyage (ETEN), des frais d'entretien et de nettoyage de l'immeuble qui abrite la direction de la statistique et le centre national d'études et de traitements informatiques (CENETI).
+La dépense est imputable sur le budget général, gestion 1990, section 07, chapitre 62, article 07-21, paragraphe 99 (dépenses diverses imprévues).
