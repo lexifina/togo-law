@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 184 portant modifications aux tarifs du chemin de fer.
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 23 novembre 1934 portant réduction des dépenses administratives du Togo; Vu le décret du 30 novembre 1912 sur le régime financier des colonies; Vu l'arrêté n° 69 du 28 janvier 1929 relatif à l'application des tarifs du chemin de fer et du wharf homologué par dépêche ministérielle n° 3415 du 28 octobre 1921 et tous les actes subséquents qui l'ont modifié; Vu l'arrêté n° 600 du 23 novembre 1934 organisant le service des travaux publics, du chemin de fer et du wharf; Vu le procès-verbal de la 4e séance du conseil consultatif du C. F. T. et du wharf en date du 30 mars 1936; Sur la proposition du chef des services du réseau du Bénin au Niger; Le conseil d'administration entendu;
+ARRETE:
