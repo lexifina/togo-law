@@ -1,0 +1,10 @@
+# Texte
+Décision n°34/CRT/DP du 26/1/94. Une pension militaire d'ancienneté (indice 850, pourcentage 80 %) au montant annuel de CINQ CENT SOIXANTE CINQ MILLE HUIT CENT QUATRE VINGT QUATRE (565.884) FRANCS est attribuée sur les fonds de la Caisse de Retraites du Togo à M. TAMAKLOE Kodzo Kpotufe, Sergent-Chef 4è échelon n°mle 046 M du corps du personnel des Forces Armées Togolaises, admis à la retraite.
+La date de l'entrée en jouissance de cette pension est fixée au 1er juin 1991.
+Il est également attribuée sur les fonds de la Caisse de Retraites du Togo à M. TAMAKLOE Kodzo Kpotufe pour compter du 1er juin 1991 une majoration pour enfants au taux de 10 % de sa pension principale au titre de ses enfants du (1er au 3è rang) ci-après désignés :
+| Ameyo Kokoui, née | le 02 octobre | 1967 | | --- | --- | --- | | Kokui Sétowu, née | le 27 août | 1971 | | Kolfi Efoui, né | le 20 avril | 1973. |
+Ce taux est porté à 15 % pour compter du 1er juillet 1991 au titre de son 4è enfant kossi Tsatsu Arnetefe, né le 22 juin 1975.
+Le montant annuel de la majoration prévue ci-dessus est fixé à CINQUANTE SIX MILLE CINQ CENT QUATRE VINGT HUIT (56.588) FRANCS pour compter du 1er juin 1991 et à QUATRE VINGT QUATRE MILLE HUIT CENT QUATRE VINGT TROIS (84.883) FRANCS pour compter du 1er juillet 1991.
+M. TAMAKLOE Kodzo Kpotufe pourra prétendre pour compter du 1er juillet 1991 sur justification de ses droits au bénéficier des allocations familiales au titre de ses enfants du 4è au 9è rang) ci-après désignés :
+| Kossi Tsatsu A., né | le 22 juin | 1975 | | --- | --- | --- | | Tsidiri, né | le 14 février | 1978 | | Akoli Kossi M., né | le 20 avril | 1980 | | Abui Eyram, née | le 5 janvier | 1983 | | Edjoe Elom A., née | le 18 février | 1985 | | Sah Mokpokpo G., née | le 1er juillet | 1991 |
+Par application des dispositions de l'article 20 paragraphe 6 de la loi n°91-11 du 23 mai 1991, M. TAMAKLOE Kodzo Kpotufe ne pourra plus bénéficier des allocations familiales pour compter du 1er juillet 1991 au titre de son 4e enfant Kossi Tsatsu Ametefe, né le 22 juin 1975
