@@ -1,0 +1,13 @@
+# Préambule
+DECRET N° 46-1021 du 10 mai 1946.
+Le Président du Gouvernement provisoire de la République,
+Sur le rapport du ministre de la France d'outre-mer et du ministre des finances;
+Vu la loi du 2 novembre 1945 portant organisation provisoire des pouvoirs publics;
+Vu le décret du 30 décembre 1912 portant organisation du régime financier des colonies;
+Vu l'article 30 de l'arrangement de l'Union postale universelle concernant l'échange des mandats de poste, conclu à Buenos-Ayres le 23 mai 1939 déterminant les conditions de la mise en vigueur dudit arrangement;
+Vu l'article 7 (alinéa N°) de l'ordonnance du 9 août 1945 portant rétablissement de la légalité républicaine sur le territoire continental, ensemble les ordonnances subséquentes ; l'effet duquel est provisoirement maintenu en application l'addit décret n° 17 du 9 janvier 1942 relatif à l'exécution d'un Arrangement précité;
+JOURNAL OFFICIEL DU TERRITOIRE DU TOGO
+Vu le décret n° 45-0136 du 25 décembre 1945 fixant la valeur de certaines monnaies des territoires d'outre-mer libellées en francs;
+Vu l'avis du ministère des finances en date du 26 décembre 1945;
+Vu le décret n° 45-0211 du 20 décembre 1945 relatif à l'exécution de l'arrangement de l'Union postale universelle du 23 mai 1939 précité et du règlement y annexé;
+DECRETE:
