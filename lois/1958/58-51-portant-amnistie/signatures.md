@@ -1,0 +1,4 @@
+# Signatures
+Fait à Lomé, le 23 juillet 1958.
+S. E. OLYMPIO
+IMPRIMERIE DE L'ECOLE PROFESSIONNELLE M. C. LOMÉ — TOGO
