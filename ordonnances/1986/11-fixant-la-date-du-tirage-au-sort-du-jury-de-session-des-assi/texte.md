@@ -1,0 +1,7 @@
+# Texte
+Ordonnance No 11 du 28 janvier 1986 fixant la date du tirage au sort du jury de session des assises de l'année 1986 pour la région de la Kara. 23
+PARTIE OFFICIELLE
+ACTES DU GOUVERNEMENT DE LA REPUBLIQUE TOGOLAISE
+LOIS, ORDONNANCES, DECRETS, ARRETES ET DECISIONS
+ARRETES ET DECISIONS
+MINISTERE DU TRAVAIL ET DE LA FONCTION PUBLIQUE
