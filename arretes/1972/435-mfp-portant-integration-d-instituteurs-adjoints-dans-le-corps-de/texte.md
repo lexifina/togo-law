@@ -1,0 +1,5 @@
+# Texte
+Arrêté n° 435/MFP du 10-7-72 — Est et demeure rapporté en ce qui concerne les instituteurs-adjoints ci-après désignés l'arrêté n° 407/MFP du 6 octobre 1969 portant nomination :
+| Alassani Salhou | Fiagbedji Eugène | | --- | --- | | Hillah Ambroise | Amewonou Mensah Richard | | Maboudou B. Sessou | Sedji Kpadenou Christophe | | Tchakam Paul No'ban | Dagadou Kodzo Théodore | | Dokpo Yawo Raphaël | Seghaya Marie Evelyne | | Atakpamey K. Thomas | Alaba Tchaa Edouard | | Assiongbon Philippe | Kpelevi Florencia | | Evodan Yao Joseph | Koffi Afiwa Véronique | | Napo Azara | Dameti Komi Mathieu | | Gnavo Honoré Akodégla | Yekple Koffi Céphas | | Tchara Koffi | Gouvide Dadjédji Abalo | | Boukari A. Anchialos | Etsi Kossi Bénouni | | Edorh Claude Martin | Amega'se Simon Pierre | | N'Sougan Martin | Sokpo Georges |
+Les intéressés sont admis pour compter du 1er octobre 1969 dans le corps des fonctionnaires de l'enseignement en qualité d'instituteurs-adjoints de 3e classe 2e échelon (catégorie C — indice 600).
+Ils sont élevés au 3e échelon de leur grade pour compter du 1er octobre 1971.
