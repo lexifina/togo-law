@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 185 modifiant le tarif spécial n° 9, transports de fruits du pays.
+L'ADMINISTRATEUR EN CHEF DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P. I.,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 23 novembre 1934 portant réduction des dépenses administratives du Togo; Vu le décret du 30 décembre 1912 sur le régime financier des colonies; Vu l'arrêté n° 69 du 28 janvier 1929, relatif à l'application des tarifs du chemin de fer et du wharf, homologués par décision ministérielle n° 3514, du 28 octobre 1931, et tous les actes subséquents qui l'ont modifié; Vu l'arrêté n° 378, du 8 juillet 1932, complétant les tarifs du chemin de fer par un tarif spécial G. V. n° 9 pour le transport des fruits du pays; Vu l'avis du conseil consultatif du chemin de fer et du wharf du Togo; Sur la proposition du chef des services du réseau du Bénin au Niger; Le conseil d'administration entendu;
+ARRETE:
