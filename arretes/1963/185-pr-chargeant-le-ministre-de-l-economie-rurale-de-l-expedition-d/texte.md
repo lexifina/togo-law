@@ -1,0 +1,7 @@
+# Texte
+Arrêté n° 185/PR du 10 octobre 1963 chargeant le ministre de l'économie rurale de l'expédition des affaires courantes pendant l'absence du ministre des travaux publics, mines, transports, des postes et télécommunications ... 680
+Arrêtés et décision portant nominations, affectations, réintroduction et désignation de chefs de canton, renouvellement et suppression de bourses, octroi de secours scolaires, expulsion du nommé LESAGE Roger dit « BERMA » et additifs à de précédents arrêtés portant autorisations d'exercer la profession d'agent d'affaires 680
+MINISTERE DE LA DEFENSE NATIONALE
+Arrêtés et décisions portant rémunération de militaires de l'armée nationale togolaise, avancements, réintégration, nomination, admission d'élèves togalais à l'école militaire préparatoire de Bingerville, admission de militaires dans la gendarmerie mobile, licenciements, radiations et rectificatif à une précédente décision portant admission d'ex-militaires dans la gendarmerie mobile 683
+MINISTERE DE L'INTERIEUR
+4 octobre — Arrêté interministériel n° 36/INT/MFEP/MF portant approbation du compte administratif de la circonscription de Bafilo, exercice 1962 685 4 octobre — Arrêté interministériel n° 37/INT/MFEP/MF portant approbation du budget additionnel de la circonscription de Bafilo, exercice 1963 685 18 octobre — Arrêté n° 69/INT portant annulations et ouvertures de crédits au budget primitif de la circonscription de Bassari, exercice 1963 685
