@@ -1,0 +1,4 @@
+# Texte
+Décision n° 1303/MFE/FO du 20-8-80 — Il est mis à la disposition de M. le ministre de la jeunesse, des sports et de la culture, un crédit de complémentaire de : deux millions de dollars cent quarante trois mille (2.243.000) F pour permettre à la fédération togolaise de hanball de faire face aux diverses dépenses relatives à la représentation du Togo à la coupe d'Afrique des clubs champions de handball édition 1980.
+Le montant dudit crédit sera mandaté et payé exceptionnellement par bon de caisse au nom de M. Denkey Ayi, chef du personnel et du budget dudit ministère qui est tenu de fournir dans le délai réglementaire de 30 jours à l'ordonnateur-délégué du budget général du Togo, les pièces justificatives aux dépenses effectuées.
+La dépense est imputable au budget général, gestion 1980 — chapitre 50, article 3, paragraphe 2.
