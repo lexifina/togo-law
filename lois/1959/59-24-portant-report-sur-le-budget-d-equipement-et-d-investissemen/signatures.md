@@ -1,0 +1,4 @@
+# Signatures
+Fait à Lomé, le 26 janvier 1959
+S. E. OLYMPIO
+JOURNAL OFFICIEL DE LA REPUBLIQUE DU TOGO
