@@ -1,0 +1,5 @@
+# Texte
+Décision n° 015/DGI du 22/6/94. Sont approuvés et rendus exécutoires les rôles de l'exercice 1994 ci-dessous :
+| BUDGET GENERAL | | | | | | --- | --- | --- | --- | --- | | 28 | LOME | T.P. | 353.422 | | | 29 | LOME | T. Foncière | 862 500 | | | 30 | LOME | T.P. | 1 650 425 | | | 31 | LOME | I.M.F.-I.S. | 1 557 855 | | | | | F.N.I. | 1 389 375 | | | | | I.S. | 4 810 400 | 10 623 977 | | BUDGET COMMUNAL | | | | | | 28 | LOME | T.P. | 530 132 | | | 29 | LOME | T. Fonc. | 1 293 750 | | | 29 | LOME | T.O.M. | 840 490 | | | 30 | LOME | T.P. | 2 475 637 | 5 140 009 | | DIRECTION GENERALE DES IMPOTS | | | | | | 28 | LOME | T.P. | 176 710 | | | 29 | LOME | T.Fonc. | 431 250 | | | 30 | LOME | T.P. | 825 212 | 1 433 172 | | COMPTE HORS BUDGET (410-100) | | | | | | 31 | LOME | PENALITES | 347 337 | 347 337 | | | | | | 17 544 495 |
+La date de mise en recouvrement des rôles ci-dessus s'élevant à la somme de DIX SEPT MILLIONS CINQ CENT QUARANTE QUATRE MILLE QUATRE CENT QUATRE VINGT QUINZE Francs est fixée au 28 Mars 1994.
+La présente décision prend effet à compter de la date de sa signature.
