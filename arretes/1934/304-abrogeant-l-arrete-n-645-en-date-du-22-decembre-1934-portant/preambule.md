@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 304 obrogeant l'arrêté n° 645 en date du 22 décembre 1934 portant réduction des soldes du personnel des cadres locaux indigènes.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu le décret du 23 juillet 1937 portant règlement en matière de solde et d'accessoires de solde du personnel des cadres locaux des colonies; Vu l'arrêté n° 645 en date du 22 décembre 1934 portant réduction des soldes du personnel indigène des cadres locaux; Vu le radiotélégramme officiel n° 99 s/c en date du 10 mai 1938 du Gouverneur Général de l'A. O. F. Haut Commissaire de la République au Togo; Le conseil d'administration entendu dans sa séance du 30 mai 1938; Sous réserve d'approbation ministérielle.
+ARRETE :
