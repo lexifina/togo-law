@@ -1,0 +1,4 @@
+# Texte
+Décision n° 604/CRT/DP du 26-9-95. - Par application des dispositions de l'article 20 paragraphe IV de la loi n° 91-11 du 23 mai 1991, le taux de la majoration pour enfants allouée à M. TCHEKPI N'Zonou, Adjudant 3è échelon n° Mle 0408 du corps du personnel des Forces Armées Togolaises est porté de 10 % à 15 % de sa pension principale SIX CENT QUATRE VINGT DIX NEUF MILLE TRENTE SIX (699.036) francs l'an pour compter du 1er juin 1995 au titre de son enfant Essohanam née le 27 avril 1979.
+Le montant annuel de cette majoration est fixé à CENT QUATRE MILLE HUIT CENT CINQUANTE CINQ (104.855) francs pour compter du 1er juin 1995.
+Par application des dispositions de l'article 20 paragraphe VI de la loi n° 91-11 du 23 mai 1991, M. TCHEKPI N'Zonou ne pourra plus bénéficier des allocations familiales au titre de son enfant ci-dessus désigné pour compter du 1er juin 1995.
