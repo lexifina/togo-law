@@ -1,0 +1,4 @@
+# Texte
+Décision n°009/DGI du 22/6/94. Sont approuves et rendus exécutoires les rôles de l’exercice 1994 ci-dessous:
+| BUDGET GENERAL | | | | | --- | --- | --- | --- | | 15 | LOME | T. P. | 25.633.699 | | 16 | " | IRPP | 867.160 | | | | TC - IR | 264.145 | | | | ISN | 629.584 | | 17 | LOME | IMF - IRPP | 4.181.950 | | | | FNI | 1.029.235 | | | | IRPP | 2.641.140 | | | | TC - IR | 449.005 | | | | ISN | 679.410 | | | | | 87.780.725 | | BUDGET COMMUNAL | | | | | 15 | T. P. | T.P. | 38.480.548 | | 16 | TC - IR | TC - IR | 45.000 | | 17 | TC - IR | TC - IR | 33.000 | | | | | 38.558.548 | | DIRECTION GENERALE DES IMPOTS | | | | | 15 | T. P. | T. P. | 12.826.849 | | | | | 12.826.849 | | | | | 87.780.725 |
+La date de mise en recouvrement des rôles ci-dessus s’élevant à la somme de QUATRE VINGT SEPT MILLIONS SEPT CENT QUATRE VINGT MILLE SEPT CENT VINGT CINQ francs est fixée au 28 Mars 1994. La présente décision prend effet à compter de la date de sa singature.
