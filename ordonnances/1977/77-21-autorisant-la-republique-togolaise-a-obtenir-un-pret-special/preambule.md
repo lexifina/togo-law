@@ -1,0 +1,5 @@
+# Préambule
+ORDONNANCE N° 77-21 du 20 juin 1977 autorisant la République togolaise à obtenir un prêt spécial auprès de la CEE (Fonds Européen de Développement).
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu l'ordonnance n° 1 du 14 janvier 1967 ; Vu l'ordonnance n° 5 du 14 janvier 1967 ; Vu la convention ACP-CEE de Lomé, entre les États d'Afrique, des Caraïbes et du Pacifique d'une part, et la communauté économique européenne d'autre part, en vertu de laquelle la République togolaise est associée à la communauté économique européenne ; Vu le protocole n° 2 relatif à l'application de la coopération financière et technique annexée à ladite convention ; Vu le projet de contrat à intervenir entre la République togolaise d'une part et la communauté économique européenne d'autre part, relatif à un prêt spécial d'un montant de 18.000.000 (dix-huit millions) d'UCE ; Vu les documents annexés afférents audit contrat de financement ; Sur proposition conjointe du ministre des finances et de l'économie, du ministre du commerce et des transports et du ministre du plan, du développement industriel et de la réforme administrative ; Le conseil des ministres entendu,
+ORDONNE :
