@@ -1,0 +1,6 @@
+# Préambule
+ARRETE N° 279-49/F. du 29 mars 1949.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMPAGNON DE LA LIQUIDATION, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu le décret du 30 décembre 1912 sur le régime financier des colonies et notamment en son article 315; Vu la délibération n° 13/47 du 9 octobre 1947 de l'Assemblée Représentative du Togo, portant approbation du budget local du Togo — Exercice 1947; Vu l'arrêté n° 777/F. du 31 octobre 1947 rendant exécutoire la délibération n° 13/47 du 9 octobre 1947; Vu le décret du 25 octobre 1946 portant création de l'Assemblée Représentative du Togo; Vu la délibération n° 5 du 16 mars 1949 de l'Assemblée Représentative du Togo portant approbation du compte définitif du budget local du Togo pour l'exercice 1947; Délibérant conformément à la délégation expresse qui lui a été faite par l'Assemblée Représentative du Togo et en séance du 2 octobre 1948; Le conseil privé entendu;
+JOURNAL OFFICIEL DU TERRITOIRE DU TOGO
+ARRETE :
