@@ -1,0 +1,5 @@
+# Texte
+Décision n° 40/CRT/DP du 27/1/94. Une pension mili taire d'ancienneté (indice 750, pourcentage 65 %) au montant annuel de Quatre Cent Cinq Mille Six Cent Quatre Vingt Seize (405.696) Francs est attribuée sur les fonds de la Caisse de Retraites du Togo à M. ASSARI Zoumavo, Caporal-Chef 6è échelon n°mle 1847 du corps du personnel des Forces Armées Togolaises, admis à la retraite.
+La date de l'entrée en jouissance de cette pension est fixée au 1er Juillet 1992.
+M. ASSARI Zoumavo pourra prétendre, pour compter du 1er juillet 1992 sur justification de ses droits au bénéfice des allocations familiales au titre de ses enfants (du 1er au 7è rang) ci-après désignés :
+| Yépouawè, | née | le 14 Avril | 1976 | | --- | --- | --- | --- | | Adjo Dansuwa, | née | le 06 Novembre | 1978 | | Massan Natta, | née | le 07 Novembre | 1980 | | Kossiwa Ménéyini, | née | le 10 Avril | 1983 | | Kwamé Léyi, | né | le 20 Juillet | 1985 | | Yawo Dodji, | né | le 11 Août | 1988 | | Afi Délali, | née | le 26 Juillet | 1991. |
