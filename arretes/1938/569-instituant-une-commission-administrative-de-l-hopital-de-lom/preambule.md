@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 569 instituant une commission administrative de l'hôpital de Lomé et de ses annexes.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'arrêté n° 85 du 11 août 1921 réglementant le fonctionnement des services médicaux du Togo; ensemble les arrêtés subséquents le modifiant ou le complétant; Vu l'arrêté n° 317 du 22 juin 1932 ouvrant définitivement des hôpitaux, une léproserie, des colonies agricoles de lépreux et des dispensaires annexes; Vu l'arrêté n° 607 du 15 novembre 1930 fixant le prix de remboursement des frais de traitement dans les formations sanitaires du Togo; Vu l'arrêté n° 608 du 15 novembre 1930 déterminant les conditions d'hospitalisation des indigènes dans les formations sanitaires du Territoire soumis à la taxe d'assistance;
+ARRETE:
