@@ -1,0 +1,16 @@
+# Texte
+Arrêté n°166/MID/SG-APA-PC du 23-09-94 : - Est et demeure rapporté l'arrêté N°19/INTS-SG-APA-PC du 28 Février 1991 susvisé.
+Sont agrées comme nouveaux membres du Conseil d'Administration chargés de la gestion des biens de l'Association des Baptistes pour l'Evangélisation Mondiale (Mission ABWE) au Togo :
+- Pasteur McMILLEN Philip ... Président - Pasteur MATCHETT Timothy ... Membre - Pasteur TONA Kossi John ... " - Pasteur YADZO Maya ... " - Pasteur YAWLI Kokou Léonard ... "
+476 JOURNAL OFFICIEL DE LA REPUBLIQUE 1er Octobre 1994
+Rectificatif du 26-9-94 à l'arrêté N°125/MID du 22 Juillet 1994, portant avancement automatique d'échelon dans le corps de la Police
+Au lieu de :
+Les fonctionnaires ci-dessous désignés dans le corps de la Police Nationale sont élevés à l'échelon supérieur de leur grade dans les conditions suivantes :
+Au grade de Gardien de la Paix de 10ème échelon (indie 710)
+| 01-01-94 | KEBINA Kagnaya, | n° mle 015670-Q | G.P. | 9ème | échelon | | --- | --- | --- | --- | --- | --- | | " | BAKOUSSI Kpiyou, | n° mle 015666-C | G.P. | " | " | | " | KISSAO Ouitcha, | n° mle 015675-Z | G.P. | " | " | | " | TAZO Tchaa Toky, | n° mle 015676-N | G.P. | " | " | | " | AMEGNONA Kokouvi, | n° mle 016159-T | G.P. | " | " | | " | AYIMONTCHE Klonmlanvi, | n° mle 016080-A | G.P. | " | " | | " | BONEOH Bassabi Nabine | n° mle 016087-R | G.P. | " | " | | " | RONGO Eitoué Tété, | n° mle 015672-A | G.P. | " | " | | " | EKLOU Kossi, | n° mle 016094-Y | G.P. | " | " | | " | ELITCHA Kodjo, | n° mle 016095-H | G.P. | " | " | | " | EVENYI Yaovi, | n° mle 016096-J | G.P. | " | " | | " | LAMBONI Dentouti, | n° mle 016090-L | G.P. | " | " | | " | OURO-GBALE M. Sei, | n° mle 016122-C | G.P. | " | " | | " | INYESSE Yao Bioh, | n° mle 016120-J | G.P. | " | " | | " | PASSOPAM Mawinaaso, | n° mle 016125-F | G.P. | " | " | | " | TCHABA Atchou Agouda, | n° mle 016154-U | G.P. | " | " | | " | TCHORO Ariskou, | n° mle 016131-D | G.P. | " | " | | " | SANDANI Nagbandja, | n° mle 016152-A | G.P. | " | " | | " | SIMBA Kabiya Kossi, | n° mle 016127-Z | G.P. | " | " | | " | AMECY Koffi, | n° mle 016353-B | G.P. | " | " |
+Lire :
+Les fonctionnaires ci-dessous désignés, dans le corps de la Police Nationale, sont élevés à l'échelon supérieur de leur grade dans les conditions suivantes :
+Au grade de Gardien de la Paix de 10ème échelon (indice 710)
+| 01-01-94 | AYIMONTCHE Klonmlanvi, | n° mle 01608-A | G.P. | 9ème | échelon | | --- | --- | --- | --- | --- | --- | | " | BONEOH Bassabi Nabine, | n° mle 016087-R | G.P. | 9ème | échelon | | " | EKLOU Kossi, | n° mle 016094-Y | G.P. | " | " | | " | ELITCHA Kodjo, | n° mle 016095-H | G.P. | " | " | | " | EVENYI Yaovi, | n° mle 016096-J | G.P. | " | " | | " | LAMBONI Dentouti, | n° mle 016090-L | G.P. | " | " | | " | OURO-GBALE M. Sei, | n° mle 016122-C | G.P. | " | " | | " | INYESSE Yao Bioh, | n° mle 016120-F | G.P. | " | " | | " | PASSOPAM Mawinaaso, | n° mle 016125-F | G.P. | " | " | | " | TCHABA Atchou Agouda, | n° mle 016154-U | G.P. | " | " | | " | TCHORO Anakou, | n° mle 016131-D | G.P. | " | " | | " | SANDANI Nagbandja, | n° mle 016152-A | G.P. | " | " | | " | SIMBA Kabiza Kossi, | n° mle 016127-Z | G.P. | " | " | | " | AMECY Koffi, | n° mle 016353-B | G.P. | " | " |
+Le reste sans changement.
+MINISTERE DE L'ECONOMIE ET DES FINANCES
