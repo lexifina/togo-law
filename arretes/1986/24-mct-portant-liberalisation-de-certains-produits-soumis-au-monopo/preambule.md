@@ -1,0 +1,3 @@
+# Préambule
+ARRETE n° 24/MCT du 29 décembre 1986 portant libéralisation de certains produits soumis au monopole de la SONACOM LE MINISTRE DU COMMERCE ET DES TRANSPORTS Vu la constitution spécialement en son article 21 ; Vu l'ordonnance n° 24 du 29 novembre 1972 accordant le monopole d'importation et de distribution de certains articles à la SONACOM ; Vu l'arrêté n° 73-8 du 11 juin 1973 portant définition des produits assujettis au monopole de la SONACOM ; Vu le décret n° 82-180/MCT du 8 juillet 1982 portant création de la régie togolaise des alcools et le décret n° 83-144 du 6 septembre 1983 portant modification du décret n° 82-180/MCT du 8 juillet 1982.
+ARRETE
