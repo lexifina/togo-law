@@ -1,0 +1,5 @@
+# Préambule
+ARRETE No 371 portant modification à l'arrêté no 520 bis du 26 septembre 1934 portant codification de l'inspection des produits.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGION D'HONNEUR, ADMINISTRATEUR SUPÉRIEUR DU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo; Vu l'arrêté no 520 bis du 26 septembre 1934 portant codification de l'inspection des produits et tous les actes modificatifs subséquents; Vu le décret du 13 juin 1929 réglementant les conditions de circulation, de mise en vente et d'exportation des produits du Togo; Vu le décret du 21 avril 1933 réorganisant la justice indigène au Togo; Vu l'avis exprimé par la chambre de commerce du Togo; Vu l'avis des conseils d'administration des sociétés indigènes de prévoyance; Vu l'avis du chef du service de l'agriculture; Le conseil d'administration entendu;
+ARRETE:
