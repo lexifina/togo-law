@@ -1,0 +1,7 @@
+# Texte
+Arrêté n° 95/INT/APA du 6-9-71 — Le séjour sur toute l'étendue du territoire de la République togolaise est interdit :
+a — pour une durée de cinq ans, à compter de la date de sa libération, au nommé Alamissa Abdoulaye Wotara, détenu à la prison civile de Lomé n° en 1939 à Bonjoukou (Côte-d'Ivoire), fils de Alamissa et de Ieue Adjara, taillieur, demeurant à Accra de passage à Lomé, condamné pour escroquerie à six mois de prison et cinq ans d'interdiction de séjour par jugement en date du 18 juin 1971 du tribunal correctionnel de Lomé (F.D. 115.15.25/5/222/53).
+b — pour une durée de cinq ans, à compter du 12 septembre 1971, date d'expiration de sa peine de prison au nommé Djarra Emile Victor, détenu à la prison civile de Lomé, né en 1942 à Bobo-Dioulasso, fils de Djara Alexandre et de Djara Rosine, bijoutier, domicilié à Cotonou (Dahomey) de passage à Lomé, condamné pour rupture de bon à trois mois de prison et cinq ans d'interdiction de séjour par jugement en date du 16 juillet 1971 du tribunal correctionnel de Lomé (F.D. 11.111/22.222-5-11.9).
+Les infractions au présent arrêté seront sanctionnées conformément aux dispositions de l'article 43 du code pénal, aux dispositions de l'article 45 du code pénal.
+Les chefs de circonscription et le directeur de la sûreté nationale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
+Annulations et ouvertures de crédits
