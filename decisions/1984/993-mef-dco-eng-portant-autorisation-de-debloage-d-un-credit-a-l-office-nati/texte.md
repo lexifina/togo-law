@@ -1,0 +1,4 @@
+# Texte
+Décision n° 993/MEF/DCO/ENG du 17/10/84 — Il est mis à la disposition de l'office national togolais du tourisme un crédit de un million cinq cent mille (1.500.000) francs pour permettre au haut commissariat au tourisme de prendre part au 9e congrès annuel de «African Travel Association ATA 84» qui aura lieu du 27 mai au 1er juin 1984.
+Cette somme sera mandatée et payée exceptionnellement par bon de caisse au nom de M. Tazzou Kokou, régisseur comptable dudit office qui est tenu de fournir dans le délai réglementaire de 30 jours à l'ordonnateur du budget général du Togo, les pièces justificatives des dépenses effectuées.
+La dépense est imputable sur le budget général, gestion 1984, section 05, chapitre 23, article 00-00, paragraphe 66 et fera l'objet de procédure simplifiée au niveau de l'engagement.
