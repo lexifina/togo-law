@@ -1,0 +1,11 @@
+# Texte
+Décret n° 70-215 du 19 décembre 1970 prononçant des sanctions disciplinaires contre des magistrats (rectificatif) 31
+ARRETÉS ET DÉCISIONS
+PRÉSIDENCE DE LA RÉPUBLIQUE
+11 déc. — Arrêté n° 201.PR-MEN portant modification de l'arrêté n° 69-PR-MEN du 28 mai 1969 fixant le taux des bourses d'études supérieures à l'Institut d'enseignement supérieur du Bénin 31 15 déc. — Arrêté n° 214-PR-INT portant création d'un nouveau canton dans la circonscription administrative de Sotouboua 31 16 déc. — Arrêté n° 215.PR déterminant les frais de transport aérien à inclure dans la valeur taxable en douane 32
+MINISTÈRE DE L'INTÉRIEUR
+15 déc. — Arrêté n° 119-INT-STCE portant annulations et ouvertures de crédits au budget primitif de la circonscription de Sokodé, exercice 1970 32 15 déc. — Arrêté n° 120-INT-STCE portant annulations et ouvertures de crédits au budget primitif de la circonscription de Lomé, exercice 1970 32 Décision portant nomination d'un secrétaire de chef de cabinet 33
+28 JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE 16 Janvier 1971
+MINISTERE DE LA JUSTICE — GARDE DES SCEAUX Décision portant passage automatique d'échelon 33
+MINISTERE DES FINANCES, DE L'ECONOMIE ET DU PLAN
+12 déc. — Décision n° 1051-D.MFEP-F portant autorisation de paiement d'une somme au personnel de l'enseignement primaire confessionnel du Togo 32 12 déc. — Décision n° 1054-D.MFEP-F portant autorisation de paiement d'une somme au profit de la compagnie énergie électrique du Togo (CEET) 33 19 déc. — Décision n° 1066-D.MF-MEN accordant une subvention à la mission évangélique du Togo 33 19 déc. — Décision n° 1066-D.bts MF-MEN accordant une subvention à la mission méthodiste d'A- nécho 33 22 déc. — Arrêté n° 552-MFEP.MF-CR portant concession d'une pension de retraite à M. Olympio John 34 22 déc. — Arrêté n° 554-MFEP.MF-CR portant concession d'une pension militaire de retraite à M. Koutaoba Madombina 34 22 déc. — Arrêté n° 555-MFEP-MF-CR portant concession de pensions aux ayants caure de M. Bansmo N'Nam Bruno 34 22 déc. — Décision n° 1072-D.MFEP-F portant autorisation de paiement d'une somme au trésorier. payeur 32 22 déc. — Décision n° 1072-D.MFEP-F portant autorisation de paiement d'une somme au profit du service de l'hydraulique de la République du Dahomey 33
