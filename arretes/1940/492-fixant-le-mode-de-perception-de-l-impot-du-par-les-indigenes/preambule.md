@@ -1,0 +1,6 @@
+# Préambule
+ARRETE N° 492 fixant le mode de perception de l'impôt dû par les indigènes de la catégorie ordinaire dans la commune-mixte et la subdivision administrative de Lomé.
+LE GOUVERNEUR DES COLONIES, OFFICIER DE LA LÉGRON D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937;
+Vu le décret du 30 décembre 1912 sur le régime financier des colonies; Vu l'arrêté du 3 juillet 1922 fixant l'assiette de l'impôt personnel dans les territoires du Togo; Vu l'arrêté du 22 octobre 1929 fixant le taux de l'impôt personnel; Vu l'arrêté n° 561 du 20 novembre 1932 fixant le taux de la taxe fixe due par les indigènes ayant un revenu inférieur à 10.000 frs., ensemble l'arrêté du 24 janvier 1933 le complétant; Vu l'arrêté du 27 octobre 1933 réglementant à nouveau l'impôt personnel et en fixant le taux et l'assiette; Vu l'arrêté n° 28 du 13 janvier 1937 fixant le taux de la taxe due par les indigènes ayant un revenu inférieur à 10.000 frs., notamment en son article 3; Le conseil d'administration entendu dans sa séance du 23 novembre 1940;
+ARRETE:
