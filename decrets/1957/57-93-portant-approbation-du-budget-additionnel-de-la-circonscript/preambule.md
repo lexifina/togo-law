@@ -1,0 +1,5 @@
+# Préambule
+DECRET No 57-93 du 9 août portant approbation du budget additionnel de la circonscription d'Atakpamé — Exercice 1957.
+Le Premier Ministre, Vu le décret n° 56-847 du 24 août 1956, portant statut du Togo; Vu le décret n° 57-359 du 22 mars 1957, modifiant le décret n° 56-847 du 24 août 1956 portant statut du Togo;
+Vu la loi togolaise n° 56-2 du 18 septembre 1956, déterminant dans le cadre du décret du 24 août 1956 portant statut du Togo, les pouvoirs du Gouvernement de la République Autonome du Togo et ceux réservés à l'Assemblée Législative; Vu l'arrêté n° 493-51/AP. du 16 juillet 1951 organisant les conseils de circonscription; Vu l'arrêté n° 1059/F. du 29 décembre 1955 portant création des budgets de circonscription; Vu la loi de Finances pour l'exercice 1957, n° 56-7 du 28 décembre 1956; Vu le décret n° 57-52 du 29 avril 1957 portant approbation du budget primitif de la circonscription d'Atakpamé; Vu le décret n° 57-94 du 9 août 1957 portant approbation du compte administratif — Exercice 1956; Vu la délibération en date du 31 mai 1957 du conseil de circonscription; Le conseil de cabinet entendu.
+DECRETE :
