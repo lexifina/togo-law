@@ -1,0 +1,6 @@
+# Préambule
+ARRETE No 258-55/F. du 28 février 1955 rendant exécutoire la délibération No 46/ATT. du 12 novembre 1954, portant création de rubriques nouvelles et ouverture de crédits supplémentaires au Budget Local — Exercice 1954. (Utilisation de l'Avance de 335 millions).
+L'ADMINISTRATEUR EN CHEF DE LA FRANCE D'OUTRE-MER. CHEVALIER DE LA LÉGION D'HONNEUR, COMMISSAIRE DE LA RÉPUBLIQUE P.I. AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu la loi n° 52-130 du 6 février 1952, relative à la formation des Assemblées de Groupe et des Assemblées locales;
+Vu le décret du 30 décembre 1912, sur le régime financier des territoires d'outre-mer et les textes subséquents qui l'ont modifiée Vu la délibération n° 46 du 12 novembre 1954 de l'A.T.T. portant création de rubriques nouvelles et ouverture de crédits supplémentaires au Budget Local — Exercice 1954. (Utilisation de l'Avance de 335 millions); Le conseil privé entendu; Sous réserve des dispositions de l'article 35 du décret du 25 octobre 1946;
+ARRETE :
