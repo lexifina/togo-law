@@ -1,0 +1,3 @@
+# Texte
+Décision n° 1288/MEF/DF/DCO du 17-11-95. - Il est mis à la disposition du Directeur Général du Trésor et de la Comptabilité Publique un crédit de VINGT TROIS MILLIONS NEUF CENT SOIXANTE DEUX MILLE DEUX CENT SOIXANTE HUIT (23.962.268) Francs CFA destiné au rapatriement des bagages des Ambassadeurs du Togo à Bonn et New York, rappelés à Lomé.
+La dépense est imputable sur le budget général gestion 1995 section 09 chapitre 60 article 09 -21 paragraphe 66 (Frais de transports à l'occasion de Mission à l'étranger et déplacements définitifs) et fera l'objet de procédure simplifiée au niveau de l'engagement.
