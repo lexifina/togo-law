@@ -1,0 +1,4 @@
+# Préambule
+DELIBERATION N° 36/ATT. portant modification de la réglementation des impôts sur les revenus.
+L'Assemblée Territoriale du Togo.
+Vu le décret du 3 janvier 1946 portant réorganisation administrative du Territoire du Togo; Vu le décret du 25 octobre 1946 portant création d'une Assemblée Représentative au Togo; Vu la loi n° 52-130 du 6 février 1952; Vu l'arrêté n° 576 du 16 octobre 1941, créant les impôts sur les revenus au Togo, ensemble tous textes modificatifs subséquents; Vu l'arrêté n° 526/CD. du 17 octobre 1944 réglementant l'impôt personnel et sur la population flottante, ensemble tous textes modificatifs subséquents; Vu le rapport de présentation n° 75/AD/CD. du 29 septembre 1953 de M. le Commissaire de la République au Togo; A adopté dans sa séance du 22 octobre 1953; La délibération dont la teneur suit :
