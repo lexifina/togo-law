@@ -1,0 +1,15 @@
+# Décret n° 66-54 relatif aux bulletins de vote et au barème de leur remboursement lors d'élections législatives partielles
+
+JOURNAL OFFICIEL 11E ANNEE N° 316 SPECIAL du 1966-02-28, page 1.
+
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/decret-n-66-54-relatif-aux-bulletins-de-vote-et-au-bareme-de-leur-remboursement-lors-delections-legislatives-partielles
+
+En vigueur / in force: 1966-02-28 (publication in the Journal officiel (default for regulatory acts)).
+
+| Fichier | Disposition |
+| --- | --- |
+| [preambule](preambule.md) | Préambule |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
+| [art-003](art-003.md) | Article 3 |
+| [art-004](art-004.md) | Article 4 |
