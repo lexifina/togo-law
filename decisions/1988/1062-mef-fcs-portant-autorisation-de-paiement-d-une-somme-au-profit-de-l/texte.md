@@ -1,0 +1,4 @@
+# Texte
+Décision n° 1062-MEF-FCS du 4-11-88 — Est autorisé le paiement, au profit de l'organisation africaine de cartographie et de télédétection (O.A.C.T.), de la somme de trois millions neuf cent soixante quatorze mille cent (3.974.100) francs CFA, soit l'équivalent de 12.228 dollars E.U., représentant un acompte sur les arriérés des contributions d'un montant total de 16.304 dollars E.U., dues par le Togo au conseil africain de télécommunications au 29 février 1988.
+Cette somme sera mandatée et virée au compte n° 17.360.00652 ouvert à la Banque Extérieure d'Algérie, agence des accrédités, 4-5 Boulevard Mohamed V, Alger.
+La dépense est imputable sur le budget général, gestion 1988, section 07, chapitre 83, article 00-00, paragraphe 99 et fera l'objet de procédure simplifiée au niveau de l'engagement.
