@@ -1,0 +1,2 @@
+# Texte
+ARRETE N° 284-MFE-CR du 18-7-73 — Par application des dispositions de l'article 15, paragraphe 5 de la loi n° 63-18 du 21 novembre 1963, M. Klouvi Folly Hubert, contremaître de 1re classe 2e échelon du corps du personnel des chemins de fer du Togo en retraite pourra prétendre, sur justification de ses droits, au bénéfice des allocations familiales au titre de son enfant Donatien, né le 24 mai 1973.
