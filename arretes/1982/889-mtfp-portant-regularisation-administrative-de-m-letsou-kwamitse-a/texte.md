@@ -1,0 +1,4 @@
+# Texte
+Arrêté n° 888/MTFP du 6/7/82. — Les ingénieurs-adjoints d'agriculture ci-après désignés, du cadre des fonctionnaires de l'agriculture, de l'élevage, des eaux et forêts et du conditionnement des produits qui ont accompli l'année réglementaire de stage, sont titularisés dans leur emploi dans les conditions suivantes et conservent chacun une ancienneté d'un an :
+16-8-79 - Gnagblokou Noussiato, n° mle 103978-L, ingénieur adjoint de 3e classe 1er échelon 4-9-80 - Mawougbé Kouami Kponliali, n° mle 107674-L, ing. adjt de 3e classe 1er échelon
+Les intéressés sont élevés au 2e échelon de leur grade aux dates suivantes : (A.C. épuisée) 16-8-80 - Gnagblokou Noussiato, n° mle 103978-L, ingénieur adjoint de 3e classe 1er échelon 4-9-81 - Mawougbé Kouami Kponliali n° mle 107674-L, ing. adjt de 3e classe 1er échelon
