@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 88/INT/SG/DSTCL du 22-5-79 — Sont accordées des autorisations spéciales de dépenses sur les budgets des circonscriptions de Lomé, Aného, Vogan, Tabligbo, Tsévié, Kloto, Notsé, Atakpamé, Amlamé, Badou, Tchaoudjo, Tchamba, Sotouboua, Bassar, Bafilo, Lama-Kara, Niamtougou, Pagouda, Kantè, Mango et Dapaon, exercice 1979 représentant le douzième des budgets de l'exercice 1978 pour faire face aux dépenses du mois de mai 1979.
