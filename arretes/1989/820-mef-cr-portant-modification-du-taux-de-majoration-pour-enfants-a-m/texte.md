@@ -1,0 +1,4 @@
+# Texte
+Arrêté n° 820-MEF-CR du 19-12-89 — Par application des dispositions de l'article 15, paragraphe 4 de la loi n° 63-18 du 21 novembre 1963, le taux de majoration pour enfants allouée à M. Douti Pugn Yankouadiok, adjudant 3e échelon n° mle 198 du corps du personnel de la gendarmerie nationale togolaise est porté de 10% à 15% de sa pension principale cinq cent vingt quatre mille deux cent soixante douze (524.272) francs pour compter du 1er février 1989 au titre de son enfant Kambah né le 14 juillet 1972.
+Le montant annuel de cette majoration est fixé à soixante dix huit mille six cent quarante (78.640) francs.
+Par application des dispositions de l'article 15, paragraphe 6 de la loi n° 63-18 du 21 novembre 1963, M. Douti Pugn Yankouadiok ne pourra plus bénéficier des allocations familiales au titre de son enfant ci-dessus désigné pour compter du 1er février 1989.
