@@ -1,0 +1,3 @@
+# Texte
+Décision n° 344/MEFP/DF/DCO du 4/5/98 - Il est mis à la disposition du ministre de l'Education Nationale et de la Recherche, un crédit de CINQ MILLIONS (5 000 000) de francs CFA destinée à l'organisation du voyage à Niamey de cent (100) élèves et encadreurs du Lycée de Tokoin dans le cadre du protocole d'accord culturel et sportif existant entre le Lycée ISSA KOROMBE de Niamey et le Lycée de Tokoin de Lomé.
+La dépense est imputable sur le budget général, gestion 1998, section 219, chapitre 22, article 00, paragraphe 44, ligne 04 (Echange internationaux de Jeunes) et fera l'objet de procédure simplifiée au niveau de l'engagement.
