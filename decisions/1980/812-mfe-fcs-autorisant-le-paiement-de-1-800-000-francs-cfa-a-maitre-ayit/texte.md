@@ -1,0 +1,4 @@
+# Texte
+Décision n° 812/MFE/FCS du 2/6/80 — Est autorisé le paiement au profit de Maître d'Almeida Ayité avocat-défenseur à Lomé, de la somme de un million huit cent mille (1.800.000) francs CFA, représentant le montant des dommages-intérêts dus par l'État togolais par suite d'un accident de circulation causé par le véhicule administratif RT 5208-B, conduit par M. Douti (Michel), en service à la subdivision des travaux publics de Mango.
+Cette somme sera mandatée et virée au compte n° 0768 ouvert auprès de l'union togolaise de banque (U.T.B.) de Lomé, au nom de maître d'Almeida Ayité, pour être ensuite reversée à M. Abassanam Alain Banétom, victime de l'accident de circulation survenu sur la route de Tchébébé (circonscription administrative de Sotouboua le 21 juillet 1972).
+La dépense est imputable sur chapitre 45, article 18 du budget général, gestion 1980 (Dépenses imprévues).
