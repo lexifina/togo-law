@@ -1,0 +1,13 @@
+# Signatures
+Fait à Lomé, le 20 juillet 1963.
+Le Président de la République,
+N. Grunitzky
+ETAT A
+BUDGET GENERAL
+DEPENSES DE FONCTIONNEMENT
+Titres — Sections — Chapitres — Articles applicables à l'exercice 1962
+| Titre | Chap. | Article | | CREDITS | | DIFFERENCE | | | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | remaniés au 4-5-63 | rectifiés | en plus | en moins | | II. | 4 | | ASSEMBLÉE NATIONALE | | | | | | | | 2 | Dépenses communes | 3.600 | 3.606 | 6 | | | III | 8 | | DÉFENSE NATIONALE (Personnel) | | | | | | | | 5 | Forces Armées | 51.840 | 51.847 | 7 | | | | 11 | | MINISTÈRE DES AFFAIRES ÉTRANGÈRES (Mat.) | | | | | | | | 5 | Ambassade du Togo à Washington | 11.000 | 11.422 | 422 | | | | | 6 | Ambassade du Togo à Bona | 4.840 | 4.955 | 115 | | | | 12 | | MINISTÈRE DE L'INTÉRIEUR (Pers.) | | | | | | | | 7 | Service de la Sûreté | 91.450 | 91.541 | 91 | | | | 13 | | MINISTÈRE DES FINANCES (Mat.) | | | | | | 3 | | Conseiller et contrôle financier | 380 | 398 | 18 | | |
+| Titre | Chap. | Article | i. | CREDITS | | DIFFERENCE | | | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | remaniés au 4-5-63 | rectifiés | en plus | en moins | | IV | 18 | 7 | MINISTERE DES TRAVAUX PUBLICS (Pers.) Service des postes et télécommunications | 110,185 | 112,380 | 2.195 | | | | 19 | 5 | MINISTERE DES TRAVAUX PUBLICS (Mat.) Service des travaux publics | 4,395 | 4,437 | 42 | | | | 20 | 3 | MINISTERE DE L'AGRICULTURE (Pers.) Frais de déplacement | 4,350 | 5,159 | 809 | | | | 21 | 4 | Service de l'Agriculture | 46,503 | 46,534 | 31 | | | | 22 | 6 | MINISTERE DE L'AGRICULTURE (Mat.) Service des eaux et forêts | 7,360 | 7,731 | 371 | | | | 29 | 3 | MINISTERE DE LA SANTE PUBLIQUE (Mat.) Assistance médicale | 173,947 | 174,308 | 361 | | | | 31 | 1 | DEPENSES COMMUNES DE MATERIEL Fourniture de courant électrique Unelco | 23,400 | 23,823 | 423 | | | | 34 | 10 | Achat de mobilier | 8,250 | 8,252 | 2 | | | | 36 | 12 | Entretien de véhicules | 45,370 | 45,522 | 152 | | | | 36 | 12 | Dépenses d'exercices clos | 11,000 | 15,354 | 4,354 | | | | 30 | 3 | DEPENSES DIVERSES Remboursement droits indument perçus | 11,500 | 11,860 | 360 | | | | 31 | 1 | ENTRETIEN — REPARATION BATIMENTS Entretien des bâtiments | 23,120 | 23,222 | 102 | | | | 34 | 3 | REVERSEMENTS Part revenant aux communes sur produit vignettes | 5,000 | 5,486 | 486 | | | | 36 | 5 | BOURSES ET STAGES Frais de transport des boursiers | 1,200 | 1,247 | 47 | | | | | | | 638,690 | 649,084 | 10,394 | |
+ACTES DU GOUVERNEMENT DE LA REPUBLIQUE TOGOLAISE
+DECRETS, ARRETES, DECISIONS ET CIRCULAIRES
+PRESIDENCE DE LA REPUBLIQUE
