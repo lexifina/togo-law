@@ -1,0 +1,6 @@
+# Préambule
+ARRÊTÉ N° 416/C.F.T. du 14 mai 1948.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMPAGNON DE LA LIBÉRATION, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du territoire du Togo et création d'assemblées représentatives; Vu l'arrêté n° 281 du 15 juin 1939 promulguant au Togo le décret du 19 mai 1939 portant réorganisation des chemins de fer coloniaux; Vu l'arrêté général n° 3926/TP. du 2 novembre 1942 approuvant l'arrêté n° 552 du 20 septembre 1942 du Commissaire de la République au Togo étendant dans ce territoire la tarification en vigueur en A.O.F. et créant un fascicule 2 spécial au Réseau du Togo;
+Vu la décision n° 455/TP. du 31 octobre 1944 désignant les membres du conseil économique du réseau des C.F.T.; Vu la lettre n° 22/TP. DG. SC. du 13 août 1945 du Haut Commissaire de la République au Togo au sujet de l'homologation des tarifs ferroviaires; Sur la proposition de l'Ingénieur en Chef, Directeur du Réseau des chemins de fer du Togo; Le conseil privé entendu; Vu la délibération n° 18 du 7 mai 1948 de l'Assemblée Représentative du Togo;
+ARRÊTE :
