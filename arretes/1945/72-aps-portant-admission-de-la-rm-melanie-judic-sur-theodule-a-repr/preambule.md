@@ -1,0 +1,6 @@
+# Préambule
+ARRETE No 72 APA. du 13 février 1945.
+LE GOUVERNEUR DES COLONIES, CROIX DE GUERRE, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 19 septembre 1936 portant réduction des dépenses administratives du Togo, modifié par celui du 20 juillet 1937; Vu l'article 7 du mandat confirmé à la France le 20 juillet 1922 par le conseil de la Société des nations sur les territoires du Canterbury et du Togo, en exécution des articles 22 et 119 du traité de Versailles en date du 28 juin 1919;
+Vu l'arrêté no 1687 a.p. s./1 du 8 mai 1943 du gouverneur de la Côte d'Ivoire autorisant la création à Abidjan d'un conseil d'administration de la Congrégation des « Sœurs Missionnaires de Notre-Dame des Apôtres »; Vu la procuration en date du 3 avril 1944 délivrée à la Révérende Mère Mélanie Judic en religion Sœur Théodule domiciliée à Lomé par le conseil d'administration à Abidjan des « Sœurs Missionnaires de Notre-Dame des Apôtres »; Vu la requête en date du 14 octobre 1944 de la R.M. Théodule; Vu la lettre no 274 a.p./4 du 30 novembre 1944 de M. le Haut-Commissaire de la République au Togo; Le conseil d'administration entendu;
+ARRETE:
