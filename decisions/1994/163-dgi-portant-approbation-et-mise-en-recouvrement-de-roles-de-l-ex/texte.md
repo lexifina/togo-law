@@ -1,0 +1,5 @@
+# Texte
+Décision n°163/DGI du 12/10/94 - Sont approuvés et rendus exécutoires les rôles de l'exercice 1994 ci-après:
+| N° de Rôles | Agences | Nature des Contributions BUDGET GENERAL | Montant | Total | | --- | --- | --- | --- | --- | | 30 | WAWA | TP | 792.597 | | | | | TC-IR | 1.594.500 | | | 31 | ATAKPAME | TP | 13.980.118 | | | | | TC-IR | 381.500 | | | 32 | BADOU | TP | 285.928 | | | | | TC-IR | 154.500 | | | | | | | 17.189.143 | | | | BUDGET PREFECTORAL | | | | 30 | WAWA | TP | 1.188.896 | | | | | TC-IR | 348.000 | | | | | | | 1.536.896 | | | | BUDGET COMMUNAL | | | | 31 | ATAKPAME | TP | 20.970.177 | | | | | TC-IR | 267.000 | | | 32 | BADOU | TP | 428.893 | | | | | TC-IR | 82.500 | | | | | | | 21.748.570 | | | | DIRECTION GENERALE DES IMPOTS | | | | 30 | WAWA | TP | 396.299 | | | 31 | ATAKPAME | TP | 6.990.059 | | | 32 | BADOU | TP | 142.964 | | | | | | | 7.592.322 | | | | | | 48.003.931 |
+La date de mise en recouvrement des rôles ci-dessus s'élevant à la somme de QUARANTE HUIT MILLIONS TROIS MILLE NEUF CENT TRENTE UN Francs est fixée au 26 Septembre 1994.
+La présente décision prend effet à compter de la date de sa signature.
