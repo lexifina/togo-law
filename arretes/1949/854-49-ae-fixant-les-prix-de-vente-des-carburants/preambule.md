@@ -1,0 +1,5 @@
+# Préambule
+ARRÊTÉ No 854-49 AE. du 24 octobre 1949.
+LE GOUVERNEUR DES COLONIES, CHEVALIER DE LA LÉGION D'HONNEUR, COMPAGNON DE LA LIBÉRATION, COMMISSAIRE DE LA RÉPUBLIQUE AU TOGO,
+Vu le décret du 23 mars 1921 déterminant les attributions et les pouvoirs du Commissaire de la République au Togo; Vu le décret du 3 janvier 1946 portant réorganisation administrative du Territoire du Togo et création d'assemblées représentatives; Vu l'acte dit loi du 14 mars 1942 et tous textes subséquents; Vu l'ordonnance du 27 mai 1944 donnant force de décret à l'acte dit loi du 14 mars 1942 et promulguée au Togo le 3 août 1944; Vu l'arrêté no 555-49/AE. du 14 juillet 1949 fixant les prix de vente des carburants et lubrifiants; Vu l'arrêté no 714-49/AE. du 1er septembre 1949 supprimant les mesures de compensation du prix du pétrole; Vu l'arrêté no 721-49/AE. du 3 septembre 1949 fixant à nouveau le prix du pétrole; Vu la demande collective du 30 septembre et celle du 14 octobre 1949 des Compagnies Pétrolières;
+ARRETE :
