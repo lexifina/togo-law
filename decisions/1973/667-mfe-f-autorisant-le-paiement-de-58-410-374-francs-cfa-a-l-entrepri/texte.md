@@ -1,0 +1,4 @@
+# Texte
+DECISION N° 667-MFE-F du 17-7-73 — Est autorisé le paiement par virement télégraphique en faveur de l'Entreprise Energoprojekt, à son compte tenu chez la banque yougoslave pour le commerce à Belgrade-Yougoslavie, de la somme de deux cent vingt huit mille soixante-cinq dollars US trente cents ($ 228.065,30) au cours cfa 256,1125 pour 1 $ soit cinquante-huit millions quatre cent dix mille trois cent soixante-quatorze (58.410.374) francs cfa au titre des traites échues n° 7, et 8 des 16 mars et 16 septembre 1969 selon contrat du 16 mai 1961 relatif à la construction d'une centrale hydroélectrique à Kpimé-Klouto.
+Cette somme sera mandatée au nom du trésorier-payeur du Togo en couverture du règlement effectué par la banque centrale des États de l'Afrique de l'Ouest (BCEAO) à Lomé.
+La dépense est imputable au budget général, exercice 1972, chapitre 1, article 15.
