@@ -1,0 +1,2 @@
+# Texte
+Arrêté n° 804/MTFP du 8-5-85 — M. Nankoum Wassintou, n° mle 031013-X, instituteur-adjoint de 3e classe 1er échelon stagiaire du cadre des fonctionnaires de l'enseignement, titulaire du baccalauréat de l'enseignement du troisième degré, est intégré dans la catégorie hiérarchique supérieure en qualité d'instituteur de 2e classe 1er échelon stagiaire (catégorie B-indice 750) à compter du 1er juillet 1984 et conserve son affectation actuelle (section 27, chapitre 21 du budget général).
