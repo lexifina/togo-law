@@ -1,0 +1,3 @@
+# Texte
+Arrêté n° 1786/MTPF du 21/12/81 — M. Dantsey Koffi Edinam et Takara Kpatcha Essohanam, titulaires de baccalauréat de l'enseignement du second degré et du diplôme d'ingénieur agronome de l'académie d'agronomie de Tissiviazey de Moscou (URSS) et de l'institut agronomique BALCESCU à Bucarest (Roumanie), sont admis dans le cadre des fonctionnaires de l'agriculture, de l'élevage, des eaux et forêts et du conditionnement des produits en qualité d'ingénieurs agronomes de 2e classe 2e échelon stagiaires (catégorie A1 — indice 1450) et mis à la disposition du ministre de l'aménagement rural (chapitre 36, article 9 du budget général).
+Le présent arrêté prendra effet pour compter de la date de prise de service des intéressés.
