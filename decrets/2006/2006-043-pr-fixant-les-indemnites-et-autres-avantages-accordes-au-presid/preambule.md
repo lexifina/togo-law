@@ -1,0 +1,6 @@
+# Préambule
+DECRET N° 2006-043/PR du 26 avril 2006 Fixant les indemnités et autres avantages accordés au Président et aux autres membres de la Haute Autorité de l'Audiovisuel et de la Communication.
+LE PRESIDENT DE LA REPUBLIQUE,
+Sur le rapport conjoint du ministre de la Communication et de la Formation civique et du ministre de l'Economie, des Finances et des Privatisations ;
+- Vu la Constitution du 14 octobre 1992, notamment en son article 130 ; - Vu la loi organique n° 2004-021 du 15 décembre 2004 relative à la Haute Autorité de l'Audiovisuel et de la Communication ; - Vu la loi n° 2006-002 du 05 janvier 2006 déterminant les indemnités et autres avantages accordés au Président et aux autres membres de la Haute Autorité de l'Audiovisuel et de la Communication ; - Vu le décret n° 2005-055/PR du 08 juin 2005 portant nomination du Premier ministre ; - Vu le décret n° 2005-058/PR du 20 juin portant composition du gouvernement ; - Vu le décret n° 2005-090/PR du 07 septembre 2005 portant nomination des membres de la Haute Autorité de l'Audiovisuel et de la Communication ; - Vu le Règlement intérieur de la Haute Autorité de l'Audiovisuel et de la Communication ; - Le Conseil des ministres entendu,
+DECRETE:
