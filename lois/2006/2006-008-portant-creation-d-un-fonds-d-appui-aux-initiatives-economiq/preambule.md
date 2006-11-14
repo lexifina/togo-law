@@ -1,0 +1,5 @@
+# Préambule
+LOI N° 2006-008 du 14 novembre 2006 portant création d'un fonds d'appui aux initiatives économiques des jeunes (FAIEJ)
+L'ASSEMBLEE NATIONALE A DELIBERE ET ADOPTE;
+LE PRESIDENT DE LA REPUBLIQUE PROMULGUE LA LOI DONT LA TENEUR SUIT:
+CHAPITRE I° - DES DISPOSITIONS GENERALES
