@@ -1,0 +1,5 @@
+# Préambule
+LOI N° 2006-011 du 13/12/06
+AUTORISANT LA RATIFICATION DU TRAITE INTERNATIONAL SUR LES RESSOURCES PHYTOGENETIQUES POUR L'ALIMENTATION ET L'AGRICULTURE ADOPTE LE 3 NOVEMBRE 2001 A ROME
+L'Assemblée nationale a délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
