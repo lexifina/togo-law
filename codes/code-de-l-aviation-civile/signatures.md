@@ -1,0 +1,5 @@
+# Signatures
+Fait à Lomé, le 22 janvier 2007
+LE PRESIDENT DE LA REPUBLIQUE Fauré Essozimna GNASSINGBE
+LE PREMIER MINISTRE Yawovi Madji AGBOYIBO
+DECRET
