@@ -1,0 +1,11 @@
+# Préambule
+DECRET N° 2009 - 011 / PR du 23 janvier 2009 portant dissolution de la Société Togolaise de Coton (SOTOCO)
+LE PRESIDENT DE LA REPUBLIQUE,
+Sur le rapport conjoint du ministre de l'économie et des Finances et du ministre de l'Agriculture, de l'Élevage et de la Peche,
+Vu la constitution du 14 octobre 1992 ;
+Vu la loi n° 90-26 du 4 décembre 1990 portant réforme du cadre institutionnel et juridique des entreprises publiques ;
+Vu le décret n° 91-19/PR du 16 août 1991 pris en application de la loi n° 90-26 du 4 décembre 1990 susvisée ;
+Vu le décret n° 2008-050/PR du 7 mai 2008 relatif aux attributions des ministres d'État et ministres ;
+JOURNAL OFFICIEL DE LA REPLIBLIQUE TOGOEAISE
+Vu le décret n° 2008-121/PR du 7 septembre 2008 portant nomination du Premier ministre ; Vu le décret n° 2008-122/PR du 15 septembre 2008 portant composition du gouvernement, Le conseil des ministres entendu,
+DECRETE :
