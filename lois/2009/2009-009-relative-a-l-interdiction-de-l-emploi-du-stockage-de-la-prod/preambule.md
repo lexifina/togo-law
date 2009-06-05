@@ -1,0 +1,4 @@
+# Préambule
+LOIN° 2009-009 DU 05 JUIN 2009 RELATIVE AL'INTERDICTION DE L'EMPLOI, DU STOCKAGE, DE LA PRODUCTION ET DU TRANSFERT DES MINES ANTIPERSONNEL ET SUR LEUR DESTRUCTION
+L'Assemblée nationale a délibéré et adopté ; Le président de la République promulgue la loi dont la teneur suit :
+CHAPITRE I : DISPOSITIONS GENERALES
