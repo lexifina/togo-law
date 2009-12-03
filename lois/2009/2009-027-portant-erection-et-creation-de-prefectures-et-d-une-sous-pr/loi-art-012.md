@@ -1,2 +1,2 @@
-# Article 12
+# Loi, Article 12
 La présente loi sera exécutée comme loi de l'État.
