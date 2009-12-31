@@ -1,0 +1,13 @@
+# Signatures
+Fait à Lome, le 09 décembre 2009
+Le président de la République Faure Essozimna GNASSINGBE
+Le Premier ministre Gilbert Fossoun HOUNGBO
+Le ministre d'État, ministre de l'Administration territoriale, de la Décentralisation et des Collectivités locales, Porte-parole du gouvernement Pascal Akoussoulélou BODJONA
+COMMISSION ELECTOWALENATIONALE INDEPENDANTE (CENI)
+CALENDRIER REAMENAGE DE LA REVISION DES LISTES ELECTORALES
+1. Formation des techniciens : 25, 26, 28 et 29 novembre 2009 2. Formation des logisticiens : 29, 30 novembre, 1er et 02 décembre 2009 3. Formation complémentaire des formateurs : 26 novembre 2009 4. Formation des Operateurs de Saisie (OPS) : 02, 03, 04 et 05 décembre 2009 pour la 1re vague : 06, 07 et 08 décembre 2009 pour la 2e vague 5. Rencontre avec les partis politiques : 05 décembre 2009 ; 6. Simulation à la révision des listes électorales : 07 et 08 décembre 2009 7. Formation des CELI et supervision de l'installation et de la formation des Comités des Listes et Cartes (CLC) : 10, 11, 12 et 13 décembre 2009 ; 8. Affichage des listes électorales de 2007 : du 12 au 13 décembre 2009 ; 9. Révision des listes électorales dans la zone I - Lome-commune - Golfe : du 14 au 23 décembre 2009 ; - Reste de la zone I : du 14 au 18 décembre 2009 ; 10. Affichage des listes électorales de 2007 : du 24 au 25 décembre 2009 ; 11. Révision des listes électorales dans la zone II : 26 au 30 décembre 2009 ; 12. Affichage des listes électorales de 2007 : du 4 au 6 janvier 2010 ; 13. Révision des listes électorales dans la zone III : du 06 au 10 janvier 2010.
+N. 5 : Le reste du chronogramme du scrutin de 2010 reste inchangé.
+COMMISSION ELECTORALENATIONALE INDEPENDANTE (CENI)
+DECOUPAGE TERRITORIAL POUR LA REVISION DES LISTES ELECTORALES
+| N° d'ord. | PREFECTURES | OBSERVATIONS | | --- | --- | --- | | ZONES I | | | | | Sous Zone I A : Du 14 au 23 Décembre 2009 | | | 1 | LOME - COMMUNE | | | 2 | GOLFE | | | Sous Zone I B : Du 14 au 18 Décembre 2009 | | | | 3 | AVE | | | 4 | ZIO | | | 5 | LACS | | | 6 | VO | | | 7 | YOTO | | | 8 | HAHO | | | 9 | MOYEN - MONO | | | 10 | EST - MONO | | | 11 | AGOU | |
+| ZONES II Du 26 au 30 décembre 2009 | | | | --- | --- | --- | | 12 | DANYI | | | 13 | KLOTO | | | 14 | AMOU | | | 15 | WAWA | | | 16 | OGOU | | | 17 | BLITTA | | | 18 | SOTOUBOUA | | | 19 | TCHAMBA | | | 20 | TCHAoudJO | | | ZONES III Du 06 au 10 Janvier 2010 | | | | 21 | ASSOLI | | | 22 | BASSAR | | | 23 | DANKPEN | | | 24 | BINAH | | | 25 | KOZAH | | | 26 | DOUFELGOU | | | 27 | KERAN | | | 28 | OTI | | | 29 | TANDJOARE | | | 30 | TONE | | | 31 | KPENDOJAL | |
