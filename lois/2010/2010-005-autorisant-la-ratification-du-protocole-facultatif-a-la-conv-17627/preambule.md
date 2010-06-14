@@ -1,0 +1,3 @@
+# Préambule
+LOI N° 2010 - 005 AUTORISANT LA RATIFICATION DU PROTOCOLE FACULTATIF A LA CONVENTION CONTRE LA TORTURE ET AUTRES PEINES OU TRAITEMENTS CRUELS, INHUMAINS OU DEGRADANTS ADOPTÉ A NEW YORK, LE 18 DÉCEMBRE 2002
+L'Assemblée nationale a délibéré et adopté ; Le président de la République promulgue la loi dont la teneur suit :
