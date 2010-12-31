@@ -1,0 +1,4 @@
+# Préambule
+ARRETE N°001/ MCIA/DCIC du 03/01/2007 PORTANT REORGANISATION DES CIRCUITS DE DISTRIBUTION DES PRODUITS DE LA BRASSERIE BB.
+Le ministre du Commerce, de l'Industrie et de l'Artisanat Vu la constitution du 14 octobre 1992 ; Vu la loi n° 99-011 du 28 décembre 1999 portant organisation de la Concurrence au Togo ; Vu le décret n° 2001-207/PR du 16 décembre 2001 portant modalités d'application de la loi 99-011 du 28 décembre 1999 portant organisation de la concurrence au Togo ; Vu le décret n°2001-208/PR du 16 décembre 2001 portant composition et fonctionnement de la commission nationale de la concurrence et de la consommation ; Vu le décret n° 2005-100/PR du 28 octobre 2005 portant attributions et organisation du ministère du Commerce, de l'Industrie et de l'Artisanat Vu le décret n° 2006-120/PR du 20 septembre 2006 portant composition du gouvernement ;
+ARRETE :
