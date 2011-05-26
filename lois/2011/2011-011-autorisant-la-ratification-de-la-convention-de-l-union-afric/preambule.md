@@ -1,0 +1,3 @@
+# Préambule
+LOI N° 2011-011 du 26/05/2011 AUTORISANT LA RATIFICATION DE LA CONVENTION DE L'UNION AFRICAINE SUR LA PROTECTION ET L'ASSISTANCE AUX PERSONNES DÉPLACÉES EN AFRIQUE, ADOPTÉE À KAMPALA, (OUGANDA) LE 23 OCTOBRE 2009
+L'Assemblée nationale a délibéré et adopté ; Le président de la République promulgue la loi dont la teneur suit :
