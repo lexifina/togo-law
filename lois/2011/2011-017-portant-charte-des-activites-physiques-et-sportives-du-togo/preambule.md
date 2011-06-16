@@ -1,0 +1,5 @@
+# Préambule
+LOIN° 2011-017 DU 16 JUIN 2011 PORTANT CHARTE DES ACTIVITES PHYSIQUES ET SPORTIVES AU TOGO
+L'Assemblée nationale a délibéré et adopte ; Le président de la République promulge la loi dont la teneur suit :
+TITRE I - DES DISPOSITIONS GENERALES
+CHAPITRE 1er - DE LA PRATIQUE DES ACTIVITES PHYSIQUES ET SPORTIVES
