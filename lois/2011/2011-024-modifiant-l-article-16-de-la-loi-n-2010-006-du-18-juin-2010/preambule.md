@@ -1,0 +1,10 @@
+# Préambule
+LOI N° 2011 - 024 DU 4 JUILLET 2011
+MODIFIANT L'ARTICLE 16 DE LA LOI N° 2010 - 006
+DU 18 JUIN 2010
+PORTANT ORGANISATION DES SERVICES
+PUBLICS DE L'EAU POTABLE ET DE
+L'ASSAINISSEMENT COLLECTIF DES EAUX
+USEES DOMESTIQUES
+L'assemblée nationale a délibéré et adopté ;
+Le président de la République promulgue la loi dont la teneur suit :
