@@ -1,0 +1,4 @@
+# Préambule
+LOI N° 2011-027 DU 02 DECEMBRE 2011 AUTORISANT LA RATIFICATION DE LA CONVENTION N° 122 DE L'ORGANISATION INTERNATIONALE DU TRAVAIL (OIT) SUR LA POLITIQUE DE L'EMPLOI, ADOPTEE, LE 09 JUILLET 1964, A GENEVE
+L'Assemblée nationale a délibéré et adopté ;
+Le président de la République promulgue la loi dont la teneur suit :
