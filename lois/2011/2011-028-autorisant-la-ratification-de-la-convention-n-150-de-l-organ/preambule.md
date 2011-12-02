@@ -1,0 +1,5 @@
+# Préambule
+LOI N° 2011-028 DU 02 DECEMBRE 2011
+AUTORISANT LA RATIFICATION DE LA CONVENTION N° 150 DE L'ORGANISATION INTERNATIONALE DU TRAVAIL (OIT) SUR L'ADMINISTRATION DU TRAVAIL, ADOPTEE, LE 26 JUIN 1978 A GENEVE
+L'Assemblée nationale a délibéré et adopté ;
+Le président de la République promulgue la loi dont la teneur suit :
