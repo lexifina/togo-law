@@ -1,0 +1,4 @@
+# Préambule
+LOI N° 2011-030 DU 02 DECEMBRE 2011 AUTORISANT LA RATIFICATION DE LA CONVENTION N° 102 DE L'ORGANISATION INTERNATIONALE DU TRAVAIL (OIT) SUR LA SECURITE SOCIALE (NORME MINIMUM), ADOPTEE LE 28 JUIN 1952 A GENEVE
+L'Assemblée nationale a délibéré et adopté ;
+Le président de la République promulgue la loi dont la teneur suit :
