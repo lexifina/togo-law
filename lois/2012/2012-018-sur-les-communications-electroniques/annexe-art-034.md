@@ -1,0 +1,3 @@
+# Annexe, Article 34
+Conditions de stockage des produits
+1. Les pesticides sont conservés dans leur contenant d'origine et avec leur étiquette intacte. Ils sont entreposés séparément dans des armoires fermées à clé. Les armoires d'entreposage sont disposées à l'air libre et leur accès est contrôlé pour éviter toute utilisation non autorisée. 2. Des conditions de stockage des pesticides plus détaillées et conformes aux directives internationales sont précisées ultérieurement par la Commission sur proposition du COAHP.

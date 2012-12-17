@@ -1,0 +1,4 @@
+# Annexe, Article 33
+Conditions tenant aux magasins de stockage
+Afin de permettre une bonne conservation des pesticides, tous les magasins de stockage de pesticides destinés à la commercialisation doivent :
+a) avoir une température et une humidité adéquates b) être propres et bien aérés.

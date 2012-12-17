@@ -1,0 +1,5 @@
+# Annexe, Article 45
+Procédure de contrôle
+1. La procédure de contrôle des pesticides se fait conformément aux dispositions réglementaires communautaires.
+2. Toutefois, les contrôles s'effectuent en présence du producteur, de l'importateur, du distributeur, de l'applicateur, de l'exportateur, du formulateur, du re-conditionneur et du transporteur de pesticides ou de son représentant agréé et font l'objet d'un rapport dans lequel sont consignées les observations faites. Ce rapport contient en outre des recommandations ou instructions techniques.
+3. Le modèle du rapport de contrôle est précisé par la Commission sur proposition du COAHP.

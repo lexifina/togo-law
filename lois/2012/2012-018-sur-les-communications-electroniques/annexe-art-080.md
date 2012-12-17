@@ -1,0 +1,4 @@
+# Annexe, Article 80
+Lot douteux
+1. Tout lot de semences importé ou exporté sur lequel pèse un soupçon de fraude ou de falsification est considéré comme douteux et est provisoirement confisqué.
+2. Un échantillon prélevé par le service officiel de contrôle et de certification ou tout autre organisme privé agréé est envoyé au laboratoire national d'analyses des semences pour la recherche de fraudes et falsifications. Dans le cas où les résultats sont non conformes aux indications portées sur les documents accompagnant les semences, le lot est saisi par les agents et officiers de police judiciaire, les agents assermentés de la Douane et de la Protection des Végétaux. Par conséquent, l'utilisation du lot en cause, en tant que semences, n'est pas autorisée et les étiquettes en sont retirées et détruites.

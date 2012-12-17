@@ -1,0 +1,3 @@
+# Annexe, Article 16
+Critères d'homologation
+1. Les critères d'homologation concernent l'efficacité biologique, la qualité des formulations mises en vente, la toxicité et le risque du produit pour l'homme, ainsi que les effets nocifs et le risque du produit pour l'environnement. 2. Ils sont précisés par la Commission en relation avec le COAHP et les États membres par voie de Règlement d'exécution.

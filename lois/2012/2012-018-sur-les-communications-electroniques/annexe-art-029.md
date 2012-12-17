@@ -1,0 +1,4 @@
+# Annexe, Article 29
+Essais d'efficacité biologique
+1. Les essais d'efficacité biologique en vue de l'homologation sont réalisés par des établissements publics ou privés retenus par la Commission de la CEDEAO sur proposition du COAHP. 2. Les essais sont effectués selon les protocoles élaborés par la Commission de la CEDEAO sur proposition du COAHP.
+CHAPITRE IX - RECOURS

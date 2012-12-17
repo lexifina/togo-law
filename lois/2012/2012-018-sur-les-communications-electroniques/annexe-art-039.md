@@ -1,0 +1,5 @@
+# Annexe, Article 39
+Contenu des étiquettes
+1. Le minimum d'information à apparaître sur l'étiquette et/ ou les notices est précisé par la Commission. Les étiquettes et / ou notices doivent être écrites en langue(s) officielle(s) du pays ou le produit est commercialisé. 2. Des pictogrammes doivent compléter le texte de l'étiquette.
+3. L'étiquette comporte en bas une bande toxicologique conformément à la classification FAO / OMS des pesticides.
+CHAPITRE XII - EMBALLAGE

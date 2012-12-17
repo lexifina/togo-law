@@ -1,0 +1,3 @@
+# Annexe, Article 20
+Examen des demandes d'homologation
+Les procédures d'examen des demandes d'homologation sont établies et définies par la Commission.

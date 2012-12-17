@@ -1,0 +1,3 @@
+# Annexe, Article 13
+Mise en œuvre
+Conformément aux dispositions de l'article 7 du présent Règlement, le COAHP évalue toutes les notifications et les Documents d'Orientation de Décisions (DOD) au titre des Conventions visées. Il soumet à la Commission ses avis, laquelle en saisit les États membres pour leur mise en œuvre.

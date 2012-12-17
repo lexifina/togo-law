@@ -1,0 +1,3 @@
+# Annexe, Article 43
+Toxicovigilance
+Les produits homologués ou ayant reçu une APV et qui sont sur la liste de toxicovigilance prévue par l'Article 10 ci-dessus font l'objet de suivi particulier par les structures habilitées des États membres.

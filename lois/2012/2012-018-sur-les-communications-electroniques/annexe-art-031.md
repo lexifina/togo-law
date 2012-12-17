@@ -1,0 +1,3 @@
+# Annexe, Article 31
+Agrément
+1. L'exercice de la profession de producteur, d'importateur, de distributeur, de revendeur, d'applicateur, exportateur, de formulateur, de re-conditionneur et de transporteur de pesticides est subordonné à l'obtention d'un agrément délivré par l'État membre concerné. 2. L'agrément est renouvelable à la demande du titulaire et pour la même période. Il peut être suspendu ou retiré. 3. Les conditions et modalités d'obtention de l'agrément, de sa suspension ou son retrait sont précisées par chaque État membre, conformément aux dispositions pertinentes du présent Règlement.

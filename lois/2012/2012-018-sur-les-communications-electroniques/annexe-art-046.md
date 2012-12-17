@@ -1,0 +1,6 @@
+# Annexe, Article 46
+Droit de recours et expertise contradictoire
+1. En cas de conestation du rapport de contrôle, le formulateur, le re-conditionneur, le distributeur, les applicateurs et le transporteur ont le droit de recourir à une expertise contradictoire.
+2. La procédure de recours est celle en vigueur dans les États membres.
+TITRE V DISPOSITIONS PARTICULIERES
+CHAPITRE XIV - SANCTIONS
