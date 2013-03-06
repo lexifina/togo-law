@@ -1,0 +1,6 @@
+# Préambule
+DECRET N° 2013-013/PR du 06 03 2013 Portant réglementation du maintien et du rétablissement de l'ordre public
+LE PRESIDENT DE LA REPUBLIQUE,
+Sur le rapport du ministre de la sécurité et de la protection civile, Vu la constitution du 14 octobre 1992 ; Vu la loi n° 91-14 du 09 juillet 1991 portant statut spécial des personnels de la police nationale togolaise ; Vu la loi n° 2007-010 du 1er mars 2007 portant statut des personnels militaires des Forces Armées Togolaises : Vu la loi n° 2011-010 du 16 mai 2011 fixant les conditions d'exercice de la liberté de réunion et de manifestation publiques ; Vu le décret n° 66-203 du 17 novembre 1966 portant création du corps des gardiens de préfecture ; Vu le décret n° 91-198 du 16 août 1991, portant modalités communes d'application de la loi n° 91-14 du 09 juillet 1991 susvisée ; Vu le décret n° 2008-010/PR du 25 janvier 2008 relatif à la gendarmerie nationale : Vu le décret n° 2012-051/PR du 19 juillet 2012 portant nomination du Premier ministre ; Vu le décret n° 2012-056/PR du 31 juillet 2012 portant composition du gouvernement, ensemble les testes qui l'ont modifié, notamment le décret n° 2013-003/PR du 24 janvier 2013 relevant le ministre des mines et de l'énergie de ses fonctions ; Le conseil des ministres entendu,
+DECRETE :
+CHAPITRE Ier - DES DISPOSITIONS GENERALES
