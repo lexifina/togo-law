@@ -1,0 +1,5 @@
+# Texte
+Décision n° 120/MEF/SG/DFCEP/DGFI du 15/03/13
+Est autorisé le virement au profit de la Société «African Biofuel and Reneeewable Energy Company» (ABREC), à son compte n° 181400167805 ouvert dans les livres d'ECOBANK-TOGO à Lomé, de la somme de Quatre Cent Millions (400.000.000) de francs CFA, représentant la première tranche du montant des prestations de la mise en œuvre des projets d'installation de dix-mille (10.000) lampadaires solaires photovoltaïques dans les quartiers et périphéries de la ville de Lomé, dans les artères des villes de l'intérieur du Togo et l'introduction d'un million (1.000.000) de lampes à basse consommation (LBC) dans les bâtiments administratifs.
+La dépense est imputable au Budget de l'Etat Gestion 2013, Code Imputation 5 840 7663350 900 11011 2499.
+Le Directeur du Financement et du Contrôle de l'Exécution du Plan et le Directeur Général du Trésor et de la Comptabilité Publique sont chargés, chacun en ce qui concerne, de l'exécution de la présente décision.
