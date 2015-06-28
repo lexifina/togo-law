@@ -1,0 +1,11 @@
+# Préambule
+DECRET N° 2015-039 / PR DU 24 JUIN 2015
+Fixant les indemnités de fonctions attribuées aux chefs de canton et assimilés de la République togolaise POUR L'EXERCICE 2015
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution du 14 octobre 1992 ;
+Vu la loi n° 2007-001 du 08 janvier 2007 portant organisation de l'administration territoriale déconcentrée au Togo ;
+Vu la loi n° 2007-002 du 08 janvier 2007 relative à la chefferie traditionnelle et au statut des chefs traditionnels au Togo ;
+Vu le décret n° 2012-004/PR du 29 février 2012 relatif aux attributions des ministres d'Etat et ministres ;
+Vu le décret n° 2013-058/PR du 06 septembre 2013 portant nomination du Premier ministre ;
+Vu le décret n° 2013-060/PR du 17 septembre 2013 portant composition du gouvernement, ensemble les textes qui l'ont modifié ;
+DECRETE :
