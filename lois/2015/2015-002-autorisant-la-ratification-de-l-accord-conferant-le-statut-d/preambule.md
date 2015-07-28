@@ -1,0 +1,10 @@
+# Préambule
+LOI N° 2015-002 du 28/07/2015
+AUTORISANT LA RATIFICATION DE L'ACCORD
+CONFÉRANT LE STATUT D'ORGANISATION
+INTERNATIONALE À L'ACADÉMIE
+INTERNATIONALE DE LUTTE CONTRE
+LA CORRUPTION (IACA), SIGNE
+LE 02 SEPTEMBRE 2010 À VIENNE
+L'Assemblée nationale a délibéré et adopté ;
+Le président de la République promulgue la loi dont la teneur suit :
