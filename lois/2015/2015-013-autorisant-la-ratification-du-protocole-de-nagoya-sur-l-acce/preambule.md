@@ -1,0 +1,4 @@
+# Préambule
+LOI N° 2015-013 DU 02 DÉCEMBRE 2015 AUTORISANT LA RATIFICATION DU PROTOCOLE DE NAGOYA SUR L'ACCÈS ET LE PARTAGE DES AVANTAGES DÉCOULANT DE L'UTILISATION DES RESSOURCES GÉNÉTIQUES, SIGNÉ À NAGOYA, LE 29 OCTOBRE 2010
+L'Assemblée nationale a délibéré et adopté ;
+Le président de la République promulgue la loi dont la teneur suit :
