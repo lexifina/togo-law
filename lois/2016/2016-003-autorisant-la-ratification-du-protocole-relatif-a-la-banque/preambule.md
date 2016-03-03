@@ -1,0 +1,3 @@
+# Préambule
+LOI N° 2016-003 DU 03 MARS 2016 AUTORISANT LA RATIFICATION DU PROTOCOLE RELATIF A LA BANQUE AFRICAINE D'INVESTISSEMENT (BAI) ET SES STATUTS, ADOPTES A ADDIS-ABEBA EN ETHIOPIE, LE 04 FEVRIER 2009
+L'Assemblée nationale a délibéré et adopté ; Le président de la République promulgue la loi dont la teneur suit :
