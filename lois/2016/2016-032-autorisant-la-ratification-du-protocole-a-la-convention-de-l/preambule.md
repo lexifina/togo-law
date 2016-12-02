@@ -1,0 +1,4 @@
+# Préambule
+LOI N° 2016-032 du 02/12/2016 AUTORISANT LA RATIFICATION DU PROTOCOLE A LA CONVENTION DE L'ORGANISATION DE L'UNITE AFRICAINE (OUA) SUR LA PREVENTION ET LA LUTTE CONTRE LE TERRORISME, ADOPTE A ADDIS-ABEBA LE 8 JUILLET 2004
+L'Assemblée nationale a délibéré et adopté ;
+Le président de la République promulgue la loi dont la teneur suit :
