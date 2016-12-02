@@ -1,0 +1,3 @@
+# Préambule
+LOI N° 2016-034 du 02/12/16 PORTANT CREATION DU FICHIER NATIONAL ET DES FICHIERS LOCAUX DU REGISTRE DU COMMERCE ET DU CREDIT MOBILIER (RCCM) ET ATTRIBUTIONS DES GREFFIERS CHARGES DE LEUR GESTION
+L'Assemblée nationale a délibéré et adopté ; Le président de la République promulgue la loi dont la teneur suit :
