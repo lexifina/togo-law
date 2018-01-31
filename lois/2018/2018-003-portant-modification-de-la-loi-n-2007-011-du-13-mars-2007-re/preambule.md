@@ -1,0 +1,6 @@
+# Préambule
+LOI N° 2018 - 003 du 31 janvier 2018 PORTANT MODIFICATION DE LA LOI N°2007-011 DU 13 MARS 2007 RELATIVE A LA DECENTRALISATION ET AUX LIBERTES LOCALES
+L'Assemblée nationale a délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
+TITRE I – DISPOSITIONS GENERALES
+CHAPITRE Ier - DES PRINCIPES GENERAUX DE LA DECENTRALISATION
