@@ -1,0 +1,5 @@
+# Préambule
+LOI ORGANIQUE N° 2018-006 du 20/06/19 RELATIVE A LA COMPOSITION, A L'ORGANISATION ET AU FONCTIONNEMENT DE LA COMMISSION NATIONALE DES DROITS DE L'HOMME (CNDH)
+L'Assemblée nationale a délibéré et adopté ; Le Président de la République promulgue la loi dont la teneur suit :
+CHAPITRE Ier - DISPOSITIONS GENERALES
+SECTION 1er : CREATION
