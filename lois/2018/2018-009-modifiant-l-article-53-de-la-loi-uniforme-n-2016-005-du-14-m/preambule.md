@@ -1,0 +1,5 @@
+# Préambule
+Loi N° 2018-009 du 27/06/18
+MODIFIANT L'ARTICLE 53 DE LA LOI UNIFORME N° 2016-005 DU 14 MARS 2016 PORTANT REGLEMENTATION DES BUREAUX D'INFORMATION SUR LE CREDIT (BIC) DANS LES ETATS MEMBRES DE L'UNION MONETAIRE OUEST - AFRICAINE (UMOA)
+L'Assemblée nationale a délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
