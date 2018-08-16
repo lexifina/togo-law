@@ -1,0 +1,4 @@
+# Préambule
+LOI N° 2018-012 du 16 août 2018
+AUTORISANT L'ADHESION DU TOGO AU PROTOCOLE A LA CONVENTION INTERNATIONALE DE 1974 POUR LA SAUVEGARDE DE LA VIE HUMAINE EN MER DITE « CONVENTION SOLAS », ADOPTE A LONDRES, LE 11 NOVEMBRE 1988
+L'Assemblée nationale a délibéré et adopté ; Le Président de la République promulgue la loi dont la teneur suit :
