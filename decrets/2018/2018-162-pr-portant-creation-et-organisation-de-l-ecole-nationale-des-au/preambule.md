@@ -1,0 +1,6 @@
+# Préambule
+DECRET N° 2018 – 162 / PR du 25 / 10 / 18 portant création et organisation de l’Ecole Nationale des Auxiliaires Médicaux de Tsévié (ENAM-TS)
+LE PRESIDENT DE LA REPUBLIQUE,
+Sur le rapport conjoint du ministre de la Santé et de la Protection sociale, du ministre de l’Enseignement supérieur et de la Recherche et du ministre des Enseignements primaire, secondaire et de la Formation professionnelle,
+Vu la constitution du 14 octobre 1992 ; Vu la loi n° 2009-007 du 15 mai 2009 portant code de la santé publique de la République togolaise; Vu la loi n° 2017-005 du 19 juin 2017 d’orientation de l’enseignement supérieur et de la recherche ; Vu le décret n° 2008-066/PR du 21 juillet 2008 instituant le système Licence, Master, Doctorat (LMD) dans l’enseignement supérieur au Togo ; Vu le décret n° 2012-004/PR du 29 février 2012 relatif aux attributions des ministres d’Etat et ministres ; Vu le décret n° 2012-006/PR du 7 mars 2012 portant organisation des départements ministériels ; Vu le décret n° 2015-038/PR du 5 juin 2015 portant nomination du Premier ministre ; Vu le décret n° 2015-041/PR du 28 juin 2015 portant composition du Gouvernement, ensemble les textes qui l’ont modifié ; Le conseil des ministres entendu,
+DECRETE :
