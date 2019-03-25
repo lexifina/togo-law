@@ -1,0 +1,28 @@
+# Préambule
+Décision n° 01/HAAC/19/P du 25/03/19
+Portant retrait du récépissé de déclaration de parution n° 0410/28/10/10/HAAC du mensuel « La Nouvelle »
+LA HAUTE AUTORITE DE L'AUDIOVISUEL ET DE LA COMMUNICATION (HAAC)
+Vu la Constitution du 14 octobre 1992 ;
+Vu la loi n°98-004/PR du 11 février 1998 portant Code de la presse et de la communication modifiée par la loi n°2000-06 du 23 février 2000 modifiée par la loi n°2002-026 du 25 septembre 2002 modifiée par la loi n°2004-015 du 27 août 2004 ;
+Vu la loi organique n°2018-029 du 10 décembre 2018 portant modification de la loi organique n°2004-021 du 15 décembre 2004 relative à la Haute Autorité de l'Audiovisuel et de la Communication ;
+Vu le décret n°2016-056/PR du 02 mai 2016 portant nomination des membres de la Haute Autorité de l'Audiovisuel et de la Communication ;
+Vu le décret n°2017-056/PR du 19 décembre 2017 portant désignation de Monsieur Pitalounani TELOU comme membre de la Haute Autorité de l'Audiovisuel et de la Communication ;
+Vu le procès-verbal n°001-2016 du 09 juin 2016 de la Cour suprême portant prestation de serment des membres de la Haute Autorité de l'Audiovisuel et de la Communication ;
+Vu le procès-verbal n°001/2017 du 29 décembre 2017 de la Cour suprême portant prestation de serment de Monsieur Pitalounani TELOU comme membre de la Haute Autorité de l'Audiovisuel et de la Communication ;
+Vu le procès-verbal de l'élection du bureau de la Haute Autorité de l'Audiovisuel et de la Communication en date du 16 juin 2016 ;
+Vu le procès-verbal de l'élection du Président de la Haute Autorité de l'Audiovisuel et de la Communication en date du 11 janvier 2018 ;
+Considérant que le 28 octobre 2010, la HAAC a délivré à Monsieur Bonéro P. L. LAWSON-BETUM le récépissé de déclaration de parution n°0410/28/10/10/ HAAC l'autorisant à publier le mensuel d'informations politiques et culturelles « La Nouvelle » ;
+Considérant que dans le cadre de ses publications, le sieur Bonéro P. L. LAWSON-BETUM se devait de respecter strictement les règles de déontologie et d'éthique du journalisme ;
+Considérant qu'à chacune de ses parutions, le journal « La Nouvelle » s'adonnait à la publication : d'informations non avérées, à des appels à la haine ethnique et religieuse, aux atteintes à la vie privée des citoyens, ainsi qu'à des calomnies et injures de toute nature ;
+Considérant que les réprobations légitimes des personnes visées par les articles du journal « La Nouvelle » ont amené la HAAC à rappeler à Monsieur Bonéro P. L. LAWSON-BETUM, la nécessité d'accomplir sa mission de journaliste dans le strict respect de la loi ;
+Considérant que pour refus délibéré de respecter les principes fondamentaux du journalisme, la HAAC, avait, par décision n° 011/HAAC/12/P du 16 juillet 2012, pris des mesures à l'encontre du mensuel « La Nouvelle » ;
+Qu'en dépit de cette décision, le journal « La Nouvelle » a continué à paraître en violation des règles d'éthique et de déontologie, défiant ainsi l'autorité de l'instance de régulation des médias ;
+Considérant qu'en 2016, se référant à une correspondance adressée au Président de la HAAC par Monsieur Bonéro P. L. LAWSON-BETUM qui souhaitait reprendre la parution de son journal, la HAAC l'a reçu en séance plénière le mercredi 27 juillet 2016. Au cours de cette séance, et dans un esprit d'apaisement fondé sur les engagements de Monsieur Bonéro P. L. LAWSON-BETUM à respecter désormais les règles professionnelles, la HAAC a autorisé le journal « La Nouvelle » à paraître de nouveau ;
+Considérant que malheureusement, il n'a pas fallu trois mois pour constater le non respect de cet engagement et la reprise des violations des règles déontologiques du journalisme par « La Nouvelle », Monsieur Bonéro P. L. LAWSON-BETUM a ainsi fait l'objet d'interpellations le 27 septembre 2016 et le 18 avril 2017 pour violation des règles professionnelles, puis d'une suspension de parution d'une durée d'un mois, le 24 mai 2017 ;
+Considérant que ces incessantes interpellations et conseils de la HAAC n'ont pas suffi à convaincre Monsieur Bonéro P. L. LAWSON-BETUM de la nécessité de respecter les règles professionnelles qui s'imposent à lui et à son journal « La Nouvelle » ;
+Considérant que face à ces refus délibérés de Monsieur Bonéro P. L. LAWSON-BETUM et du journal « La Nouvelle » de respecter la loi, la HAAC a saisi le 17 octobre 2018 le Tribunal de Première Instance de Première Classe de Lomé d'une demande de retrait de récépissé de déclaration de parution, sur le fondement de l'article 58 de la loi organique n°2004-021 du 15 décembre 2004 relative à la Haute Autorité de l'Audiovisuel et de la Communication modifiée par la loi organique n°2009-029 du 22 décembre 2009 et la loi organique n°2013-016 du 08 juillet 2013 ;
+Considérant que bien que l'affaire ait été renvoyée à plusieurs reprises par la justice pour la comparution de Monsieur Bonéro P. L. LAWSON-BETUM, celui-ci a choisi de ne pas se présenter devant le juge ;
+Considérant que le 10 décembre 2018, suivant ordonnance de référé n° 0848/2018, le Juge des référés a décidé ce qui suit : « ordonnons le retrait pur et simple par la Haute Autorité de l'Audiovisuel et de la Communication (HAAC) du récépissé de déclaration de parution n° 0410/28/10/10/ HAAC délivré le 28 octobre 2010 au sieur Bonéro P. L. LAWSON-BETUM pour la publication du mensuel « La Nouvelle » ; disons la présente ordonnance exécutoire sur minute nonobstant toutes voies de recours et sans caution »
+Considérant que cette décision a été signifiée à Monsieur Bonéro P. L. LAWSON-BETUM par exploit d'Huissier le 06 mars 2019 ;
+Qu'en conséquence, la Haute Autorité de l'Audiovisuel et de la Communication (HAAC), près délibération,
+DECIDE :
