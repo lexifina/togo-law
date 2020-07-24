@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 151/MEF/CAB du 24/07/2020 portant création du comité de pilotage du Projet d'Appui ciblé à l'Exécution du Plan National de Développement (PAE-PND)
+LE MINISTERE DE L'ECONOMIE ET DES FINANCES,
+Vu la Constitution du 14 octobre 1992 ; Vu le décret n° 2012-004/PR du 29 février 2012 relatif aux attributions des ministres d'Etat et ministres ; Vu le décret n° 2012-006/PR du 07 mars 2012 portant organisation des départements ministériels ; Vu le décret n° 2017-112/PR du 29 septembre 2017 fixant les attributions du ministre et portant organisation et fonctionnement du ministère de l'Economie et des Finances ; Vu le décret n° 2019-004/PR du 24 janvier 2019 portant composition du gouvernement, ensemble les textes qui l'ont modifié ; Vu la lettre d'accord de don du 17 décembre 2019 relatif au financement du Projet d'Appui ciblé à l'Exécution du Plan National de Développement (PAE-PND) entre la République Togolaise et la Banque Africaine de Développement (BAD) ; Vu les conditions préalables au premier décaissement des ressources du projet,
+ARRETE :
