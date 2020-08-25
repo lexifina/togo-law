@@ -1,0 +1,5 @@
+# Préambule
+ARRETE N° 0171/MATDCL-CAB du 29/07/2020 Portant autorisation d'exhumer et de réinhumer
+LE MINISTRE DE L'ADMINISTRATION TERRITORIALE, DE LA DECENTRALISATION ET DES COLLECTIVITES LOCALES
+Vu la Constitution du 14 octobre 1992 ; Vu le décret N° 2012-004/PR du 29 février 2012 relatif aux attributions des ministres d'Etat et des ministres ; Vu le décret N° 2012-006/PR du 07 mars 2012 portant organisation des départements ministériels ; Vu le décret N° 2019-004/PR du 24 janvier 2019 portant composition du gouvernement, modifié par le décret N° 2019-005/PR du 25 janvier 2019 ; Vu l'arrêté N° 47 portant réglementation des sépultures au Togo ; Vu la demande en date du 10 février 2020 de Madame HAZOUME M. Marie (92 66 83 24) du 25 juin 2020 ; Vu le procès-verbal de constat dressé par Me Rémy Yawo M. EKLOU, Huissier de justice près le Tribunal de 1er instance et la cour d'appel de Lomé, en ce qui concerne l'identification formelle de la tombe de feu HAZOUME Adjaï ; Vu le compte rendu du 21 juillet 2020 de Monsieur le Préfet du Golfe ;
+ARRETE :
