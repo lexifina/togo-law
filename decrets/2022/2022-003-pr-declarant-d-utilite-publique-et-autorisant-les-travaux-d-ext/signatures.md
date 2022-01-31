@@ -1,0 +1,8 @@
+# Signatures
+Fait à Lomé, le 05 janvier 2022
+Le Président de la République Faure Essozimna GNASSINGBE
+Le Premier ministre Victoire S. TOMEGAH-DOGBE
+Le ministre de l'Economie et des Finances Sani YAYA
+Le ministre du Commerce, de l'Industrie et de la Consommation Locale Kodjo Sévon-Tépé ADEDZE
+Le ministre de l'Administration Territoriale, de la Décentralisation et du Développement des Territoires Payadowa BOUKPESSI
+Le ministre de l'Urbanisme, de l'Habitat et de la Réforme Foncière Mª Koffi TSOLENYANU
