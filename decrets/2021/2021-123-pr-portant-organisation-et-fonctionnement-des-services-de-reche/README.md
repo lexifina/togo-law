@@ -9,6 +9,25 @@ En vigueur / in force: 2022-03-08 (publication in the Journal officiel (default 
 | Fichier | Disposition |
 | --- | --- |
 | [preambule](preambule.md) | Préambule |
+| [loi-art-001](loi-art-001.md) | Loi, Article 1 |
+| [loi-art-002](loi-art-002.md) | Loi, Article 2 |
+| [loi-art-003](loi-art-003.md) | Loi, Article 3 |
+| [loi-art-004](loi-art-004.md) | Loi, Article 4 |
+| [loi-art-005](loi-art-005.md) | Loi, Article 5 |
+| [loi-art-006](loi-art-006.md) | Loi, Article 6 |
+| [loi-art-007](loi-art-007.md) | Loi, Article 7 |
+| [loi-art-008](loi-art-008.md) | Loi, Article 8 |
+| [loi-art-009](loi-art-009.md) | Loi, Article 9 |
+| [loi-art-010](loi-art-010.md) | Loi, Article 10 |
+| [loi-art-011](loi-art-011.md) | Loi, Article 11 |
+| [loi-art-012](loi-art-012.md) | Loi, Article 12 |
+| [loi-art-013](loi-art-013.md) | Loi, Article 13 |
+| [loi-art-014](loi-art-014.md) | Loi, Article 14 |
+| [loi-art-015](loi-art-015.md) | Loi, Article 15 |
+| [loi-art-016](loi-art-016.md) | Loi, Article 16 |
+| [loi-art-017](loi-art-017.md) | Loi, Article 17 |
+| [loi-art-018](loi-art-018.md) | Loi, Article 18 |
+| [signatures](signatures.md) | Signatures |
 | [art-001](art-001.md) | Article 1 |
 | [art-002](art-002.md) | Article 2 |
 | [art-003](art-003.md) | Article 3 |
@@ -27,4 +46,16 @@ En vigueur / in force: 2022-03-08 (publication in the Journal officiel (default 
 | [art-016](art-016.md) | Article 16 |
 | [art-017](art-017.md) | Article 17 |
 | [art-018](art-018.md) | Article 18 |
-| [signatures](signatures.md) | Signatures |
+| [art-019](art-019.md) | Article 19 |
+| [art-020](art-020.md) | Article 20 |
+| [art-021](art-021.md) | Article 21 |
+| [art-022](art-022.md) | Article 22 |
+| [art-023](art-023.md) | Article 23 |
+| [art-024](art-024.md) | Article 24 |
+| [art-025](art-025.md) | Article 25 |
+| [art-026](art-026.md) | Article 26 |
+| [art-027](art-027.md) | Article 27 |
+| [art-028](art-028.md) | Article 28 |
+| [art-029](art-029.md) | Article 29 |
+| [art-030](art-030.md) | Article 30 |
+| [art-031](art-031.md) | Article 31 |
