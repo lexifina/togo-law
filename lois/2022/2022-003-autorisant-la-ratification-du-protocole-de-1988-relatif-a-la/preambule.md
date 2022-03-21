@@ -1,0 +1,4 @@
+# Préambule
+LOI N° 2022-003 DU 24/03/2022 AUTORISANT LA RATIFICATION DU PROTOCOLE DE 1988 RELATIF A LA CONVENTION INTERNATIONALE DE 1966 SUR LES LIGNES DE CHARGE, SIGNE LE 11 NOVEMBRE 1988 A LONDRES
+L'Assemblée nationale a délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
