@@ -1,0 +1,41 @@
+# Signatures
+Fait à Lomé, le 18 Août 2022
+Le ministère de l'Environnement et des Ressources Forestières
+Katari FOLI-BAZI
+Le ministère de l'Economie Maritime, de la Pêche et de la Protection Côtière
+Kokou Edem TENGUE
+ANNEXE I
+Prescriptions concernant les plans de réception et de traitement des déchets dans les ports
+Les plans couvrent tous les types de déchets d'exploitation des navires et de résidus de cargaison provenant des navires faisant habituellement escale dans le port et sont élaborés en fonction de la taille du port et des catégories de navires qui y font escale.
+Les plans couvrent notamment les éléments suivants :
+- une évaluation des besoins en termes d'installations de réception portuaires, compte tenu des besoins des navires qui font habituellement escale dans le port ; - une description du type et de la capacité des installations de réception portuaires ; - une description détaillée des procédures de réception et de collecte des déchets d'exploitation des navires et des résidus de cargaison ; - une description du système de tarification ; - les procédures à suivre pour signaler les insuffisances constatées dans les installations de réception portuaires ; - les procédures de consultation permanente entre les utilisateurs du port, les contractants du secteur des déchets, les exploitants de terminaux et les autres parties intéressées ; - le type et les quantités de déchets d'exploitation des navires et de résidus de cargaison reçus et traités.
+En outre, les plans comprennent les éléments ci-après :
+- un résumé de la législation concernée et des formalités de dépôt ;
+- l'identification d'une ou de plusieurs personnes responsables de la mise en œuvre du plan ; - une description, le cas échant, des équipements et procédés de prétraitement ; - une description des méthodes employées pour enregistrer l'utilisation effective des installations de réception portuaire ; - une description des méthodes employées pour enregistrer les quantités de déchets d'exploitation des navires et de résidus de cargaison reçues ; - la description des modalités d'élimination des déchets d'exploitation des navires et des résidus de cargaison.
+Les procédures de réception, collecte, stockage, traitement et élimination devraient être à tous égards conformes à un programme de gestion de l'environnement conduisant à une réduction progressive de l'impact de ces activités sur l'environnement.
+Informations à communiquer à tous les utilisateurs du port :
+- brève référence à l'importance fondamentale que revêt le dépôt adéquat des déchets d'exploitation des navires et des résidus de cargaison ; - emplacement des installations de réception portuaires correspondant à chaque poste de mouillage, avec diagramme/carte ; - liste des déchets d'exploitation des navires et des résidus de cargaison habituellement pris en charge ; - liste des points de contact, des opérateurs et des services proposés ; - description des procédures de dépôt ; - description du système de tarification ; - procédures à suivre pour signaler les insuffisances constatées dans les installations de réceptions portuaires.
+ANNEXE II
+Renseignements à notifier avant d'entrer dans le port de ...(port de destination, tel que visé à l'article 6 de l'arrêté)
+1. Nom, code d'appel, et le cas échéant, numéro OMI d'identification du navire : 2. Etat du pavillon : 3. Heure probable d'arrivée au port : 4. Heure probable d'appareillage : 5. Port d'escale précédent : 6. Port d'escale suivant : 7. Dernier port où des déchets d'exploitation du navire ont été déposés, avec mention des quantités (en m³) et des types de déchets, et date à laquelle ce dépôt a eu lieu : 8. Déposez-vous : (cochez la case correspondante) : - la totalité ☐ - une partie ☐ - aucun ☐ de vos déchets dans des installations de réception portuaires ? 9. Type et quantité de déchets et de résidus à déposer et/ou restant à bord et pourcentage de la capacité de stockage maximale que ces déchets et résidus représentent : Si vous déposez la totalité de vos déchets, remplissez la deuxième et la dernière colonnes comme il convient. Si vous ne déposez qu'une partie ou aucun de vos déchets, remplissez toutes les colonnes.
+| Type | Quantités à livrer (m³) | Capacité de stockage maximale spécialisée (m³) | Quantité de Déchets restant à bord (m³) | Port dans lequel les déchets restants seront déposés | Estimation de la quantité de déchets qui sera produite entre la notification et l'entrée dans le port d'escale suivant (m³) | Quantité de déchets déposée au dernier port de dépôt indiqué au point 7 ci-dessus (m³) | | --- | --- | --- | --- | --- | --- | --- | | Déchets d'hydrocarbures | | | | | | | | Eaux de cale polluées | | | | | | | | Résidus d'hydrocarbures (boues) | | | | | | | | Autre type (préciser) | | | | | | | | Eaux usées (1) | | | | | | | | Ordures | | | | | | | | Matières plastiques | | | | | | | | Déchets alimentaires | | | | | | | | Déchets domestiques (papier, chiffons, verre, métaux, bouteilles, vaisselle, etc.) | | | | | | |
+| Ordures ménagères brutes (*) | | | | | | | | --- | --- | --- | --- | --- | --- | --- | | Emballages PMC () collectés séparément | | | | | | | | Emballages en papier/ carton et autres déchets de papier collectés séparément | | | | | | | | Emballages en verre collectés séparément | | | | | | | | Autres (préciser) | | | | | | | | Huiles à friture | | | | | | | | Cendres d'incinération | | | | | | | | Déchets d'exploitation | | | | | | | | Carcasses d'animaux | | | | | | | | Résidus de cargaison (2) (préciser) (3) | | | | | | | | (1) Les eaux usées peuvent être rejetées en mer conformément au règlement 11 de l'annexe IV de la convention MARPOL. Si on entend effectuer un rejet en mer autorisé, il est inutile de remplir les cases correspondantes. (2) Il peut s'agir d'estimations. (3) Les résidus de cargaison sont précisés et classés selon les annexes applicables de la convention MARPOL, et notamment ses annexes I, II et V. (*) Ordures ménagères résiduelles en mélange, après le tri par les usagers des fractions collectées sélectivement. () PMC : déchets d'emballages recyclables composés de bouteilles et flacons en plastique, emballages métalliques et cartons à boissons. | | | | | | |
+Notes
+1. Ces renseignements peuvent être utilisés à des fins de contrôle par l'Etat du port ainsi qu'à d'autres fins d'inspection. 2. Les copies de la présente notification sont adressées au gestionnaire du Port. 3. Le présent formulaire doit être rempli, sauf si le navire fait l'objet d'une exemption conformément à l'article 6 paragraphe 3, de l'arrêté.
+Je confirme que :
+- les renseignements ci-dessus sont exacts et corrects, et - qu'il existe une capacité de stockage spécialisée suffisante à bord pour stocker tous les déchets produits entre le moment de la notification et le moment où est atteint le port suivant où des déchets seront déposés.
+Date ...
+Heure ...
+Signature
+ANNEXE III
+Modèle d'attestation de dépôt des déchets à délivrer aux navires par les responsables d'installations portuaires
+Nom, code d'appel, numéro MET et le cas échéant, numéro OMI d'identification du navire :
+Etat du pavillon :
+Type et quantité des déchets et de résidus déposés :
+| Type | Quantités de déchets déposés (en m3) | Modalités de gestion et destination | | --- | --- | --- | | 1. Huiles usagées | | | | Boucs | | | | Eau de cale | | | | Autres : (à préciser) | | | | 2. Détritus | | | | Ordures ménagères brutes (1) | | | | Déchets alimentaires biodégradables collectés séparément | | | | Emballages PMC (2) collectés séparément | | | | Emballages en papier/carton collectés séparément | | | | Emballages en verre collectés séparément | | | | Plastiques collectés séparément | | | | Autres : (à préciser) | | | | 3. Déchets liés à la cargaison : (à préciser) | | | | 4. Résidus de cargaison : (à préciser) | | | | 5. Eaux usées : (à préciser) | | |
+(1). ordures ménagères résiduelles en mélange, après le tri par les usagers des fractions collectées sélectivement;
+(2). PMC : déchets d'emballages recyclables composés de bouteilles et flacons en plastique, emballages métalliques et cartons à boissons.
+Coûts : de la gestion des déchets déposés
+Date : ... Heure : ...
+Signatures :
+| Le responsable de l'installation portuaire | Le capitaine du navire | | --- | --- |
