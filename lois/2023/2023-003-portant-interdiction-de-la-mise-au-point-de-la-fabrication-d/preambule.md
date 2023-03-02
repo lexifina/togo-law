@@ -1,0 +1,4 @@
+# Préambule
+LOI N° 2023-003 DU 02/03/2023 PORTANT INTERDICTION DE LA MISE AU POINT, DE LA FABRICATION, DU STOCKAGE ET DE L'EMPLOI DES ARMES CHIMIQUES ET SUR LEUR DESTRUCTION
+L'Assemblée nationale a délibéré et adopté ; Le Président de la République promulgue la loi dont la teneur suit :
+CHAPITRE 1er: DES DISPOSITIONS GENERALES
