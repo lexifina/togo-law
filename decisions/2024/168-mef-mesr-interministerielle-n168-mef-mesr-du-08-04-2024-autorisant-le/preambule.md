@@ -1,0 +1,5 @@
+# Préambule
+DECISION INTERMINISTERIELLE N° 168/MEF/MESR du 08 avril 2024 autorisant le paiement de frais d'inscription administrative pédagogique et d'encadrement à l'Université IBA DER Thiam de Thiès au Sénégal de l'étudiant NOELAKI Samtou Quentin.
+LE MINISTRE DE L'ECONOMIE ET DES FINANCES ET LE MINISTRE DE L'ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE,
+Vu le décret n° 2011-173/PR du 30 Novembre 2011 portant réforme du régime des bourses d'études, de stages et des allocations de secours ; Vu le décret n° 2011-174/PR du 30 Novembre 2011 fixant les taux des bourses d'études, de stage et des allocations de secours ; Vu la décision interministérielle n°512/MEF/MESR du 24 août 2024 autorisant le paiement de frais d'inscription administrative, pédagogique et d'encadrement à l'Université Iba Der Thiam de Thiès (UFR Santé) au Sénégal de l'étudiant NOELAKI Samtou Quentin ; Vu la facture proforma n°102 du 12 janvier 2024 relative aux frais d'inscription administrative, pédagogiques et d'encadrement de l'étudiant NOELAKI Samtou Quentin; Vu les prévisions budgétaires ;
+DECIDENT :
