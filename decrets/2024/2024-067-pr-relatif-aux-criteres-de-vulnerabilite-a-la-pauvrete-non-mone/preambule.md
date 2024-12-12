@@ -1,0 +1,7 @@
+# Préambule
+DECRET N° 2024-067/PR DU 12/12/2024 relatif aux critères de vulnérabilité à la pauvreté non-monétaire ou multidimensionnelle et à la pauvreté monétaire des ménages en République Togolaise
+LE PRESIDENT DE LA REPUBLIQUE,
+Sur le rapport conjoint du ministre de la planification du développement et de la coopération, du ministre du développement à la base, de l'inclusion financière et de la jeunesse et de l'emploi des jeunes, du ministre de l'accès aux soins et de la couverture sanitaire, du ministre de la santé et de l'hygiène publique, du ministre de l'action sociale, de la solidarité et de la promotion de la femme,
+Vu la Constitution du 06 mai 2024 ; Vu la loi n° 2011-014 du 03 juin 2011 portant organisation de l'activité statistique au Togo ; Vu le décret n° 2012-69/PR du 07 novembre 2012 portant organisation et fonctionnement du conseil national de la statistique ; Vu le décret n° 2015-020/PR du 24 février 2015 fixant les attributions, l'organisation et les modalités de fonctionnement de l'Institut national de la statistique et des études économiques et démographiques ; Vu le décret n° 2023-043/PR du 24 avril 2023 portant création et fonctionnement du registre social des personnes et des ménages ; Vu le décret n° 2024-040/PR du 1er août 2024 portant nomination du Premier ministre ; Vu le décret n° 2024-041/PR du 20 août 2024 portant composition du gouvernement ; Le conseil des ministres entendu,
+DECRETE :
+CHAPITRE 1er : DES DISPOSITIONS GENERALES
