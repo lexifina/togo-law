@@ -1,0 +1,19 @@
+{
+ "country": "TG",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution de la République Togolaise",
+   "url": "https://jo.gouv.tg/sites/default/files/JO/JOS_06_05_2024%20-%2069%20E%20ANNEE%20N%C2%B042%20BIS%20.pdf",
+   "versions": [
+    {
+     "from": "2024-05-06",
+     "units": 126,
+     "source_url": "https://jo.gouv.tg/sites/default/files/JO/JOS_06_05_2024%20-%2069%20E%20ANNEE%20N%C2%B042%20BIS%20.pdf",
+     "sha256": "4af18988b9b58296d0fc3df30820ce4e0aa652299f476cc7376043ace012c493"
+    }
+   ]
+  }
+ ]
+}
