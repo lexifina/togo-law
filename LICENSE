@@ -1,0 +1,21 @@
+The legal texts come from official publications of the Togolese Republic, the Journal Officiel de la République
+togolaise (https://jo.gouv.tg), retrieved 28 and 29 October 2026:
+
+  Loi n° 2024-005 du 06/05/2024 portant Constitution de la République Togolaise, JO 69e année n° 42 bis du 6 mai 2024;
+  Loi n° 2019-014 relative à la protection des données à caractère personnel, JO 64e année n° 26 ter du 29 octobre 2019;
+  Loi n° 2021-012 du 18 juin 2021 portant code du travail, JO 66e année n° 26 ter du 18 juin 2021;
+  Loi n° 2022-019 du 15 novembre 2022 portant modification de la loi n° 2021-012 du 18 juin 2021 portant code du
+  travail, JO 67e année n° 49 bis du 15 novembre 2022.
+
+jo.gouv.tg publishes no licence for the legal texts. They are official legal texts; their copyright status is not
+confirmed here, and they are reproduced with the attribution above.
+
+Changes made by Lexifina: the text was converted to one Markdown file per provision, one paragraph per line;
+spacing, apostrophes, quotes, dashes, ligatures and line-end hyphenation were normalised; running heads, page
+numbers, headings, the enacting formula and the signatures were removed; and the text was arranged as git commits
+credited to the laws concerned. The wording of the law was not changed. The Journal officiel does not endorse this
+repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
