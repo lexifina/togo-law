@@ -1,0 +1,11 @@
+{
+  "path": "tg",
+  "code": "TG",
+  "name": "Togo",
+  "level": "country",
+  "repo": "https://github.com/lexifina/togo-law",
+  "build": "built: Constitution 2024 (1 version, 2024-05-06), Loi 2019-014 données personnelles (1 version, 2019-10-30), Code du travail 2021 (2 versions, 2021-06-18 and 2022-11-15)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 1
+}

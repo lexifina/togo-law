@@ -1,0 +1,53 @@
+{
+ "country": "TG",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution de la République Togolaise",
+   "url": "https://jo.gouv.tg/sites/default/files/JO/JOS_06_05_2024%20-%2069%20E%20ANNEE%20N%C2%B042%20BIS%20.pdf",
+   "versions": [
+    {
+     "from": "2024-05-06",
+     "units": 127,
+     "source_url": "https://jo.gouv.tg/sites/default/files/JO/JOS_06_05_2024%20-%2069%20E%20ANNEE%20N%C2%B042%20BIS%20.pdf",
+     "sha256": "4af18988b9b58296d0fc3df30820ce4e0aa652299f476cc7376043ace012c493"
+    }
+   ]
+  },
+  {
+   "slug": "donnees-personnelles",
+   "short": "LPDCP",
+   "title": "Loi n° 2019-014 relative à la protection des données à caractère personnel",
+   "url": "https://jo.gouv.tg/sites/default/files/JO/JOS_29_10_2019-64E%20ANNEE-N%C2%B026%20TER.pdf",
+   "versions": [
+    {
+     "from": "2019-10-30",
+     "units": 97,
+     "source_url": "https://jo.gouv.tg/sites/default/files/JO/JOS_29_10_2019-64E%20ANNEE-N%C2%B026%20TER.pdf",
+     "sha256": "b83d370a86bd81eb7da7bf734cad56e3c6bdb5dc216d1b67a02169b92f5cc163"
+    }
+   ]
+  },
+  {
+   "slug": "code-du-travail",
+   "short": "CT",
+   "title": "Code du travail (Loi n° 2021-012 du 18 juin 2021)",
+   "url": "https://jo.gouv.tg/sites/default/files/JO/JOS_18_06_2021%20-66E%20ANNEE%20N%C2%B0%2026%20TER.pdf",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 378,
+     "source_url": "https://jo.gouv.tg/sites/default/files/JO/JOS_18_06_2021%20-66E%20ANNEE%20N%C2%B0%2026%20TER.pdf",
+     "sha256": "7767d41e75dce8e06020584fac3d81d675d0430bf70bcea5c400702ec1b93c15"
+    },
+    {
+     "from": "2022-11-15",
+     "units": 378,
+     "source_url": "https://jo.gouv.tg/sites/default/files/JO/JOS_15_11_2022-67E%20ANNEE%20N%C2%B049%20BIS.pdf",
+     "sha256": "fce13d1db19ac64eae3d97217e8cab9d4365579756a0e6598924905b8419ded4"
+    }
+   ]
+  }
+ ]
+}
