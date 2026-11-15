@@ -23,7 +23,8 @@ The text is in French, the official language of Togo, as the Journal officiel pr
 
 - **[Ask Claude about Togolese law](https://global-law.lexifina.com/v1/try_claude?country=togo)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=togo)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+pay%C3%A9&jurisdictions=togo)**: a search of Togolese law for "congé payé" (paid leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Togolese law on our site](https://lexifina.com/law?country=togo&q=cong%C3%A9+pay%C3%A9)**: a search for "congé payé" (paid leave), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+pay%C3%A9&jurisdiction=togo)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
 
