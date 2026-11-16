@@ -61,6 +61,7 @@ Le premier commit de chaque texte est le texte tel que promulgué, attribué au 
 - `tools/build.py` écrit l’historique à partir de ce corpus en une seule passe, et un même corpus donne toujours les mêmes empreintes de commit ; [`data/corpus.sha256`](data/corpus.sha256) donne l’empreinte du corpus.
 - Rien n’est omis : chaque mot de chaque loi se trouve dans un fichier de disposition, à l’exception de son intitulé, de sa formule de promulgation, des intitulés de divisions, des numéros d’articles et des signatures.
 - La Loi n° 2019-014 concorde avec le texte de l’Assemblée nationale tel qu’adopté le 23 octobre 2019, hormis l’espacement et un accent. La Constitution concorde avec la copie de l’Assemblée nationale, sauf pour un membre de phrase de l’article 60, pour lequel la rédaction du Journal officiel est conservée.
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -84,6 +85,10 @@ Voir [`LICENSE`](LICENSE). Les textes sont des textes juridiques officiels de la
 Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 
