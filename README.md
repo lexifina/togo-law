@@ -1,34 +1,41 @@
-# Togo: law history in git
+# Togo : l’histoire du droit dans git
 
-The law of Togo as a git history: one file per provision, each version committed on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+**Français** · [English](README.en.md)
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Togo's national law, which global-law reads at `togo/national/acts/`.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
+<img alt="Le droit togolais dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+</picture>
 
-**What is in it now:** three acts in four versions, all from the Journal officiel: the Constitution of 6 May 2024 (Loi n° 2024-005), with its preamble, 100 articles and the annexed Déclaration solennelle des droits et devoirs fondamentaux (25 articles); Loi n° 2019-014 on the protection of personal data (97 articles); and the Code du travail (Loi n° 2021-012, 378 articles), in two versions, as its Article 190 (maternity leave) was replaced by Loi n° 2022-019. No case law, local acts or bills. Each act's `README.md` lists its provisions, and [`data/laws.csv`](data/laws.csv) lists the four laws.
+Le droit du Togo sous la forme d’un historique git : un fichier par disposition, chaque version enregistrée dans un commit à la date de son entrée en vigueur, et la loi auteur de chaque modification comme auteur du commit. `git blame` indique la loi à l’origine de chaque alinéa ; `git log` liste toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-Each provision is one file in its act's folder (`code-du-travail/art-190.md` is Article 190 of the Code du travail); the Constitution's preamble is `constitution/preambule.md`, and the Déclaration's articles are files such as `constitution/declaration-art-005.md`.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national du Togo, que global-law lit sous `togo/national/acts/`.
 
-The text is in French, the official language of Togo, as the Journal officiel prints it. An English translation is not part of this record.
+**Contenu actuel :** trois textes en quatre versions, tous tirés du Journal officiel : la Constitution du 6 mai 2024 (Loi n° 2024-005), avec son préambule, 100 articles et la Déclaration solennelle des droits et devoirs fondamentaux qui lui est annexée (25 articles) ; la Loi n° 2019-014 relative à la protection des données à caractère personnel (97 articles) ; et le Code du travail (Loi n° 2021-012, 378 articles), en deux versions, son article 190 (congé de maternité) ayant été remplacé par la Loi n° 2022-019. Ni jurisprudence, ni actes locaux, ni projets de loi. Le `README.md` de chaque texte liste ses dispositions, et [`data/laws.csv`](data/laws.csv) liste les quatre lois.
 
-## Questions as git commands
+Chaque disposition est un fichier dans le dossier de son texte (`code-du-travail/art-190.md` est l’article 190 du Code du travail) ; le préambule de la Constitution est `constitution/preambule.md`, et les articles de la Déclaration sont des fichiers tels que `constitution/declaration-art-005.md`.
 
-| Question | Command |
+Le texte est en français, langue officielle du Togo, tel que l’imprime le Journal officiel. Une traduction anglaise ne fait pas partie de ce corpus.
+
+## Questions sous forme de commandes git
+
+| Question | Commande |
 | --- | --- |
-| Every change to Article 190 of the Code du travail (maternity leave) | `git log -p --word-diff -- code-du-travail/art-190.md` |
-| Which law wrote each line of Article 190? | `git blame code-du-travail/art-190.md` |
-| Every version of Article 190, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail/art-190.md` |
-| Article 190 as in force on 1 January 2022 | `python tools/en_vigueur_au.py 2022-01-01 code-du-travail 190` |
+| Toutes les modifications de l’article 190 du Code du travail (congé de maternité) | `git log -p --word-diff -- code-du-travail/art-190.md` |
+| Quelle loi a rédigé chaque ligne de l’article 190 ? | `git blame code-du-travail/art-190.md` |
+| Toutes les versions de l’article 190, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail/art-190.md` |
+| L’article 190 tel qu’en vigueur au 1er janvier 2022 | `python tools/en_vigueur_au.py 2022-01-01 code-du-travail 190` |
 
-**Outside git**, we also host this record publicly, for free:
+**En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
-- **[Ask Claude about Togolese law](https://global-law.lexifina.com/v1/try_claude?country=togo)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=togo)**: the same question in ChatGPT.
-- **[Search Togolese law on our site](https://lexifina.com/law?country=togo&q=cong%C3%A9+pay%C3%A9)**: a search for "congé payé" (paid leave), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+pay%C3%A9&jurisdiction=togo)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Interroger Claude sur le droit togolais](https://global-law.lexifina.com/v1/try_claude?country=togo)** : ouvre Claude avec une première question prête.
+- **[Interroger ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=togo)** : la même question dans ChatGPT.
+- **[Rechercher dans le droit togolais sur notre site](https://lexifina.com/law?country=togo&q=cong%C3%A9+pay%C3%A9)** : une recherche de « congé payé », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour développeurs](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+pay%C3%A9&jurisdiction=togo)** : la même recherche au format JSON, sans clé. Voir la [documentation ici](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**L’héberger vous-même, simplement.** Il suffit de git et de Python, et les outils s’exécutent sur votre machine :
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -36,57 +43,55 @@ python3 tools/countries.py add togo/national/acts
 python3 tools/law.py show 2026-01-01 togo/national/acts/code-du-travail/art-190.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Africa/Lome (UTC), on the day the version took effect, and carries it in its `In-force:` trailer; `Enacted:` and `Published:` give the day of promulgation and of the Journal officiel:
+Chaque commit est daté à midi, heure Africa/Lome (UTC), du jour où la version est entrée en vigueur, et porte cette date dans son trailer `In-force:` ; `Enacted:` et `Published:` donnent la date de promulgation et celle du Journal officiel :
 
-- since the 2024 Constitution, laws take effect on promulgation ("Les lois entrent en vigueur dès leur promulgation", art. 33); the Constitution itself was promulgated and published on 6 May 2024;
-- before it, no general rule was found, and each law ends "sera exécutée comme loi de l'Etat" with no day of its own, so it is dated by its "Fait à Lomé" line: 18 June 2021 for the Code du travail, 15 November 2022 for Loi n° 2022-019;
-- Loi n° 2019-014 is titled "du 29 octobre 2019" and printed in the Journal officiel of that day, but signed on 30 October 2019, the day it is dated.
+- depuis la Constitution de 2024, les lois entrent en vigueur dès leur promulgation (« Les lois entrent en vigueur dès leur promulgation », art. 33) ; la Constitution elle-même a été promulguée et publiée le 6 mai 2024 ;
+- auparavant, aucune règle générale n’a été trouvée, et chaque loi se termine par « sera exécutée comme loi de l'Etat » sans date propre ; elle est donc datée de sa mention « Fait à Lomé » : le 18 juin 2021 pour le Code du travail, le 15 novembre 2022 pour la Loi n° 2022-019 ;
+- la Loi n° 2019-014 est intitulée « du 29 octobre 2019 » et publiée au Journal officiel du même jour, mais signée le 30 octobre 2019, date retenue pour la dater.
 
-Each act's first commit is the act as promulgated, credited to the act itself; the 2022 commit holds only Article 190, credited to Loi n° 2022-019. The committer is always Lexifina.
+Le premier commit de chaque texte est le texte tel que promulgué, attribué au texte lui-même ; le commit de 2022 ne contient que l’article 190, attribué à la Loi n° 2022-019. Le committer est toujours Lexifina.
 
-## How it is checked
+## Méthode de vérification
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse, that there are no merge commits and that no commit is dated in the future. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-- `tools/build.py` writes the history from that corpus in one pass, and the same corpus always gives the same commit hashes; [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash.
-- Nothing dropped: every word of each law is in a provision file, except its title, enacting formula, headings, article numbers and signatures.
-- Loi n° 2019-014 agrees with the Assemblée nationale's text as adopted on 23 October 2019 apart from spacing and one accent. The Constitution agrees with the Assemblée nationale's copy except one phrase in Article 60, where the Journal officiel's wording is kept.
+- `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi que les trailers de chaque commit sont analysables, l’absence de commits de fusion et qu’aucun commit n’est daté dans le futur. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/build.py` écrit l’historique à partir de ce corpus en une seule passe, et un même corpus donne toujours les mêmes empreintes de commit ; [`data/corpus.sha256`](data/corpus.sha256) donne l’empreinte du corpus.
+- Rien n’est omis : chaque mot de chaque loi se trouve dans un fichier de disposition, à l’exception de son intitulé, de sa formule de promulgation, des intitulés de divisions, des numéros d’articles et des signatures.
+- La Loi n° 2019-014 concorde avec le texte de l’Assemblée nationale tel qu’adopté le 23 octobre 2019, hormis l’espacement et un accent. La Constitution concorde avec la copie de l’Assemblée nationale, sauf pour un membre de phrase de l’article 60, pour lequel la rédaction du Journal officiel est conservée.
 
-## What it does not show
+## Ce qu’il ne montre pas
 
-- **Most Togolese law.** Three acts only, and no case law, local acts or bills.
-- **The 1992 Constitution** and its revisions (2002, 2005, 2007, 2019), repealed by the 2024 Constitution: a separate act, not built yet.
-- **The Code pénal (Loi n° 2015-010).** The Journal officiel publishes it only as a scan, and scans are not transcribed.
-- **Headings** (titres, chapitres, sections), the enacting formula and the signatures; each file starts "# Article N".
-- **Anything published after 23 October 2025**, the newest Journal officiel issue online when the record was last checked (29 October 2026); no law amending these acts other than Loi n° 2022-019 was found up to then.
+- **L’essentiel du droit togolais.** Trois textes seulement, et ni jurisprudence, ni actes locaux, ni projets de loi.
+- **La Constitution de 1992** et ses révisions (2002, 2005, 2007, 2019), abrogée par la Constitution de 2024 : un texte distinct, pas encore construit.
+- **Le Code pénal (Loi n° 2015-010).** Le Journal officiel ne le publie que sous forme de numérisation, et les numérisations ne sont pas transcrites.
+- **Les intitulés** (titres, chapitres, sections), la formule de promulgation et les signatures ; chaque fichier commence par « # Article N ».
+- **Tout ce qui a été publié après le 23 octobre 2025**, date du plus récent numéro du Journal officiel en ligne lors de la dernière vérification du corpus (29 octobre 2026) ; aucune loi modifiant ces textes, autre que la Loi n° 2022-019, n’avait été trouvée à cette date.
 
 ## Sources
 
-| Source | Kind | Past versions | Notes |
+| Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Journal officiel de la République togolaise](https://jo.gouv.tg) | Official gazette: issue PDFs (born-digital from about 2017), with a search | no consolidation; each law as published | Every version and its dates; a later version applies the amending law |
-| Assemblée nationale du Togo ([Loi n° 2019-014 as adopted, Internet Archive capture](https://web.archive.org/web/20230605220852/https://assemblee-nationale.tg/wp-content/uploads/2021/10/donnees-perso-LOI-AN.pdf)) | Texts as adopted in plenary; a copy of the 2024 Constitution | as adopted | Used only to check the text |
+| [Journal officiel de la République togolaise](https://jo.gouv.tg) | Journal officiel : PDF des numéros (nativement numériques depuis 2017 environ), avec un moteur de recherche | aucune consolidation ; chaque loi telle que publiée | Toutes les versions et leurs dates ; une version ultérieure applique la loi modificative |
+| Assemblée nationale du Togo ([Loi n° 2019-014 telle qu’adoptée, capture de l’Internet Archive](https://web.archive.org/web/20230605220852/https://assemblee-nationale.tg/wp-content/uploads/2021/10/donnees-perso-LOI-AN.pdf)) | Textes tels qu’adoptés en séance plénière ; une copie de la Constitution de 2024 | tels qu’adoptés | Utilisée uniquement pour vérifier le texte |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The texts are official legal texts of the Togolese Republic from the Journal officiel, reproduced with that attribution; jo.gouv.tg publishes no licence for them, and their copyright status is not confirmed. The history, commit messages, tables and tools are CC0 1.0.
+Voir [`LICENSE`](LICENSE). Les textes sont des textes juridiques officiels de la République togolaise tirés du Journal officiel, reproduits avec cette mention de source ; jo.gouv.tg ne publie aucune licence pour ces textes, et leur statut au regard du droit d’auteur n’est pas confirmé. L’historique, les messages de commit, les tableaux et les outils sont sous licence CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
-## En français
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
-L'histoire du droit togolais dans git : un fichier par article, chaque version enregistrée au jour de son entrée en vigueur, avec pour auteur la loi qui a modifié le texte. Le dépôt contient trois textes publiés au Journal officiel : la Constitution du 6 mai 2024 (loi n° 2024-005) et la Déclaration solennelle qui lui est annexée, la loi n° 2019-014 relative à la protection des données à caractère personnel, et le Code du travail (loi n° 2021-012 du 18 juin 2021), dont l'article 190 a été remplacé par la loi n° 2022-019 du 15 novembre 2022. Les lois sont datées de leur promulgation (article 33 de la Constitution de 2024). Texte en vigueur à une date : `python tools/en_vigueur_au.py 2022-01-01 code-du-travail 190` ; `git blame code-du-travail/art-190.md` nomme la loi à l'origine de chaque alinéa.
+## En savoir plus
 
-## More
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): à quel point chaque corpus est à jour · [Surveillance](https://github.com/lexifina/global-law/tree/main/monitoring): si les mises à jour fonctionnent · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): comment chaque source officielle est surveillée pour repérer les modifications
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidité des outils, mesurée
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graphiques et liens à travers le droit du monde entier
+- [Vulnérabilités](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erreurs dans les textes tels qu’ils ont été publiés
