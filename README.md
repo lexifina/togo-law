@@ -13,7 +13,7 @@ Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un
 
 **Contenu actuel :** trois textes en quatre versions, tous tirés du Journal officiel : la Constitution du 6 mai 2024 (Loi n° 2024-005), avec son préambule, 100 articles et la Déclaration solennelle des droits et devoirs fondamentaux qui lui est annexée (25 articles) ; la Loi n° 2019-014 relative à la protection des données à caractère personnel (97 articles) ; et le Code du travail (Loi n° 2021-012, 378 articles), en deux versions, son article 190 (congé de maternité) ayant été remplacé par la Loi n° 2022-019. Ni jurisprudence, ni actes locaux, ni projets de loi. Le `README.md` de chaque texte liste ses dispositions, et [`data/laws.csv`](data/laws.csv) liste les quatre lois.
 
-Chaque disposition est un fichier dans le dossier de son texte (`codes/codes/code-du-travail/art-190.md` est l’article 190 du Code du travail) ; le préambule de la Constitution est `constitution/preambule.md`, et les articles de la Déclaration sont des fichiers tels que `constitution/declaration-art-005.md`.
+Chaque disposition est un fichier dans le dossier de son texte (`codes/codes/codes/code-du-travail/art-190.md` est l’article 190 du Code du travail) ; le préambule de la Constitution est `constitution/preambule.md`, et les articles de la Déclaration sont des fichiers tels que `constitution/declaration-art-005.md`.
 
 Le texte est en français, langue officielle du Togo, tel que l’imprime le Journal officiel. Une traduction anglaise ne fait pas partie de ce corpus.
 
@@ -21,9 +21,9 @@ Le texte est en français, langue officielle du Togo, tel que l’imprime le Jou
 
 | Question | Commande |
 | --- | --- |
-| Toutes les modifications de l’article 190 du Code du travail (congé de maternité) | `git log -p --word-diff -- codes/codes/code-du-travail/art-190.md` |
-| Quelle loi a rédigé chaque ligne de l’article 190 ? | `git blame codes/codes/code-du-travail/art-190.md` |
-| Toutes les versions de l’article 190, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/codes/code-du-travail/art-190.md` |
+| Toutes les modifications de l’article 190 du Code du travail (congé de maternité) | `git log -p --word-diff -- codes/codes/codes/code-du-travail/art-190.md` |
+| Quelle loi a rédigé chaque ligne de l’article 190 ? | `git blame codes/codes/codes/code-du-travail/art-190.md` |
+| Toutes les versions de l’article 190, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/codes/codes/code-du-travail/art-190.md` |
 | L’article 190 tel qu’en vigueur au 1er janvier 2022 | `python tools/en_vigueur_au.py 2022-01-01 codes/code-du-travail 190` |
 
 **En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
@@ -40,7 +40,7 @@ Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add togo/national/acts
-python3 tools/law.py show 2026-01-01 togo/national/acts/codes/code-du-travail/art-190.md
+python3 tools/law.py show 2026-01-01 togo/national/acts/codes/codes/code-du-travail/art-190.md
 ```
 
 Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
