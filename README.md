@@ -11,9 +11,9 @@ Le droit du Togo sous la forme d’un historique git : un fichier par dispositi
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national du Togo, que global-law lit sous `togo/national/acts/`.
 
-**Contenu actuel :** trois textes en quatre versions, tous tirés du Journal officiel : la Constitution du 6 mai 2024 (Loi n° 2024-005), avec son préambule, 100 articles et la Déclaration solennelle des droits et devoirs fondamentaux qui lui est annexée (25 articles) ; la Loi n° 2019-014 relative à la protection des données à caractère personnel (97 articles) ; et le Code du travail (Loi n° 2021-012, 378 articles), en deux versions, son article 190 (congé de maternité) ayant été remplacé par la Loi n° 2022-019. Ni jurisprudence, ni actes locaux, ni projets de loi. Le `README.md` de chaque texte liste ses dispositions, et [`data/laws.csv`](data/laws.csv) liste les quatre lois.
+**Contenu actuel :** 4,986 actes du Journal officiel de la République togolaise (1963–2026), chacun tel que publié : la Constitution du 6 mai 2024 et les constitutions antérieures, les codes (`codes/`), et les lois, ordonnances, décrets, arrêtés et décisions par type et par année. Organisation et règles de datation : [STRUCTURE.md](STRUCTURE.md). Ni jurisprudence, ni projets, ni mesures individuelles (nominations, distinctions).
 
-Chaque disposition est un fichier dans le dossier de son texte (`codes/codes/codes/code-du-travail/art-190.md` est l’article 190 du Code du travail) ; le préambule de la Constitution est `constitution/preambule.md`, et les articles de la Déclaration sont des fichiers tels que `constitution/declaration-art-005.md`.
+Chaque disposition est un fichier dans le dossier de son texte (`codes/codes/code-du-travail/art-190.md` est l’article 190 du Code du travail) ; le préambule de la Constitution est `constitution/preambule.md`, et les articles de la Déclaration sont des fichiers tels que `constitution/declaration-art-005.md`.
 
 Le texte est en français, langue officielle du Togo, tel que l’imprime le Journal officiel. Une traduction anglaise ne fait pas partie de ce corpus.
 
@@ -21,9 +21,9 @@ Le texte est en français, langue officielle du Togo, tel que l’imprime le Jou
 
 | Question | Commande |
 | --- | --- |
-| Toutes les modifications de l’article 190 du Code du travail (congé de maternité) | `git log -p --word-diff -- codes/codes/codes/code-du-travail/art-190.md` |
-| Quelle loi a rédigé chaque ligne de l’article 190 ? | `git blame codes/codes/codes/code-du-travail/art-190.md` |
-| Toutes les versions de l’article 190, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/codes/codes/code-du-travail/art-190.md` |
+| Toutes les modifications de l’article 190 du Code du travail (congé de maternité) | `git log -p --word-diff -- codes/codes/code-du-travail/art-190.md` |
+| Quelle loi a rédigé chaque ligne de l’article 190 ? | `git blame codes/codes/code-du-travail/art-190.md` |
+| Toutes les versions de l’article 190, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/codes/code-du-travail/art-190.md` |
 | L’article 190 tel qu’en vigueur au 1er janvier 2022 | `python tools/en_vigueur_au.py 2022-01-01 codes/code-du-travail 190` |
 
 **En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
@@ -40,7 +40,7 @@ Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add togo/national/acts
-python3 tools/law.py show 2026-01-01 togo/national/acts/codes/codes/code-du-travail/art-190.md
+python3 tools/law.py show 2026-01-01 togo/national/acts/codes/code-du-travail/art-190.md
 ```
 
 Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -65,17 +65,17 @@ Le premier commit de chaque texte est le texte tel que promulgué, attribué au 
 
 ## Ce qu’il ne montre pas
 
-- **L’essentiel du droit togolais.** Trois textes seulement, et ni jurisprudence, ni actes locaux, ni projets de loi.
-- **Les actes rÃ©servÃ©s** : entrÃ©e en vigueur diffÃ©rÃ©e, dates contradictoires, ou intitulÃ© introuvable dans le texte du numÃ©ro ; voir STRUCTURE.md.
-- **Le Code pénal (Loi n° 2015-010).** Le Journal officiel ne le publie que sous forme de numérisation, et les numérisations ne sont pas transcrites.
+- **Les textes consolidés.** Chaque acte est versé tel que publié ; les actes modificatifs sont des dossiers distincts et ne sont pas encore appliqués aux codes qu’ils modifient (seule exception : l’article 190 du Code du travail).
+- **Les actes réservés** : entrée en vigueur différée, dates contradictoires, ou intitulé introuvable dans le texte du numéro ; voir STRUCTURE.md.
+- **La lettre exacte des anciens numéros.** Le texte est celui que la plateforme du Journal officiel donne pour chaque numéro ; pour les numéros numérisés, c’est l’OCR de l’éditeur, non corrigé (`Text-source: publisher OCR` dans chaque commit).
 - **Les intitulés** (titres, chapitres, sections), la formule de promulgation et les signatures ; chaque fichier commence par « # Article N ».
-- **Tout ce qui a été publié après le 23 octobre 2025**, date du plus récent numéro du Journal officiel en ligne lors de la dernière vérification du corpus (29 octobre 2026) ; aucune loi modifiant ces textes, autre que la Loi n° 2022-019, n’avait été trouvée à cette date.
+- **Ce qui a été publié après le dernier numéro relevé** ; le programme relit la plateforme du Journal officiel.
 
 ## Sources
 
 | Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Journal officiel de la République togolaise](https://jo.gouv.tg) | Journal officiel : PDF des numéros (nativement numériques depuis 2017 environ), avec un moteur de recherche | aucune consolidation ; chaque loi telle que publiée | Toutes les versions et leurs dates ; une version ultérieure applique la loi modificative |
+| [Journal officiel de la République togolaise](https://new.jo.gouv.tg) | Plateforme du Journal officiel : tous les numéros depuis 1922, avec leur texte et la liste de leurs actes (API JSON publique, odoo.jo.gouv.tg) | aucune consolidation ; chaque acte tel que publié | Tous les actes et leurs dates |
 | Assemblée nationale du Togo ([Loi n° 2019-014 telle qu’adoptée, capture de l’Internet Archive](https://web.archive.org/web/20230605220852/https://assemblee-nationale.tg/wp-content/uploads/2021/10/donnees-perso-LOI-AN.pdf)) | Textes tels qu’adoptés en séance plénière ; une copie de la Constitution de 2024 | tels qu’adoptés | Utilisée uniquement pour vérifier le texte |
 
 ## Licence

@@ -11,9 +11,9 @@ The law of Togo as a git history: one file per provision, each version committed
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Togo's national law, which global-law reads at `togo/national/acts/`.
 
-**What is in it now:** 547 acts from the Journal officiel de la RÃ©publique togolaise (1992â€“2026), each as published: the Constitution of 6 May 2024 and earlier constitutions, the codes (`codes/`), and the lois, ordonnances, dÃ©crets, arrÃªtÃ©s and dÃ©cisions by type and year. Layout and dating rules: [STRUCTURE.md](STRUCTURE.md). No case law, bills or individual measures (appointments, honours).
+**What is in it now:** 4,986 acts from the Journal officiel de la République togolaise (1963–2026), each as published: the Constitution of 6 May 2024 and earlier constitutions, the codes (`codes/`), and the lois, ordonnances, décrets, arrêtés and décisions by type and year. Layout and dating rules: [STRUCTURE.md](STRUCTURE.md). No case law, bills or individual measures (appointments, honours).
 
-Each provision is one file in its act's folder (`codes/codes/codes/code-du-travail/art-190.md` is Article 190 of the Code du travail); the Constitution's preamble is `constitution/preambule.md`, and the Déclaration's articles are files such as `constitution/declaration-art-005.md`.
+Each provision is one file in its act's folder (`codes/codes/code-du-travail/art-190.md` is Article 190 of the Code du travail); the Constitution's preamble is `constitution/preambule.md`, and the Déclaration's articles are files such as `constitution/declaration-art-005.md`.
 
 The text is in French, the official language of Togo, as the Journal officiel prints it. An English translation is not part of this record.
 
@@ -21,9 +21,9 @@ The text is in French, the official language of Togo, as the Journal officiel pr
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 190 of the Code du travail (maternity leave) | `git log -p --word-diff -- codes/codes/codes/code-du-travail/art-190.md` |
-| Which law wrote each line of Article 190? | `git blame codes/codes/codes/code-du-travail/art-190.md` |
-| Every version of Article 190, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/codes/codes/code-du-travail/art-190.md` |
+| Every change to Article 190 of the Code du travail (maternity leave) | `git log -p --word-diff -- codes/codes/code-du-travail/art-190.md` |
+| Which law wrote each line of Article 190? | `git blame codes/codes/code-du-travail/art-190.md` |
+| Every version of Article 190, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/codes/code-du-travail/art-190.md` |
 | Article 190 as in force on 1 January 2022 | `python tools/en_vigueur_au.py 2022-01-01 codes/code-du-travail 190` |
 
 **Outside git**, we also host this record publicly, for free:
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add togo/national/acts
-python3 tools/law.py show 2026-01-01 togo/national/acts/codes/codes/code-du-travail/art-190.md
+python3 tools/law.py show 2026-01-01 togo/national/acts/codes/code-du-travail/art-190.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -67,7 +67,7 @@ Each act's first commit is the act as promulgated, credited to the act itself; t
 
 - **Consolidated texts.** Each act is filed as published; amending acts are their own folders and are not yet applied to the codes they amend (the Code du travail's Article 190 is the one exception).
 - **Acts held back**: acts whose entry into force is deferred or whose dates contradict each other, and acts whose heading the issue text does not show; see STRUCTURE.md.
-- **The Code pénal (Loi n° 2015-010).** The Journal officiel publishes it only as a scan, and scans are not transcribed.
+- **Exact wording for old issues.** The text is the Journal officiel platform's own text of each issue; for scanned issues it is the publisher's OCR, kept uncorrected (`Text-source: publisher OCR` in each commit).
 - **Headings** (titres, chapitres, sections), the enacting formula and the signatures; each file starts "# Article N".
 - **Anything published after the newest issue fetched**; the runner rereads the Journal officiel platform.
 
@@ -75,7 +75,7 @@ Each act's first commit is the act as promulgated, credited to the act itself; t
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Journal officiel de la République togolaise](https://jo.gouv.tg) | Official gazette: issue PDFs (born-digital from about 2017), with a search | no consolidation; each law as published | Every version and its dates; a later version applies the amending law |
+| [Journal officiel de la République togolaise](https://new.jo.gouv.tg) | Official gazette platform: every issue from 1922 with its text and its list of acts (public JSON API, odoo.jo.gouv.tg) | no consolidation; each act as published | Every act and its dates |
 | Assemblée nationale du Togo ([Loi n° 2019-014 as adopted, Internet Archive capture](https://web.archive.org/web/20230605220852/https://assemblee-nationale.tg/wp-content/uploads/2021/10/donnees-perso-LOI-AN.pdf)) | Texts as adopted in plenary; a copy of the 2024 Constitution | as adopted | Used only to check the text |
 
 ## Licence

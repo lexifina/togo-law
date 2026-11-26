@@ -2,7 +2,7 @@
 
 ## Source
 
-Every act comes from the Journal officiel de la RÃ©publique togolaise platform, <https://new.jo.gouv.tg>, through the
+Every act comes from the Journal officiel de la République togolaise platform, <https://new.jo.gouv.tg>, through the
 public JSON API its own pages call, `https://odoo.jo.gouv.tg/api/journal-officiel/`:
 
 - `journals?limit=20&offset=0&date_from=<day>&date_to=<day>`: the issues published in a window, each with its text
@@ -22,7 +22,7 @@ in October 2026; their history is kept, and the folders were moved by a pure-ren
 ## Build
 
 `runner/tg_fetch.py` (fetch, in the Lexifina scripts repository) and `runner/tg_build.py` (build): each issue's text is
-cut into its acts at their heading lines ("Loi nÂ° 2015-010 du ...", "DÃ©cret nÂ° 2026-192/PC du ..."), matched to the
+cut into its acts at their heading lines ("Loi n° 2015-010 du ...", "Décret n° 2026-192/PC du ..."), matched to the
 platform's list by number (or, when the platform's number is wrong, by type and signature day); each act into articles
 ("Article premier :", "Art. 2 :"), with the title and visas in `preambule.md` and the closing formula and signatures in
 `signatures.md`. Running heads, page numbers and division headings between articles are dropped; nothing else is
@@ -33,7 +33,7 @@ Commits are appended to `main` by `git fast-import`, fast-forward only, one per 
 ## Not included
 
 - individual measures (appointments, careers, honours, individual licences and approvals);
-- court decisions printed in the Journal officiel (Cour constitutionnelle, Cour suprÃªme): case law, kept for a
+- court decisions printed in the Journal officiel (Cour constitutionnelle, Cour suprême): case law, kept for a
   separate repository;
 - acts whose entry into force is deferred (a delay, a later act) or whose dates contradict each other;
 - acts whose heading the issue text does not show, and issues the platform gives no text for.

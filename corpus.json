@@ -1,6 +1,6 @@
 {
   "corpus": "tg/national/acts",
-  "name": "Togo law: the acts published in the Journal officiel de la RÃ©publique togolaise (Constitution, codes, lois, ordonnances, dÃ©crets, arrÃªtÃ©s, dÃ©cisions), each as published",
+  "name": "Togo law: the acts published in the Journal officiel de la République togolaise (Constitution, codes, lois, ordonnances, décrets, arrêtés, décisions), each as published",
   "label": "Togo",
   "language": "fr",
   "dates": {
@@ -15,7 +15,7 @@
   },
   "in_force_trailer": "In-force",
   "has_future_branch": false,
-  "author": "the act itself (e.g. \"Loi nÂ° 2015-010\"); \"Journal officiel de la RÃ©publique togolaise\" when the act has no number",
+  "author": "the act itself (e.g. \"Loi n° 2015-010\"); \"Journal officiel de la République togolaise\" when the act has no number",
   "citation": {
     "file": "((?:codes/[^/]+)|(?:constitution[^/]*)|(?:(?:lois|ordonnances|decrets|arretes|decisions)/[0-9]{4}/(?:[0-9]{2}/)?[^/]+))/(?:art-[0-9]{4}-[0-9]{4}/)?art-0*([0-9]+[a-z-]*)\\.md",
     "cites": "(^|[^0-9])(article|art\\.?) ?{n}\\b"

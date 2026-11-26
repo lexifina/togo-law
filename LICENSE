@@ -7,7 +7,7 @@ togolaise (https://jo.gouv.tg), retrieved 28 and 29 October 2026:
   Loi n° 2022-019 du 15 novembre 2022 portant modification de la loi n° 2021-012 du 18 juin 2021 portant code du
   travail, JO 67e année n° 49 bis du 15 novembre 2022.
 
-Since November 2026 every act comes from the Journal officiel platform (https://new.jo.gouv.tg, its public API https://odoo.jo.gouv.tg/api/journal-officiel), retrieved from 26 November 2026. Its terms of use (Conditions gÃ©nÃ©rales d'utilisation) say the platform belongs to the Togolese State and forbid copying, distributing or modifying it "Ã  des fins commerciales sans autorisation Ã©crite prÃ©alable"; this repository is free and non-commercial, keeps each text unaltered and names its source in every commit (Lexifina's decision, 2026-11-18, on non-commercial-only terms).
+Since November 2026 every act comes from the Journal officiel platform (https://new.jo.gouv.tg, its public API https://odoo.jo.gouv.tg/api/journal-officiel), retrieved from 26 November 2026. Its terms of use (Conditions générales d'utilisation) say the platform belongs to the Togolese State and forbid copying, distributing or modifying it "à des fins commerciales sans autorisation écrite préalable"; this repository is free and non-commercial, keeps each text unaltered and names its source in every commit (Lexifina's decision, 2026-11-18, on non-commercial-only terms).
 
 jo.gouv.tg publishes no licence for the legal texts. They are official legal texts; their copyright status is not
 confirmed here, and they are reproduced with the attribution above.
