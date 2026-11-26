@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 59E ANNEE N° 9 QUARTO du 2014-05-23, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2014-002-portant-modification-de-la-loi-n-97-14-du-10-septembre-1997-modifiee-par-la-loi-n-2000-002-du-11-janvier-2000-portant-statuts-des-universites-publiques-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2014-002-portant-modification-de-la-loi-n-97-14-du-10-septembre-1997-modifiee-par-la-loi-n-2000-002-du-11-janvier-2000-portant-statuts-des-universites-publiques-au-togo
 
 En vigueur / in force: 2014-04-09 (promulgation (default: laws take effect on promulgation)).
 

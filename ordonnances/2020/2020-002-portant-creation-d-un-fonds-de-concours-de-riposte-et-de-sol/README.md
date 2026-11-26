@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 65E ANNEE N° 16 BIS du 11/05/2020, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2020-002-du-11052020-portant-creation-dun-fonds-de-concours-de-riposte-et-de-solidarite-covid-19
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2020-002-du-11052020-portant-creation-dun-fonds-de-concours-de-riposte-et-de-solidarite-covid-19
 
 En vigueur / in force: 2020-05-11 (promulgation (default: laws take effect on promulgation)).
 

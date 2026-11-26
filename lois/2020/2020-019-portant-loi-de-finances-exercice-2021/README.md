@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 65E ANNEE N° 47 BIS du 2020-12-24, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2020-019-du-22122020-portant-loi-de-finances-exercice-2021
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2020-019-du-22122020-portant-loi-de-finances-exercice-2021
 
 En vigueur / in force: 2020-12-22 (promulgation (default: laws take effect on promulgation)).
 

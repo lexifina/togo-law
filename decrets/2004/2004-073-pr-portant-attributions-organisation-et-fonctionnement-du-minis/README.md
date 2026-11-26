@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 11E ANNEE N° 12 du 2004-12-15, page 21.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/decret-n2004-073pr-portant-attributions-organisation-et-fonctionnement-du-ministere-des-affaires-etrangeres-et-de-la-cooperation
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/decret-n2004-073pr-portant-attributions-organisation-et-fonctionnement-du-ministere-des-affaires-etrangeres-et-de-la-cooperation
 
 En vigueur / in force: 2004-12-15 (publication in the Journal officiel (default for regulatory acts)).
 

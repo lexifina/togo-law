@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N°10 du 1998-07-13, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-98-014-du-10-juillet-1998-portant-organisation-et-fonctionnement-de-la-cour-des-comptes
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-98-014-du-10-juillet-1998-portant-organisation-et-fonctionnement-de-la-cour-des-comptes
 
 En vigueur / in force: 1998-07-10 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 32 BIS du 2008-11-26, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-de-la-haye-sur-la-protection-des-enfants-et-la-cooperation-en-matiere-dadoption-internationale
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-de-la-haye-sur-la-protection-des-enfants-et-la-cooperation-en-matiere-dadoption-internationale
 
 En vigueur / in force: 1993-05-29 (promulgation (default: laws take effect on promulgation)).
 

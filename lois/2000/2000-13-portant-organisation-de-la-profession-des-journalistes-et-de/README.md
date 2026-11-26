@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 22 du 2000-08-21, page 19.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-13-portant-organisation-de-la-profession-des-journalistes-et-des-techniciens-de-la-communication-en-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-13-portant-organisation-de-la-profession-des-journalistes-et-des-techniciens-de-la-communication-en-republique-togolaise
 
 En vigueur / in force: 2000-08-21 (promulgation (default: laws take effect on promulgation)).
 

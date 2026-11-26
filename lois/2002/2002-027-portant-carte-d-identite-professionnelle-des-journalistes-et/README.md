@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 32 du 2002-09-26, page 12.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-027-portant-carte-didentite-professionnelle-des-journalistes-et-techniciens-de-la-communication
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-027-portant-carte-didentite-professionnelle-des-journalistes-et-techniciens-de-la-communication
 
 En vigueur / in force: 2002-09-25 (promulgation (default: laws take effect on promulgation)).
 

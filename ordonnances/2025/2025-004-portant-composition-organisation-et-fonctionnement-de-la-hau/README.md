@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 70E ANNEE N° 46 TER du 2025-04-30, page 16.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-004-du-30-avril-2025-portant-composition-organisation-et-fonctionnement-de-la-haute-autorite-pour-la-transparence-lintegrite-de-la-vie-publique-et-la-lutte-contre-la-corruption-hatic
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-004-du-30-avril-2025-portant-composition-organisation-et-fonctionnement-de-la-haute-autorite-pour-la-transparence-lintegrite-de-la-vie-publique-et-la-lutte-contre-la-corruption-hatic
 
 En vigueur / in force: 2025-04-30 (promulgation (default: laws take effect on promulgation)).
 

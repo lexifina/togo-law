@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 4 du 2003-02-07, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-01pr-du-07-fevrier-2003-portant-modification-de-la-loi-n-2000-007-du-05-avril-2000-portant-code-electoral-modifiee-par-la-loi-n-2002-001-du-12-mars-2002
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-01pr-du-07-fevrier-2003-portant-modification-de-la-loi-n-2000-007-du-05-avril-2000-portant-code-electoral-modifiee-par-la-loi-n-2002-001-du-12-mars-2002
 
 En vigueur / in force: 2003-02-07 (promulgation (default: laws take effect on promulgation)).
 

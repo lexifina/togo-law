@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 17 BIS du 2000-09-02, page 22.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-16-portant-statut-special-du-personnel-enseignant-de-lenseignement-superieur-du-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-16-portant-statut-special-du-personnel-enseignant-de-lenseignement-superieur-du-togo
 
 En vigueur / in force: 2000-09-02 (promulgation (default: laws take effect on promulgation)).
 

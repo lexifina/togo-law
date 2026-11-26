@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 59E ANNEE N° 13 TER du 2014-07-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2014-012-du-23-juin-autorisant-ladhesion-du-togo-au-protocole-damendement-a-la-convention-internationale-pour-la-simplification-et-lharmonisation-des-regimes-douaniers-adopte-a-bruxelles-en-belgique-le-26-juin-1999
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2014-012-du-23-juin-autorisant-ladhesion-du-togo-au-protocole-damendement-a-la-convention-internationale-pour-la-simplification-et-lharmonisation-des-regimes-douaniers-adopte-a-bruxelles-en-belgique-le-26-juin-1999
 
 En vigueur / in force: 2014-06-23 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 69E ANNEE N° 122 BIS du 2024-12-03, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2024-001pr-du-05112024-fixant-le-nombre-de-senateurs-les-indemnites-les-conditions-deligibilite-ou-de-designation-le-regime-des-incompatibilites-et-les-conditions-dans-lesquelles-il-est-pourvu-aux-sieges-vacants-ainsi-que-le-statut-des-anciens-senateurs
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2024-001pr-du-05112024-fixant-le-nombre-de-senateurs-les-indemnites-les-conditions-deligibilite-ou-de-designation-le-regime-des-incompatibilites-et-les-conditions-dans-lesquelles-il-est-pourvu-aux-sieges-vacants-ainsi-que-le-statut-des-anciens-senateurs
 
 En vigueur / in force: 2024-11-05 (promulgation (default: laws take effect on promulgation)).
 

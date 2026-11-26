@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 33TER SPECIAL du 2003-10-14, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-012-modifiant-et-completant-la-loi-n-96-004-du-26-fevrier-1996-portant-code-minier-de-la-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-012-modifiant-et-completant-la-loi-n-96-004-du-26-fevrier-1996-portant-code-minier-de-la-republique-togolaise
 
 En vigueur / in force: 2003-10-14 (promulgation (default: laws take effect on promulgation)).
 

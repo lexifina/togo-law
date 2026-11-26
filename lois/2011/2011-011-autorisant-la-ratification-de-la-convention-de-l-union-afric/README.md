@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 18 BIS du 2011-06-27, page 24.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-011-autorisant-la-ratification-de-la-convention-de-lunion-africaine-sur-la-protection-et-lassistance-aux-personnes-deplacees-en-afrique-adoptee-a-kampala-ouganda-le-23-octobre-2009
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-011-autorisant-la-ratification-de-la-convention-de-lunion-africaine-sur-la-protection-et-lassistance-aux-personnes-deplacees-en-afrique-adoptee-a-kampala-ouganda-le-23-octobre-2009
 
 En vigueur / in force: 2011-05-26 (promulgation (default: laws take effect on promulgation)).
 

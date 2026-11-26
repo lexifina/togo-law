@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 16 SPECIAL du 2008-06-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-004-portant-modification-des-articles-26-27-28-et-30-de-lordonnance-n-3973-du-12-novembre-1973-instituant-code-de-securite-sociale-modifiee-par-la-loi-n-2001-012-du-29-novembre-2001
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-004-portant-modification-des-articles-26-27-28-et-30-de-lordonnance-n-3973-du-12-novembre-1973-instituant-code-de-securite-sociale-modifiee-par-la-loi-n-2001-012-du-29-novembre-2001
 
 En vigueur / in force: 2008-05-30 (promulgation (default: laws take effect on promulgation)).
 

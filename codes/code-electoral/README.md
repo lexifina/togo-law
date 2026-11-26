@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 69E ANNEE N° 122 BIS du 2024-12-03, page 17.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2024-003pr-du-05112024-portant-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2024-003pr-du-05112024-portant-code-electoral
 
 En vigueur / in force: 2024-11-05 (promulgation (default: laws take effect on promulgation)).
 

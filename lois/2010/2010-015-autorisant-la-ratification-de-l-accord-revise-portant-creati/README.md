@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 55E ANNEE N° 43 SPECIAL du 31/12/2010, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-015-autorisant-la-ratification-de-laccord-revise-portant-creation-du-fonds-de-solidarite-africaine-fsa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-015-autorisant-la-ratification-de-laccord-revise-portant-creation-du-fonds-de-solidarite-africaine-fsa
 
 En vigueur / in force: 2010-12-29 (promulgation (default: laws take effect on promulgation)).
 

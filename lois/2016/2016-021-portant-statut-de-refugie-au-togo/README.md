@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 27 SPECIAL du 2016-09-01, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-021-du-24-aout-2016-portant-statut-de-refugie-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-021-du-24-aout-2016-portant-statut-de-refugie-au-togo
 
 En vigueur / in force: 2016-08-24 (promulgation (default: laws take effect on promulgation)).
 

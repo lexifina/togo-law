@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 23 BIS du 2018-11-20, page 9.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-022-portant-autorisation-de-la-privatisation-de-lunion-togolaise-de-banque-utb
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-022-portant-autorisation-de-la-privatisation-de-lunion-togolaise-de-banque-utb
 
 En vigueur / in force: 2018-11-20 (promulgation (default: laws take effect on promulgation)).
 

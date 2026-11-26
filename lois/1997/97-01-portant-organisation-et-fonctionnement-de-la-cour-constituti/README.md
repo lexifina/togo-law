@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 2 SPECIAL du 1997-01-09, page 15.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-97-01-portant-organisation-et-fonctionnement-de-la-cour-constitutionnelle
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-97-01-portant-organisation-et-fonctionnement-de-la-cour-constitutionnelle
 
 En vigueur / in force: 1997-01-08 (promulgation (default: laws take effect on promulgation)).
 

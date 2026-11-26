@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 26 BIS du 2023-04-14, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-prorogation-de-letat-durgence-securitaire-1
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-prorogation-de-letat-durgence-securitaire-1
 
 En vigueur / in force: 2023-04-11 (promulgation (default: laws take effect on promulgation)).
 

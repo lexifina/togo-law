@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 09 BIS du 2022-03-08, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-001-du-08032022-portant-creation-de-regions
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-001-du-08032022-portant-creation-de-regions
 
 En vigueur / in force: 2022-03-08 (promulgation (default: laws take effect on promulgation)).
 

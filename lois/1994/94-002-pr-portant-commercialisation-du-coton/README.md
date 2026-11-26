@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 39E ANNEE N° 29 BIS du 1994-10-26, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n94-002pr-du-7-octobre-1994-portant-commercialisation-du-coton
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n94-002pr-du-7-octobre-1994-portant-commercialisation-du-coton
 
 En vigueur / in force: 1994-10-07 (promulgation (default: laws take effect on promulgation)).
 

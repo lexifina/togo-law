@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 13 du 2007-03-13, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-011-du-13-mars-2007-relative-a-la-decentralisation-et-aux-libertes-locales
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-011-du-13-mars-2007-relative-a-la-decentralisation-et-aux-libertes-locales
 
 En vigueur / in force: 2007-03-13 (promulgation (default: laws take effect on promulgation)).
 

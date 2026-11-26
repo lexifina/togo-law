@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 11 TER du 2019-05-15, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-003-portant-modification-des-dispositions-des-articles-13-52-54-55-59-60-65-75-94-100-101-104-106-107-108-109-110-111-115-116-117-120-125-127-128-141-145-155-et-158-de-la-constitution-du-14-octobre-1992
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-003-portant-modification-des-dispositions-des-articles-13-52-54-55-59-60-65-75-94-100-101-104-106-107-108-109-110-111-115-116-117-120-125-127-128-141-145-155-et-158-de-la-constitution-du-14-octobre-1992
 
 En vigueur / in force: 2019-05-15 (promulgation (default: laws take effect on promulgation)).
 

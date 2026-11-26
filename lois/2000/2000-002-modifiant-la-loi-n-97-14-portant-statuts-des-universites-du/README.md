@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 16 SPECIAL du 2000-04-13, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-002-du-11-janvier-2000-modifiant-la-loi-n-97-14-portant-statuts-des-universites-du-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-002-du-11-janvier-2000-modifiant-la-loi-n-97-14-portant-statuts-des-universites-du-togo
 
 En vigueur / in force: 2000-01-11 (promulgation (default: laws take effect on promulgation)).
 

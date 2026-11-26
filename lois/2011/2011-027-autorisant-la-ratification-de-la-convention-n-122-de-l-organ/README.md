@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 39 SPECIAL du 2011-12-06, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-n-122-de-lorganisation-internationale-du-travail-oit-sur-la-politique-de-lemploi-adoptee-le-09-juillet-1964-a-geneve
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-n-122-de-lorganisation-internationale-du-travail-oit-sur-la-politique-de-lemploi-adoptee-le-09-juillet-1964-a-geneve
 
 En vigueur / in force: 2011-12-02 (promulgation (default: laws take effect on promulgation)).
 

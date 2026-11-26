@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 49 BIS du 2022-11-15, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-016-du-15-novembre-2022-portant-modification-de-la-loi-n-2011-006-du-21-fevrier-2011-portant-code-de-securite-sociale
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-016-du-15-novembre-2022-portant-modification-de-la-loi-n-2011-006-du-21-fevrier-2011-portant-code-de-securite-sociale
 
 En vigueur / in force: 2022-11-15 (promulgation (default: laws take effect on promulgation)).
 

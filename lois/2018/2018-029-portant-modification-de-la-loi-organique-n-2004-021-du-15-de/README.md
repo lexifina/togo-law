@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 4 BIS du 2019-02-20, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2018-029-du-10122018-portant-modification-de-la-loi-organique-n-2004-021-du-15-decembre-2004-relative-a-la-haute-autorite-de-laudiovisuel-et-de-la-communication
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2018-029-du-10122018-portant-modification-de-la-loi-organique-n-2004-021-du-15-decembre-2004-relative-a-la-haute-autorite-de-laudiovisuel-et-de-la-communication
 
 En vigueur / in force: 2018-12-10 (promulgation (default: laws take effect on promulgation)).
 

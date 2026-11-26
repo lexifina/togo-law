@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 19 du 2008-06-17, page 18.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-006-du-11-juin-2008-portant-statut-des-agents-des-collectivites-territoriales
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-006-du-11-juin-2008-portant-statut-des-agents-des-collectivites-territoriales
 
 En vigueur / in force: 2008-06-11 (promulgation (default: laws take effect on promulgation)).
 

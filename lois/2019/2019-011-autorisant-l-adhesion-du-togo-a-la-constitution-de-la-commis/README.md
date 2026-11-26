@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 24 BIS du 2019-10-11, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-011-autorisant-ladhesion-du-togo-a-la-constitution-de-la-commission-africaine-de-laviation-civile-cafac-adoptee-le-16-decembre-2009-a-dakar-au-senegal
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-011-autorisant-ladhesion-du-togo-a-la-constitution-de-la-commission-africaine-de-laviation-civile-cafac-adoptee-le-16-decembre-2009-a-dakar-au-senegal
 
 En vigueur / in force: 2019-10-07 (promulgation (default: laws take effect on promulgation)).
 

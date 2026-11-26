@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 40E ANNEE N° 22 du 1995-10-16, page 993.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n95-017-autorisant-la-ratification-du-traite-instituant-une-conference-interafricaine-de-la-prevoyance-sociale-signe-a-abidjan-le-22-septembre-1993
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n95-017-autorisant-la-ratification-du-traite-instituant-une-conference-interafricaine-de-la-prevoyance-sociale-signe-a-abidjan-le-22-septembre-1993
 
 En vigueur / in force: 1995-10-09 (promulgation (default: laws take effect on promulgation)).
 

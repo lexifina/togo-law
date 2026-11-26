@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 13 BIS du 2026-03-02, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-001-du-02-mars-2026-relative-a-la-lutte-contre-le-blanchiment-de-capitaux-le-financement-du-terrorisme-et-de-la-proliferation-des-armes-de-destruction-massive
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-001-du-02-mars-2026-relative-a-la-lutte-contre-le-blanchiment-de-capitaux-le-financement-du-terrorisme-et-de-la-proliferation-des-armes-de-destruction-massive
 
 En vigueur / in force: 2026-03-02 (promulgation (default: laws take effect on promulgation)).
 

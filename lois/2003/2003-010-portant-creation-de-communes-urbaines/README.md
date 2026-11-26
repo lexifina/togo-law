@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 33 SPECIAL du 2003-10-02, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-010-du-1er-octobre-2003-portant-creation-de-communes-urbaines
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-010-du-1er-octobre-2003-portant-creation-de-communes-urbaines
 
 En vigueur / in force: 2003-10-01 (promulgation (default: laws take effect on promulgation)).
 

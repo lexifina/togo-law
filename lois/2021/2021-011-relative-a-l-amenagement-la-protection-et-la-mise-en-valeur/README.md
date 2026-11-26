@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 23 BIS du 2021-05-25, page 10.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-011-relative-a-lamenagement-la-protection-et-la-mise-en-valeur-du-littoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-011-relative-a-lamenagement-la-protection-et-la-mise-en-valeur-du-littoral
 
 En vigueur / in force: 2021-05-25 (promulgation (default: laws take effect on promulgation)).
 

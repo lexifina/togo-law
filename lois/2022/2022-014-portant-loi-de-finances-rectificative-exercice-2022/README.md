@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 50 BIS du 2022-11-17, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-014-du-25102022-portant-loi-de-finances-rectificative-exercice-2022
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-014-du-25102022-portant-loi-de-finances-rectificative-exercice-2022
 
 En vigueur / in force: 2022-10-25 (promulgation (default: laws take effect on promulgation)).
 

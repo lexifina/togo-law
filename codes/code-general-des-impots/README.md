@@ -2,9 +2,9 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 23 TER du 2018-11-20, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-024-portant-code-general-des-impots
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-024-portant-code-general-des-impots
 
-En vigueur / in force: 2018-11-20 (promulgation (default: laws take effect on promulgation)).
+En vigueur / in force: 2019-01-01 (date stated in the text).
 
 | Fichier | Disposition |
 | --- | --- |

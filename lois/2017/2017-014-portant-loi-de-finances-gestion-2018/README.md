@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 62E ANNEE N° 36 du 2017-12-27, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2017-014-du-27-decembre-2017-portant-loi-de-finances-gestion-2018
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2017-014-du-27-decembre-2017-portant-loi-de-finances-gestion-2018
 
 En vigueur / in force: 2017-12-27 (promulgation (default: laws take effect on promulgation)).
 

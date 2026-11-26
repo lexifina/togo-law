@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 31 du 2003-09-26, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-traite-dinterdiction-complete-des-essais-nucleaires-tice-adopte-a-new-york-le-10-septembre-1996
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-traite-dinterdiction-complete-des-essais-nucleaires-tice-adopte-a-new-york-le-10-septembre-1996
 
 En vigueur / in force: 2003-09-26 (promulgation (default: laws take effect on promulgation)).
 

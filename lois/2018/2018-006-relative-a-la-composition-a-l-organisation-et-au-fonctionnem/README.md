@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 10 du 2018-06-20, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2018-006-relative-a-la-composition-a-lorganisation-et-au-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme-cndh
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2018-006-relative-a-la-composition-a-lorganisation-et-au-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme-cndh
 
 En vigueur / in force: 2018-06-20 (promulgation (default: laws take effect on promulgation)).
 

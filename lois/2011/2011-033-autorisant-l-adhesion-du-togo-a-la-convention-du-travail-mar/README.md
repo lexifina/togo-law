@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 3 SPECIAL du 2012-01-03, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-033-autorisant-ladhesion-du-togo-a-la-convention-du-travail-maritime-adoptee-a-geneve-le-23-fevrier-2006
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-033-autorisant-ladhesion-du-togo-a-la-convention-du-travail-maritime-adoptee-a-geneve-le-23-fevrier-2006
 
 En vigueur / in force: 2011-12-28 (promulgation (default: laws take effect on promulgation)).
 

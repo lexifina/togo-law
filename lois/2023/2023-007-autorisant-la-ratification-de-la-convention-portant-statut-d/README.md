@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 39 BIS du 2023-05-25, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-portant-statut-du-fleuve-mono-et-creation-de-lautorite-du-bassin-du-mono-signee-le-30-decembre-2014-a-cotonou
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-portant-statut-du-fleuve-mono-et-creation-de-lautorite-du-bassin-du-mono-signee-le-30-decembre-2014-a-cotonou
 
 En vigueur / in force: 2023-05-19 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 21 BIS du 2009-06-30, page 11.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-013-relative-aux-marches-publics-et-delegations-de-service-public
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-013-relative-aux-marches-publics-et-delegations-de-service-public
 
 En vigueur / in force: 2009-06-30 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 24 TER du 2018-12-07, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-026-sur-la-cybersecurite-et-la-lutte-contre-la-cybersecurite
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-026-sur-la-cybersecurite-et-la-lutte-contre-la-cybersecurite
 
 En vigueur / in force: 2018-12-07 (promulgation (default: laws take effect on promulgation)).
 

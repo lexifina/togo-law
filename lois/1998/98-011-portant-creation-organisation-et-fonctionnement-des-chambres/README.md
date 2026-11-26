@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N° 17 TER du 1998-06-11, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-98-011-du-11-juin-1998-portant-creation-organisation-et-fonctionnement-des-chambres-regionales-de-metiers
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-98-011-du-11-juin-1998-portant-creation-organisation-et-fonctionnement-des-chambres-regionales-de-metiers
 
 En vigueur / in force: 1998-06-11 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 51E ANNEE N° 1 BIS du 2006-01-05, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-001-du-03-janvier-2006-portant-loi-de-finances-gestion-2006
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-001-du-03-janvier-2006-portant-loi-de-finances-gestion-2006
 
 En vigueur / in force: 2006-01-03 (promulgation (default: laws take effect on promulgation)).
 

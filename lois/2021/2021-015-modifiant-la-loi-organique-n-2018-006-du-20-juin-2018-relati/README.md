@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 33 BIS du 2021-08-11, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2021-015-du-03-aout-2021-modifiant-la-loi-organique-n-2018-006-du-20-juin-2018-relative-a-la-composition-a-lorganisation-et-au-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme-cndh
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2021-015-du-03-aout-2021-modifiant-la-loi-organique-n-2018-006-du-20-juin-2018-relative-a-la-composition-a-lorganisation-et-au-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme-cndh
 
 En vigueur / in force: 2021-08-03 (promulgation (default: laws take effect on promulgation)).
 

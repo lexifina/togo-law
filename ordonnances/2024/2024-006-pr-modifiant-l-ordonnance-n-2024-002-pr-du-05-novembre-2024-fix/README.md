@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 69E ANNEE N° 129 BIS du 24/12/2024, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2024-006pr-du-24-decembre-2024-modifiant-lordonnance-n-2024-002pr-du-05-novembre-2024-fixant-le-nombre-de-deputes-les-indemnites-les-conditions-deligibilite-le-regime-des-incompatibilites-et-les-conditions-dans-lesquelles-il-est-pourvu-aux-sieges-vacants-ainsi-que-le-statut-des-anciens-deputes
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2024-006pr-du-24-decembre-2024-modifiant-lordonnance-n-2024-002pr-du-05-novembre-2024-fixant-le-nombre-de-deputes-les-indemnites-les-conditions-deligibilite-le-regime-des-incompatibilites-et-les-conditions-dans-lesquelles-il-est-pourvu-aux-sieges-vacants-ainsi-que-le-statut-des-anciens-deputes
 
 En vigueur / in force: 2024-12-24 (promulgation (default: laws take effect on promulgation)).
 

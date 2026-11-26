@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 23 du 2000-08-30, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-14-du-30-aout-2000-autorisant-la-ratification-de-lacte-constitutif-de-lunion-africaine-adopte-a-lome-le-11-juillet-2000
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-14-du-30-aout-2000-autorisant-la-ratification-de-lacte-constitutif-de-lunion-africaine-adopte-a-lome-le-11-juillet-2000
 
 En vigueur / in force: 2000-08-30 (promulgation (default: laws take effect on promulgation)).
 

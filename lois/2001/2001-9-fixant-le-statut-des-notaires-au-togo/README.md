@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N° 32 SPECIAL du 2001-11-22, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-9-du-16-novembre-2001-fixant-le-statut-des-notaires-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-9-du-16-novembre-2001-fixant-le-statut-des-notaires-au-togo
 
 En vigueur / in force: 2001-11-16 (promulgation (default: laws take effect on promulgation)).
 

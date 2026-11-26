@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 18 BIS du 2011-06-27, page 21.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-010-fixant-les-conditions-dexercice-de-la-liberte-de-reunion-et-de-manifestation-pacifiques-publiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-010-fixant-les-conditions-dexercice-de-la-liberte-de-reunion-et-de-manifestation-pacifiques-publiques
 
 En vigueur / in force: 2011-05-26 (promulgation (default: laws take effect on promulgation)).
 

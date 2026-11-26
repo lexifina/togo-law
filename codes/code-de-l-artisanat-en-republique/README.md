@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 27 SPECIAL du 2012-06-11, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-code-de-lartisanat-en-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-code-de-lartisanat-en-republique-togolaise
 
 En vigueur / in force: 2012-06-11 (promulgation (default: laws take effect on promulgation)).
 

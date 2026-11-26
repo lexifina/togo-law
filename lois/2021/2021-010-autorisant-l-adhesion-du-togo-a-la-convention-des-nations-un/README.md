@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 23 BIS du 2021-05-25, page 9.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-010-autorisant-ladhesion-du-togo-a-la-convention-des-nations-unies-sur-la-protection-et-lutilisation-des-cours-deau-transfrontaliers-et-des-lacs-internationaux-adoptee-le-17-mars-1992-a-helsinki-en-finlande
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-010-autorisant-ladhesion-du-togo-a-la-convention-des-nations-unies-sur-la-protection-et-lutilisation-des-cours-deau-transfrontaliers-et-des-lacs-internationaux-adoptee-le-17-mars-1992-a-helsinki-en-finlande
 
 En vigueur / in force: 2021-05-25 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 37E ANNEE N° 27 du 1992-08-07, page 10.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-21-du-05-aout-1992-habilitant-le-premier-ministre-a-soumettre-le-projet-de-constitution-au-referendum
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-21-du-05-aout-1992-habilitant-le-premier-ministre-a-soumettre-le-projet-de-constitution-au-referendum
 
 En vigueur / in force: 1992-08-05 (promulgation (default: laws take effect on promulgation)).
 

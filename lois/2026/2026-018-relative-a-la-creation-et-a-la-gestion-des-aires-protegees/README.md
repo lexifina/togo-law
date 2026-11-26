@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 55 BIS du 2026-08-28, page 9.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-relative-a-la-creation-et-a-la-gestion-des-aires-protegees
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-relative-a-la-creation-et-a-la-gestion-des-aires-protegees
 
 En vigueur / in force: 2026-08-27 (promulgation (default: laws take effect on promulgation)).
 

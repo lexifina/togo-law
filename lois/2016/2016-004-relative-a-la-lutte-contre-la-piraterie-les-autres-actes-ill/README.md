@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 8 SPECIAL du 11/03/2016, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-004-du-11-mars-2016-relative-a-la-lutte-contre-la-piraterie-les-autres-actes-illicites-et-lexercice-par-letat-de-ses-pouvoirs-de-police-en-mer
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-004-du-11-mars-2016-relative-a-la-lutte-contre-la-piraterie-les-autres-actes-illicites-et-lexercice-par-letat-de-ses-pouvoirs-de-police-en-mer
 
 En vigueur / in force: 2016-03-11 (promulgation (default: laws take effect on promulgation)).
 

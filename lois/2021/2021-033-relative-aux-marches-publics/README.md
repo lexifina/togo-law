@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 53 BIS du 2021-12-31, page 39.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-033-du-31-decembre-2021-relative-aux-marches-publics
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-033-du-31-decembre-2021-relative-aux-marches-publics
 
 En vigueur / in force: 2021-12-31 (promulgation (default: laws take effect on promulgation)).
 

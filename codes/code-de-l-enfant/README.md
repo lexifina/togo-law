@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 28 BIS du 2007-07-06, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-017-du-6-juillet-2007-portant-code-de-lenfant
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-017-du-6-juillet-2007-portant-code-de-lenfant
 
 En vigueur / in force: 2007-07-06 (promulgation (default: laws take effect on promulgation)).
 

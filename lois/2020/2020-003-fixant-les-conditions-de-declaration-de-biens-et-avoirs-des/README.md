@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 65E ANNEE N° 03ter SPECIAL du 2020-01-29, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n2020-003-du-24012020-fixant-les-conditions-de-declaration-de-biens-et-avoirs-des-hautes-personnalites-des-hauts-fonctionnaires-et-autres-agents-publics
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n2020-003-du-24012020-fixant-les-conditions-de-declaration-de-biens-et-avoirs-des-hautes-personnalites-des-hauts-fonctionnaires-et-autres-agents-publics
 
 En vigueur / in force: 2020-01-24 (promulgation (default: laws take effect on promulgation)).
 

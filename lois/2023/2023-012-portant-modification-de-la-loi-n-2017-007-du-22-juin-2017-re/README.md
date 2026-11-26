@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 55 BIS du 2023-07-19, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-modification-de-la-loi-n-2017-007-du-22-juin-2017-relative-aux-transactions-electroniques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-modification-de-la-loi-n-2017-007-du-22-juin-2017-relative-aux-transactions-electroniques
 
 En vigueur / in force: 2023-07-19 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 35 SPECIAL du 2008-12-22, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-017-du-22-decembre-2008-portant-loi-de-finances-rectificative-gestion-2008
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-017-du-22-decembre-2008-portant-loi-de-finances-rectificative-gestion-2008
 
 En vigueur / in force: 2008-12-22 (promulgation (default: laws take effect on promulgation)).
 

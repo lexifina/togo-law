@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 60E ANNEE N° 31 TER du 2015-12-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-012-du-02-decembre-2015-autorisant-la-ratification-du-protocole-additionnel-de-nagoya-kuala-lumpur-sur-la-responsabilite-et-la-reparation-relatif-au-protocole-de-cartagena-sur-la-prevention-des-risques-biotechnologiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-012-du-02-decembre-2015-autorisant-la-ratification-du-protocole-additionnel-de-nagoya-kuala-lumpur-sur-la-responsabilite-et-la-reparation-relatif-au-protocole-de-cartagena-sur-la-prevention-des-risques-biotechnologiques
 
 En vigueur / in force: 2015-12-02 (promulgation (default: laws take effect on promulgation)).
 

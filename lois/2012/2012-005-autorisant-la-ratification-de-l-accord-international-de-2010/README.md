@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 22 SPECIAL du 2012-05-31, page 55.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2012-005-du-31-mai-2012-autorisant-la-ratification-de-laccord-international-de-2010-sur-le-cacao
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2012-005-du-31-mai-2012-autorisant-la-ratification-de-laccord-international-de-2010-sur-le-cacao
 
 En vigueur / in force: 2012-05-31 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 34 SPECIAL du 2002-10-10, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-25-portant-modification-de-larticle-52-de-la-constitution-du-14-octobre-1992
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-25-portant-modification-de-larticle-52-de-la-constitution-du-14-octobre-1992
 
 En vigueur / in force: 2002-10-10 (promulgation (default: laws take effect on promulgation)).
 

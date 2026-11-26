@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 56 SPECIAL du 2012-12-17, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2012-018-sur-les-communications-electroniques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2012-018-sur-les-communications-electroniques
 
 En vigueur / in force: 2012-12-17 (promulgation (default: laws take effect on promulgation)).
 

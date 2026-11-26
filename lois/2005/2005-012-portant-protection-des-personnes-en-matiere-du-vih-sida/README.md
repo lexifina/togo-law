@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 50E ANNEE N° 45 SPECIAL du 2005-12-23, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-012-du-14-decembre-2005-portant-protection-des-personnes-en-matiere-du-vihsida
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-012-du-14-decembre-2005-portant-protection-des-personnes-en-matiere-du-vihsida
 
 En vigueur / in force: 2005-12-14 (promulgation (default: laws take effect on promulgation)).
 

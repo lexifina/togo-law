@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 37 BIS du 2021-09-17, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-017-autorisant-la-prorogation-de-letat-durgence-sanitaire-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-017-autorisant-la-prorogation-de-letat-durgence-sanitaire-au-togo
 
 En vigueur / in force: 2021-09-14 (promulgation (default: laws take effect on promulgation)).
 

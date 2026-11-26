@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 23 SPECIAL du 2004-09-09, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-determinant-lindemnite-et-les-autres-avantages-accordes-au-president-et-aux-membres-de-la-haute-autorite-de-laudiovisuel-et-de-la-communication
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-determinant-lindemnite-et-les-autres-avantages-accordes-au-president-et-aux-membres-de-la-haute-autorite-de-laudiovisuel-et-de-la-communication
 
 En vigueur / in force: 2004-05-19 (promulgation (default: laws take effect on promulgation)).
 

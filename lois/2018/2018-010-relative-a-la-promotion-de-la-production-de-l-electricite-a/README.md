@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 15 du 2018-08-17, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-010-relative-a-la-promotion-de-la-production-de-lelectricite-a-base-des-sources-denergies-renouvelables-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-010-relative-a-la-promotion-de-la-production-de-lelectricite-a-base-des-sources-denergies-renouvelables-au-togo
 
 En vigueur / in force: 2018-08-08 (promulgation (default: laws take effect on promulgation)).
 

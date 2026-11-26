@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 6 BIS du 2022-01-31, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2022-001-du-260122-portant-abrogation-des-articles-14-15-et-16-de-la-loi-n-91-11-du-23-mai-1991-fixant-le-regime-des-pensions-civiles-et-militaires-de-la-caisse-de-retraites-du-togo-et-de-la-loi-n-2011-005-du-21-fevrier-2011-portant-suspension-de-lallocation-de-depart-a-la-retraite
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2022-001-du-260122-portant-abrogation-des-articles-14-15-et-16-de-la-loi-n-91-11-du-23-mai-1991-fixant-le-regime-des-pensions-civiles-et-militaires-de-la-caisse-de-retraites-du-togo-et-de-la-loi-n-2011-005-du-21-fevrier-2011-portant-suspension-de-lallocation-de-depart-a-la-retraite
 
 En vigueur / in force: 2022-01-26 (promulgation (default: laws take effect on promulgation)).
 

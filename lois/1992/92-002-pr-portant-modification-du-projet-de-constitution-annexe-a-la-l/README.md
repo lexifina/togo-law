@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 37E ANNEE N° 29 SPECIAL du 1992-08-28, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-no-92-002pr-du-27-aout-1992-portant-modification-du-projet-de-constitution-annexe-a-la-loi-no-92-004-du-20-juillet-1992-portant-organisation-du-referendum-constitutionnel
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-no-92-002pr-du-27-aout-1992-portant-modification-du-projet-de-constitution-annexe-a-la-loi-no-92-004-du-20-juillet-1992-portant-organisation-du-referendum-constitutionnel
 
 En vigueur / in force: 1992-08-27 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 44E ANNEE N° 36 SPECIAL du 1999-12-28, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n04-du-15-mars-1999-sur-les-services-postaux
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n04-du-15-mars-1999-sur-les-services-postaux
 
 En vigueur / in force: 1999-03-15 (promulgation (default: laws take effect on promulgation)).
 

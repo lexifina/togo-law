@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 60E ANNEE N° 20 SPECIAL du 2015-07-28, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-laccord-conferant-le-statut-dorganisation-internationale-a-lacademie-internationale-de-lutte-contre-la-corruption-iaca-signe-le-02-septembre-2010-a-vienne
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-laccord-conferant-le-statut-dorganisation-internationale-a-lacademie-internationale-de-lutte-contre-la-corruption-iaca-signe-le-02-septembre-2010-a-vienne
 
 En vigueur / in force: 2015-07-28 (promulgation (default: laws take effect on promulgation)).
 

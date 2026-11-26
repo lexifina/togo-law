@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 70E ANNEE N° 46 TER du 2025-04-30, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-002-du-30-avril-2025-fixant-les-attributions-la-composition-lorganisation-et-le-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme-cndh
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-002-du-30-avril-2025-fixant-les-attributions-la-composition-lorganisation-et-le-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme-cndh
 
 En vigueur / in force: 2025-04-30 (promulgation (default: laws take effect on promulgation)).
 

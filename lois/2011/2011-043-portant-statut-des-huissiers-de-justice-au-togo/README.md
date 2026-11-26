@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 3 SPECIAL du 2012-01-03, page 10.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-043-portant-statut-des-huissiers-de-justice-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-043-portant-statut-des-huissiers-de-justice-au-togo
 
 En vigueur / in force: 2011-12-30 (promulgation (default: laws take effect on promulgation)).
 

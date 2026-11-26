@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 51E ANNEE N° 21 du 2006-07-05, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-006-autorisant-a-titre-exceptionnel-et-unique-la-negociation-directe-et-la-signature-par-le-gouvernement-dune-convention-de-concession-pour-la-rehabilitation-lextension-et-lexploitation-de-la-centrale-thermique-de-lome-ctl
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-006-autorisant-a-titre-exceptionnel-et-unique-la-negociation-directe-et-la-signature-par-le-gouvernement-dune-convention-de-concession-pour-la-rehabilitation-lextension-et-lexploitation-de-la-centrale-thermique-de-lome-ctl
 
 En vigueur / in force: 2006-07-05 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 18 BIS du 2011-06-27, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2011-007-portant-composition-organisation-et-fonctionnement-du-conseil-economique-et-social
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2011-007-portant-composition-organisation-et-fonctionnement-du-conseil-economique-et-social
 
 En vigueur / in force: 2011-04-07 (promulgation (default: laws take effect on promulgation)).
 

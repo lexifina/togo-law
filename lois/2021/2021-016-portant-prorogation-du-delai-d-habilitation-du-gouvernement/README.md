@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 37 BIS du 2021-09-17, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-016-portant-prorogation-du-delai-dhabilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-loi
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-016-portant-prorogation-du-delai-dhabilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-loi
 
 En vigueur / in force: 2021-09-14 (promulgation (default: laws take effect on promulgation)).
 

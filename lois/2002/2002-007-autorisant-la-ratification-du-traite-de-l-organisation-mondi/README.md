@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 29 SPECIAL du 2002-09-12, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-007-du-26-fevrier-2002-autorisant-la-ratification-du-traite-de-lorganisation-mondiale-de-la-propriete-intellectuelle-ompi-sur-le-droit-dauteur-wct-adopte-a-geneve-le-20-decembre-1996
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-007-du-26-fevrier-2002-autorisant-la-ratification-du-traite-de-lorganisation-mondiale-de-la-propriete-intellectuelle-ompi-sur-le-droit-dauteur-wct-adopte-a-geneve-le-20-decembre-1996
 
 En vigueur / in force: 2002-02-26 (promulgation (default: laws take effect on promulgation)).
 

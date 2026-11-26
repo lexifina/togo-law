@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 5000 du 2000-02-24, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-006-modifiant-et-completant-la-loi-n-98-004-du-11-fevrier-1998-portant-code-de-la-presse-et-de-la-communication
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-006-modifiant-et-completant-la-loi-n-98-004-du-11-fevrier-1998-portant-code-de-la-presse-et-de-la-communication
 
 En vigueur / in force: 2000-02-23 (promulgation (default: laws take effect on promulgation)).
 

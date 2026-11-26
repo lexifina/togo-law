@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 10 SPECIAL du 2016-03-30, page 19.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-007-relative-aux-espaces-maritimes-sous-juridiction-nationale
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-007-relative-aux-espaces-maritimes-sous-juridiction-nationale
 
 En vigueur / in force: 2016-03-30 (promulgation (default: laws take effect on promulgation)).
 

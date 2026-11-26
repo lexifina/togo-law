@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 25 BIS du 2022-06-24, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-009-du-24-juin-2022-portant-modification-de-la-loi-n-2018-026-du-07-decembre-2018-sur-la-cybersecurite-et-la-lutte-contre-la-cybercriminalite
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-009-du-24-juin-2022-portant-modification-de-la-loi-n-2018-026-du-07-decembre-2018-sur-la-cybersecurite-et-la-lutte-contre-la-cybercriminalite
 
 En vigueur / in force: 2022-06-24 (promulgation (default: laws take effect on promulgation)).
 

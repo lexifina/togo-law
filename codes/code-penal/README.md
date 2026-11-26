@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 60E ANNEE N° 30 SPECIAL du 2015-11-24, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-0101-du-24-novembre-2015-portant-nouveau-code-penal
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-0101-du-24-novembre-2015-portant-nouveau-code-penal
 
 En vigueur / in force: 2015-11-24 (promulgation (default: laws take effect on promulgation)).
 

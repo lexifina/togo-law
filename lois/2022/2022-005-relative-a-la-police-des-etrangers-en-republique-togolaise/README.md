@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 15 TER du 2022-04-22, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-005-du-15042022-relative-a-la-police-des-etrangers-en-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-005-du-15042022-relative-a-la-police-des-etrangers-en-republique-togolaise
 
 En vigueur / in force: 2022-04-15 (promulgation (default: laws take effect on promulgation)).
 

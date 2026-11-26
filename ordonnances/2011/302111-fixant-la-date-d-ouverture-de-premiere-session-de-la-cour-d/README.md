@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 17 TER du 2011-06-17, page 9.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-302111-fixant-la-date-douverture-de-premiere-session-de-la-cour-dassises-de-lome-annee-2011
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-302111-fixant-la-date-douverture-de-premiere-session-de-la-cour-dassises-de-lome-annee-2011
 
 En vigueur / in force: 2011-06-14 (promulgation (default: laws take effect on promulgation)).
 

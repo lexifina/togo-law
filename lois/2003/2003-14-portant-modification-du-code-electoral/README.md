@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 36 SPECIAL du 2003-10-20, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-014-du-20-octobre-2003-portant-modification-du-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-014-du-20-octobre-2003-portant-modification-du-code-electoral
 
 En vigueur / in force: 2003-10-20 (promulgation (default: laws take effect on promulgation)).
 

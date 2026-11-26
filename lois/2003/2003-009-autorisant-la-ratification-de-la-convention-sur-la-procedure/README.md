@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 31 du 2003-09-26, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-sur-la-procedure-de-consentement-prealable-en-connaissance-de-cause-applicable-dans-le-cas-de-certains-produits-chimiques-et-pesticides-dangereux-qui-font-lobjet-dun-commerce-international-signee-a-rotterdam-le-10-septembre-1998
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-sur-la-procedure-de-consentement-prealable-en-connaissance-de-cause-applicable-dans-le-cas-de-certains-produits-chimiques-et-pesticides-dangereux-qui-font-lobjet-dun-commerce-international-signee-a-rotterdam-le-10-septembre-1998
 
 En vigueur / in force: 2003-09-26 (promulgation (default: laws take effect on promulgation)).
 

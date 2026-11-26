@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N°24 SPECIAL du 2001-08-08, page 6.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-7-autorisant-la-ratification-de-la-convention-portant-reorganisation-du-conseil-regional-pour-leducation-et-lalphabetisation-en-afrique-creaa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-7-autorisant-la-ratification-de-la-convention-portant-reorganisation-du-conseil-regional-pour-leducation-et-lalphabetisation-en-afrique-creaa
 
 En vigueur / in force: 2001-06-14 (promulgation (default: laws take effect on promulgation)).
 

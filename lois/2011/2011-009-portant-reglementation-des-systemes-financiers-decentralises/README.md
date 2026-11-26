@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 18 BIS du 2011-06-27, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-009-portant-reglementation-des-systemes-financiers-decentralises
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-009-portant-reglementation-des-systemes-financiers-decentralises
 
 En vigueur / in force: 2011-05-12 (promulgation (default: laws take effect on promulgation)).
 

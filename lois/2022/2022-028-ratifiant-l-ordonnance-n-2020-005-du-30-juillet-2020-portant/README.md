@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 63 BIS du 27/12/2022, page 42.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-028-du-27-decembre-2022-ratifiant-lordonnance-n-2020-005-du-30-juillet-2020-portant-loi-de-finances-rectificative-pour-la-gestion-2020-et-relative-aux-mesures-daccompagnement-dordre-fiscal-et-douanier-liees-a-la-pandemie-du-coronavirus-covid-19
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-028-du-27-decembre-2022-ratifiant-lordonnance-n-2020-005-du-30-juillet-2020-portant-loi-de-finances-rectificative-pour-la-gestion-2020-et-relative-aux-mesures-daccompagnement-dordre-fiscal-et-douanier-liees-a-la-pandemie-du-coronavirus-covid-19
 
 En vigueur / in force: 2022-12-27 (promulgation (default: laws take effect on promulgation)).
 

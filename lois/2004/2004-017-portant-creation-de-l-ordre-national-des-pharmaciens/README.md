@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 50E ANNEE N° 25 du 2004-09-30, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2004-017-du-30-septembre-2004-portant-creation-de-lordre-national-des-pharmaciens
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2004-017-du-30-septembre-2004-portant-creation-de-lordre-national-des-pharmaciens
 
 En vigueur / in force: 2004-09-30 (promulgation (default: laws take effect on promulgation)).
 

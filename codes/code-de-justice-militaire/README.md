@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 13 du 2016-04-21, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-008-du-21-avril-2016-portant-nouveau-code-de-justice-militaire
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-008-du-21-avril-2016-portant-nouveau-code-de-justice-militaire
 
 En vigueur / in force: 2016-04-21 (promulgation (default: laws take effect on promulgation)).
 

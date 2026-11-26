@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 62E ANNEE N° 21 QUARTO du 2017-07-07, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-dorientation-de-lenseignement-superieur-et-de-la-recherche
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-dorientation-de-lenseignement-superieur-et-de-la-recherche
 
 En vigueur / in force: 2017-06-19 (promulgation (default: laws take effect on promulgation)).
 

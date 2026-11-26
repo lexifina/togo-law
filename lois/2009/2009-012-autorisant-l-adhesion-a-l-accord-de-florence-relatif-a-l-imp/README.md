@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 21 BIS du 2009-06-30, page 11.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-012-autorisant-ladhesion-a-laccord-de-florence-relatif-a-limportation-dobjets-de-caractere-educatif-scientifique-ou-culturel
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-012-autorisant-ladhesion-a-laccord-de-florence-relatif-a-limportation-dobjets-de-caractere-educatif-scientifique-ou-culturel
 
 En vigueur / in force: 2009-06-26 (promulgation (default: laws take effect on promulgation)).
 

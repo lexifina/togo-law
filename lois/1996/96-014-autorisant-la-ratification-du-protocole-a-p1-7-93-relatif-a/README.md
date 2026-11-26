@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 3 SPECIAL du 1997-01-12, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-ap1793-relatif-a-lagence-monetaire-de-lafrique-de-louest-amao
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-ap1793-relatif-a-lagence-monetaire-de-lafrique-de-louest-amao
 
 En vigueur / in force: 1996-12-30 (promulgation (default: laws take effect on promulgation)).
 

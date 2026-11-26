@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 40E ANNEE N° 2 du 1995-01-16, page 68.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-95-004-portant-autorisation-de-ratification-du-protocole-relatif-a-la-cour-de-justice-de-la-communaute-signe-a-abuja-le-6-juillet-1991
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-95-004-portant-autorisation-de-ratification-du-protocole-relatif-a-la-cour-de-justice-de-la-communaute-signe-a-abuja-le-6-juillet-1991
 
 En vigueur / in force: 1995-01-04 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N° 17 TER du 1998-06-11, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-98-009-du-28-mai-1998-portant-regime-fiscal-des-societes-de-capital-risque
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-98-009-du-28-mai-1998-portant-regime-fiscal-des-societes-de-capital-risque
 
 En vigueur / in force: 1998-05-28 (promulgation (default: laws take effect on promulgation)).
 

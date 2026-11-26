@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 28 TER du 2019-11-06, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n2019-017-du-06-novembre-2019-portant-modification-de-la-loi-n-2012-002-du-29-mai-2012-portant-code-electoral-modifiee-par-la-loi-n-2013-004-du-19-fevrier-2013-et-la-loi-n-2013-008-du-22-mars-2013
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n2019-017-du-06-novembre-2019-portant-modification-de-la-loi-n-2012-002-du-29-mai-2012-portant-code-electoral-modifiee-par-la-loi-n-2013-004-du-19-fevrier-2013-et-la-loi-n-2013-008-du-22-mars-2013
 
 En vigueur / in force: 2019-11-06 (promulgation (default: laws take effect on promulgation)).
 

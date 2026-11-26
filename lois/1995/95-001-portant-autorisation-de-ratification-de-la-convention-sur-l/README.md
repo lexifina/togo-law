@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 40E ANNEE N° 2 du 1995-01-16, page 67.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-95-001-portant-autorisation-de-ratification-de-la-convention-sur-lentraide-judiciaire-en-matiere-penale-signee-a-dakar-le-29-juillet-1992
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-95-001-portant-autorisation-de-ratification-de-la-convention-sur-lentraide-judiciaire-en-matiere-penale-signee-a-dakar-le-29-juillet-1992
 
 En vigueur / in force: 1995-01-04 (promulgation (default: laws take effect on promulgation)).
 

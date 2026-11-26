@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N° 8 SPECIAL du 2001-03-12, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-laccord-de-partenariat-entre-les-membres-du-groupe-des-etats-dafrique-des-caraibes-et-du-pacifique-dune-part-et-la-communaute-europeenne-et-ses-etats-membres-dautre-part-signe-a-cotonou-le-23-juin-2000
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-laccord-de-partenariat-entre-les-membres-du-groupe-des-etats-dafrique-des-caraibes-et-du-pacifique-dune-part-et-la-communaute-europeenne-et-ses-etats-membres-dautre-part-signe-a-cotonou-le-23-juin-2000
 
 En vigueur / in force: 2001-03-12 (promulgation (default: laws take effect on promulgation)).
 

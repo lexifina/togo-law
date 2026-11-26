@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 3 SPECIAL du 1997-01-12, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-programme-des-investissements-publics-de-letat-pour-lannee-1996
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-programme-des-investissements-publics-de-letat-pour-lannee-1996
 
 En vigueur / in force: 1996-08-16 (promulgation (default: laws take effect on promulgation)).
 

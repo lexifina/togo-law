@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 9 TER du 2018-06-14, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-005-du-14062018-portant-code-foncier-et-domanial
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-005-du-14062018-portant-code-foncier-et-domanial
 
 En vigueur / in force: 2018-06-14 (promulgation (default: laws take effect on promulgation)).
 

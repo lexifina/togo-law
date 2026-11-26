@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 32 BIS du 2009-09-07, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-reglementation-bancaire
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-reglementation-bancaire
 
 En vigueur / in force: 2009-09-07 (promulgation (default: laws take effect on promulgation)).
 

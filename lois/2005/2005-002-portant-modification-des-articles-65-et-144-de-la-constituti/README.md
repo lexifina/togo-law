@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 50E ANNEE N° 5 SPECIAL du 2005-02-06, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-002-du-6-fevrier-2005-portant-modification-des-articles-65-et-144-de-la-constitution
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-002-du-6-fevrier-2005-portant-modification-des-articles-65-et-144-de-la-constitution
 
 En vigueur / in force: 2005-02-06 (promulgation (default: laws take effect on promulgation)).
 

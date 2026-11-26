@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 18 BIS du 2011-06-27, page 24.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-012-autorisant-la-ratification-des-actes-finals-de-la-conference-regionale-des-radiocommunications-chargee-de-planifier-le-service-de-radiodiffusion-numerique-de-terre-dans-certaines-parties-des-regions-1-et-3-dans-les-bandes-de-frequences-174-230-mhz-et-470-862-mhz-adoptee-a-geneve-le-16-juin-2006
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-012-autorisant-la-ratification-des-actes-finals-de-la-conference-regionale-des-radiocommunications-chargee-de-planifier-le-service-de-radiodiffusion-numerique-de-terre-dans-certaines-parties-des-regions-1-et-3-dans-les-bandes-de-frequences-174-230-mhz-et-470-862-mhz-adoptee-a-geneve-le-16-juin-2006
 
 En vigueur / in force: 2011-05-26 (promulgation (default: laws take effect on promulgation)).
 

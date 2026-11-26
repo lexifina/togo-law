@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 55E ANNEE N° 20 BIS du 2011-07-04, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-017-du-16-juin-2011-portant-charte-des-activites-physiques-et-sportives-du-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-017-du-16-juin-2011-portant-charte-des-activites-physiques-et-sportives-du-togo
 
 En vigueur / in force: 2011-06-16 (promulgation (default: laws take effect on promulgation)).
 

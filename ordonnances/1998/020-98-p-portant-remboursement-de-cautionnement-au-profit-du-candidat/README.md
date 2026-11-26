@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N° 21 BIS du 1998-08-06, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-02098p-du-5-aout-1998-portant-remboursement-de-cautionnement-au-profit-du-candidat-du-car
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-02098p-du-5-aout-1998-portant-remboursement-de-cautionnement-au-profit-du-candidat-du-car
 
 En vigueur / in force: 1998-08-05 (promulgation (default: laws take effect on promulgation)).
 

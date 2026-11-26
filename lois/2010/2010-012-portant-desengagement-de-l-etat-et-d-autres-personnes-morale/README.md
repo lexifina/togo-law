@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 55E ANNEE N° 43 SPECIAL du 31/12/2010, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-012-portant-desengagement-de-letat-et-dautres-personnes-morales-de-droit-public-des-entreprises-publiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-012-portant-desengagement-de-letat-et-dautres-personnes-morales-de-droit-public-des-entreprises-publiques
 
 En vigueur / in force: 2010-10-07 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 21 SPECIAL du 20/06/2016, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-012-du-20-juin-2016-portant-statut-de-lartiste
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-012-du-20-juin-2016-portant-statut-de-lartiste
 
 En vigueur / in force: 2016-06-20 (promulgation (default: laws take effect on promulgation)).
 

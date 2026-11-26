@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 25 BIS du 2022-06-24, page 8.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-010-du-24-juin-2022-portant-modification-de-la-loi-n-2020-009-du-10-septembre-2020-relative-a-lidentification-biometrique-des-personnes-physiques-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-010-du-24-juin-2022-portant-modification-de-la-loi-n-2020-009-du-10-septembre-2020-relative-a-lidentification-biometrique-des-personnes-physiques-au-togo
 
 En vigueur / in force: 2022-06-24 (promulgation (default: laws take effect on promulgation)).
 

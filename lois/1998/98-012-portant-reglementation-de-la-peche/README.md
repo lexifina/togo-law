@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N° 17 TER du 1998-06-11, page 16.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-98-012-du-11-juin-1998-portant-reglementation-de-la-peche
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-98-012-du-11-juin-1998-portant-reglementation-de-la-peche
 
 En vigueur / in force: 1998-06-11 (promulgation (default: laws take effect on promulgation)).
 

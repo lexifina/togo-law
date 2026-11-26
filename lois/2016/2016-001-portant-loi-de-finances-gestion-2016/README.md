@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 2 SPECIAL du 2016-01-04, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-001-du-04-janvier-2016-portant-loi-de-finances-gestion-2016
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-001-du-04-janvier-2016-portant-loi-de-finances-gestion-2016
 
 En vigueur / in force: 2016-01-04 (promulgation (default: laws take effect on promulgation)).
 

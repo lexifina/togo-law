@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 25 BIS du 2026-04-09, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-004-du-24-mars-2026-portant-repression-du-faux-monnayage-et-des-autres-atteintes-aux-signes-monetaires-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-004-du-24-mars-2026-portant-repression-du-faux-monnayage-et-des-autres-atteintes-aux-signes-monetaires-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
 
 En vigueur / in force: 2026-03-24 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,9 +2,9 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 28 du 2007-07-06, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2007-013-du-19-juin-2007-determinant-le-statut-des-anciens-presidents-de-lassemblee-nationale
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2007-013-du-19-juin-2007-determinant-le-statut-des-anciens-presidents-de-lassemblee-nationale
 
-En vigueur / in force: 2007-06-19 (promulgation (default: laws take effect on promulgation)).
+En vigueur / in force: 2007-06-19 (promulgation (stated in the text)).
 
 | Fichier | Disposition |
 | --- | --- |

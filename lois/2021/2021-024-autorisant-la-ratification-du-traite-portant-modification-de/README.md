@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 50 BIS du 2021-12-08, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-traite-portant-modification-des-dispositions-du-traite-de-lunion-monetaire-ouest-africaine-du-20-janvier-2007-relatives-a-la-denomination-du-conseil-regional-de-lepargne-publique-et-des-marches-financiers-adopte-a-abidjan-le-12-juillet-2019
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-traite-portant-modification-des-dispositions-du-traite-de-lunion-monetaire-ouest-africaine-du-20-janvier-2007-relatives-a-la-denomination-du-conseil-regional-de-lepargne-publique-et-des-marches-financiers-adopte-a-abidjan-le-12-juillet-2019
 
 En vigueur / in force: 2021-11-29 (promulgation (default: laws take effect on promulgation)).
 

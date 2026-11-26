@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 49E ANNEE N° 6 SPECIAL du 2004-02-23, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-relatif-a-la-creation-du-conseil-de-paix-et-de-securite-de-lunion-africaine-adopte-a-durban-le-9-juillet-2002
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-relatif-a-la-creation-du-conseil-de-paix-et-de-securite-de-lunion-africaine-adopte-a-durban-le-9-juillet-2002
 
 En vigueur / in force: 2004-02-23 (promulgation (default: laws take effect on promulgation)).
 

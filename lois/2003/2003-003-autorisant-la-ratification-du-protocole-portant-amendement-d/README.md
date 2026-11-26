@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 8 SPECIAL du 2003-03-06, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-003-du-5-mars-2003-autorisant-la-ratification-du-protocole-portant-amendement-de-larticle-50-alinea-a-de-la-convention-de-chicago-relative-a-laviation-civile-internationale-adopte-le-26-octobre-1990-a-montreal
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-003-du-5-mars-2003-autorisant-la-ratification-du-protocole-portant-amendement-de-larticle-50-alinea-a-de-la-convention-de-chicago-relative-a-laviation-civile-internationale-adopte-le-26-octobre-1990-a-montreal
 
 En vigueur / in force: 2003-03-05 (promulgation (default: laws take effect on promulgation)).
 

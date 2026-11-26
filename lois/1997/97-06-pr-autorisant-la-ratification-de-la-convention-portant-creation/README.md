@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 19 SPECIAL du 1997-07-09, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-portant-creation-du-conseil-regional-de-lepargne-publique-et-des-marches-financiers
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-portant-creation-du-conseil-regional-de-lepargne-publique-et-des-marches-financiers
 
 En vigueur / in force: 1997-05-28 (promulgation (default: laws take effect on promulgation)).
 

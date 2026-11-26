@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 27 BIS du 2022-07-04, page 13.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-012-du-04-juillet-2022-modifiant-la-loi-n-2019-018-du-15-novembre-2019-portant-attributions-et-fonctionnement-du-district-autonome-du-grand-lome
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-012-du-04-juillet-2022-modifiant-la-loi-n-2019-018-du-15-novembre-2019-portant-attributions-et-fonctionnement-du-district-autonome-du-grand-lome
 
 En vigueur / in force: 2022-07-04 (promulgation (default: laws take effect on promulgation)).
 

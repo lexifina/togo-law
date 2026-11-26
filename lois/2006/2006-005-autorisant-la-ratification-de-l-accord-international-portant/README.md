@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 51E ANNEE N° 21 du 2006-07-05, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-005-autorisant-la-ratification-de-laccord-international-portant-code-benino-togolais-de-lelectricite-signe-a-cotonou-le-23-decembre-2003
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-005-autorisant-la-ratification-de-laccord-international-portant-code-benino-togolais-de-lelectricite-signe-a-cotonou-le-23-decembre-2003
 
 En vigueur / in force: 2006-07-03 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 42 SPECIAL du 2010-12-27, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-013-du-22-decembre-2010-portant-dissolution-du-fonds-de-developpement-du-secteur-de-leau-potable-et-de-lassainissement-en-milieu-urbain-au-togo-fodesepa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-013-du-22-decembre-2010-portant-dissolution-du-fonds-de-developpement-du-secteur-de-leau-potable-et-de-lassainissement-en-milieu-urbain-au-togo-fodesepa
 
 En vigueur / in force: 2010-12-22 (promulgation (default: laws take effect on promulgation)).
 

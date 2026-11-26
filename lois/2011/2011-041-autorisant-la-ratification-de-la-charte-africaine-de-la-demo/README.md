@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 3 SPECIAL du 2012-01-03, page 8.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-041-autorisant-la-ratification-de-la-charte-africaine-de-la-democratie-des-elections-et-de-la-gouvernance-adoptee-a-addis-abeba-le-30-janvier-2007
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-041-autorisant-la-ratification-de-la-charte-africaine-de-la-democratie-des-elections-et-de-la-gouvernance-adoptee-a-addis-abeba-le-30-janvier-2007
 
 En vigueur / in force: 2011-12-30 (promulgation (default: laws take effect on promulgation)).
 

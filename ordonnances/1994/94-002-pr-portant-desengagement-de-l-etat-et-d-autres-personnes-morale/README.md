@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 39E ANNEE N° 17 SPECIAL du 1994-06-10, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-94-002pr-du-10-juin-1994-portant-desengagement-de-letat-et-dautres-personnes-morales-de-droit-public-des-entreprises
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-94-002pr-du-10-juin-1994-portant-desengagement-de-letat-et-dautres-personnes-morales-de-droit-public-des-entreprises
 
 En vigueur / in force: 1994-06-10 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 41E ANNEE N° 4 SPECIAL du 1996-02-09, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-96-001pr-portant-determination-et-fixation-de-lindemnite-parlementaire-et-des-autres-avantages-dus-aux-deputes
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-96-001pr-portant-determination-et-fixation-de-lindemnite-parlementaire-et-des-autres-avantages-dus-aux-deputes
 
 En vigueur / in force: 1996-02-02 (promulgation (default: laws take effect on promulgation)).
 

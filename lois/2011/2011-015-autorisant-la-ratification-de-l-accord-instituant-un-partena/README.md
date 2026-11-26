@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 18 BIS du 2011-06-27, page 29.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-015-autorisant-la-ratification-de-laccord-instituant-un-partenariat-de-defense-entre-le-gouvernement-de-la-republique-francaise-et-le-gouvernement-de-la-republique-togolaise-signe-a-lome-le-13-mars-2009
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-015-autorisant-la-ratification-de-laccord-instituant-un-partenariat-de-defense-entre-le-gouvernement-de-la-republique-francaise-et-le-gouvernement-de-la-republique-togolaise-signe-a-lome-le-13-mars-2009
 
 En vigueur / in force: 2011-06-08 (promulgation (default: laws take effect on promulgation)).
 

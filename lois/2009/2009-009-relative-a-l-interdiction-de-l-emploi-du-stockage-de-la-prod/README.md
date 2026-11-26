@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 21 BIS du 2009-06-30, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-009-relative-a-linterdiction-de-lemploi-du-stockage-de-la-production-et-du-transfert-des-mines-antipersonnel-et-sur-leur-destruction
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-009-relative-a-linterdiction-de-lemploi-du-stockage-de-la-production-et-du-transfert-des-mines-antipersonnel-et-sur-leur-destruction
 
 En vigueur / in force: 2009-06-05 (promulgation (default: laws take effect on promulgation)).
 

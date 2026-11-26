@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 33 SPECIAL du 2012-07-06, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2012-013-fixant-le-nombre-de-deputes-a-lassemblee-nationale-les-conditions-deligibilite-le-regime-des-incompatibilites-et-les-conditions-dans-lesquelles-il-est-pourvu-aux-sieges-vacants
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2012-013-fixant-le-nombre-de-deputes-a-lassemblee-nationale-les-conditions-deligibilite-le-regime-des-incompatibilites-et-les-conditions-dans-lesquelles-il-est-pourvu-aux-sieges-vacants
 
 En vigueur / in force: 2012-07-06 (promulgation (default: laws take effect on promulgation)).
 

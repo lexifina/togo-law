@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 44E ANNEE N° 7 SPECIAL du 1999-03-04, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-99-003-du-12-fevrier-1999-portant-code-des-hydrocarbures-de-la-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-99-003-du-12-fevrier-1999-portant-code-des-hydrocarbures-de-la-republique-togolaise
 
 En vigueur / in force: 1999-02-12 (promulgation (default: laws take effect on promulgation)).
 

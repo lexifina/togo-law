@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 20 BIS du 2022-05-30, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-006-relative-a-la-chambre-de-commerce-et-dindustrie-du-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-006-relative-a-la-chambre-de-commerce-et-dindustrie-du-togo
 
 En vigueur / in force: 2022-05-23 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 15 du 2018-08-17, page 24.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-014-portant-loi-de-reglement-du-budget-de-letat-gestion-2014
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-014-portant-loi-de-reglement-du-budget-de-letat-gestion-2014
 
 En vigueur / in force: 2018-08-16 (promulgation (default: laws take effect on promulgation)).
 

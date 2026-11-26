@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 29 SPECIAL du 2002-09-12, page 6.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-011-du-26-fevrier-2002-autorisant-la-ratification-de-la-convention-internationale-pour-la-repression-des-attentats-terroristes-a-lexplosif-adoptee-par-lassemblee-generale-de-lonu-le-16-decembre-1997
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-011-du-26-fevrier-2002-autorisant-la-ratification-de-la-convention-internationale-pour-la-repression-des-attentats-terroristes-a-lexplosif-adoptee-par-lassemblee-generale-de-lonu-le-16-decembre-1997
 
 En vigueur / in force: 2002-02-26 (promulgation (default: laws take effect on promulgation)).
 

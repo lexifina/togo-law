@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 17 BIS du 2026-03-18, page 9.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-003-du-09-mars-2026-autorisant-la-prorogation-de-letat-durgence-securitaire-dans-la-region-des-savanes
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-003-du-09-mars-2026-autorisant-la-prorogation-de-letat-durgence-securitaire-dans-la-region-des-savanes
 
 En vigueur / in force: 2026-03-09 (promulgation (default: laws take effect on promulgation)).
 

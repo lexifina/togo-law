@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 63 BIS du 27/12/2022, page 43.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-031-du-27-decembre-2022-ratifiant-lordonnance-n-2021-001-du-08-novembre-2021-relative-a-la-presentation-dune-preuve-de-vaccination-contre-la-covid-19-pour-acceder-aux-batiments-administratifs
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-031-du-27-decembre-2022-ratifiant-lordonnance-n-2021-001-du-08-novembre-2021-relative-a-la-presentation-dune-preuve-de-vaccination-contre-la-covid-19-pour-acceder-aux-batiments-administratifs
 
 En vigueur / in force: 2022-12-27 (promulgation (default: laws take effect on promulgation)).
 

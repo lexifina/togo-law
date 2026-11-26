@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 49E ANNEE N° 8 SPECIAL du 2004-03-02, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2004-004-du-1er-mars-2004-sur-la-cour-constitutionnelle
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2004-004-du-1er-mars-2004-sur-la-cour-constitutionnelle
 
 En vigueur / in force: 2004-03-01 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 37 SPECIAL du 2016-12-02, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-034-portant-creation-du-fichier-national-et-des-fichiers-locaux-du-registre-du-commerce-et-du-credit-mobilier-rccm-et-attributions-des-greffiers-charges-de-leur-gestion
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-034-portant-creation-du-fichier-national-et-des-fichiers-locaux-du-registre-du-commerce-et-du-credit-mobilier-rccm-et-attributions-des-greffiers-charges-de-leur-gestion
 
 En vigueur / in force: 2016-12-02 (promulgation (default: laws take effect on promulgation)).
 

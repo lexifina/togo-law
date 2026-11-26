@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 3 SPECIAL du 1997-01-12, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-relative-a-la-composition-a-lorganisation-et-au-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-relative-a-la-composition-a-lorganisation-et-au-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme
 
 En vigueur / in force: 1996-12-11 (promulgation (default: laws take effect on promulgation)).
 

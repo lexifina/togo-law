@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 30 BIS du 2019-11-19, page 17.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-019-portant-loi-de-finances-rectificative-gestion-2019
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-019-portant-loi-de-finances-rectificative-gestion-2019
 
 En vigueur / in force: 2019-11-15 (promulgation (default: laws take effect on promulgation)).
 

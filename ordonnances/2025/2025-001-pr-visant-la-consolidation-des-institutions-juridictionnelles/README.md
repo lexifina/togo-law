@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 70E ANNEE N° 46 BIS du 2025-04-30, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-001pr-du-30042025-visant-la-consolidation-des-institutions-juridictionnelles
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-001pr-du-30042025-visant-la-consolidation-des-institutions-juridictionnelles
 
 En vigueur / in force: 2025-04-30 (promulgation (default: laws take effect on promulgation)).
 

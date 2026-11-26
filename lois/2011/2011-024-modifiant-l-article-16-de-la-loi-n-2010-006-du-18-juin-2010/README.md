@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 55E ANNEE N° 20 BIS du 2011-07-04, page 11.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-024-du-4-juillet-2011-modifiant-larticle-16-de-la-loi-n-2010-006-du-18-juin-2010-portant-organisation-des-services-publics-de-leau-potable-et-de-lassainissement-collectif-des-eaux-usees-domestiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-024-du-4-juillet-2011-modifiant-larticle-16-de-la-loi-n-2010-006-du-18-juin-2010-portant-organisation-des-services-publics-de-leau-potable-et-de-lassainissement-collectif-des-eaux-usees-domestiques
 
 En vigueur / in force: 2011-07-04 (promulgation (default: laws take effect on promulgation)).
 

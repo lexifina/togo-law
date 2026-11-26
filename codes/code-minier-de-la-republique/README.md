@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 41E ANNEE N° 7 du 1996-03-11, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-96-04pr-portant-code-minier-de-la-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-96-04pr-portant-code-minier-de-la-republique-togolaise
 
 En vigueur / in force: 1996-02-26 (promulgation (default: laws take effect on promulgation)).
 

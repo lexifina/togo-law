@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N° 32 SPECIAL du 2001-11-22, page 26.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-11-du-22-novembre-2001-portant-creation-de-fonds-regionaux-interprofessionnels-de-developpement-agricole-frida
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-11-du-22-novembre-2001-portant-creation-de-fonds-regionaux-interprofessionnels-de-developpement-agricole-frida
 
 En vigueur / in force: 2001-11-22 (promulgation (default: laws take effect on promulgation)).
 

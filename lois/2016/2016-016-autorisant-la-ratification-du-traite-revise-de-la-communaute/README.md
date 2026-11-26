@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 62E ANNEE N° 12 SPECIAL du 2017-04-07, page 11.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-traite-revise-de-la-communaute-des-etats-sahelo-sahariens-cen-sad-adopte-le-16-fevrier-2013-a-ndjamena-au-tchad
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-traite-revise-de-la-communaute-des-etats-sahelo-sahariens-cen-sad-adopte-le-16-fevrier-2013-a-ndjamena-au-tchad
 
 En vigueur / in force: 2016-07-07 (promulgation (default: laws take effect on promulgation)).
 

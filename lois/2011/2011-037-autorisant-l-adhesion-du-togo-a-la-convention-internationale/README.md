@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 3 SPECIAL du 2012-01-03, page 6.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-037-autorisant-ladhesion-du-togo-a-la-convention-internationale-sur-la-responsabilite-civile-pour-les-dommages-dus-a-la-pollution-par-les-hydrocarbures-clc-92-signee-a-londres-le-27-novembre-1992
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-037-autorisant-ladhesion-du-togo-a-la-convention-internationale-sur-la-responsabilite-civile-pour-les-dommages-dus-a-la-pollution-par-les-hydrocarbures-clc-92-signee-a-londres-le-27-novembre-1992
 
 En vigueur / in force: 2011-12-30 (promulgation (default: laws take effect on promulgation)).
 

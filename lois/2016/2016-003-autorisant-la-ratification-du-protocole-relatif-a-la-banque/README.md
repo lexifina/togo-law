@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 8 SPECIAL du 11/03/2016, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-003-du-03-mars-2016-autorisant-la-ratification-du-protocole-relatif-a-la-banque-africaine-dinvestissement-bai-et-ses-statuts-adoptes-a-addis-abeba-en-ethiopie-le-04-fevrier-2009
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-003-du-03-mars-2016-autorisant-la-ratification-du-protocole-relatif-a-la-banque-africaine-dinvestissement-bai-et-ses-statuts-adoptes-a-addis-abeba-en-ethiopie-le-04-fevrier-2009
 
 En vigueur / in force: 2016-03-03 (promulgation (default: laws take effect on promulgation)).
 

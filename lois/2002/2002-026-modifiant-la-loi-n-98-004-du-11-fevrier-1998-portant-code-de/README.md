@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 32 du 2002-09-26, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-026-modifiant-la-loi-n-98-004-du-11-fevrier-1998-portant-code-de-la-presse-et-de-la-communication-modifiee-par-la-loi-n-2000-06-du-23-fevrier-2000
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-026-modifiant-la-loi-n-98-004-du-11-fevrier-1998-portant-code-de-la-presse-et-de-la-communication-modifiee-par-la-loi-n-2000-06-du-23-fevrier-2000
 
 En vigueur / in force: 2002-09-25 (promulgation (default: laws take effect on promulgation)).
 

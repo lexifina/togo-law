@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 65E ANNEE N° 47 BIS du 2020-12-24, page 23.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2020-020-du-24122020-relative-a-la-programmation-militaire-2021-2025
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2020-020-du-24122020-relative-a-la-programmation-militaire-2021-2025
 
 En vigueur / in force: 2020-12-24 (promulgation (default: laws take effect on promulgation)).
 

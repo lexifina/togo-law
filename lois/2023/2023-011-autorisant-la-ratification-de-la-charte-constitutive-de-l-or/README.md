@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 55 BIS du 2023-07-19, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-charte-constitutive-de-lorganisation-de-cooperation-educative-oce-adoptee-le-29-janvier-2020-a-djibouti
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-charte-constitutive-de-lorganisation-de-cooperation-educative-oce-adoptee-le-29-janvier-2020-a-djibouti
 
 En vigueur / in force: 2023-07-19 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 37 SPECIAL du 2016-12-02, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-031-de-finances-rectificative-gestion-2016
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-031-de-finances-rectificative-gestion-2016
 
 En vigueur / in force: 2016-12-02 (promulgation (default: laws take effect on promulgation)).
 

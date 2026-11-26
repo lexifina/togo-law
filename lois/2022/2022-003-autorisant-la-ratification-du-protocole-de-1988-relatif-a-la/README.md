@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 12 BIS du 2022-03-31, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-de-1988-relatif-a-la-convention-internationale-de-1966-sur-les-lignes-de-charge-signe-le-11-novembre-1988-a-londres
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-de-1988-relatif-a-la-convention-internationale-de-1966-sur-les-lignes-de-charge-signe-le-11-novembre-1988-a-londres
 
 En vigueur / in force: 2022-03-21 (promulgation (default: laws take effect on promulgation)).
 

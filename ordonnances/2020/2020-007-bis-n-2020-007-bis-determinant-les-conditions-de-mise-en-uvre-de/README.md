@@ -2,9 +2,9 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 14 BIS du 18/03/2021, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2020-007-bis-determinant-les-conditions-de-mise-en-uvre-de-letat-durgence-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2020-007-bis-determinant-les-conditions-de-mise-en-uvre-de-letat-durgence-au-togo
 
-En vigueur / in force: 2020-10-03 (promulgation (default: laws take effect on promulgation)).
+En vigueur / in force: 2020-03-16 (date stated in the text).
 
 | Fichier | Disposition |
 | --- | --- |

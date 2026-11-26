@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 23 SPECIAL du 2004-09-09, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-portant-amendement-de-larticle-20-de-laccord-portant-creation-du-fonds-de-solidarite-africain-fsa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-portant-amendement-de-larticle-20-de-laccord-portant-creation-du-fonds-de-solidarite-africain-fsa
 
 En vigueur / in force: 2004-05-03 (promulgation (default: laws take effect on promulgation)).
 

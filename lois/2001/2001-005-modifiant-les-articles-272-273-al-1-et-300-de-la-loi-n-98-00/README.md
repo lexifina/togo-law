@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N°24 SPECIAL du 2001-08-08, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-5-modifiant-les-articles-272-273-al1-et-300-de-la-loi-n-98-006-du-11-fevrier-1998-portant-decentralisation
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-5-modifiant-les-articles-272-273-al1-et-300-de-la-loi-n-98-006-du-11-fevrier-1998-portant-decentralisation
 
 En vigueur / in force: 2001-03-12 (promulgation (default: laws take effect on promulgation)).
 

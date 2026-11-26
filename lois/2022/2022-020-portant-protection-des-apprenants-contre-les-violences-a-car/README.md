@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 55 BIS du 2022-12-02, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-020-du-021222-portant-protection-des-apprenants-contre-les-violences-a-caractere-sexuel-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-020-du-021222-portant-protection-des-apprenants-contre-les-violences-a-caractere-sexuel-au-togo
 
 En vigueur / in force: 2022-12-02 (promulgation (default: laws take effect on promulgation)).
 

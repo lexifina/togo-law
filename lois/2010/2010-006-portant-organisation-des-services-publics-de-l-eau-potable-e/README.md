@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 55E ANNEE N° 25 du 2010-06-23, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-006-portant-organisation-des-services-publics-de-leau-potable-et-de-lassainissement-collectif-des-eaux-usees-domestiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-006-portant-organisation-des-services-publics-de-leau-potable-et-de-lassainissement-collectif-des-eaux-usees-domestiques
 
 En vigueur / in force: 2010-06-18 (promulgation (default: laws take effect on promulgation)).
 

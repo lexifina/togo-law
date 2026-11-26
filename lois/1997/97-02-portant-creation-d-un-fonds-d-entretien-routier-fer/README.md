@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 3 SPECIAL du 1997-01-12, page 6.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-creation-dun-fonds-dentretien-routier-fer
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-creation-dun-fonds-dentretien-routier-fer
 
 En vigueur / in force: 1997-01-10 (promulgation (default: laws take effect on promulgation)).
 

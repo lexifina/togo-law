@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N° 33 SPECIAL du 1998-12-24, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-98-018-du-23-decembre-1998-autorisant-la-ratification-de-la-convention-n-004ce98-relative-a-linstitution-du-visa-touristique-entente
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-98-018-du-23-decembre-1998-autorisant-la-ratification-de-la-convention-n-004ce98-relative-a-linstitution-du-visa-touristique-entente
 
 En vigueur / in force: 1998-12-23 (promulgation (default: laws take effect on promulgation)).
 

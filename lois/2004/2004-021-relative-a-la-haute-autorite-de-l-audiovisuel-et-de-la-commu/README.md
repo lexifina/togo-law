@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 11E ANNEE N° 12 du 2004-12-15, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2004-021-relative-a-la-haute-autorite-de-laudiovisuel-et-de-la-communication
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2004-021-relative-a-la-haute-autorite-de-laudiovisuel-et-de-la-communication
 
 En vigueur / in force: 2004-12-15 (promulgation (default: laws take effect on promulgation)).
 

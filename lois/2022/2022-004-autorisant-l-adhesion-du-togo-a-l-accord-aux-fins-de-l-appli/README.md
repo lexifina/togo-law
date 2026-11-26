@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 12 BIS du 2022-03-31, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-laccord-aux-fins-de-lapplication-des-dispositions-de-la-convention-des-nations-unies-sur-le-droit-de-la-mer-du-10-decembre-1982-relatives-a-la-conservation-et-a-la-gestion-des-stocks-de-poissons-dont-les-deplacements-seffectuent-tant-a-linterieur-quau-dela-des-zones-economiques-exclusives-stocks-chevauchants-et-des-stocks-des-poissons-grands-migrateurs-adopte-le-4-aout-1995-a-new-york
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-laccord-aux-fins-de-lapplication-des-dispositions-de-la-convention-des-nations-unies-sur-le-droit-de-la-mer-du-10-decembre-1982-relatives-a-la-conservation-et-a-la-gestion-des-stocks-de-poissons-dont-les-deplacements-seffectuent-tant-a-linterieur-quau-dela-des-zones-economiques-exclusives-stocks-chevauchants-et-des-stocks-des-poissons-grands-migrateurs-adopte-le-4-aout-1995-a-new-york
 
 En vigueur / in force: 2022-03-24 (promulgation (default: laws take effect on promulgation)).
 

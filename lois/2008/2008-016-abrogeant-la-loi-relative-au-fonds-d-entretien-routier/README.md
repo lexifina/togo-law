@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 35 SPECIAL du 2008-12-22, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-016-du-19-decembre-2008-abrogeant-la-loi-relative-au-fonds-dentretien-routier
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-016-du-19-decembre-2008-abrogeant-la-loi-relative-au-fonds-dentretien-routier
 
 En vigueur / in force: 2008-12-19 (promulgation (default: laws take effect on promulgation)).
 

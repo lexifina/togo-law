@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 55 BIS du 2023-07-19, page 8.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-relative-aux-centres-de-gestion-agrees-cga
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-relative-aux-centres-de-gestion-agrees-cga
 
 En vigueur / in force: 2023-07-19 (promulgation (default: laws take effect on promulgation)).
 

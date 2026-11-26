@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 41 BIS du 2011-12-30, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-035-du-30-decembre-2011-portant-loi-de-finances-gestion-2012
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-035-du-30-decembre-2011-portant-loi-de-finances-gestion-2012
 
 En vigueur / in force: 2011-12-30 (promulgation (default: laws take effect on promulgation)).
 

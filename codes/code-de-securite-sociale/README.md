@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 6 SPECIAL du 21/02/2011, page 11.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-006-portant-code-de-securite-sociale-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-006-portant-code-de-securite-sociale-au-togo
 
 En vigueur / in force: 2011-02-21 (promulgation (default: laws take effect on promulgation)).
 

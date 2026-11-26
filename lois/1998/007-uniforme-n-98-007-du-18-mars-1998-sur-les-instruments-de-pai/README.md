@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N°9 du 1998-03-18, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-uniforme-n-98-007-du-18-mars-1998-sur-les-instruments-de-paiement-cheque-carte-de-paiement-lettre-de-change-billet-a-ordre
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-uniforme-n-98-007-du-18-mars-1998-sur-les-instruments-de-paiement-cheque-carte-de-paiement-lettre-de-change-billet-a-ordre
 
 En vigueur / in force: 1998-03-18 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 40E ANNEE N° 7 SPECIAL du 1995-03-10, page 11.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-95-009-du-1er-mars-1995-portant-reconduction-du-douzieme-provisoire
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-95-009-du-1er-mars-1995-portant-reconduction-du-douzieme-provisoire
 
 En vigueur / in force: 1995-03-01 (promulgation (default: laws take effect on promulgation)).
 

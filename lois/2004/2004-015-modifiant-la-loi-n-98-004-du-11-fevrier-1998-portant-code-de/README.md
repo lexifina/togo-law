@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 23 SPECIAL du 2004-09-09, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-modifiant-la-loi-n-98-004-du-11-fevrier-1998-portant-code-de-la-presse-et-de-la-communication
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-modifiant-la-loi-n-98-004-du-11-fevrier-1998-portant-code-de-la-presse-et-de-la-communication
 
 En vigueur / in force: 2004-08-27 (promulgation (default: laws take effect on promulgation)).
 

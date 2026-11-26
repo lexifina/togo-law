@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 2 du 2008-01-04, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-001-du-4-janvier-2008-portant-loi-de-finances-gestion-2008
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-001-du-4-janvier-2008-portant-loi-de-finances-gestion-2008
 
 En vigueur / in force: 2008-01-04 (promulgation (default: laws take effect on promulgation)).
 

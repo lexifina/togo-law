@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N° 17 TER du 1998-06-11, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-98-010-du-11-juin-1998-portant-composition-organisation-et-fonctionnement-du-conseil-economique-et-social
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-98-010-du-11-juin-1998-portant-composition-organisation-et-fonctionnement-du-conseil-economique-et-social
 
 En vigueur / in force: 1998-06-11 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 63 BIS du 27/12/2022, page 41.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-024-du-27-decembre-2022-ratifiant-lordonnance-n-2020-001-du-05-mai-2020-portant-derogation-a-la-loi-n-2011-018-du-24-juin-2011-portant-statut-de-la-zone-franche-industrielle
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-024-du-27-decembre-2022-ratifiant-lordonnance-n-2020-001-du-05-mai-2020-portant-derogation-a-la-loi-n-2011-018-du-24-juin-2011-portant-statut-de-la-zone-franche-industrielle
 
 En vigueur / in force: 2022-12-27 (promulgation (default: laws take effect on promulgation)).
 

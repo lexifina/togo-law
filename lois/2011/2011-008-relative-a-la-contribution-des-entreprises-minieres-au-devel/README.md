@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 18 BIS du 2011-06-27, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-008-relative-a-la-contribution-des-entreprises-minieres-au-developpement-local-et-regional
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-008-relative-a-la-contribution-des-entreprises-minieres-au-developpement-local-et-regional
 
 En vigueur / in force: 2011-05-05 (promulgation (default: laws take effect on promulgation)).
 

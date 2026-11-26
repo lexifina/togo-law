@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 50E ANNEE N° 26 SPECIAL du 2005-06-20, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-08-du-7-juin-2005-autorisant-la-ratification-du-protocole-asp11201-sur-la-democratie-et-la-bonne-gouvernance-additionnel-au-protocole-relatif-au-mecanisme-de-prevention-de-gestion-de-reglement-des-conflits-de-maintien-de-la-paix-et-de-la-securite-signe-a-dakar-le-21-decembre-2001
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-08-du-7-juin-2005-autorisant-la-ratification-du-protocole-asp11201-sur-la-democratie-et-la-bonne-gouvernance-additionnel-au-protocole-relatif-au-mecanisme-de-prevention-de-gestion-de-reglement-des-conflits-de-maintien-de-la-paix-et-de-la-securite-signe-a-dakar-le-21-decembre-2001
 
 En vigueur / in force: 2005-06-07 (promulgation (default: laws take effect on promulgation)).
 

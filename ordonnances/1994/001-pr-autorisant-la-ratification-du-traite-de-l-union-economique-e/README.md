@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 39E ANNEE N° 14 SPECIAL du 1994-05-11, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-autorisant-la-ratification-du-traite-de-lunion-economique-et-monetaire-ouest-africaine-uemoa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-autorisant-la-ratification-du-traite-de-lunion-economique-et-monetaire-ouest-africaine-uemoa
 
 En vigueur / in force: 1994-05-03 (promulgation (default: laws take effect on promulgation)).
 

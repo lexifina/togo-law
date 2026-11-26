@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 2 SPECIAL du 2007-01-10, page 11.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-005-du-10-janvier-2007-sur-la-sante-de-la-reproduction
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-005-du-10-janvier-2007-sur-la-sante-de-la-reproduction
 
 En vigueur / in force: 2007-01-10 (promulgation (default: laws take effect on promulgation)).
 

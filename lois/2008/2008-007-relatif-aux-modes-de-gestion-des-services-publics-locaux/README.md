@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 20 SPECIAL du 2020-06-20, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-007-relatif-aux-modes-de-gestion-des-services-publics-locaux
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-007-relatif-aux-modes-de-gestion-des-services-publics-locaux
 
 En vigueur / in force: 2008-06-11 (promulgation (default: laws take effect on promulgation)).
 

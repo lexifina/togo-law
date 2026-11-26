@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 92 BIS du 2023-12-27, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n2023-017-du-27-decembre-2023-portant-loi-de-finances-exercice-2024
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n2023-017-du-27-decembre-2023-portant-loi-de-finances-exercice-2024
 
 En vigueur / in force: 2023-12-27 (promulgation (default: laws take effect on promulgation)).
 

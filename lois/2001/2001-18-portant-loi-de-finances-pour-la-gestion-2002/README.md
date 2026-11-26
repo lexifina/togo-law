@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 1 TIER du 2002-01-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-18-portant-loi-de-finances-pour-la-gestion-2002
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-18-portant-loi-de-finances-pour-la-gestion-2002
 
 En vigueur / in force: 2001-12-31 (promulgation (default: laws take effect on promulgation)).
 

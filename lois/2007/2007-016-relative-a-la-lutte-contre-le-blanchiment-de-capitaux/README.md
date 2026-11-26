@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 28 du 2007-07-06, page 6.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-016-du-6-juillet-2007-relative-a-la-lutte-contre-le-blanchiment-de-capitaux
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-016-du-6-juillet-2007-relative-a-la-lutte-contre-le-blanchiment-de-capitaux
 
 En vigueur / in force: 2007-07-06 (promulgation (default: laws take effect on promulgation)).
 

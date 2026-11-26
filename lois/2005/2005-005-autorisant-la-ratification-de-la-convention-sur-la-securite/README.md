@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 50E ANNEE N° 8 SPECIAL du 2005-02-24, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-sur-la-securite-du-personnel-des-nations-unies-et-du-personnel-associe
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-sur-la-securite-du-personnel-des-nations-unies-et-du-personnel-associe
 
 En vigueur / in force: 2005-02-24 (promulgation (default: laws take effect on promulgation)).
 

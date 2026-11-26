@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 40 SPECIAL du 2009-12-03, page 10.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-erection-et-creation-de-prefectures-et-dune-sous-prefecture
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-erection-et-creation-de-prefectures-et-dune-sous-prefecture
 
 En vigueur / in force: 2009-12-03 (promulgation (default: laws take effect on promulgation)).
 

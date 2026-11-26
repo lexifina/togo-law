@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 31 du 2003-09-26, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-au-protocole-sur-la-responsabilite-et-lindemnisation-en-cas-de-dommages-resultant-de-mouvements-transfrontieres-et-de-lelimination-de-dechets-dangereux-adopte-le-10-decembre-1999-a-bale-en-suisse
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-au-protocole-sur-la-responsabilite-et-lindemnisation-en-cas-de-dommages-resultant-de-mouvements-transfrontieres-et-de-lelimination-de-dechets-dangereux-adopte-le-10-decembre-1999-a-bale-en-suisse
 
 En vigueur / in force: 2003-09-26 (promulgation (default: laws take effect on promulgation)).
 

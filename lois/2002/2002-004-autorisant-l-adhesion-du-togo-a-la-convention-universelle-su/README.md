@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 29 SPECIAL du 2002-09-12, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-004-du-26-fevrier-2002-autorisant-ladhesion-du-togo-a-la-convention-universelle-sur-le-droit-dauteur-revisee-a-paris-le-24-juillet-1971
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-004-du-26-fevrier-2002-autorisant-ladhesion-du-togo-a-la-convention-universelle-sur-le-droit-dauteur-revisee-a-paris-le-24-juillet-1971
 
 En vigueur / in force: 2002-02-26 (promulgation (default: laws take effect on promulgation)).
 

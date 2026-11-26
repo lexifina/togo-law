@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 35 SPECIAL du 2003-10-17, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-03-013-relative-au-senat
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-03-013-relative-au-senat
 
 En vigueur / in force: 2003-10-17 (promulgation (default: laws take effect on promulgation)).
 

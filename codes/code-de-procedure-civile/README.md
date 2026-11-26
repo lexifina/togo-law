@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 19 BIS du 21/04/2021, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-007-du-21-avril-2021-portant-code-de-procedure-civile
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-007-du-21-avril-2021-portant-code-de-procedure-civile
 
 En vigueur / in force: 2021-04-21 (promulgation (default: laws take effect on promulgation)).
 

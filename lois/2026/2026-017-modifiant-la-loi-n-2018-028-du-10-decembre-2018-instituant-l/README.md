@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 55 BIS du 2026-08-28, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-modifiant-la-loi-n-2018-028-du-10-decembre-2018-instituant-les-juridictions-commerciales-en-republique-togolaise-modifiee-par-la-loi-n-2020-002-du-07-janvier-2020
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-modifiant-la-loi-n-2018-028-du-10-decembre-2018-instituant-les-juridictions-commerciales-en-republique-togolaise-modifiee-par-la-loi-n-2020-002-du-07-janvier-2020
 
 En vigueur / in force: 2026-08-27 (promulgation (default: laws take effect on promulgation)).
 

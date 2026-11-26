@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 59E ANNEE N° 9 QUARTO du 2014-05-23, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2014-007-autorisant-la-ratification-des-actes-finals-de-la-conference-de-plenipotentiaires-de-lunion-internationale-des-telecommunications-adoptes-a-marrakech-le-18-octobre-2002
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2014-007-autorisant-la-ratification-des-actes-finals-de-la-conference-de-plenipotentiaires-de-lunion-internationale-des-telecommunications-adoptes-a-marrakech-le-18-octobre-2002
 
 En vigueur / in force: 2014-05-23 (promulgation (default: laws take effect on promulgation)).
 

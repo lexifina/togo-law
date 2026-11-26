@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 41 BIS du 2022-10-07, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-prorogation-de-letat-durgence-securitaire
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-prorogation-de-letat-durgence-securitaire
 
 En vigueur / in force: 2022-09-09 (promulgation (default: laws take effect on promulgation)).
 

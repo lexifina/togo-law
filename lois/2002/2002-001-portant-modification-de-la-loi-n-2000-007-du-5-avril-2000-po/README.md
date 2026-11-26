@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 5 du 2002-03-12, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-001-du-12-mars-2002-portant-modification-de-la-loi-n-2000-007-du-5-avril-2000-portant-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-001-du-12-mars-2002-portant-modification-de-la-loi-n-2000-007-du-5-avril-2000-portant-code-electoral
 
 En vigueur / in force: 2002-03-12 (promulgation (default: laws take effect on promulgation)).
 

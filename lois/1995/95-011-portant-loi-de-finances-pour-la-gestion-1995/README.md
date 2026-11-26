@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 40E ANNEE N° 7 SPECIAL du 1995-03-10, page 20.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-95-011-du-10-mars-1995-portant-loi-de-finances-pour-la-gestion-1995
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-95-011-du-10-mars-1995-portant-loi-de-finances-pour-la-gestion-1995
 
 En vigueur / in force: 1995-03-10 (promulgation (default: laws take effect on promulgation)).
 

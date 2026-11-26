@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 58E ANNEE N° 7 SPECIAL du 2013-02-25, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-003-du-19022013-portant-modification-de-la-loi-n-2012-018-du-17-decembre-2012-sur-les-communications-electroniques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-003-du-19022013-portant-modification-de-la-loi-n-2012-018-du-17-decembre-2012-sur-les-communications-electroniques
 
 En vigueur / in force: 2013-02-19 (promulgation (default: laws take effect on promulgation)).
 

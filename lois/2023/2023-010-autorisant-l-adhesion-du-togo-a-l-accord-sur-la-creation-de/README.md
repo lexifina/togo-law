@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 39 BIS du 2023-05-25, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-laccord-sur-la-creation-de-linstitut-mondial-de-la-croissance-verte-adopte-le-20-juin-2012-a-rio-de-janeiro
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-laccord-sur-la-creation-de-linstitut-mondial-de-la-croissance-verte-adopte-le-20-juin-2012-a-rio-de-janeiro
 
 En vigueur / in force: 2023-05-19 (promulgation (default: laws take effect on promulgation)).
 

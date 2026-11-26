@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 36 BIS du 2026-05-28, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-a-la-charte-africaine-des-droits-de-lhomme-et-des-peuples-relatifs-aux-droits-des-personnes-handicapees-en-afrique-adopte-le-29-janvier-2018-a-addis-abeba-en-ethiopie
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-du-protocole-a-la-charte-africaine-des-droits-de-lhomme-et-des-peuples-relatifs-aux-droits-des-personnes-handicapees-en-afrique-adopte-le-29-janvier-2018-a-addis-abeba-en-ethiopie
 
 En vigueur / in force: 2026-05-22 (promulgation (default: laws take effect on promulgation)).
 

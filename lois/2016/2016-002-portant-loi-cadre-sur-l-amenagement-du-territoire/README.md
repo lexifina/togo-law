@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 2 SPECIAL du 2016-01-04, page 7.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-002-du-04-janvier-2016-portant-loi-cadre-sur-lamenagement-du-territoire
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-002-du-04-janvier-2016-portant-loi-cadre-sur-lamenagement-du-territoire
 
 En vigueur / in force: 2016-01-04 (promulgation (default: laws take effect on promulgation)).
 

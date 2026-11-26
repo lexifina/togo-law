@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 11 BIS du 2018-06-27, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-008-portant-loi-de-finances-rectificative-gestion-2018
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-008-portant-loi-de-finances-rectificative-gestion-2018
 
 En vigueur / in force: 2018-06-27 (promulgation (default: laws take effect on promulgation)).
 

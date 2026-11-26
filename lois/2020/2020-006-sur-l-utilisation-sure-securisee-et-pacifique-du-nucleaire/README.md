@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 65E ANNEE N° 19 BIS du 2020-06-10, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2020-006-du-10062020-sur-lutilisation-sure-securisee-et-pacifique-du-nucleaire
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2020-006-du-10062020-sur-lutilisation-sure-securisee-et-pacifique-du-nucleaire
 
 En vigueur / in force: 2020-06-10 (promulgation (default: laws take effect on promulgation)).
 

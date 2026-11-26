@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N° 30 SPECIAL du 1998-11-21, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-98-016-du-17-novembre-1998-portant-interdiction-des-mutilations-genitales-feminines-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-98-016-du-17-novembre-1998-portant-interdiction-des-mutilations-genitales-feminines-au-togo
 
 En vigueur / in force: 1998-11-17 (promulgation (default: laws take effect on promulgation)).
 

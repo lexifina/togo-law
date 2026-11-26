@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 51 BIS du 2026-07-31, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-au-protocole-de-2000-sur-la-preparation-la-lutte-et-la-cooperation-contre-les-evenements-de-pollution-par-les-substances-nocives-et-potentiellement-dangereuses-oprc-hns-2000
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-au-protocole-de-2000-sur-la-preparation-la-lutte-et-la-cooperation-contre-les-evenements-de-pollution-par-les-substances-nocives-et-potentiellement-dangereuses-oprc-hns-2000
 
 En vigueur / in force: 2026-07-31 (promulgation (default: laws take effect on promulgation)).
 

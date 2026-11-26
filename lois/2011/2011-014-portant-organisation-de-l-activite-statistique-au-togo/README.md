@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 18 BIS du 2011-06-27, page 25.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-014-portant-organisation-de-lactivite-statistique-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-014-portant-organisation-de-lactivite-statistique-au-togo
 
 En vigueur / in force: 2011-06-03 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 7 SPECIAL du 2018-05-04, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-004-relative-a-la-lutte-contre-le-blanchiment-de-capitaux-et-le-financement-du-terrorisme-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-004-relative-a-la-lutte-contre-le-blanchiment-de-capitaux-et-le-financement-du-terrorisme-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
 
 En vigueur / in force: 2018-05-04 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 29 TER du 2009-08-24, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-018-du-24-aout-2009-portant-modification-du-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-018-du-24-aout-2009-portant-modification-du-code-electoral
 
 En vigueur / in force: 2009-08-24 (promulgation (default: laws take effect on promulgation)).
 

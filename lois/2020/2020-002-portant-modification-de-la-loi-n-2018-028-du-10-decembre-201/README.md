@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 65E ANNEE N° 1 BIS du 2020-01-07, page 23.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-modification-de-la-loi-n-2018-028-du-10-decembre-2018-instituant-les-juridictions-commerciales-en-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-modification-de-la-loi-n-2018-028-du-10-decembre-2018-instituant-les-juridictions-commerciales-en-republique-togolaise
 
 En vigueur / in force: 2020-01-07 (promulgation (default: laws take effect on promulgation)).
 

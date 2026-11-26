@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 70E ANNEE N° 46 TER du 2025-04-30, page 29.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-006-du-30-avril-2025-fixant-les-attributions-la-composition-lorganisation-et-le-fonctionnement-du-conseil-economique-social-et-environnemental
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-006-du-30-avril-2025-fixant-les-attributions-la-composition-lorganisation-et-le-fonctionnement-du-conseil-economique-social-et-environnemental
 
 En vigueur / in force: 2025-04-30 (promulgation (default: laws take effect on promulgation)).
 

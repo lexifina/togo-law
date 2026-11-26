@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 2 SPECIAL du 1997-01-09, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-96-15-portant-loi-des-finances-pour-la-gestion-1997
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-96-15-portant-loi-des-finances-pour-la-gestion-1997
 
 En vigueur / in force: 1996-12-30 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N° 5 du 1998-02-11, page 16.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-sur-les-telecommunications
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-sur-les-telecommunications
 
 En vigueur / in force: 1998-02-11 (promulgation (default: laws take effect on promulgation)).
 

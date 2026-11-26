@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 11 SPECIAL du 2007-03-01, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-010-du-1er-mars-2007-portant-statut-general-des-personnels-militaires-des-forces-armees-togolaises
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-010-du-1er-mars-2007-portant-statut-general-des-personnels-militaires-des-forces-armees-togolaises
 
 En vigueur / in force: 2007-03-01 (promulgation (default: laws take effect on promulgation)).
 

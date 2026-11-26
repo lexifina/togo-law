@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 44E ANNEE N° 13 SPECIAL du 1999-04-20, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-02299cc-p-donnant-acte-du-desistement-daction-de-m-messavi-kokavi
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-02299cc-p-donnant-acte-du-desistement-daction-de-m-messavi-kokavi
 
 En vigueur / in force: 1999-04-06 (promulgation (default: laws take effect on promulgation)).
 

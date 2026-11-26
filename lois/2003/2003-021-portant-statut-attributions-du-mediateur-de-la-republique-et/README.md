@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 49E ANNEE N° 44 du 2003-12-27, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2003-021-du-9-decembre-2003-portant-statut-attributions-du-mediateur-de-la-republique-et-composition-organisation-et-fonctionnement-de-ses-services
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2003-021-du-9-decembre-2003-portant-statut-attributions-du-mediateur-de-la-republique-et-composition-organisation-et-fonctionnement-de-ses-services
 
 En vigueur / in force: 2003-12-09 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 18 BIS du 2011-06-27, page 24.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-013-modifiant-la-loi-n-97-12-du-9-juillet-1997-portant-creation-organisation-et-fonctionnement-des-chambres-regionales-dagriculture-cra
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-013-modifiant-la-loi-n-97-12-du-9-juillet-1997-portant-creation-organisation-et-fonctionnement-des-chambres-regionales-dagriculture-cra
 
 En vigueur / in force: 2011-05-27 (promulgation (default: laws take effect on promulgation)).
 

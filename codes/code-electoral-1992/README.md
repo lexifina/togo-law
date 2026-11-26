@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 37E ANNEE N° 23 du 1992-07-10, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-92-003-du-8-7-92-portant-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-92-003-du-8-7-92-portant-code-electoral
 
 En vigueur / in force: 1992-07-08 (promulgation (default: laws take effect on promulgation)).
 

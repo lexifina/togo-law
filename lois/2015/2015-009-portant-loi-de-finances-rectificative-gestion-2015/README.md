@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 60E ANNEE N° 31 TER du 2015-12-02, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-009-du-12-novembre-2015-portant-loi-de-finances-rectificative-gestion-2015
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-009-du-12-novembre-2015-portant-loi-de-finances-rectificative-gestion-2015
 
 En vigueur / in force: 2015-11-12 (promulgation (default: laws take effect on promulgation)).
 

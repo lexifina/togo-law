@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 23 SPECIAL du 2004-09-09, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-instituant-un-cadre-juridique-pour-la-creation-des-centres-de-gestion-agrees-cga
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-instituant-un-cadre-juridique-pour-la-creation-des-centres-de-gestion-agrees-cga
 
 En vigueur / in force: 2004-06-15 (promulgation (default: laws take effect on promulgation)).
 

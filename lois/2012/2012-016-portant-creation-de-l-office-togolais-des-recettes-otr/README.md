@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 54 BIS du 2012-12-15, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2012-016-du-14-decembre-2012-portant-creation-de-loffice-togolais-des-recettes-otr
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2012-016-du-14-decembre-2012-portant-creation-de-loffice-togolais-des-recettes-otr
 
 En vigueur / in force: 2012-12-14 (promulgation (default: laws take effect on promulgation)).
 

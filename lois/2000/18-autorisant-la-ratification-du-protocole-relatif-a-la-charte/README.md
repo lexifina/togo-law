@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 34 SPECIAL du 2000-12-29, page 7.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-18-autorisant-la-ratification-du-protocole-relatif-a-la-charte-africaine-des-droits-de-lhomme-et-des-peuples-portant-creation-dune-cour-africaine-des-droits-de-lhomme-et-des-peuples
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-18-autorisant-la-ratification-du-protocole-relatif-a-la-charte-africaine-des-droits-de-lhomme-et-des-peuples-portant-creation-dune-cour-africaine-des-droits-de-lhomme-et-des-peuples
 
 En vigueur / in force: 2000-12-29 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 41E ANNEE N° 19 du 1996-08-01, page 633.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-96-008-autorisant-la-ratification-du-protocole-additionnel-asp1793-portant-amendement-du-protocole-relatif-aux-contributions-des-etats-membres-au-budget-de-la-communaute-economique-des-etats-de-lafrique-de-louest-cedeao
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-96-008-autorisant-la-ratification-du-protocole-additionnel-asp1793-portant-amendement-du-protocole-relatif-aux-contributions-des-etats-membres-au-budget-de-la-communaute-economique-des-etats-de-lafrique-de-louest-cedeao
 
 En vigueur / in force: 1996-07-26 (promulgation (default: laws take effect on promulgation)).
 

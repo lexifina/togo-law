@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N°9 du 1998-03-18, page 22.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-008-portant-controle-des-drogues
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-008-portant-controle-des-drogues
 
 En vigueur / in force: 1998-03-18 (promulgation (default: laws take effect on promulgation)).
 

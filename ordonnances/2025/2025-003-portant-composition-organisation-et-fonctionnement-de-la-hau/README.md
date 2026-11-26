@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 70E ANNEE N° 46 TER du 2025-04-30, page 9.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-003-du-30-avril-2025-portant-composition-organisation-et-fonctionnement-de-la-haute-autorite-de-regulation-de-la-communication-ecrite-audiovisuelle-et-numerique-harc
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-003-du-30-avril-2025-portant-composition-organisation-et-fonctionnement-de-la-haute-autorite-de-regulation-de-la-communication-ecrite-audiovisuelle-et-numerique-harc
 
 En vigueur / in force: 2025-04-30 (promulgation (default: laws take effect on promulgation)).
 

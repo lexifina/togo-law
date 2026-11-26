@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 9 SPECIAL du 2000-04-05, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-007-portant-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-007-portant-code-electoral
 
 En vigueur / in force: 2000-04-05 (promulgation (default: laws take effect on promulgation)).
 

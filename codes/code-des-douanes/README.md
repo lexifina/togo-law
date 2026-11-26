@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 50E ANNEE N° 7 BIS du 2014-04-28, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2014-003-du-28-avril-2014-portant-code-des-douanes
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2014-003-du-28-avril-2014-portant-code-des-douanes
 
 En vigueur / in force: 2014-04-28 (promulgation (default: laws take effect on promulgation)).
 

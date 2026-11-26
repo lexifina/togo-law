@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 36 SPECIAL du 2008-12-30, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2008-019-du-29-decembre-2008-relative-aux-lois-de-finances
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2008-019-du-29-decembre-2008-relative-aux-lois-de-finances
 
 En vigueur / in force: 2008-12-29 (promulgation (default: laws take effect on promulgation)).
 

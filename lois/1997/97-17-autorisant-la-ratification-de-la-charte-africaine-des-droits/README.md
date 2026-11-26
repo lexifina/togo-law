@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 33 SPECIAL du 1997-12-26, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-97-17-du-24-decembre-1997-autorisant-la-ratification-de-la-charte-africaine-des-droits-et-du-bien-etre-de-lenfant
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-97-17-du-24-decembre-1997-autorisant-la-ratification-de-la-charte-africaine-des-droits-et-du-bien-etre-de-lenfant
 
 En vigueur / in force: 1997-12-24 (promulgation (default: laws take effect on promulgation)).
 

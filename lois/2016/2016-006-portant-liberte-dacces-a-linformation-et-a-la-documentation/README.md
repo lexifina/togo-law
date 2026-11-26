@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 10 SPECIAL du 2016-03-30, page 14.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-006-portant-liberte-dacces-a-linformation-et-a-la-documentation-publiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-006-portant-liberte-dacces-a-linformation-et-a-la-documentation-publiques
 
 En vigueur / in force: 2016-03-30 (promulgation (default: laws take effect on promulgation)).
 

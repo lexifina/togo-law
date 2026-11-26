@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 33TER SPECIAL du 2003-10-14, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-011pr-portant-modalites-de-lelection-des-senateurs
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-011pr-portant-modalites-de-lelection-des-senateurs
 
 En vigueur / in force: 2003-10-09 (promulgation (default: laws take effect on promulgation)).
 

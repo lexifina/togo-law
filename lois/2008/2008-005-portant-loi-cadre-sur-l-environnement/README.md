@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 19 du 2008-06-17, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-005-du-30-mai-2008-portant-loi-cadre-sur-lenvironnement
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-005-du-30-mai-2008-portant-loi-cadre-sur-lenvironnement
 
 En vigueur / in force: 2008-05-30 (promulgation (default: laws take effect on promulgation)).
 

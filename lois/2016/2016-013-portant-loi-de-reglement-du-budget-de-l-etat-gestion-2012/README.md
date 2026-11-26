@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 62E ANNEE N° 3 SPECIAL du 2017-01-17, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-013-du-05072016-portant-loi-de-reglement-du-budget-de-letat-gestion-2012
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-013-du-05072016-portant-loi-de-reglement-du-budget-de-letat-gestion-2012
 
 En vigueur / in force: 2016-07-05 (promulgation (default: laws take effect on promulgation)).
 

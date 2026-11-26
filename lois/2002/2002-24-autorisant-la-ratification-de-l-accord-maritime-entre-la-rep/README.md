@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 34 SPECIAL du 2002-10-10, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-24-autorisant-la-ratification-de-laccord-maritime-entre-la-republique-togolaise-et-lunion-economique-belgo-luxembourgeoise-signe-le-19-octobre-1984-a-bruxelles
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-24-autorisant-la-ratification-de-laccord-maritime-entre-la-republique-togolaise-et-lunion-economique-belgo-luxembourgeoise-signe-le-19-octobre-1984-a-bruxelles
 
 En vigueur / in force: 2002-10-10 (promulgation (default: laws take effect on promulgation)).
 

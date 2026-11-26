@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 69E ANNEE N° 136 BIS du 2024-12-30, page 67.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2024-007-du-30-12-2024-portant-loi-de-finances-exercice-2025
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2024-007-du-30-12-2024-portant-loi-de-finances-exercice-2025
 
 En vigueur / in force: 2024-12-30 (promulgation (default: laws take effect on promulgation)).
 

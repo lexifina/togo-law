@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 49E ANNEE N° 3 SPECIAL du 2005-01-21, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-001-du-21-janvier-2005-portant-modification-du-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-001-du-21-janvier-2005-portant-modification-du-code-electoral
 
 En vigueur / in force: 2005-01-21 (promulgation (default: laws take effect on promulgation)).
 

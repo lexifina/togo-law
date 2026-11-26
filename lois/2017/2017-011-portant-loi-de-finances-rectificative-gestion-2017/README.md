@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 62E ANNEE N° 32 SPECIAL du 2017-11-28, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2017-011-du-241117-portant-loi-de-finances-rectificative-gestion-2017
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2017-011-du-241117-portant-loi-de-finances-rectificative-gestion-2017
 
 En vigueur / in force: 2017-11-24 (promulgation (default: laws take effect on promulgation)).
 

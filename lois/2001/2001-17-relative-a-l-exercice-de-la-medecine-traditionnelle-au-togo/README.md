@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 1 TIER du 2002-01-02, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-17-relative-a-lexercice-de-la-medecine-traditionnelle-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-17-relative-a-lexercice-de-la-medecine-traditionnelle-au-togo
 
 En vigueur / in force: 2001-12-14 (promulgation (default: laws take effect on promulgation)).
 

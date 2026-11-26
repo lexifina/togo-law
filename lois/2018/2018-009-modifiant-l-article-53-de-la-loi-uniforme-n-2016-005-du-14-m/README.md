@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 11 BIS du 2018-06-27, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-009-modifiant-larticle-53-de-la-loi-uniforme-n-2016-005-du-14-mars-2016-portant-reglementation-des-bureaux-dinformation-sur-le-credit-bic-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-009-modifiant-larticle-53-de-la-loi-uniforme-n-2016-005-du-14-mars-2016-portant-reglementation-des-bureaux-dinformation-sur-le-credit-bic-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
 
 En vigueur / in force: 2018-06-27 (promulgation (default: laws take effect on promulgation)).
 

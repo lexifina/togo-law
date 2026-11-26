@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 39 BIS du 2023-05-25, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-laccord-sur-les-privileges-et-immunites-du-tribunal-international-du-droit-de-la-mer-adopte-le-23-mai-1997-a-new-york
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-laccord-sur-les-privileges-et-immunites-du-tribunal-international-du-droit-de-la-mer-adopte-le-23-mai-1997-a-new-york
 
 En vigueur / in force: 2023-05-19 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 18 TER du 2019-08-13, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-relative-a-la-securite-interieure
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-relative-a-la-securite-interieure
 
 En vigueur / in force: 2019-08-12 (promulgation (default: laws take effect on promulgation)).
 

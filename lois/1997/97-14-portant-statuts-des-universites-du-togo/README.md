@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 28 du 1997-10-31, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-97-14-du-10-septembre-1997-portant-statuts-des-universites-du-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-97-14-du-10-septembre-1997-portant-statuts-des-universites-du-togo
 
 En vigueur / in force: 1997-09-10 (promulgation (default: laws take effect on promulgation)).
 

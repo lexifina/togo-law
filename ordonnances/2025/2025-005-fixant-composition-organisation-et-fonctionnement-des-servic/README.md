@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 70E ANNEE N° 46 TER du 2025-04-30, page 23.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-005-du-30-avril-2025-fixant-composition-organisation-et-fonctionnement-des-services-du-protecteur-du-citoyen
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2025-005-du-30-avril-2025-fixant-composition-organisation-et-fonctionnement-des-services-du-protecteur-du-citoyen
 
 En vigueur / in force: 2025-04-30 (promulgation (default: laws take effect on promulgation)).
 

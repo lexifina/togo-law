@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 8 du 1997-03-06, page 11.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-97-5-portant-organisation-et-fonctionnement-de-la-cour-supreme
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-97-5-portant-organisation-et-fonctionnement-de-la-cour-supreme
 
 En vigueur / in force: 1997-03-06 (promulgation (default: laws take effect on promulgation)).
 

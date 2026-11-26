@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 55 BIS du 2026-08-28, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-la-convention-supprimant-lexigence-de-la-legalisation-des-actes-publics-etrangers-adoptee-le-05-octobre-1961-a-la-haye-aux-pays-bas
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-la-convention-supprimant-lexigence-de-la-legalisation-des-actes-publics-etrangers-adoptee-le-05-octobre-1961-a-la-haye-aux-pays-bas
 
 En vigueur / in force: 2026-08-27 (promulgation (default: laws take effect on promulgation)).
 

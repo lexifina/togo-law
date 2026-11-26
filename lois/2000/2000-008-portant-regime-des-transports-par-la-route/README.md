@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 16 SPECIAL du 2000-04-13, page 6.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-008-du-13-avril-2000-portant-regime-des-transports-par-la-route
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-008-du-13-avril-2000-portant-regime-des-transports-par-la-route
 
 En vigueur / in force: 2000-04-13 (promulgation (default: laws take effect on promulgation)).
 

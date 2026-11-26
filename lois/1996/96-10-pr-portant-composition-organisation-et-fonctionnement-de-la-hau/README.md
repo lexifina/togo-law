@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 41E ANNEE N° 20 BIS du 1996-08-27, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-96-10pr-portant-composition-organisation-et-fonctionnement-de-la-haute-autorite-de-laudiovisuel-et-de-la-communication
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-96-10pr-portant-composition-organisation-et-fonctionnement-de-la-haute-autorite-de-laudiovisuel-et-de-la-communication
 
 En vigueur / in force: 1996-08-21 (promulgation (default: laws take effect on promulgation)).
 

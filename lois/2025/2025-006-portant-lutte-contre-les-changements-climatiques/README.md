@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 70E ANNEE N° 44 BIS du 2025-04-23, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2025-006-du-14-avril-2025-portant-lutte-contre-les-changements-climatiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2025-006-du-14-avril-2025-portant-lutte-contre-les-changements-climatiques
 
 En vigueur / in force: 2025-04-14 (promulgation (default: laws take effect on promulgation)).
 

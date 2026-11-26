@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 6 BIS du 2022-01-31, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2022-002-du-26012022-instituant-une-allocation-de-depart-a-la-retraite-au-profit-des-fonctionnaires-civils-et-militaires
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-2022-002-du-26012022-instituant-une-allocation-de-depart-a-la-retraite-au-profit-des-fonctionnaires-civils-et-militaires
 
 En vigueur / in force: 2022-01-26 (promulgation (default: laws take effect on promulgation)).
 

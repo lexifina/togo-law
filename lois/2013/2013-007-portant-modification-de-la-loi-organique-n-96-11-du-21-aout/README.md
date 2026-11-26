@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 58E ANNEE N° 7 BIS du 2013-03-06, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2013-007-du-25-fevrier-2013-portant-modification-de-la-loi-organique-n-96-11-du-21-aout-1996-fixant-le-statut-des-magistrats
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2013-007-du-25-fevrier-2013-portant-modification-de-la-loi-organique-n-96-11-du-21-aout-1996-fixant-le-statut-des-magistrats
 
 En vigueur / in force: 2013-02-25 (promulgation (default: laws take effect on promulgation)).
 

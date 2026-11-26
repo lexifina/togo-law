@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 49E ANNEE N° 44 du 2003-12-27, page 7.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-024-du-27-decembre-2003-portant-loi-de-finances-gestion-2004
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-024-du-27-decembre-2003-portant-loi-de-finances-gestion-2004
 
 En vigueur / in force: 2003-12-27 (promulgation (default: laws take effect on promulgation)).
 

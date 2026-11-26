@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 34 SPECIAL du 2000-12-29, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-17-portant-loi-de-finances-pour-la-gestion-2001
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-17-portant-loi-de-finances-pour-la-gestion-2001
 
 En vigueur / in force: 2000-12-29 (promulgation (default: laws take effect on promulgation)).
 

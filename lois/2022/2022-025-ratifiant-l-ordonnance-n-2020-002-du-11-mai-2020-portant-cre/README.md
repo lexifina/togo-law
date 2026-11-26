@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 63 BIS du 27/12/2022, page 41.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-025-du-27-decembre-2022-ratifiant-lordonnance-n-2020-002-du-11-mai-2020-portant-creation-dun-fonds-de-concours-de-riposte-et-de-solidarite-covid-19
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-025-du-27-decembre-2022-ratifiant-lordonnance-n-2020-002-du-11-mai-2020-portant-creation-dun-fonds-de-concours-de-riposte-et-de-solidarite-covid-19
 
 En vigueur / in force: 2022-12-27 (promulgation (default: laws take effect on promulgation)).
 

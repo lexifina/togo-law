@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 47E ANNEE N° 29 SPECIAL du 2002-09-12, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-003-du-26-fevrier-2002-autorisant-la-ratification-du-protocole-au-traite-instituant-la-communaute-economique-africaine-relatif-au-parlement-panafricain-adopte-le-2-mars-2001-a-syrte-en-libye
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2002-003-du-26-fevrier-2002-autorisant-la-ratification-du-protocole-au-traite-instituant-la-communaute-economique-africaine-relatif-au-parlement-panafricain-adopte-le-2-mars-2001-a-syrte-en-libye
 
 En vigueur / in force: 2002-02-26 (promulgation (default: laws take effect on promulgation)).
 

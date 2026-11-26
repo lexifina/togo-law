@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N° 3 du 2001-01-23, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-001-du-23-janvier-2001-portant-creation-de-lordre-national-des-experts-comptables-et-des-comptables-agrees-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-001-du-23-janvier-2001-portant-creation-de-lordre-national-des-experts-comptables-et-des-comptables-agrees-au-togo
 
 En vigueur / in force: 2001-01-23 (promulgation (default: laws take effect on promulgation)).
 

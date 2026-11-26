@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 16 BIS du 2023-03-06, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2023-003-portant-interdiction-de-la-mise-au-point-de-la-fabrication-du-stockage-et-de-lemploi-des-armes-chimiques-et-sur-leur-destruction
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2023-003-portant-interdiction-de-la-mise-au-point-de-la-fabrication-du-stockage-et-de-lemploi-des-armes-chimiques-et-sur-leur-destruction
 
 En vigueur / in force: 2023-03-02 (promulgation (default: laws take effect on promulgation)).
 

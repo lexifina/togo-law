@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 58E ANNEE N° 13 du 2013-05-27, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-010-du-27-mai-2013-portant-aide-juridictionnelle-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-010-du-27-mai-2013-portant-aide-juridictionnelle-au-togo
 
 En vigueur / in force: 2013-05-27 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 2 SPECIAL du 2007-01-10, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-002-du-08-janvier-2007-relative-a-la-chefferie-traditionnelle-et-au-statut-des-chefs-traditionnels-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-002-du-08-janvier-2007-relative-a-la-chefferie-traditionnelle-et-au-statut-des-chefs-traditionnels-au-togo
 
 En vigueur / in force: 2007-01-08 (promulgation (default: laws take effect on promulgation)).
 

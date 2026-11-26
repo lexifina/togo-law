@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 50 BIS du 2022-11-17, page 12.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-015-du-28102022-relative-a-lactivite-daffacturage-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-015-du-28102022-relative-a-lactivite-daffacturage-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
 
 En vigueur / in force: 2022-10-28 (promulgation (default: laws take effect on promulgation)).
 

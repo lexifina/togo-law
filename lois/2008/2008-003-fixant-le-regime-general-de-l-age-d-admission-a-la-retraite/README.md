@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 16 SPECIAL du 2008-06-02, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-003-fixant-le-regime-general-de-lage-dadmission-a-la-retraite-dans-les-secteurs-prive-et-parapublic-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2008-003-fixant-le-regime-general-de-lage-dadmission-a-la-retraite-dans-les-secteurs-prive-et-parapublic-au-togo
 
 En vigueur / in force: 2008-05-26 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 55E ANNEE N° 43 SPECIAL du 31/12/2010, page 9.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-018-modifiant-la-loi-n-2005-012-du-14-decembre-2005-portant-protection-des-personnes-en-matiere-du-vihsida
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-018-modifiant-la-loi-n-2005-012-du-14-decembre-2005-portant-protection-des-personnes-en-matiere-du-vihsida
 
 En vigueur / in force: 2010-12-31 (promulgation (default: laws take effect on promulgation)).
 

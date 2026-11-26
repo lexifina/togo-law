@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 58E ANNEE N° 2 SPECIAL du 2013-01-03, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-001-portant-loi-des-finances-gestion-2013
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-001-portant-loi-des-finances-gestion-2013
 
 En vigueur / in force: 2013-01-03 (promulgation (default: laws take effect on promulgation)).
 

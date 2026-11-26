@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N° 39 SPECIAL du 2001-12-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-014-du-29-novembre-2001-modifiant-et-completant-la-loi-n-88-17-du-7-decembre-1988-portant-creation-dun-fonds-national-dapprentissage-de-formation-et-de-perfectionnement-professionnels-fnafpp
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-014-du-29-novembre-2001-modifiant-et-completant-la-loi-n-88-17-du-7-decembre-1988-portant-creation-dun-fonds-national-dapprentissage-de-formation-et-de-perfectionnement-professionnels-fnafpp
 
 En vigueur / in force: 2001-11-29 (promulgation (default: laws take effect on promulgation)).
 

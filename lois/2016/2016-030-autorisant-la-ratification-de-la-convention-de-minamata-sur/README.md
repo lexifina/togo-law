@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 32 SPECIAL du 2016-10-27, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-de-minamata-sur-le-mercure-adoptee-le-10-octobre-2013-a-kumamoto-au-japon
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-convention-de-minamata-sur-le-mercure-adoptee-le-10-octobre-2013-a-kumamoto-au-japon
 
 En vigueur / in force: 2016-10-24 (promulgation (default: laws take effect on promulgation)).
 

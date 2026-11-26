@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 62E ANNEE N° 21 QUARTO du 2017-07-07, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-laccord-de-paris-sur-le-changement-climatique-adopte-le-12-decembre-2015-a-paris-et-signe-le-19-septembre-2016-a-new-york
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-laccord-de-paris-sur-le-changement-climatique-adopte-le-12-decembre-2015-a-paris-et-signe-le-19-septembre-2016-a-new-york
 
 En vigueur / in force: 2017-05-30 (promulgation (default: laws take effect on promulgation)).
 

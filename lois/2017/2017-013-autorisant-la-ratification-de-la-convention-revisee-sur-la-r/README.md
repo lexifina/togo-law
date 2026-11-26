@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 62E ANNEE N° 32 SPECIAL du 2017-11-28, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2017-013-du-241117-autorisant-la-ratification-de-la-convention-revisee-sur-la-reconnaissance-des-etudes-et-des-certificats-diplomes-grades-et-autres-titres-de-lenseignement-superieur-dans-les-etats-dafrique-adoptee-a-addis-abeba-le-12-decembre-2014
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2017-013-du-241117-autorisant-la-ratification-de-la-convention-revisee-sur-la-reconnaissance-des-etudes-et-des-certificats-diplomes-grades-et-autres-titres-de-lenseignement-superieur-dans-les-etats-dafrique-adoptee-a-addis-abeba-le-12-decembre-2014
 
 En vigueur / in force: 2017-11-24 (promulgation (default: laws take effect on promulgation)).
 

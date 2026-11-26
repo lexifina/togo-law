@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 31 du 2016-10-11, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-028-du-111016-portant-code-de-la-marine-marchande
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-028-du-111016-portant-code-de-la-marine-marchande
 
 En vigueur / in force: 2016-10-11 (promulgation (default: laws take effect on promulgation)).
 

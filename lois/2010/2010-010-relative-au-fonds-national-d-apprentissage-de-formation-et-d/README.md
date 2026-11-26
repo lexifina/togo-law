@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 30 BIS du 2010-09-09, page 24.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-010-du-2-juillet-2010-relative-au-fonds-national-dapprentissage-de-formation-et-de-perfectionnement-professionnels
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-010-du-2-juillet-2010-relative-au-fonds-national-dapprentissage-de-formation-et-de-perfectionnement-professionnels
 
 En vigueur / in force: 2010-07-02 (promulgation (default: laws take effect on promulgation)).
 

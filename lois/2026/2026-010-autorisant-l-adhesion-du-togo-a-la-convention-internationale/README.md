@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 51 BIS du 2026-07-31, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-la-convention-internationale-de-1992-portant-creation-dun-fonds-international-dindemnisation-pour-les-dommages-dus-a-la-pollution-par-les-hydrocarbures-fipol
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-la-convention-internationale-de-1992-portant-creation-dun-fonds-international-dindemnisation-pour-les-dommages-dus-a-la-pollution-par-les-hydrocarbures-fipol
 
 En vigueur / in force: 2026-07-31 (promulgation (default: laws take effect on promulgation)).
 

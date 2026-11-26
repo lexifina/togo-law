@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 20 BIS du 2022-05-30, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-007-portant-modification-de-la-loi-n-2012-002-du-29-mai-2012-portant-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-007-portant-modification-de-la-loi-n-2012-002-du-29-mai-2012-portant-code-electoral
 
 En vigueur / in force: 2022-05-30 (promulgation (default: laws take effect on promulgation)).
 

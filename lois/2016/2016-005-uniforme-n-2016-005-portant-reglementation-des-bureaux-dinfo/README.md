@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 10 SPECIAL du 2016-03-30, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-uniforme-n-2016-005-portant-reglementation-des-bureaux-dinformation-sur-le-credit-bic-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-uniforme-n-2016-005-portant-reglementation-des-bureaux-dinformation-sur-le-credit-bic-dans-les-etats-membres-de-lunion-monetaire-ouest-africaine-umoa
 
 En vigueur / in force: 2016-03-14 (promulgation (default: laws take effect on promulgation)).
 

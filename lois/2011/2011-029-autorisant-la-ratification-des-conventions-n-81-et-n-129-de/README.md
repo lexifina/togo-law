@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 39 SPECIAL du 2011-12-06, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-des-conventions-n-81-et-n-129-de-lorganisation-internationale-du-travail-oit-sur-linspection-du-travail-dans-le-commerce-lindustrie-et-lagriculture
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-des-conventions-n-81-et-n-129-de-lorganisation-internationale-du-travail-oit-sur-linspection-du-travail-dans-le-commerce-lindustrie-et-lagriculture
 
 En vigueur / in force: 2011-12-02 (promulgation (default: laws take effect on promulgation)).
 

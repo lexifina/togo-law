@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 25 BIS du 2026-04-09, page 6.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-005-du-24-mars-2026-portant-reglementation-de-la-microfinance-en-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-005-du-24-mars-2026-portant-reglementation-de-la-microfinance-en-republique-togolaise
 
 En vigueur / in force: 2026-03-24 (promulgation (default: laws take effect on promulgation)).
 

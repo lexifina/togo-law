@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 50E ANNEE N° 30 TER du 2005-08-03, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-009-du-3-aout-2005-relative-au-trafic-denfants-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-009-du-3-aout-2005-relative-au-trafic-denfants-au-togo
 
 En vigueur / in force: 2005-08-03 (promulgation (default: laws take effect on promulgation)).
 

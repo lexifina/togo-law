@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 22 du 2000-08-21, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-012-relative-au-secteur-de-lelectricite
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-012-relative-au-secteur-de-lelectricite
 
 En vigueur / in force: 2000-07-18 (promulgation (default: laws take effect on promulgation)).
 

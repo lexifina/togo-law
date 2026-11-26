@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 49E ANNEE N° 8 SPECIAL du 2004-03-02, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2004-001-du-16-janvier-2004-autorisant-la-ratification-du-protocole-de-cartagena-sur-la-prevention-des-risques-biotechnologiques-relatif-a-la-convention-sur-la-diversite-biologique-adopte-a-montreal-le-29-janvier-2000
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2004-001-du-16-janvier-2004-autorisant-la-ratification-du-protocole-de-cartagena-sur-la-prevention-des-risques-biotechnologiques-relatif-a-la-convention-sur-la-diversite-biologique-adopte-a-montreal-le-29-janvier-2000
 
 En vigueur / in force: 2004-01-16 (promulgation (default: laws take effect on promulgation)).
 

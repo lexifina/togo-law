@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 50 BIS du 2021-12-08, page 49.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-de-reglement-du-budget-de-letat-gestion-2019
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-de-reglement-du-budget-de-letat-gestion-2019
 
 En vigueur / in force: 2021-12-01 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 61E ANNEE N° 37 SPECIAL du 2016-12-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-032-autorisant-la-ratification-du-protocole-a-la-convention-de-lorganisation-de-lunite-africaine-oua-sur-la-prevention-et-la-lutte-contre-le-terrorisme
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2016-032-autorisant-la-ratification-du-protocole-a-la-convention-de-lorganisation-de-lunite-africaine-oua-sur-la-prevention-et-la-lutte-contre-le-terrorisme
 
 En vigueur / in force: 2016-12-02 (promulgation (default: laws take effect on promulgation)).
 

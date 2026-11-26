@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 60E ANNEE N° 31 TER du 2015-12-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-013-du-02-decembre-2015-autorisant-la-ratification-du-protocole-de-nagoya-sur-lacces-et-le-partage-des-avantages-decoulant-de-lutilisation-des-ressources-genetiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-013-du-02-decembre-2015-autorisant-la-ratification-du-protocole-de-nagoya-sur-lacces-et-le-partage-des-avantages-decoulant-de-lutilisation-des-ressources-genetiques
 
 En vigueur / in force: 2015-12-02 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 23 BIS du 2018-11-20, page 10.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-023-portant-autorisation-de-la-privatisation-de-la-societe-holding-togolaise-des-communications-electroniques-togocom
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-023-portant-autorisation-de-la-privatisation-de-la-societe-holding-togolaise-des-communications-electroniques-togocom
 
 En vigueur / in force: 2018-11-20 (promulgation (default: laws take effect on promulgation)).
 

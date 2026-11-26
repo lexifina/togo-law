@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 15 du 2018-08-17, page 12.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-012-autorisant-ladhesion-du-togo-au-protocole-a-la-convention-internationale-de-1974-pour-la-sauvegarde-de-la-vie-humaine-en-mer-dite-convention-solas-adopte-a-londres-le-11-novembre-1988
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-012-autorisant-ladhesion-du-togo-au-protocole-a-la-convention-internationale-de-1974-pour-la-sauvegarde-de-la-vie-humaine-en-mer-dite-convention-solas-adopte-a-londres-le-11-novembre-1988
 
 En vigueur / in force: 2018-08-16 (promulgation (default: laws take effect on promulgation)).
 

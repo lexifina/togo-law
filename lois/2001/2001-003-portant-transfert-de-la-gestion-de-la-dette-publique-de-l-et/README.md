@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N° 6 du 2001-02-22, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-003-du-22-fevrier-2001-portant-transfert-de-la-gestion-de-la-dette-publique-de-letat
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-003-du-22-fevrier-2001-portant-transfert-de-la-gestion-de-la-dette-publique-de-letat
 
 En vigueur / in force: 2001-02-22 (promulgation (default: laws take effect on promulgation)).
 

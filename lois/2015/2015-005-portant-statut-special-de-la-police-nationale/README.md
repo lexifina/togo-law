@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 60E ANNEE N° 20 BIS du 2015-07-28, page 12.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-statut-special-de-la-police-nationale
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-statut-special-de-la-police-nationale
 
 En vigueur / in force: 2015-04-28 (promulgation (default: laws take effect on promulgation)).
 

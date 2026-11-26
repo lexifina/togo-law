@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 55E ANNEE N° 43 SPECIAL du 31/12/2010, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-017-relative-a-la-production-a-la-commercialisation-et-a-la-consommation-des-cigarettes-et-autres-produits-du-tabac
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-017-relative-a-la-production-a-la-commercialisation-et-a-la-consommation-des-cigarettes-et-autres-produits-du-tabac
 
 En vigueur / in force: 2010-12-31 (promulgation (default: laws take effect on promulgation)).
 

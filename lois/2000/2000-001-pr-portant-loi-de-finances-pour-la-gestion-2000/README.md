@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 19 SPECIAL du 2000-01-12, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-001pr-du-11-janvier-2000-portant-loi-de-finances-pour-la-gestion-2000
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-001pr-du-11-janvier-2000-portant-loi-de-finances-pour-la-gestion-2000
 
 En vigueur / in force: 2000-01-11 (promulgation (default: laws take effect on promulgation)).
 

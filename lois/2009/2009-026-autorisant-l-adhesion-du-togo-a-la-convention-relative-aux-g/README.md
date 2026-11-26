@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 40 SPECIAL du 2009-12-03, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-la-convention-relative-aux-garanties-internationales-portant-sur-les-materiels-dequipement-mobiles-et-a-son-protocole-sur-les-questions-specifiques-aux-materiels-dequipement-aeronautiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-ladhesion-du-togo-a-la-convention-relative-aux-garanties-internationales-portant-sur-les-materiels-dequipement-mobiles-et-a-son-protocole-sur-les-questions-specifiques-aux-materiels-dequipement-aeronautiques
 
 En vigueur / in force: 2009-11-06 (promulgation (default: laws take effect on promulgation)).
 

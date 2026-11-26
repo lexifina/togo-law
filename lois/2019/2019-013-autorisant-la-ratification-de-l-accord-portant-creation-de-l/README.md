@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 24 BIS du 2019-10-11, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-013-autorisant-la-ratification-de-laccord-portant-creation-de-la-societe-islamique-pour-le-developpement-du-secteur-prive-adopte-le-03-novembre-1999-a-djeddah
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-013-autorisant-la-ratification-de-laccord-portant-creation-de-la-societe-islamique-pour-le-developpement-du-secteur-prive-adopte-le-03-novembre-1999-a-djeddah
 
 En vigueur / in force: 2019-10-11 (promulgation (default: laws take effect on promulgation)).
 

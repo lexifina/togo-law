@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 51E ANNEE N° 38 du 2006-12-13, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-010-du-13-decembre-2006-portant-code-du-travail
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-010-du-13-decembre-2006-portant-code-du-travail
 
 En vigueur / in force: 2006-12-13 (promulgation (default: laws take effect on promulgation)).
 

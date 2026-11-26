@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 19 SPECIAL du 1997-07-09, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-creation-organisation-et-fonctionnement-des-chambres-regionales-dagriculture
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-creation-organisation-et-fonctionnement-des-chambres-regionales-dagriculture
 
 En vigueur / in force: 1997-07-09 (promulgation (default: laws take effect on promulgation)).
 

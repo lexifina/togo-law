@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 58E ANNEE N° 18 du 2013-06-27, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-014-du-13-juin-2013-portant-loi-des-finances-rectificative-gestion-2013
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-014-du-13-juin-2013-portant-loi-des-finances-rectificative-gestion-2013
 
 En vigueur / in force: 2013-06-13 (promulgation (default: laws take effect on promulgation)).
 

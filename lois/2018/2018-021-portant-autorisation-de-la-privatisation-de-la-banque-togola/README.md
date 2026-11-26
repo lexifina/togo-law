@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 23 BIS du 2018-11-20, page 8.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-021-portant-autorisation-de-la-privatisation-de-la-banque-togolaise-pour-le-commerce-et-lindustrie-btci
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-021-portant-autorisation-de-la-privatisation-de-la-banque-togolaise-pour-le-commerce-et-lindustrie-btci
 
 En vigueur / in force: 2018-11-20 (promulgation (default: laws take effect on promulgation)).
 

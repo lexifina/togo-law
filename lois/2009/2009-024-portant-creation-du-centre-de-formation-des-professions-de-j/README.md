@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 40 SPECIAL du 2009-12-03, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-creation-du-centre-de-formation-des-professions-de-justice
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-creation-du-centre-de-formation-des-professions-de-justice
 
 En vigueur / in force: 2009-10-30 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 34 SPECIAL du 2000-12-29, page 8.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-19-portant-statut-des-refugies-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-19-portant-statut-des-refugies-au-togo
 
 En vigueur / in force: 2000-12-29 (promulgation (default: laws take effect on promulgation)).
 

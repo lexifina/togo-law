@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 7 SPECIAL du 2007-02-07, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-008-du-7-fevrier-2007-portant-modification-de-larticle-52-alinea-1er-de-la-constitution-du-14-octobre-1992-revisee-par-la-loi-n-2002-029-du-31-decembre-2002
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-008-du-7-fevrier-2007-portant-modification-de-larticle-52-alinea-1er-de-la-constitution-du-14-octobre-1992-revisee-par-la-loi-n-2002-029-du-31-decembre-2002
 
 En vigueur / in force: 2007-02-07 (promulgation (default: laws take effect on promulgation)).
 

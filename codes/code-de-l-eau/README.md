@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 30 BIS du 2010-09-09, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-004-du-14-juin-2010-portant-code-de-leau
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-004-du-14-juin-2010-portant-code-de-leau
 
 En vigueur / in force: 2010-06-14 (promulgation (default: laws take effect on promulgation)).
 

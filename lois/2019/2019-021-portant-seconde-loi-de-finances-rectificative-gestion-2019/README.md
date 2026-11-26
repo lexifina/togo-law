@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 34 TER du 2019-12-24, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-021-du-24122019-portant-seconde-loi-de-finances-rectificative-gestion-2019
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-021-du-24122019-portant-seconde-loi-de-finances-rectificative-gestion-2019
 
 En vigueur / in force: 2019-12-24 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 60E ANNEE N° 20 SPECIAL du 2015-07-28, page 7.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-portant-creation-de-la-haute-autorite-de-prevention-et-de-lutte-contre-la-corruption-et-les-infractions-assimilees
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-portant-creation-de-la-haute-autorite-de-prevention-et-de-lutte-contre-la-corruption-et-les-infractions-assimilees
 
 En vigueur / in force: 2015-07-28 (promulgation (default: laws take effect on promulgation)).
 

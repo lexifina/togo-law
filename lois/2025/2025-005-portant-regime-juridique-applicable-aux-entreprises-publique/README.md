@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 70E ANNEE N° 34 BIS du 2025-04-01, page 10.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2025-005-portant-regime-juridique-applicable-aux-entreprises-publiques-en-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2025-005-portant-regime-juridique-applicable-aux-entreprises-publiques-en-republique-togolaise
 
 En vigueur / in force: 2025-04-01 (promulgation (default: laws take effect on promulgation)).
 

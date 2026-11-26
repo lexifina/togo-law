@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 39E ANNEE N° 35 SPECIAL du 1994-12-22, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-94-004pr-du-22-decembre-1994-portant-amnistie
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-94-004pr-du-22-decembre-1994-portant-amnistie
 
 En vigueur / in force: 1994-12-22 (promulgation (default: laws take effect on promulgation)).
 

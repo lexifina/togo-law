@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 2 du 2009-01-06, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-001-du-06-janvier-2009-sur-la-prevention-des-risques-biotechnologiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2009-001-du-06-janvier-2009-sur-la-prevention-des-risques-biotechnologiques
 
 En vigueur / in force: 2009-01-06 (promulgation (default: laws take effect on promulgation)).
 

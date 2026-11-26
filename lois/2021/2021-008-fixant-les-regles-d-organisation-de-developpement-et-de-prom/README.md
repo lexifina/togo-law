@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 23 BIS du 2021-05-25, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-008-fixant-les-regles-dorganisation-de-developpement-et-de-promotion-des-activites-physiques-et-sportives-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-008-fixant-les-regles-dorganisation-de-developpement-et-de-promotion-des-activites-physiques-et-sportives-au-togo
 
 En vigueur / in force: 2021-05-07 (promulgation (default: laws take effect on promulgation)).
 

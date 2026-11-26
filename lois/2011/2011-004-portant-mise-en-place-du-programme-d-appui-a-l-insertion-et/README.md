@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 56E ANNEE N° 6 SPECIAL du 21/02/2011, page 10.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-004-portant-mise-en-place-du-programme-dappui-a-linsertion-et-au-developpement-de-lembauche-aide
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-004-portant-mise-en-place-du-programme-dappui-a-linsertion-et-au-developpement-de-lembauche-aide
 
 En vigueur / in force: 2011-02-18 (promulgation (default: laws take effect on promulgation)).
 

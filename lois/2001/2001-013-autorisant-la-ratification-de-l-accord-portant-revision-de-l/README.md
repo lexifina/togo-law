@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N° 39 SPECIAL du 2001-12-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-013-du-29-novembre-2001-autorisant-la-ratification-de-laccord-portant-revision-de-laccord-de-bangui-du-2-mars-1977-instituant-lorganisation-africaine-de-la-propriete-intellectuelle-oapi-signe-a-bangui-le-24-fevrier-1999
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2001-013-du-29-novembre-2001-autorisant-la-ratification-de-laccord-portant-revision-de-laccord-de-bangui-du-2-mars-1977-instituant-lorganisation-africaine-de-la-propriete-intellectuelle-oapi-signe-a-bangui-le-24-fevrier-1999
 
 En vigueur / in force: 2001-11-29 (promulgation (default: laws take effect on promulgation)).
 

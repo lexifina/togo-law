@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 21 BIS du 2018-11-08, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-017-du-101018-portant-modification-de-la-loi-n-2014-014-du-22-octobre-2014-portant-modernisation-de-laction-publique-de-letat-en-faveur-de-leconomie
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-017-du-101018-portant-modification-de-la-loi-n-2014-014-du-22-octobre-2014-portant-modernisation-de-laction-publique-de-letat-en-faveur-de-leconomie
 
 En vigueur / in force: 2018-10-10 (promulgation (default: laws take effect on promulgation)).
 

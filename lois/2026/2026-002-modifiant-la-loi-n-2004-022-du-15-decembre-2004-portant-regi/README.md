@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 71E ANNEE N° 17 BIS du 2026-03-18, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-002-du-09-mars-2026-modifiant-la-loi-n-2004-022-du-15-decembre-2004-portant-regime-juridique-et-fiscal-harmonise-applicable-au-projet-du-gazoduc-de-lafrique-de-louest-en-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2026-002-du-09-mars-2026-modifiant-la-loi-n-2004-022-du-15-decembre-2004-portant-regime-juridique-et-fiscal-harmonise-applicable-au-projet-du-gazoduc-de-lafrique-de-louest-en-republique-togolaise
 
 En vigueur / in force: 2026-03-09 (promulgation (default: laws take effect on promulgation)).
 

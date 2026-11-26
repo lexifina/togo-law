@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 3 SPECIAL du 2012-01-03, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-036-autorisant-ladhesion-du-togo-a-la-convention-internationale-sur-la-preparation-la-lutte-et-la-cooperation-en-matiere-de-pollution-par-les-hydrocarbures-oprc-90-adoptee-a-londres-le-30-novembre-1990
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-036-autorisant-ladhesion-du-togo-a-la-convention-internationale-sur-la-preparation-la-lutte-et-la-cooperation-en-matiere-de-pollution-par-les-hydrocarbures-oprc-90-adoptee-a-londres-le-30-novembre-1990
 
 En vigueur / in force: 2011-12-30 (promulgation (default: laws take effect on promulgation)).
 

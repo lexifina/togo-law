@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 2 du 2018-02-01, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-003-portant-modification-de-la-loi-n-2007-011-du-13-mars-2007-relative-a-la-decentralisation-et-aux-libertes-locales
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-003-portant-modification-de-la-loi-n-2007-011-du-13-mars-2007-relative-a-la-decentralisation-et-aux-libertes-locales
 
 En vigueur / in force: 2018-01-31 (promulgation (default: laws take effect on promulgation)).
 

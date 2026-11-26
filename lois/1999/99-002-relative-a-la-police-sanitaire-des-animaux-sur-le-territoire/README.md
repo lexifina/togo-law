@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 44E ANNEE N° 7 SPECIAL du 1999-03-04, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-99-002-du-12-fevrier-1999-relative-a-la-police-sanitaire-des-animaux-sur-le-territoire-de-la-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-99-002-du-12-fevrier-1999-relative-a-la-police-sanitaire-des-animaux-sur-le-territoire-de-la-republique-togolaise
 
 En vigueur / in force: 1999-02-12 (promulgation (default: laws take effect on promulgation)).
 

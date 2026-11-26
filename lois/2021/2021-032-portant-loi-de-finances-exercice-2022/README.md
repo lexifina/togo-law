@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 66E ANNEE N° 53 BIS du 2021-12-31, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-032-du-31-decembre-2021-portant-loi-de-finances-exercice-2022
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2021-032-du-31-decembre-2021-portant-loi-de-finances-exercice-2022
 
 En vigueur / in force: 2021-12-31 (promulgation (default: laws take effect on promulgation)).
 

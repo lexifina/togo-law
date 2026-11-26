@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 37E ANNEE N° 25 du 1992-07-21, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-92-4-portant-organisation-du-referendum-constitutionnel
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-92-4-portant-organisation-du-referendum-constitutionnel
 
 En vigueur / in force: 1992-07-20 (promulgation (default: laws take effect on promulgation)).
 

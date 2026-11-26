@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 53E ANNEE N° 32 BIS du 2008-11-26, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-charte-africaine-de-la-jeunesse
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-autorisant-la-ratification-de-la-charte-africaine-de-la-jeunesse
 
 En vigueur / in force: 2006-07-02 (promulgation (default: laws take effect on promulgation)).
 

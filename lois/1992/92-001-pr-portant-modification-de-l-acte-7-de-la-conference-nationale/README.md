@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 37E ANNEE N° 29 SPECIAL du 1992-08-28, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-92-001pr-du-27-aout-1992-portant-modification-de-lacte-7-de-la-conference-nationale-souveraine-du-23-aout-1991-portant-loi-constitutionnelle-organisant-les-pouvoirs-durant-la-periode-de-transition
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-92-001pr-du-27-aout-1992-portant-modification-de-lacte-7-de-la-conference-nationale-souveraine-du-23-aout-1991-portant-loi-constitutionnelle-organisant-les-pouvoirs-durant-la-periode-de-transition
 
 En vigueur / in force: 1992-08-27 (promulgation (default: laws take effect on promulgation)).
 

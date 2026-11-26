@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 43E ANNEE N°10 du 1998-07-13, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-98-013-du-11-juin-1998-autorisant-la-ratification-de-la-convention-n-105-sur-labolition-du-travail-force-adoptee-a-geneve-le-5-juin-1957
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-98-013-du-11-juin-1998-autorisant-la-ratification-de-la-convention-n-105-sur-labolition-du-travail-force-adoptee-a-geneve-le-5-juin-1957
 
 En vigueur / in force: 1998-06-11 (promulgation (default: laws take effect on promulgation)).
 

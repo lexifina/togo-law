@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 20 BIS du 2022-05-30, page 4.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-008-modifiant-la-loi-n-91-04-du-12-avril-1991-portant-charte-des-partis-politiques
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-008-modifiant-la-loi-n-91-04-du-12-avril-1991-portant-charte-des-partis-politiques
 
 En vigueur / in force: 2022-05-30 (promulgation (default: laws take effect on promulgation)).
 

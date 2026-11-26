@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 65E ANNEE N° 21 SPECIAL du 2020-06-26, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2020-007-relative-a-lalimentation-scolaire
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2020-007-relative-a-lalimentation-scolaire
 
 En vigueur / in force: 2020-06-26 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 60E ANNEE N° 31 TER du 2015-12-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-011-du-02-decembre-2015-modifiant-les-articles-8-et-10-de-la-loi-n2012-016-du-14-decembre-2012-portant-creation-de-loffice-togolais-des-recettes-otr
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2015-011-du-02-decembre-2015-modifiant-les-articles-8-et-10-de-la-loi-n2012-016-du-14-decembre-2012-portant-creation-de-loffice-togolais-des-recettes-otr
 
 En vigueur / in force: 2015-12-02 (promulgation (default: laws take effect on promulgation)).
 

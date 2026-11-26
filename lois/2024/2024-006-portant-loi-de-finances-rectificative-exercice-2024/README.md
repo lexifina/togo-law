@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 69E ANNEE N° 136 BIS du 2024-12-30, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2024-006-du-30-12-2024-portant-loi-de-finances-rectificative-exercice-2024
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2024-006-du-30-12-2024-portant-loi-de-finances-rectificative-exercice-2024
 
 En vigueur / in force: 2024-12-30 (promulgation (default: laws take effect on promulgation)).
 

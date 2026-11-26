@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 50E ANNEE N° 45 SPECIAL du 2005-12-23, page 7.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-014-du-16-decembre-2005-autorisant-la-ratification-du-protocole-ap3103-de-la-cedeao-sur-leducation-et-la-formation
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2005-014-du-16-decembre-2005-autorisant-la-ratification-du-protocole-ap3103-de-la-cedeao-sur-leducation-et-la-formation
 
 En vigueur / in force: 2005-12-16 (promulgation (default: laws take effect on promulgation)).
 

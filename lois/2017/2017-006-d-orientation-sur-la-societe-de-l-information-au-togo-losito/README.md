@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 62E ANNEE N° 21 QUARTO du 2017-07-07, page 14.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-dorientation-sur-la-societe-de-linformation-au-togo-losito
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-dorientation-sur-la-societe-de-linformation-au-togo-losito
 
 En vigueur / in force: 2017-06-22 (promulgation (default: laws take effect on promulgation)).
 

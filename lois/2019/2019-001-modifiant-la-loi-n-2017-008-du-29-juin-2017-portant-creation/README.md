@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 1 BIS du 2019-01-14, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-001-modifiant-la-loi-n-2017-008-du-29-juin-2017-portant-creation-des-communes-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-001-modifiant-la-loi-n-2017-008-du-29-juin-2017-portant-creation-des-communes-au-togo
 
 En vigueur / in force: 2019-01-09 (promulgation (default: laws take effect on promulgation)).
 

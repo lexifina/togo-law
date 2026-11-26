@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 44E ANNEE N° 13 SPECIAL du 1999-04-20, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-02599cc-p-donnant-acte-du-desistement-daction-de-m-atake-essotna
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/ordonnance-n-02599cc-p-donnant-acte-du-desistement-daction-de-m-atake-essotna
 
 En vigueur / in force: 1999-04-06 (promulgation (default: laws take effect on promulgation)).
 

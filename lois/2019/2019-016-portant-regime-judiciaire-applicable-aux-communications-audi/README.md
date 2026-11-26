@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 64E ANNEE N° 26 QUARTO du 2019-10-30, page 16.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-016-portant-regime-judiciaire-applicable-aux-communications-audiovisuelles-en-republique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2019-016-portant-regime-judiciaire-applicable-aux-communications-audiovisuelles-en-republique-togolaise
 
 En vigueur / in force: 2019-10-30 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 49E ANNEE N° 44 du 2003-12-27, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-019-du-3-decembre-2003-autorisant-la-ratification-de-la-convention-des-nations-unies-contre-la-criminalite-transnationale-organisee
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2003-019-du-3-decembre-2003-autorisant-la-ratification-de-la-convention-des-nations-unies-contre-la-criminalite-transnationale-organisee
 
 En vigueur / in force: 2003-12-03 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 51E ANNEE N° 35 SPECIAL du 2006-11-28, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-008-du-14-novembre-2006-portant-creation-dun-fonds-dappui-aux-initiatives-economiques-de-jeunes-faiej
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-008-du-14-novembre-2006-portant-creation-dun-fonds-dappui-aux-initiatives-economiques-de-jeunes-faiej
 
 En vigueur / in force: 2006-11-14 (promulgation (default: laws take effect on promulgation)).
 

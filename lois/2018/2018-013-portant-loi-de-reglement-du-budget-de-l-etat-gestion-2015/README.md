@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 15 du 2018-08-17, page 13.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-013-portant-loi-de-reglement-du-budget-de-letat-gestion-2015
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-013-portant-loi-de-reglement-du-budget-de-letat-gestion-2015
 
 En vigueur / in force: 2018-08-16 (promulgation (default: laws take effect on promulgation)).
 

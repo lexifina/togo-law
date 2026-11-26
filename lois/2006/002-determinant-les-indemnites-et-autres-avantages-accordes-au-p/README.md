@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 51E ANNEE N° 1 BIS du 2006-01-05, page 16.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-002-du-05-janvier-2006-determinant-les-indemnites-et-autres-avantages-accordes-au-president-et-aux-autres-membres-de-la-haute-autorite-de-laudiovisuel-et-de-la-communication-haac
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2006-002-du-05-janvier-2006-determinant-les-indemnites-et-autres-avantages-accordes-au-president-et-aux-autres-membres-de-la-haute-autorite-de-laudiovisuel-et-de-la-communication-haac
 
 En vigueur / in force: 2006-01-05 (promulgation (default: laws take effect on promulgation)).
 

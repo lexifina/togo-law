@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 68E ANNEE N° 2 BIS du 2023-01-09, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-021-du-02122022-portant-statut-de-zone-franche-dans-le-secteur-du-textile-et-de-lhabillement
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-021-du-02122022-portant-statut-de-zone-franche-dans-le-secteur-du-textile-et-de-lhabillement
 
 En vigueur / in force: 2022-12-02 (promulgation (default: laws take effect on promulgation)).
 

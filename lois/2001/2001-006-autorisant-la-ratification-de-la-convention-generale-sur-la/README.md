@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 46E ANNEE N°24 SPECIAL du 2001-08-08, page 5.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-6-autorisant-la-ratification-de-la-convention-generale-sur-la-securite-sociale-entre-la-republique-togolaise-et-la-republique-du-mali
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-6-autorisant-la-ratification-de-la-convention-generale-sur-la-securite-sociale-entre-la-republique-togolaise-et-la-republique-du-mali
 
 En vigueur / in force: 2001-05-16 (promulgation (default: laws take effect on promulgation)).
 

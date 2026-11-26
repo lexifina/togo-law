@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 45E ANNEE N° 16 SPECIAL du 2000-04-13, page 6.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-005-du-11-janvier-2000-autorisant-la-ratification-de-la-convention-regissant-la-cooperation-entre-les-loteries-nationales-des-pays-membres-du-conseil-de-lentente-adoptee-a-cotonou-benin-le-13-aout-1998
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2000-005-du-11-janvier-2000-autorisant-la-ratification-de-la-convention-regissant-la-cooperation-entre-les-loteries-nationales-des-pays-membres-du-conseil-de-lentente-adoptee-a-cotonou-benin-le-13-aout-1998
 
 En vigueur / in force: 2000-01-11 (promulgation (default: laws take effect on promulgation)).
 

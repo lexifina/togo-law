@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 70E ANNEE N° 34 BIS du 2025-04-01, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2025-004-modifiant-et-completant-la-loi-n-2012-016-du-14-decembre-2012-portant-creation-de-loffice-togolais-des-recettes
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2025-004-modifiant-et-completant-la-loi-n-2012-016-du-14-decembre-2012-portant-creation-de-loffice-togolais-des-recettes
 
 En vigueur / in force: 2025-04-01 (promulgation (default: laws take effect on promulgation)).
 

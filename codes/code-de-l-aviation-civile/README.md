@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 5 SPECIAL du 2007-01-22, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n2007-007-du-22-janvier-2007-portant-code-de-laviation-civile-au-togo
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n2007-007-du-22-janvier-2007-portant-code-de-laviation-civile-au-togo
 
 En vigueur / in force: 2007-01-22 (promulgation (default: laws take effect on promulgation)).
 

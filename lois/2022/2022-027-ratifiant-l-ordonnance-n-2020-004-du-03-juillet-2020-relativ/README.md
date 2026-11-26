@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 67E ANNEE N° 63 BIS du 27/12/2022, page 42.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-027-du-27-decembre-2022-ratifiant-lordonnance-n-2020-004-du-03-juillet-2020-relative-aux-mesures-generales-necessaires-pour-faire-face-a-lepidemie-de-covid-19
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2022-027-du-27-decembre-2022-ratifiant-lordonnance-n-2020-004-du-03-juillet-2020-relative-aux-mesures-generales-necessaires-pour-faire-face-a-lepidemie-de-covid-19
 
 En vigueur / in force: 2022-12-27 (promulgation (default: laws take effect on promulgation)).
 

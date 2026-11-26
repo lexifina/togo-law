@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 59E ANNEE N° 13 TER du 2014-07-02, page 3.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2014-013-relative-aux-lois-de-finances
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2014-013-relative-aux-lois-de-finances
 
 En vigueur / in force: 2014-06-27 (promulgation (default: laws take effect on promulgation)).
 

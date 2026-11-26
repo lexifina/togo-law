@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 42E ANNEE N° 28 du 1997-10-31, page 10.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-97-15-du-15-septembre-1997-portant-modification-de-certains-articles-de-la-loi-n-92-003pm-du-8-juillet-1992-portant-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-97-15-du-15-septembre-1997-portant-modification-de-certains-articles-de-la-loi-n-92-003pm-du-8-juillet-1992-portant-code-electoral
 
 En vigueur / in force: 1997-09-15 (promulgation (default: laws take effect on promulgation)).
 

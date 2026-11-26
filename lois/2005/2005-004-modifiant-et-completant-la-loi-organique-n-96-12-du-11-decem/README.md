@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 50E ANNEE N° 6 SPECIAL du 2005-02-09, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2005-004-du-9-fevrier-2005-modifiant-et-completant-la-loi-organique-n-96-12-du-11-decembre-1996-relative-a-la-composition-a-lorganisation-et-au-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme-cndh
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-organique-n-2005-004-du-9-fevrier-2005-modifiant-et-completant-la-loi-organique-n-96-12-du-11-decembre-1996-relative-a-la-composition-a-lorganisation-et-au-fonctionnement-de-la-commission-nationale-des-droits-de-lhomme-cndh
 
 En vigueur / in force: 2005-02-09 (promulgation (default: laws take effect on promulgation)).
 

@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 63E ANNEE N° 15 du 2018-08-17, page 38.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-016-autorisant-ladhesion-a-la-convention-dunidroit-sur-les-biens-culturels-voles-ou-illicitement-exportes-adoptee-le-24-juin-1995-a-rome-en-italie
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2018-016-autorisant-ladhesion-a-la-convention-dunidroit-sur-les-biens-culturels-voles-ou-illicitement-exportes-adoptee-le-24-juin-1995-a-rome-en-italie
 
 En vigueur / in force: 2018-08-17 (promulgation (default: laws take effect on promulgation)).
 

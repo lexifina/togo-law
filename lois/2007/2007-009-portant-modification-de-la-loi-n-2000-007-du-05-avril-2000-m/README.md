@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 52E ANNEE N° 7 SPECIAL du 2007-02-07, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-009-du-7-fevrier-2007-portant-modification-de-la-loi-n-2000-007-du-05-avril-2000-modifiee-par-la-loi-n-2002-001-du-13-mars-2002-la-loi-n-2003-01-du-7-fevrier-2003-et-la-loi-n-2005-001-du-21-janvier-2005-portant-code-electoral
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2007-009-du-7-fevrier-2007-portant-modification-de-la-loi-n-2000-007-du-05-avril-2000-modifiee-par-la-loi-n-2002-001-du-13-mars-2002-la-loi-n-2003-01-du-7-fevrier-2003-et-la-loi-n-2005-001-du-21-janvier-2005-portant-code-electoral
 
 En vigueur / in force: 2007-02-07 (promulgation (default: laws take effect on promulgation)).
 

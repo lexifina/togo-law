@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 48E ANNEE N° 23 SPECIAL du 2004-09-09, page 2.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-completant-les-articles-57-et-63-de-la-loi-n-98-005-du-11-fevrier-1998-sur-les-telecommunications
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-completant-les-articles-57-et-63-de-la-loi-n-98-005-du-11-fevrier-1998-sur-les-telecommunications
 
 En vigueur / in force: 2004-05-03 (promulgation (default: laws take effect on promulgation)).
 

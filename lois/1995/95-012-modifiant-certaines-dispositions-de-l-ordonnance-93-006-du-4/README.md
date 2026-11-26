@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 41E ANNEE N° 18 BIS du 1996-07-31, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-95-012-du-10-mars-1995-modifiant-certaines-dispositions-de-lordonnance-93-006-du-4-aout-1993-portant-code-des-marches-publics
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-95-012-du-10-mars-1995-modifiant-certaines-dispositions-de-lordonnance-93-006-du-4-aout-1993-portant-code-des-marches-publics
 
 En vigueur / in force: 1995-03-10 (promulgation (default: laws take effect on promulgation)).
 

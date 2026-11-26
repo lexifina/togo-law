@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 57E ANNEE N° 3 SPECIAL du 2012-01-03, page 9.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-042-autorisant-ladhesion-du-togo-a-la-convention-internationale-sur-la-recherche-et-le-sauvetage-maritimes-sar-signee-a-hambourg-le-27-avril-1979
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2011-042-autorisant-ladhesion-du-togo-a-la-convention-internationale-sur-la-recherche-et-le-sauvetage-maritimes-sar-signee-a-hambourg-le-27-avril-1979
 
 En vigueur / in force: 2011-12-30 (promulgation (default: laws take effect on promulgation)).
 

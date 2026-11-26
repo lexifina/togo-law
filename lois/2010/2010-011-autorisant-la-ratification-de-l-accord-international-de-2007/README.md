@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 54E ANNEE N° 30 BIS du 2010-09-09, page 26.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-011-du-9-septembre-2010-autorisant-la-ratification-de-laccord-international-de-2007-sur-le-cafe
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2010-011-du-9-septembre-2010-autorisant-la-ratification-de-laccord-international-de-2007-sur-le-cafe
 
 En vigueur / in force: 2010-09-09 (promulgation (default: laws take effect on promulgation)).
 

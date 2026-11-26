@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 62E ANNEE N° 3 SPECIAL du 2017-01-17, page 7.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2017-002-du-17012017-portant-loi-de-finances-gestion-2017
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2017-002-du-17012017-portant-loi-de-finances-gestion-2017
 
 En vigueur / in force: 2017-01-17 (promulgation (default: laws take effect on promulgation)).
 

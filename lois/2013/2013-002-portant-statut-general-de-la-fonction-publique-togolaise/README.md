@@ -2,7 +2,7 @@
 
 JOURNAL OFFICIEL 58E ANNEE N° 4 SPECIAL du 21/01/2013, page 1.
 
-Journal officiel de la RÃ©publique togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-002-du-21012013-portant-statut-general-de-la-fonction-publique-togolaise
+Journal officiel de la République togolaise: https://new.jo.gouv.tg/texte/loi-n-2013-002-du-21012013-portant-statut-general-de-la-fonction-publique-togolaise
 
 En vigueur / in force: 2013-01-21 (promulgation (default: laws take effect on promulgation)).
 
