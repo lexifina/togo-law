@@ -30,6 +30,17 @@ changed: the publisher's OCR errors stay. No OCR of our own; no AI model writes,
 
 Commits are appended to `main` by `git fast-import`, fast-forward only, one per act, dated as STRUCTURE.md says.
 
+## Corrections (appended, never rewritten)
+
+- 2026-11-26: the build of 21:55-21:57 UTC ran from a copy of the builder whose French literals had been re-encoded:
+  its act READMEs were corrected in one commit (`Kind: correction`); its commit authors read "Loi nÂ°", "DÃ©cret nÂ°"
+  and stay so; three acts it dated by the default rule take effect on a day their text states (corrected in their
+  own `Kind: correction` commits: Code général des impôts and Livre des procédures fiscales 2019-01-01, Ordonnance
+  2020-007 bis 2020-03-16).
+- 2026-11-26: 29 acts print an annex after their signatures whose articles restart at Article 1 (the Code de
+  procédure pénale enacted by Loi n° 83-1, statutes, treaties); the first build left it in `signatures.md`. Correction
+  commits, dated on each act's in-force day, file it one article per file.
+
 ## Not included
 
 - individual measures (appointments, careers, honours, individual licences and approvals);

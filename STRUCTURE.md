@@ -3,7 +3,7 @@
 | Dossier | Contenu |
 | --- | --- |
 | `constitution/` | La Constitution du 6 mai 2024 (Ve République) |
-| `constitution-<année>/` | Une constitution antérieure, telle que publiée (par ex. `constitution-1992/`) |
+| `constitution-<année>/` | Une constitution antérieure, telle que publiée, quand la plateforme du Journal officiel en donne le texte (pas encore : celle du 14 octobre 1992 n'y figure pas ; ses révisions sont dans `lois/`) |
 | `codes/<code>/` | Un code en vigueur, tel que publié par sa loi ou ordonnance (par ex. `codes/code-penal/`, `codes/code-des-personnes-et-de-la-famille/`) |
 | `codes/<code>-<année>/` | Un code antérieur remplacé par un code plus récent du même nom (par ex. `codes/code-du-travail-2006/`) |
 | `lois/<année>/<année>-<n°>-<objet>/` | Une loi (loi organique, loi de finances, loi de ratification, loi modificative ...) |
