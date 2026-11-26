@@ -9,6 +9,7 @@ public JSON API its own pages call, `https://odoo.jo.gouv.tg/api/journal-officie
   (`texte_extrait`, the platform's own text of the issue) and its list of acts (`publications`: number, title, signature
   date, first page). Windows are months, split in two while they hold more than 20 issues (the API's paging order is
   not stable, so pages are never chained).
+- `publications?journal_id=<id>&limit=200`: the full list of an issue's acts (the journals answer lists at most 10).
 - `publications/<id>`: one act's record (the `Source-api` trailer of each commit).
 
 new.jo.gouv.tg's robots.txt says `Disallow: /`; robots.txt is advisory for this work (Lexifina's decision,

@@ -11,7 +11,7 @@ Le droit du Togo sous la forme d’un historique git : un fichier par dispositi
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national du Togo, que global-law lit sous `togo/national/acts/`.
 
-**Contenu actuel :** 9,109 actes du Journal officiel de la République togolaise (1923–2026), chacun tel que publié : la Constitution du 6 mai 2024 et les constitutions antérieures, les codes (`codes/`), et les lois, ordonnances, décrets, arrêtés et décisions par type et par année. Organisation et règles de datation : [STRUCTURE.md](STRUCTURE.md). Ni jurisprudence, ni projets, ni mesures individuelles (nominations, distinctions).
+**Contenu actuel :** 9,711 actes du Journal officiel de la République togolaise (1920–2026), chacun tel que publié : la Constitution du 6 mai 2024, les codes (`codes/` : pénal, procédure pénale, personnes et famille, travail, foncier, procédure civile, impôts et autres, avec les codes qu’ils ont remplacés), et les lois, ordonnances, décrets, arrêtés et décisions par type et par année. Organisation et règles de datation : [STRUCTURE.md](STRUCTURE.md). Ni jurisprudence, ni projets, ni mesures individuelles (nominations, distinctions).
 
 Chaque disposition est un fichier dans le dossier de son texte (`codes/code-du-travail/art-190.md` est l’article 190 du Code du travail) ; le préambule de la Constitution est `constitution/preambule.md`, et les articles de la Déclaration sont des fichiers tels que `constitution/declaration-art-005.md`.
 

@@ -11,7 +11,7 @@ The law of Togo as a git history: one file per provision, each version committed
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Togo's national law, which global-law reads at `togo/national/acts/`.
 
-**What is in it now:** 9,109 acts from the Journal officiel de la République togolaise (1923–2026), each as published: the Constitution of 6 May 2024 and earlier constitutions, the codes (`codes/`), and the lois, ordonnances, décrets, arrêtés and décisions by type and year. Layout and dating rules: [STRUCTURE.md](STRUCTURE.md). No case law, bills or individual measures (appointments, honours).
+**What is in it now:** 9,711 acts from the Journal officiel de la République togolaise (1920–2026), each as published: the Constitution of 6 May 2024, the codes (`codes/`: penal, criminal procedure, persons and family, labour, land, civil procedure, tax and others, with the codes they replaced), and the lois, ordonnances, décrets, arrêtés and décisions by type and year. Layout and dating rules: [STRUCTURE.md](STRUCTURE.md). No case law, bills or individual measures (appointments, honours).
 
 Each provision is one file in its act's folder (`codes/code-du-travail/art-190.md` is Article 190 of the Code du travail); the Constitution's preamble is `constitution/preambule.md`, and the Déclaration's articles are files such as `constitution/declaration-art-005.md`.
 
