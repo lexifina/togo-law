@@ -11,9 +11,9 @@ Le droit du Togo sous la forme d’un historique git : un fichier par dispositi
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national du Togo, que global-law lit sous `togo/national/acts/`.
 
-**Contenu actuel :** 4,986 actes du Journal officiel de la République togolaise (1963–2026), chacun tel que publié : la Constitution du 6 mai 2024 et les constitutions antérieures, les codes (`codes/`), et les lois, ordonnances, décrets, arrêtés et décisions par type et par année. Organisation et règles de datation : [STRUCTURE.md](STRUCTURE.md). Ni jurisprudence, ni projets, ni mesures individuelles (nominations, distinctions).
+**Contenu actuel :** 8,117 actes du Journal officiel de la République togolaise (1941–2026), chacun tel que publié : la Constitution du 6 mai 2024 et les constitutions antérieures, les codes (`codes/`), et les lois, ordonnances, décrets, arrêtés et décisions par type et par année. Organisation et règles de datation : [STRUCTURE.md](STRUCTURE.md). Ni jurisprudence, ni projets, ni mesures individuelles (nominations, distinctions).
 
-Chaque disposition est un fichier dans le dossier de son texte (`codes/codes/code-du-travail/art-190.md` est l’article 190 du Code du travail) ; le préambule de la Constitution est `constitution/preambule.md`, et les articles de la Déclaration sont des fichiers tels que `constitution/declaration-art-005.md`.
+Chaque disposition est un fichier dans le dossier de son texte (`codes/code-du-travail/art-190.md` est l’article 190 du Code du travail) ; le préambule de la Constitution est `constitution/preambule.md`, et les articles de la Déclaration sont des fichiers tels que `constitution/declaration-art-005.md`.
 
 Le texte est en français, langue officielle du Togo, tel que l’imprime le Journal officiel. Une traduction anglaise ne fait pas partie de ce corpus.
 
@@ -21,9 +21,9 @@ Le texte est en français, langue officielle du Togo, tel que l’imprime le Jou
 
 | Question | Commande |
 | --- | --- |
-| Toutes les modifications de l’article 190 du Code du travail (congé de maternité) | `git log -p --word-diff -- codes/codes/code-du-travail/art-190.md` |
-| Quelle loi a rédigé chaque ligne de l’article 190 ? | `git blame codes/codes/code-du-travail/art-190.md` |
-| Toutes les versions de l’article 190, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/codes/code-du-travail/art-190.md` |
+| Toutes les modifications de l’article 190 du Code du travail (congé de maternité) | `git log -p --word-diff -- codes/code-du-travail/art-190.md` |
+| Quelle loi a rédigé chaque ligne de l’article 190 ? | `git blame codes/code-du-travail/art-190.md` |
+| Toutes les versions de l’article 190, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail/art-190.md` |
 | L’article 190 tel qu’en vigueur au 1er janvier 2022 | `python tools/en_vigueur_au.py 2022-01-01 codes/code-du-travail 190` |
 
 **En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :

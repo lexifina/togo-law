@@ -11,9 +11,9 @@ The law of Togo as a git history: one file per provision, each version committed
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Togo's national law, which global-law reads at `togo/national/acts/`.
 
-**What is in it now:** 4,986 acts from the Journal officiel de la République togolaise (1963–2026), each as published: the Constitution of 6 May 2024 and earlier constitutions, the codes (`codes/`), and the lois, ordonnances, décrets, arrêtés and décisions by type and year. Layout and dating rules: [STRUCTURE.md](STRUCTURE.md). No case law, bills or individual measures (appointments, honours).
+**What is in it now:** 8,117 acts from the Journal officiel de la République togolaise (1941–2026), each as published: the Constitution of 6 May 2024 and earlier constitutions, the codes (`codes/`), and the lois, ordonnances, décrets, arrêtés and décisions by type and year. Layout and dating rules: [STRUCTURE.md](STRUCTURE.md). No case law, bills or individual measures (appointments, honours).
 
-Each provision is one file in its act's folder (`codes/codes/code-du-travail/art-190.md` is Article 190 of the Code du travail); the Constitution's preamble is `constitution/preambule.md`, and the Déclaration's articles are files such as `constitution/declaration-art-005.md`.
+Each provision is one file in its act's folder (`codes/code-du-travail/art-190.md` is Article 190 of the Code du travail); the Constitution's preamble is `constitution/preambule.md`, and the Déclaration's articles are files such as `constitution/declaration-art-005.md`.
 
 The text is in French, the official language of Togo, as the Journal officiel prints it. An English translation is not part of this record.
 
@@ -21,9 +21,9 @@ The text is in French, the official language of Togo, as the Journal officiel pr
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 190 of the Code du travail (maternity leave) | `git log -p --word-diff -- codes/codes/code-du-travail/art-190.md` |
-| Which law wrote each line of Article 190? | `git blame codes/codes/code-du-travail/art-190.md` |
-| Every version of Article 190, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/codes/code-du-travail/art-190.md` |
+| Every change to Article 190 of the Code du travail (maternity leave) | `git log -p --word-diff -- codes/code-du-travail/art-190.md` |
+| Which law wrote each line of Article 190? | `git blame codes/code-du-travail/art-190.md` |
+| Every version of Article 190, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail/art-190.md` |
 | Article 190 as in force on 1 January 2022 | `python tools/en_vigueur_au.py 2022-01-01 codes/code-du-travail 190` |
 
 **Outside git**, we also host this record publicly, for free:
